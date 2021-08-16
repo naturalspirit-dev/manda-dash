@@ -1,0 +1,24 @@
+,Unnamed: 0.1,country,icaoCodes,airFieldName,latitude,longitude,ddLatitude,ddLongitude,airportUse,runwayOneDimensions,runwayOneSurface,runwayTwoDimensions,runwayTwoSurface,runwayThreeDimensions,runwayThreeSurface,runwayFourDimensions,runwayFourSurface,capableCOneThirtyCSeventeen,weatherLink
+0,0,FJ,NFNB,Bureta Airport,S17.42.70',E178.45.37',-17.7,178.75, Public,,,,,,,,,No,https://www.getmetar.com/NFNB
+1,1,FJ,NFCI,Cicia Airport,S17.44.62',W179.20.52',-17.733333333333334,-179.33333333333337, Public,,,,,,,,,No,https://www.getmetar.com/NFCI
+2,2,FJ,NFNG,Gau Airport,S18.6.93',E179.20.38',-18.1,179.33333333333337, Public,,,,,,,,,No,https://www.getmetar.com/NFNG
+3,3,FJ,NFKD,Kadavu Airport,S19.3.48',E178.9.43',-19.05,178.15, Public,,,,,,,,,No,https://www.getmetar.com/NFKD
+4,4,FJ,NFKB,Kaibu Island Airport,S17.15.27',W179.29.32',-17.25,-179.48333333333332,Private,,,,,,,,,No,https://www.getmetar.com/NFKB
+5,5,FJ,NFNO,Koro Airport,S17.20.75',E179.25.32',-17.333333333333332,179.41666666666663, Public,,,,,,,,,No,https://www.getmetar.com/NFNO
+6,6,FJ,NFNL,Labasa Airport,S16.28.12',E179.20.38',-16.466666666666665,179.33333333333337, Public,3521 x 98feet,Soft,,,,,,,No,https://www.getmetar.com/NFNL
+7,7,FJ,NFNK,Lakeba Airport,S18.12.00',W178.48.97',-18.2,-178.8, Public,,,,,,,,,No,https://www.getmetar.com/NFNK
+8,8,FJ,NFNH,Laucala Airport,S16.44.80',W179.40.00',-16.733333333333334,-179.66666666666663,Private,3743 x 75feet,Hard,,,,,,,Yes,https://www.getmetar.com/NFNH
+9,9,FJ,NFFO,Malolo Lailai Airport,S17.46.68',E177.11.80',-17.766666666666666,177.18333333333337,Private,,,,,,,,,No,https://www.getmetar.com/NFFO
+10,10,FJ,NFNM,Matei Airport,S16.41.43',W179.52.65',-16.683333333333334,-179.86666666666667, Public,3281 x 200feet,Hard,,,,,,,No,https://www.getmetar.com/NFNM
+11,11,FJ,NFMO,Moala Airport,S18.34.03',E179.57.07',-18.566666666666666,179.95, Public,,,,,,,,,No,https://www.getmetar.com/NFMO
+12,12,FJ,NFFN,Nadi International Airport,S17.45.38',E177.26.62',-17.75,177.43333333333337, Public,10500 x 148feet,Hard,6998 x 148feet,Unknown,,,,,Yes,https://www.getmetar.com/NFFN
+13,13,FJ,NFND,Nanuku Airport,S18.15.32',E178.2.96',-18.25,178.03333333333333,Private,,,,,,,,,No,https://www.getmetar.com/NFND
+14,14,FJ,NFNA,Nausori International Airport,S18.2.68',E178.33.57',-18.033333333333328,178.55, Public,6129 x 100feet,Hard,,,,,,,Yes,https://www.getmetar.com/NFNA
+15,15,FJ,NFOL,Ono I Lau Airport,S20.39.00',W178.45.00',-20.65,-178.75, Public,,,,,,,,,No,https://www.getmetar.com/NFOL
+16,16,FJ,NFNR,Rotuma Airport,S12.28.93',E177.4.25',-12.466666666666667,177.06666666666663, Public,4806 x 75feet,Hard,,,,,,,Yes,https://www.getmetar.com/NFNR
+17,17,FJ,NFNS,Savusavu Airport,S16.47.98',E179.20.33',-16.783333333333335,179.33333333333337, Public,2625 x 59feet,Soft,,,,,,,No,https://www.getmetar.com/NFNS
+18,18,FJ,NFVB,Vanuabalavu Airport,S17.14.70',W178.57.55',-17.233333333333334,-178.95,Private,,,,,,,,,No,https://www.getmetar.com/NFVB
+19,19,FJ,NFVR,Vanuabalavu Airport,S17.14.70',W178.57.55',-17.233333333333334,-178.95, Public,,,,,,,,,No,https://www.getmetar.com/NFVR
+20,20,FJ,NFVL,Vatulele Airport,S18.30.73',E177.38.32',-18.5,177.63333333333333, Public,,,,,,,,,No,https://www.getmetar.com/NFVL
+21,21,FJ,NFNW,Wakaya Airport,S17.37.72',E179.0.60',-17.616666666666667,179.0,Private,,,,,,,,,No,https://www.getmetar.com/NFNW
+22,22,FJ,NFSW,Yasawa Airport,S16.45.57',E177.32.75',-16.75,177.53333333333333,Private,,,,,,,,,No,https://www.getmetar.com/NFSW

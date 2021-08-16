@@ -1,0 +1,52 @@
+,Unnamed: 0.1,country,icaoCodes,airFieldName,latitude,longitude,ddLatitude,ddLongitude,airportUse,runwayOneDimensions,runwayOneSurface,runwayTwoDimensions,runwayTwoSurface,runwayThreeDimensions,runwayThreeSurface,runwayFourDimensions,runwayFourSurface,capableCOneThirtyCSeventeen,weatherLink
+0,0,PK,OPLA,Allama Iqbal International Airport,N31.31.29',E74.24.27',31.516666666666666,74.4, Public,11024 x 151feet,Hard,8999 x 151feet,Unknown,,,,,Yes,https://www.getmetar.com/OPLA
+1,1,PK,OPPS,Bacha Khan International Airport,N33.59.63',E71.30.87',33.98333333333333,71.5, Public,8999 x 151feet,Hard,,,,,,,Yes,https://www.getmetar.com/OPPS
+2,2,PK,OPBW,Bahawalpur Airport,N29.20.82',E71.42.68',29.33333333333333,71.7, Public,9350 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/OPBW
+3,3,PK,OPBN,Bannu Airport,N32.58.33',E70.31.50',32.96666666666667,70.51666666666667, Public,6000 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/OPBN
+4,4,PK,OPSK,Begum Nusrat Bhutto Sukkur Airport,N27.43.32',E68.47.51',27.716666666666665,68.78333333333333, Public,8999 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/OPSK
+5,5,PK,OPBT,Bhit Airport,N26.11.75',E67.30.33',26.18333333333333,67.5,Private,,,,,,,,,No,https://www.getmetar.com/OPBT
+6,6,PK,OPCH,Chitral Airport,N35.53.17',E71.48.00',35.88333333333333,71.8, Public,5801 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/OPCH
+7,7,PK,OPDG,D G Khan International Airport,N29.57.67',E70.29.14',29.95,70.48333333333333, Public,6499 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/OPDG
+8,8,PK,OPDB,Dalbandin Airport,N28.52.50',E64.24.28',28.86666666666667,64.4, Public,6640 x 102feet,Hard,,,,,,,Yes,https://www.getmetar.com/OPDB
+9,9,PK,OPDI,Dera Ismail Khan Airport,N31.54.57',E70.53.80',31.9,70.88333333333334, Public,5000 x 75feet,Hard,,,,,,,Yes,https://www.getmetar.com/OPDI
+10,10,PK,OPFA,Faisalabad International Airport,N31.21.92',E72.59.73',31.35,72.98333333333333, Public,9272 x 151feet,Hard,,,,,,,Yes,https://www.getmetar.com/OPFA
+11,11,PK,OPGT,Gilgit Airport,N35.55.13',E74.20.02',35.916666666666664,74.33333333333333, Public,5400 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/OPGT
+12,12,PK,OPGD,Gwadar Airport,N25.13.94',E62.19.65',25.216666666666665,62.31666666666667, Public,5000 x 90feet,Hard,,,,,,,Yes,https://www.getmetar.com/OPGD
+13,13,PK,OPKD,Hyderabad Airport,N25.19.09',E68.21.98',25.316666666666666,68.35, Public,6998 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/OPKD
+14,14,PK,OPIS,Islamabad Airport,N33.32.94',E72.49.54',33.53333333333333,72.81666666666666, Public,,,,,,,,,No,https://www.getmetar.com/OPIS
+15,15,PK,OPRN,Islamabad Benazir Bhutto International Airport,N33.37.01',E73.5.92',33.61666666666667,73.08333333333333, Public,10809 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/OPRN
+16,16,PK,OPJI,Jiwani Airport,N25.4.07',E61.48.33',25.066666666666666,61.8, Public,,,,,,,,,No,https://www.getmetar.com/OPJI
+17,17,PK,OPKW,Kadanwari Airport,N27.12.38',E69.9.38',27.2,69.15,Private,,,,,,,,,No,https://www.getmetar.com/OPKW
+18,18,PK,OPKC,Karachi Jinnah International Airport,N24.54.51',E67.9.77',24.9,67.15, Public,11155 x 148feet,Hard,10500 x 151feet,Unknown,,,,,Yes,https://www.getmetar.com/OPKC
+19,19,PK,OPSF,Karachi Sharea Faisal Airport,N24.52.50',E67.7.20',24.86666666666667,67.11666666666666,Military,8038 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/OPSF
+20,20,PK,OPKH,Khuzdar Airport,N27.47.56',E66.38.58',27.78333333333333,66.63333333333334, Public,6000 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/OPKH
+21,21,PK,OPKT,Kohat Airport,N33.34.50',E71.26.50',33.56666666666667,71.43333333333334, Public,,,,,,,,,No,https://www.getmetar.com/OPKT
+22,22,PK,OPLH,Lahore Walton Airport,N31.29.69',E74.20.77',31.48333333333333,74.33333333333333, Public,4390 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/OPLH
+23,23,PK,OPMA,Mangla Airport,N33.3.01',E73.38.30',33.05,73.63333333333334, Public,5000 x 100feet,Hard,,,,,,,Yes,https://www.getmetar.com/OPMA
+24,24,PK,OPMR,Masroor Airport,N24.54.00',E66.56.00',24.9,66.93333333333334, Public,9022 x 200feet,Hard,8622 x 130feet,Unknown,,,,,Yes,https://www.getmetar.com/OPMR
+25,25,PK,OPMI,Mianwali Airport,N32.33.00',E71.33.00',32.55,71.55, Public,10348 x 97feet,Hard,10161 x 156feet,Unknown,,,,,Yes,https://www.getmetar.com/OPMI
+26,26,PK,OPMJ,Moenjodaro Airport,N27.20.11',E68.8.58',27.33333333333333,68.13333333333334, Public,6499 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/OPMJ
+27,27,PK,OPMT,Multan Airport,N30.12.19',E71.25.15',30.2,71.41666666666667, Public,10512 x 151feet,Hard,,,,,,,Yes,https://www.getmetar.com/OPMT
+28,28,PK,OPMF,Muzaffarabad Airport,N34.20.34',E73.30.52',34.333333333333336,73.5, Public,,,,,,,,,No,https://www.getmetar.com/OPMF
+29,29,PK,OPNH,Nawabshah Airport,N26.13.17',E68.23.40',26.216666666666665,68.38333333333334, Public,8999 x 151feet,Hard,,,,,,,Yes,https://www.getmetar.com/OPNH
+30,30,PK,OPOR,Ormara Airport,N25.16.50',E64.35.17',25.266666666666666,64.58333333333333, Public,4995 x 75feet,Hard,,,,,,,Yes,https://www.getmetar.com/OPOR
+31,31,PK,OPPG,Panjgur Airport,N26.57.27',E64.7.95',26.95,64.11666666666666, Public,5000 x 75feet,Hard,,,,,,,Yes,https://www.getmetar.com/OPPG
+32,32,PK,OPPC,Parachinar Airport,N33.54.16',E70.4.29',33.9,70.06666666666666, Public,3999 x 75feet,Hard,,,,,,,Yes,https://www.getmetar.com/OPPC
+33,33,PK,OPPI,Pasni Airport,N25.17.41',E63.20.67',25.28333333333333,63.33333333333334, Public,8999 x 151feet,Hard,,,,,,,Yes,https://www.getmetar.com/OPPI
+34,34,PK,OPQS,Qasim Airport,N33.33.61',E73.1.99',33.55,73.01666666666667, Public,6693 x 148feet,Hard,3281 x 148feet,Unknown,,,,,Yes,https://www.getmetar.com/OPQS
+35,35,PK,OPRK,Rahim Yar Khan Sheikh Zayed Airport,N28.23.13',E70.16.79',28.38333333333333,70.26666666666667, Public,9842 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/OPRK
+36,36,PK,OPRT,Rawalakot Airport,N33.50.98',E73.47.89',33.833333333333336,73.78333333333333, Public,,,,,,,,,No,https://www.getmetar.com/OPRT
+37,37,PK,OPSS,Saidu Sharif Airport,N34.48.80',E72.21.13',34.8,72.35, Public,6001 x 151feet,Hard,,,,,,,Yes,https://www.getmetar.com/OPSS
+38,38,PK,OPQT,Samungli International Airport,N30.15.13',E66.56.32',30.25,66.93333333333334, Public,12001 x 151feet,Hard,,,,,,,Yes,https://www.getmetar.com/OPQT
+39,39,PK,OPSR,Sargodha Airport,N32.3.00',E72.40.00',32.05,72.66666666666667, Public,,,,,,,,,No,https://www.getmetar.com/OPSR
+40,40,PK,OPSW,Sawan Airport,N26.57.95',E68.52.85',26.95,68.86666666666666,Private,,,,,,,,,No,https://www.getmetar.com/OPSW
+41,41,PK,OPJA,Shahbaz Airport,N28.17.05',E68.26.98',28.28333333333333,68.43333333333334, Public,10086 x 148feet,Hard,10040 x 148feet,Unknown,,,,,Yes,https://www.getmetar.com/OPJA
+42,42,PK,OPRQ,Shorkot Airport,N30.46.00',E72.17.00',30.766666666666666,72.28333333333333, Public,,,,,,,,,No,https://www.getmetar.com/OPRQ
+43,43,PK,OPST,Sialkot International Airport,N32.32.14',E74.21.83',32.53333333333333,74.35, Public,11811 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/OPST
+44,44,PK,OPSB,Sibi Airport,N29.34.48',E67.50.58',29.566666666666666,67.83333333333333, Public,,,,,,,,,No,https://www.getmetar.com/OPSB
+45,45,PK,OPSD,Skardu Airport,N35.20.37',E75.32.48',35.333333333333336,75.53333333333333, Public,11944 x 98feet,Hard,6499 x 98feet,Unknown,,,,,Yes,https://www.getmetar.com/OPSD
+46,46,PK,OPSU,Sui Airport,N28.38.71',E69.10.62',28.63333333333333,69.16666666666667,Private,6000 x 100feet,Hard,4975 x 150feet,Unknown,,,,,Yes,https://www.getmetar.com/OPSU
+47,47,PK,OPTA,Tarbela Dam Airport,N33.59.50',E72.36.50',33.98333333333333,72.6, Public,5600 x 100feet,Hard,,,,,,,Yes,https://www.getmetar.com/OPTA
+48,48,PK,OPTU,Turbat International Airport,N25.59.18',E63.1.81',25.98333333333333,63.01666666666666, Public,6001 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/OPTU
+49,49,PK,OPZM,Zamzama Airport,N26.44.03',E67.40.08',26.73333333333333,67.66666666666667,Private,,,,,,,,,No,https://www.getmetar.com/OPZM
+50,50,PK,OPZB,Zhob Airport,N31.21.50',E69.27.83',31.35,69.45, Public,6001 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/OPZB

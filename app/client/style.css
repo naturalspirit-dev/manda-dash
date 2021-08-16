@@ -1,0 +1,314 @@
+/* override sematic's default css by !important to your property. */
+
+body {
+  background-color: #262626 !important;
+  background-size: 175vw 75em !important;
+}
+
+h1,h2,h3, h4, h5 {
+  color: #fafafa;
+}
+
+span, p {
+  font-size: 17px;
+}
+
+#landing-page {
+  max-width: fit-content !important;
+  max-height: fit-content !important;
+  width: 80% !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.landing-title {
+  padding-top: 95px !important;
+  color: #ebebeb;
+}
+
+.page-header {
+  margin: auto;
+  height: 100%;
+  width: fit-content;
+}
+
+.plan-title {
+  padding-top: 95px !important;
+  padding-bottom: 35px;
+  color: #ebebeb !important;
+}
+
+.goback-text {
+  padding-left: 40px;
+}
+
+.not-found-text {
+  padding-top: 65px !important;
+  color: #ebebeb !important;
+  display: grid;
+  justify-content: center;
+}
+
+.not-found-text {
+  padding-top: 65px !important;
+  color: #ebebeb !important;
+  display: grid;
+  justify-content: center;
+}
+
+.not-found-text-div {
+  padding: 10px;
+}
+
+.dropdown-item {
+  padding: 10px 0 10px 0;
+}
+
+.dropdown-list {
+  padding: 35px 0 15px 0 !important;
+  width: 60% !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.button-wrapper {
+  padding: 10px;
+}
+
+.search-button-wrapper {
+  height: 50px;
+  padding-top: 10px;
+}
+
+#button-or .or {
+  padding-top: 55px !important;
+}
+
+.menu-style {
+  margin-bottom: 10px !important;
+}
+
+.nav-icon {
+  color: #2185d0 !important;
+}
+
+.icon-glow {
+  margin-top: 23px;
+  box-shadow: 0px 1px 8px -1px #2185d0;
+  border-radius: 20px;
+}
+
+.menu-glow {
+  position: relative;
+  box-shadow: 0px -60px 115px -6px #2185d0;
+}
+
+.search-result {
+  padding: 50px 10px 10px 10px;
+  display: inline-flex;
+  width: max-content;
+}
+
+.search-result-text {
+  margin: 0 3px 9px 3px;
+  text-align: left;
+  align-self: flex-end;
+}
+
+.search-result-text-big {
+  margin: 0 3px 0 3px;
+  text-align: left;
+  font-size: 35px;
+}
+
+.search-result-text-center {
+  text-align: center;
+}
+
+.card-content {
+  text-align: left;
+}
+
+.card-description {
+  padding: 0 0 3px 6px;
+}
+
+.card-table {
+  width: 550px;
+  float: right;
+  margin: 0 !important;
+}
+
+.card-left {
+  padding: 10px 0 0 0;
+}
+
+.card-grid-row {
+  padding: 5px 0 10px 0 !important;
+}
+
+.footer-style {
+   padding-top: 25%;
+   width: 85%;
+   color: #fafafa;
+}
+
+.card-header-row {
+  background-color: rgba(0,0,0,0.08) !important;
+  font-size: 15px;
+  border: none;
+}
+
+.image-component {
+  width: auto !important;
+  height: auto !important;
+  cursor: pointer;
+  box-shadow: 0 4px 2px 0 rgba(84, 200, 255, .6), 0 2px 2px 0 rgba(84, 200, 255, .12);
+  text-align: center;
+}
+
+.image-component-enlarged {
+  width: auto !important;
+  height: auto !important;
+  margin: auto;
+  cursor: pointer;
+}
+
+.list-results-grid {
+  width: 95% !important;
+  margin: auto !important;
+}
+
+.ui.vertical.tabular.menu  {
+  margin-top: 15px;
+  background: white !important;
+  border-radius: .28571429rem !important;
+}
+
+.ui.bottom.attached.segment.active.tab {
+  background-color: #262626;
+  border: none;
+  border-radius: .28571429rem !important;
+}
+
+.ui.pagination.menu > .active.item {
+  background-color: rgba(0,0,0,0.07) !important;
+}
+
+.ui.vertical.tabular.menu > .active.menu {
+  border: none;
+  border-radius: .28571429rem !important;
+}
+
+.error-grid {
+  padding-top: 95px !important;
+  color: #ebebeb;
+  width: 100%;
+}
+
+.error-table-fixed {
+  padding: 0 0 0 20px !important;
+}
+
+.alert-error {
+  float: right;
+  padding-bottom: 10px;
+}
+
+.warning-modal {
+  margin: auto;
+  width: fit-content !important;
+}
+
+.card-popup-box {
+  margin-left: -5px !important;
+  background: rgba(255,255,255) !important;
+}
+
+.card-column-popup {
+  transition: 0.3s;
+}
+
+.card-column-popup:hover {
+  cursor: pointer;
+  background-color: rgba(0,0,0,0.07) !important;
+}
+
+.docs-grid {
+  padding-top: 95px !important;
+  color: #ebebeb;
+  width: 100%;
+}
+
+.docs-text {
+  color: black;
+}
+
+.docs-text p {
+  font-size: 16px;
+}
+
+.docs-header {
+  text-align: center !important;
+}
+
+.docs-title {
+  color: rgba(0,0,0,.87) !important;
+  /*font: revert !important;
+  font-weight: 600 !important;
+  font-style: oblique; */
+  font-size: 17px !important;
+}
+
+.docs-title:hover {
+  color: grey !important;
+}
+
+.alert {
+  margin: 22px 20px 20px 0px !important;
+}
+
+.lookup-container {
+  width: 115% !important;
+  padding-top: 1%;
+}
+
+.tab-list {
+  width: 140%;
+  margin: 20px 0 0 55px;
+  text-align: left !important;
+}
+
+.tab-listpane {
+  margin-left: -40px !important;
+}
+
+.tab-list-container {
+  display: inline-block !important;
+}
+
+@media (max-width: 1142px) {
+  .tab-list-container {
+    padding-left: 20%;
+    display: inline-block !important;
+  }
+}
+
+.data-card-grid {
+  justify-content: flex-start !important;
+  position: inherit !important;
+}
+
+.maps-meta {
+  padding-top: 4px !important;
+  font-size: 14px !important;
+}
+
+.list-paginator {
+  float: left !important;
+  display: inline !important;
+  margin-top: 28px !important;
+  margin-right: 12px !important;
+  /* border: none !important;
+  border-radius: inherit !important; */
+}

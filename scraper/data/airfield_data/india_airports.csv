@@ -1,0 +1,169 @@
+,Unnamed: 0.1,country,icaoCodes,airFieldName,latitude,longitude,ddLatitude,ddLongitude,airportUse,runwayOneDimensions,runwayOneSurface,runwayTwoDimensions,runwayTwoSurface,runwayThreeDimensions,runwayThreeSurface,runwayFourDimensions,runwayFourSurface,capableCOneThirtyCSeventeen,weatherLink
+0,0,IN,VAAV,Aamby Valley Airport,N18.36.56',E73.22.69',18.6,73.36666666666666,Private,,,,,,,,,No,https://www.getmetar.com/VAAV
+1,1,IN,VIAX,Adampur Airport,N31.26.03',E75.45.53',31.43333333333333,75.75, Public,9039 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VIAX
+2,2,IN,VEAT,Agartala Airport,N23.53.44',E91.14.36',23.88333333333333,91.23333333333332, Public,7500 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/VEAT
+3,3,IN,VOAT,Agatti Airport,N10.49.45',E72.10.60',10.816666666666665,72.16666666666667, Public,,,,,,,,,No,https://www.getmetar.com/VOAT
+4,4,IN,VIAG,Agra AB Airport,N27.9.35',E77.57.65',27.15,77.95,Military,9000 x 150feet,Hard,5964 x 150feet,Unknown,,,,,Yes,https://www.getmetar.com/VIAG
+5,5,IN,VAAK,Akola Airport,N20.41.87',E77.3.53',20.683333333333334,77.05, Public,4000 x 151feet,Hard,,,,,,,Yes,https://www.getmetar.com/VAAK
+6,6,IN,VEAB,Allahabad Airport,N25.26.43',E81.44.13',25.43333333333333,81.73333333333333, Public,,,,,,,,,No,https://www.getmetar.com/VEAB
+7,7,IN,VIAM,Ambala Airport,N30.22.09',E76.49.00',30.36666666666667,76.81666666666666,Military,9224 x 150feet,Hard,7952 x 150feet,Unknown,,,,,Yes,https://www.getmetar.com/VIAM
+8,8,IN,VEAL,Angul Airport,N20.54.72',E85.1.95',20.9,85.01666666666667, Public,,,,,,,,,No,https://www.getmetar.com/VEAL
+9,9,IN,VOAR,Arkonam Airport,N13.4.27',E79.41.47',13.066666666666665,79.68333333333334, Public,13460 x 155feet,Hard,,,,,,,Yes,https://www.getmetar.com/VOAR
+10,10,IN,VAAU,Aurangabad Airport,N19.51.86',E75.23.85',19.85,75.38333333333334, Public,7500 x 151feet,Hard,,,,,,,Yes,https://www.getmetar.com/VAAU
+11,11,IN,VEBD,Bagdogra International Airport,N26.41.12',E88.19.63',26.68333333333333,88.31666666666666, Public,9035 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/VEBD
+12,12,IN,VEBG,Balurghat Airport,N25.15.78',E88.47.90',25.25,88.78333333333332, Public,,,,,,,,,No,https://www.getmetar.com/VEBG
+13,13,IN,VEBI,Barapani Airport,N25.42.20',E91.58.68',25.7,91.96666666666668, Public,5377 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VEBI
+14,14,IN,VIBY,Bareilly Airport,N28.25.00',E79.27.00',28.41666666666667,79.45, Public,9000 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VIBY
+15,15,IN,VIBS,Beas Airport Airport,N31.33.68',E75.20.40',31.55,75.33333333333333, Public,,,,,,,,,No,https://www.getmetar.com/VIBS
+16,16,IN,VOHY,Begumpet Airport,N17.27.20',E78.27.75',17.45,78.45, Public,10597 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VOHY
+17,17,IN,VOBM,Belagavi Airport,N15.51.50',E74.37.06',15.85,74.61666666666666, Public,4787 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VOBM
+18,18,IN,VIBT,Bhatinda Airport,N30.16.21',E74.45.35',30.266666666666666,74.75, Public,9200 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/VIBT
+19,19,IN,VABV,Bhavnagar Airport,N21.45.26',E72.11.43',21.75,72.18333333333334, Public,6300 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/VABV
+20,20,IN,VABJ,Bhuj Airport,N23.17.22',E69.40.23',23.28333333333333,69.66666666666667, Public,8250 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/VABJ
+21,21,IN,VOBR,Bidar Airport,N17.54.53',E77.28.92',17.9,77.46666666666667, Public,6955 x 148feet,Hard,6798 x 150feet,Unknown,,,,,Yes,https://www.getmetar.com/VOBR
+22,22,IN,VEBS,Biju Patnaik International Airport,N20.14.79',E85.49.12',20.233333333333334,85.81666666666666, Public,8999 x 148feet,Hard,4180 x 148feet,Unknown,,,,,Yes,https://www.getmetar.com/VEBS
+23,23,IN,VIBK,Bikaner Airport,N28.4.00',E73.12.00',28.066666666666666,73.2, Public,8960 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VIBK
+24,24,IN,VEBU,Bilaspur Airport,N21.59.33',E82.6.68',21.98333333333333,82.1, Public,,,,,,,,,No,https://www.getmetar.com/VEBU
+25,25,IN,VERC,Birsa Munda Airport,N23.18.85',E85.19.27',23.3,85.31666666666666, Public,8901 x 151feet,Hard,,,,,,,Yes,https://www.getmetar.com/VERC
+26,26,IN,VOCL,Calicut Airport,N11.8.27',E75.57.03',11.133333333333333,75.95, Public,9831 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VOCL
+27,27,IN,VOBX,Campbell Bay Naval Air Station Airport,N7.0.78',E93.55.41',7.0,93.91666666666669, Public,,,,,,,,,No,https://www.getmetar.com/VOBX
+28,28,IN,VOCX,Carnicobar Airport,N9.9.15',E92.49.18',9.15,92.81666666666666,Military,8900 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/VOCX
+29,29,IN,VECA,Chabua Airport,N27.27.73',E95.7.06',27.45,95.11666666666666, Public,9003 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VECA
+30,30,IN,VECK,Chakulia Airport,N22.27.93',E86.42.62',22.45,86.7, Public,,,,,,,,,No,https://www.getmetar.com/VECK
+31,31,IN,VILK,Chaudhary Charan Singh Airport,N26.45.71',E80.53.01',26.75,80.88333333333334, Public,8996 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VILK
+32,32,IN,VOMM,Chennai International Airport,N12.59.70',E80.10.53',12.983333333333333,80.16666666666667, Public,12001 x 150feet,Hard,6841 x 150feet,Unknown,,,,,Yes,https://www.getmetar.com/VOMM
+33,33,IN,VABB,Chhatrapati Shivaji Maharaj Airport,N19.5.50',E72.51.97',19.08333333333333,72.85, Public,10466 x 150feet,Hard,9419 x 148feet,Unknown,,,,,Yes,https://www.getmetar.com/VABB
+34,34,IN,VOCC,Cochin Airport,N9.56.70',E76.16.30',9.933333333333334,76.26666666666667,Military,6007 x 150feet,Hard,4640 x 150feet,Unknown,,,,,Yes,https://www.getmetar.com/VOCC
+35,35,IN,VOCI,Cochin International Airport,N10.9.21',E76.24.43',10.15,76.4, Public,11155 x 147feet,Hard,,,,,,,Yes,https://www.getmetar.com/VOCI
+36,36,IN,VYCI,Coco Island Airport,N14.8.49',E93.22.11',14.133333333333333,93.36666666666666, Public,4443 x 101feet,Hard,,,,,,,Yes,https://www.getmetar.com/VYCI
+37,37,IN,VOCB,Coimbatore Airport,N11.1.61',E77.2.51',11.016666666666667,77.03333333333333, Public,9810 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VOCB
+38,38,IN,VECO,Cooch Behar Airport,N26.19.78',E89.28.03',26.316666666666666,89.46666666666668, Public,3704 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/VECO
+39,39,IN,VADN,Daman Airport,N20.26.03',E72.50.54',20.433333333333334,72.83333333333333, Public,,,,,,,,,No,https://www.getmetar.com/VADN
+40,40,IN,VAID,Davi Ahilya Bai Holkar Airport,N22.43.39',E75.48.33',22.716666666666665,75.8, Public,9022 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/VAID
+41,41,IN,VIDN,Dehradun Airport,N30.11.44',E78.10.93',30.18333333333333,78.16666666666667, Public,7021 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VIDN
+42,42,IN,VEMN,Dibrugarh Airport,N27.28.94',E95.1.02',27.466666666666665,95.01666666666668, Public,6001 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VEMN
+43,43,IN,VEMR,Dimapur Airport,N25.53.01',E93.46.28',25.88333333333333,93.76666666666668, Public,7513 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VEMR
+44,44,IN,VADU,Diu Airport,N20.42.83',E70.55.37',20.7,70.91666666666667, Public,,,,,,,,,No,https://www.getmetar.com/VADU
+45,45,IN,VANP,Dr Baba Saheb Ambedkar International Airport,N21.5.50',E79.2.89',21.08333333333333,79.03333333333333, Public,10500 x 150feet,Hard,6358 x 150feet,Unknown,,,,,Yes,https://www.getmetar.com/VANP
+46,46,IN,VODG,Dundigul Airport,N17.37.80',E78.24.30',17.616666666666667,78.4, Public,8250 x 150feet,Hard,6800 x 150feet,Unknown,,,,,Yes,https://www.getmetar.com/VODG
+47,47,IN,VEDG,Durgapur Airport,N23.37.47',E87.14.55',23.61666666666667,87.23333333333332, Public,,,,,,,,,No,https://www.getmetar.com/VEDG
+48,48,IN,VERB,Fursatganj Airport,N26.15.03',E81.22.85',26.25,81.36666666666666, Public,,,,,,,,,No,https://www.getmetar.com/VERB
+49,49,IN,VEGY,Gaya Airport,N24.44.88',E84.56.55',24.73333333333333,84.93333333333334, Public,7500 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/VEGY
+50,50,IN,VOGO,Goa Airport Airport,N15.22.85',E73.49.62',15.366666666666667,73.81666666666666, Public,11253 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/VOGO
+51,51,IN,VAGD,Gondia Airport,N21.31.41',E80.17.26',21.516666666666666,80.28333333333333, Public,7513 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VAGD
+52,52,IN,VEGK,Gorakhpur Airport,N26.44.48',E83.27.15',26.73333333333333,83.45, Public,9000 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/VEGK
+53,53,IN,VIGR,Gwalior Airport,N26.17.00',E78.14.00',26.28333333333333,78.23333333333333, Public,9000 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/VIGR
+54,54,IN,VOHK,Hakimpet Airport,N17.33.21',E78.31.49',17.55,78.51666666666667,Private,6873 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VOHK
+55,55,IN,VOBG,Hal Airport Bengaluru Airport,N12.57.13',E77.39.88',12.95,77.65, Public,10850 x 200feet,Hard,,,,,,,Yes,https://www.getmetar.com/VOBG
+56,56,IN,VIHX,Halwara Airport,N30.44.91',E75.37.79',30.73333333333333,75.61666666666666,Military,8985 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VIHX
+57,57,IN,VIDX,Hindon Airport,N28.42.46',E77.21.53',28.7,77.35,Private,9000 x 150feet,Unknown,,,,,,,No,https://www.getmetar.com/VIDX
+58,58,IN,VIHR,Hisar Airport,N29.10.70',E75.45.28',29.16666666666667,75.75, Public,,,,,,,,,No,https://www.getmetar.com/VIHR
+59,59,IN,VOHB,Hubli Airport,N15.21.71',E75.5.06',15.35,75.08333333333333, Public,5495 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/VOHB
+60,60,IN,VEIM,Imphal Airport,N24.45.86',E93.53.98',24.75,93.88333333333334, Public,9010 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/VEIM
+61,61,IN,VIDP,Indira Gandhi International Airport,N28.34.12',E77.6.73',28.566666666666666,77.1, Public,14534 x 197feet,Hard,12500 x 150feet,Unknown,9229 x 150feet,Unknown,,,Yes,https://www.getmetar.com/VIDP
+62,62,IN,VAJB,Jabalpur Airport,N23.11.00',E80.3.63',23.18333333333333,80.05, Public,6522 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VAJB
+63,63,IN,VEPT,Jai Prakash Narayan International Airport,N25.35.62',E85.5.52',25.58333333333333,85.08333333333333, Public,6411 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VEPT
+64,64,IN,VIJP,Jaipur Airport,N26.49.45',E75.48.15',26.816666666666666,75.8, Public,9176 x 151feet,Hard,,,,,,,Yes,https://www.getmetar.com/VIJP
+65,65,IN,VAJL,Jalgaon Airport,N20.57.68',E75.37.48',20.95,75.61666666666666, Public,5577 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VAJL
+66,66,IN,VAJM,Jamnagar Airport,N22.28.00',E70.1.00',22.466666666666665,70.01666666666667, Public,8229 x 148feet,Hard,7695 x 148feet,Unknown,,,,,Yes,https://www.getmetar.com/VAJM
+67,67,IN,VEJS,Jamshedpur Airport,N22.48.87',E86.10.14',22.8,86.16666666666669, Public,3921 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/VEJS
+68,68,IN,VOJV,Jindal Vijayanagar Airport,N15.10.50',E76.38.10',15.166666666666664,76.63333333333334, Public,,,,,,,,,No,https://www.getmetar.com/VOJV
+69,69,IN,VIJO,Jodhpur Airport,N26.15.43',E73.3.10',26.25,73.05,Military,9005 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/VIJO
+70,70,IN,VEJT,Jorhat Airport,N26.43.82',E94.10.55',26.716666666666665,94.16666666666669, Public,9000 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/VEJT
+71,71,IN,VAJJ,Juhu Airport,N19.5.85',E72.50.04',19.08333333333333,72.83333333333333, Public,3750 x 100feet,Hard,,,,,,,Yes,https://www.getmetar.com/VAJJ
+72,72,IN,VOCP,Kadapa Airport,N14.30.78',E78.46.33',14.5,78.76666666666667, Public,,,,,,,,,No,https://www.getmetar.com/VOCP
+73,73,IN,VEKR,Kailashahar Airport,N24.18.47',E92.0.57',24.3,92.0, Public,3300 x 100feet,Hard,,,,,,,No,https://www.getmetar.com/VEKR
+74,74,IN,VOGB,Kalaburagi Airport,N17.18.59',E76.57.43',17.3,76.95, Public,,,,,,,,,No,https://www.getmetar.com/VOGB
+75,75,IN,VEDX,Kalaikunda Airport,N22.20.37',E87.12.87',22.33333333333333,87.2,Military,9000 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/VEDX
+76,76,IN,VEKM,Kamalpur Airport,N24.7.90',E91.48.85',24.11666666666667,91.8, Public,4500 x 80feet,Hard,,,,,,,Yes,https://www.getmetar.com/VEKM
+77,77,IN,VAKE,Kandla Airport,N23.6.73',E70.6.03',23.1,70.1, Public,5000 x 100feet,Hard,,,,,,,Yes,https://www.getmetar.com/VAKE
+78,78,IN,VIGG,Kangra Airport,N32.9.88',E76.15.73',32.15,76.25, Public,3836 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/VIGG
+79,79,IN,VOKN,Kannur International Airport,N11.54.94',E75.32.74',11.9,75.53333333333333, Public,,,,,,,,,No,https://www.getmetar.com/VOKN
+80,82,IN,VICX,Kanpur Airport,N26.24.20',E80.24.70',26.4,80.4, Public,9215 x 150feet,Hard,4627 x 135feet,Unknown,,,,,Yes,https://www.getmetar.com/VICX
+81,83,IN,VECX,Kanpur Airport,N26.24.20',E80.24.70',26.4,80.4, Public,,,,,,,,,No,https://www.getmetar.com/VECX
+82,80,IN,VIKA,Kanpur Airport,N26.26.42',E80.21.88',26.43333333333333,80.35, Public,3550 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/VIKA
+83,81,IN,VEKA,Kanpur Airport,N26.26.42',E80.21.88',26.43333333333333,80.35, Public,,,,,,,,,No,https://www.getmetar.com/VEKA
+84,84,IN,VOBL,Kempegowda International Airport,N13.11.93',E77.42.33',13.183333333333335,77.7, Public,13123 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VOBL
+85,85,IN,VAKS,Keshod Airport,N21.18.90',E70.16.15',21.3,70.26666666666667, Public,4500 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VAKS
+86,86,IN,VEKO,Khajuraho Airport,N24.49.19',E79.55.11',24.816666666666666,79.91666666666667, Public,,,,,,,,,No,https://www.getmetar.com/VEKO
+87,87,IN,VAKJ,Khajuraho Airport,N24.49.20',E79.55.10',24.816666666666666,79.91666666666667, Public,6000 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VAKJ
+88,88,IN,VAKD,Khandwa Airport,N21.51.42',E76.19.98',21.85,76.31666666666666, Public,,,,,,,,,No,https://www.getmetar.com/VAKD
+89,89,IN,VEKW,Khowai Airport,N24.3.70',E91.36.45',24.05,91.6, Public,,,,,,,,,No,https://www.getmetar.com/VEKW
+90,90,IN,VIKG,Kishangarh Airport,N26.35.47',E74.48.97',26.58333333333333,74.8, Public,,,,,,,,,No,https://www.getmetar.com/VIKG
+91,91,IN,VAKP,Kohlapur Airport,N16.39.98',E74.17.43',16.65,74.28333333333333, Public,4495 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/VAKP
+92,92,IN,VIKO,Kota Airport,N25.9.58',E75.50.93',25.15,75.83333333333333, Public,4000 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/VIKO
+93,93,IN,VIBR,Kullu Manali Airport,N31.52.61',E77.9.32',31.86666666666667,77.15, Public,3700 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/VIBR
+94,94,IN,VEKI,Kushinagar Airport,N26.46.36',E83.53.72',26.766666666666666,83.88333333333334, Public,,,,,,,,,No,https://www.getmetar.com/VEKI
+95,95,IN,VEBN,Lalbahadur Shastri Varanasi Airport,N25.27.07',E82.51.52',25.45,82.85, Public,,,,,,,,,No,https://www.getmetar.com/VEBN
+96,96,IN,VILP,Lalitpur Airport,N24.42.97',E78.25.05',24.7,78.41666666666667, Public,,,,,,,,,No,https://www.getmetar.com/VILP
+97,97,IN,VOLT,Latur Airport,N18.24.50',E76.27.92',18.4,76.45,Private,,,,,,,,,No,https://www.getmetar.com/VOLT
+98,98,IN,VELP,Lengpui Airport,N23.50.28',E92.37.61',23.83333333333333,92.61666666666666, Public,8202 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VELP
+99,99,IN,VELR,Lilabari Airport,N27.17.47',E94.5.61',27.28333333333333,94.08333333333331, Public,7500 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/VELR
+100,100,IN,VEGT,Lokpriya Gopinath Bordoloi Int Airport,N26.6.30',E91.35.13',26.1,91.58333333333331, Public,10180 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VEGT
+101,101,IN,VILD,Ludhiana Airport,N30.51.35',E75.57.04',30.85,75.95, Public,4800 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/VILD
+102,102,IN,VOMD,Madurai Airport,N9.50.10',E78.5.31',9.833333333333334,78.08333333333333, Public,5990 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VOMD
+103,103,IN,VAUD,Maharana Pratap Airport Airport,N24.37.11',E73.53.56',24.61666666666667,73.88333333333334, Public,7484 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VAUD
+104,104,IN,VEMH,Malda Airport,N25.0.67',E88.7.83',25.0,88.11666666666666, Public,,,,,,,,,No,https://www.getmetar.com/VEMH
+105,105,IN,VOML,Mangalore Airport,N12.57.72',E74.53.39',12.95,74.88333333333334, Public,8038 x 151feet,Hard,4816 x 151feet,Unknown,,,,,Yes,https://www.getmetar.com/VOML
+106,106,IN,VAMA,Mundra Airport,N22.50.12',E69.45.90',22.83333333333333,69.75, Public,,,,,,,,,No,https://www.getmetar.com/VAMA
+107,107,IN,VEMZ,Muzzafarpur Airport,N26.7.02',E85.18.90',26.11666666666667,85.3, Public,4000 x 100feet,Hard,,,,,,,Yes,https://www.getmetar.com/VEMZ
+108,108,IN,VOMY,Mysuru Airport,N12.13.95',E76.39.38',12.216666666666667,76.65, Public,,,,,,,,,No,https://www.getmetar.com/VOMY
+109,109,IN,VADX,Naani Deesa Airport,N24.16.05',E72.12.32',24.266666666666666,72.2,Military,,,,,,,,,No,https://www.getmetar.com/VADX
+110,110,IN,VOND,Nanded Airport,N19.10.86',E77.19.35',19.166666666666668,77.31666666666666, Public,,,,,,,,,No,https://www.getmetar.com/VOND
+111,111,IN,VECC,Netaji Subhash Chandra Bose Airport,N22.39.24',E88.26.80',22.65,88.43333333333334, Public,11899 x 150feet,Hard,9314 x 150feet,Unknown,,,,,Yes,https://www.getmetar.com/VECC
+112,112,IN,VAOZ,Ozar Airport,N20.7.20',E73.54.80',20.116666666666667,73.9,Military,,,,,,,,,No,https://www.getmetar.com/VAOZ
+113,113,IN,VEPY,Pakyong Airport,N27.13.56',E88.35.15',27.216666666666665,88.58333333333331, Public,,,,,,,,,No,https://www.getmetar.com/VEPY
+114,114,IN,VEPH,Panagarh Airport,N23.28.46',E87.25.65',23.466666666666665,87.41666666666669, Public,9000 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/VEPH
+115,115,IN,VIPT,Pantnagar Airport,N29.1.93',E79.28.35',29.016666666666666,79.46666666666667, Public,3599 x 100feet,Hard,,,,,,,Yes,https://www.getmetar.com/VIPT
+116,116,IN,VEPG,Pasighat Airport,N28.6.00',E95.23.00',28.1,95.38333333333334, Public,,,,,,,,,No,https://www.getmetar.com/VEPG
+117,117,IN,VIPK,Pathankot Airport,N32.14.03',E75.38.08',32.23333333333333,75.63333333333334, Public,8970 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/VIPK
+118,118,IN,VIPX,Phalodi Airport,N27.6.31',E72.12.96',27.1,72.2,Military,,,,,,,,,No,https://www.getmetar.com/VIPX
+119,119,IN,VAPR,Porbandar Airport,N21.39.02',E69.39.52',21.65,69.65, Public,4500 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VAPR
+120,120,IN,VOPB,Port Blair Airport,N11.38.83',E92.43.98',11.633333333333333,92.71666666666668, Public,,,,,,,,,No,https://www.getmetar.com/VOPB
+121,121,IN,VOPC,Puducherry Airport,N11.58.04',E79.48.69',11.966666666666667,79.8, Public,3983 x 100feet,Hard,,,,,,,Yes,https://www.getmetar.com/VOPC
+122,122,IN,VAPO,Pune Airport,N18.34.95',E73.55.22',18.566666666666666,73.91666666666667, Public,8329 x 150feet,Hard,5893 x 150feet,Unknown,,,,,Yes,https://www.getmetar.com/VAPO
+123,123,IN,VEPU,Purnea Airport,N25.45.58',E87.24.60',25.75,87.4, Public,8700 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/VEPU
+124,124,IN,VERH,Raigarh Airstrip Airport,N21.56.12',E83.21.01',21.93333333333333,83.35, Public,,,,,,,,,No,https://www.getmetar.com/VERH
+125,125,IN,VARP,Raipur Airport,N21.10.87',E81.44.32',21.166666666666668,81.73333333333333, Public,7500 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VARP
+126,126,IN,VABP,Raja Bhoj Airport,N23.17.22',E77.20.22',23.28333333333333,77.33333333333333, Public,9003 x 148feet,Hard,3420 x 148feet,Unknown,,,,,Yes,https://www.getmetar.com/VABP
+127,127,IN,VORY,Rajahmundry Airport,N17.6.56',E81.49.17',17.1,81.81666666666666, Public,5740 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/VORY
+128,128,IN,VOHS,Rajiv Gandhi International Airport,N17.14.43',E78.25.73',17.233333333333334,78.41666666666667, Public,13976 x 197feet,Hard,12162 x 148feet,Unknown,,,,,Yes,https://www.getmetar.com/VOHS
+129,129,IN,VARK,Rajkot Airport,N22.18.57',E70.46.76',22.3,70.76666666666667, Public,5400 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VARK
+130,130,IN,VERL,Raxaul Airport,N26.58.00',E84.50.00',26.966666666666665,84.83333333333333, Public,,,,,,,,,No,https://www.getmetar.com/VERL
+131,131,IN,VERK,Rourkela Airport,N22.15.70',E84.48.60',22.25,84.8,Private,5987 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/VERK
+132,132,IN,VERU,Rupsi Airport,N26.8.41',E89.54.47',26.13333333333333,89.9, Public,,,,,,,,,No,https://www.getmetar.com/VERU
+133,133,IN,VIDD,Safdarjung Airport,N28.35.00',E77.12.48',28.58333333333333,77.2, Public,6300 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/VIDD
+134,134,IN,VOSM,Salem Airport,N11.46.86',E78.3.85',11.766666666666667,78.05, Public,6000 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/VOSM
+135,135,IN,VAAH,Sardar Vallabh Bhai Patel International Airport,N23.4.27',E72.37.59',23.066666666666666,72.61666666666666, Public,11500 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VAAH
+136,136,IN,VISP,Sarsawa Airport,N29.59.64',E77.25.52',29.98333333333333,77.41666666666667,Military,9000 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/VISP
+137,137,IN,VEST,Satna Airport,N24.33.74',E80.51.30',24.55,80.85, Public,,,,,,,,,No,https://www.getmetar.com/VEST
+138,138,IN,VODX,Shibpur Naval Air Station Airport,N13.14.14',E93.2.98',13.233333333333333,93.03333333333332, Public,,,,,,,,,No,https://www.getmetar.com/VODX
+139,139,IN,VISM,Shimla Airport,N31.4.89',E77.4.06',31.066666666666666,77.06666666666666, Public,4035 x 75feet,Hard,,,,,,,Yes,https://www.getmetar.com/VISM
+140,140,IN,VASD,Shirdi Airport,N19.41.46',E74.22.31',19.683333333333334,74.36666666666666, Public,,,,,,,,,No,https://www.getmetar.com/VASD
+141,141,IN,VEKU,Silchar Airport,N24.54.70',E92.58.80',24.9,92.96666666666668, Public,5990 x 151feet,Hard,,,,,,,Yes,https://www.getmetar.com/VEKU
+142,142,IN,VISA,Sirsa Airport,N29.34.00',E75.0.00',29.566666666666666,75.0,Military,,,,,,,,,No,https://www.getmetar.com/VISA
+143,143,IN,VASL,Solapur Airport,N17.37.65',E75.56.04',17.616666666666667,75.93333333333334, Public,4472 x 145feet,Hard,,,,,,,Yes,https://www.getmetar.com/VASL
+144,144,IN,VIAR,Sri Guru Ram Dass Jee International Airport,N31.42.64',E74.48.01',31.7,74.8, Public,12000 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/VIAR
+145,145,IN,VOPN,Sri Sathya Sai Airport,N14.8.88',E77.47.43',14.133333333333333,77.78333333333333, Public,7776 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VOPN
+146,146,IN,VISR,Srinagar Airport,N33.59.30',E74.46.50',33.98333333333333,74.76666666666667,Military,12001 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/VISR
+147,147,IN,VOSX,Sulur Airport,N11.0.81',E77.9.58',11.0,77.15,Military,8255 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VOSX
+148,148,IN,VASU,Surat Airport,N21.6.96',E72.44.51',21.1,72.73333333333333, Public,7382 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VASU
+149,149,IN,VERP,Swami Vivekananda Airport,N21.10.86',E81.44.31',21.166666666666668,81.73333333333333, Public,,,,,,,,,No,https://www.getmetar.com/VERP
+150,150,IN,VOTX,Tambaram Airport,N12.54.43',E80.7.31',12.9,80.11666666666666,Military,5965 x 150feet,Hard,4965 x 150feet,Unknown,,,,,Yes,https://www.getmetar.com/VOTX
+151,151,IN,VETZ,Tezpur Airport,N26.42.55',E92.47.08',26.7,92.78333333333332, Public,9010 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/VETZ
+152,152,IN,VETJ,Tezu Airport,N27.56.53',E96.8.03',27.93333333333333,96.13333333333334, Public,,,,,,,,,No,https://www.getmetar.com/VETJ
+153,153,IN,VOTJ,Thanjavur Airport,N10.43.35',E79.6.09',10.716666666666667,79.1, Public,5680 x 150feet,Hard,4757 x 150feet,Unknown,,,,,Yes,https://www.getmetar.com/VOTJ
+154,154,IN,VOTV,Thiruvananthapuram International Airport,N8.28.77',E76.55.20',8.466666666666667,76.91666666666667, Public,11148 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/VOTV
+155,155,IN,VI57,Thoise Airport,N34.39.18',E77.22.46',34.65,77.36666666666666, Public,10925 x 145feet,Hard,,,,,,,Yes,https://www.getmetar.com/VI57
+156,156,IN,VOTR,Tiruchirappalli Airport,N10.45.94',E78.42.90',10.75,78.7, Public,8018 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VOTR
+157,157,IN,VOTP,Tirupati Airport,N13.37.98',E79.32.51',13.616666666666667,79.53333333333333, Public,7500 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VOTP
+158,158,IN,VOTK,Tuticorin Airport,N8.43.34',E78.1.57',8.716666666666667,78.01666666666667, Public,,,,,,,,,No,https://www.getmetar.com/VOTK
+159,159,IN,VIUX,Udhampur Airport,N32.54.13',E75.9.37',32.9,75.15,Military,9000 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VIUX
+160,160,IN,VABO,Vadodara Airport,N22.19.80',E73.13.13',22.316666666666666,73.21666666666667, Public,8100 x 151feet,Hard,,,,,,,Yes,https://www.getmetar.com/VABO
+161,161,IN,VEJH,Veer Surendra Sai Jharsuguda Airport,N21.54.89',E84.2.92',21.9,84.03333333333333, Public,6175 x 151feet,Hard,,,,,,,Yes,https://www.getmetar.com/VEJH
+162,162,IN,VOBZ,Vijayawada Airport,N16.32.02',E80.48.20',16.533333333333335,80.8, Public,5725 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VOBZ
+163,163,IN,VOVZ,Vishakhapatnam Airport,N17.43.27',E83.13.27',17.716666666666665,83.21666666666667, Public,10000 x 151feet,Unknown,6000 x 148feet,Unknown,,,,,No,https://www.getmetar.com/VOVZ
+164,164,IN,MPWN,Wannukandi Airport,N9.15.45',E78.7.05',9.25,78.11666666666666, Public,,,,,,,,,No,https://www.getmetar.com/MPWN
+165,165,IN,VOWA,Warrangal Airport,N17.54.87',E79.36.13',17.9,79.6, Public,,,,,,,,,No,https://www.getmetar.com/VOWA
+166,166,IN,VOYK,Yelahanka Airport,N13.8.14',E77.36.28',13.133333333333333,77.6, Public,7205 x 145feet,Hard,,,,,,,Yes,https://www.getmetar.com/VOYK
+167,167,IN,VEZO,Zero Airport,N27.35.30',E93.49.68',27.58333333333333,93.81666666666666, Public,4010 x 100feet,Hard,,,,,,,Yes,https://www.getmetar.com/VEZO

@@ -1,0 +1,17 @@
+,Unnamed: 0.1,country,icaoCodes,airFieldName,latitude,longitude,ddLatitude,ddLongitude,airportUse,runwayOneDimensions,runwayOneSurface,runwayTwoDimensions,runwayTwoSurface,runwayThreeDimensions,runwayThreeSurface,runwayFourDimensions,runwayFourSurface,capableCOneThirtyCSeventeen,weatherLink
+0,0,NC,NWWB,Bourail Poe Airport,S21.36.58',E165.23.87',-21.6,165.38333333333333, Public,,,,,,,,,No,https://www.getmetar.com/NWWB
+1,1,NC,NWWX,Canala Airport,S21.31.22',E165.58.30',-21.516666666666666,165.96666666666667, Public,3135 x 66feet,Hard,,,,,,,No,https://www.getmetar.com/NWWX
+2,2,NC,NWWH,Houailou Nesson Airport,S21.15.38',E165.37.05',-21.25,165.61666666666667, Public,3281 x 98feet,Hard,,,,,,,No,https://www.getmetar.com/NWWH
+3,3,NC,NWWC,Ile Art Waala Airport,S19.43.23',E163.39.67',-19.716666666666665,163.65, Public,1969 x 66feet,Hard,,,,,,,No,https://www.getmetar.com/NWWC
+4,4,NC,NWWE,Ile Des Pins Moue Airport,S22.35.32',E167.27.32',-22.58333333333333,167.45, Public,4101 x 76feet,Hard,,,,,,,Yes,https://www.getmetar.com/NWWE
+5,5,NC,NWWD,Kone Airport,S21.3.22',E164.50.37',-21.05,164.83333333333334, Public,3281 x 66feet,Hard,,,,,,,No,https://www.getmetar.com/NWWD
+6,6,NC,NWWK,Koumac Airport,S20.32.78',E164.15.33',-20.533333333333328,164.25, Public,3609 x 82feet,Hard,,,,,,,Yes,https://www.getmetar.com/NWWK
+7,7,NC,NWWT,La Foa Oua Tom Airport,S21.49.18',E165.51.65',-21.816666666666666,165.85, Public,2625 x 98feet,Hard,,,,,,,No,https://www.getmetar.com/NWWT
+8,8,NC,NWWL,Lifou Ouanaham Airport,S20.46.47',E167.14.35',-20.766666666666666,167.23333333333332, Public,4101 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/NWWL
+9,9,NC,NWWR,Mare La Roche Airport,S21.28.87',E168.2.25',-21.466666666666665,168.03333333333333, Public,3281 x 82feet,Hard,,,,,,,No,https://www.getmetar.com/NWWR
+10,10,NC,NWWW,Noumea La Tontouta Airport,S22.0.87',E166.12.78',-22.0,166.2, Public,10663 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/NWWW
+11,11,NC,NWWM,Noumea Magenta Airport,S22.15.50',E166.28.37',-22.25,166.46666666666667, Public,4539 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/NWWM
+12,12,NC,NWWV,Ouvea Ouloup Airport,S20.38.43',E166.34.37',-20.633333333333333,166.56666666666666, Public,3609 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/NWWV
+13,13,NC,NWWP,Poum Malabou Airport,S20.17.35',E164.5.97',-20.283333333333328,164.08333333333334, Public,3937 x 98feet,Soft,,,,,,,No,https://www.getmetar.com/NWWP
+14,14,NC,NWWA,Tiga Airport,S21.5.77',E167.48.23',-21.08333333333333,167.8, Public,3281 x 76feet,Hard,,,,,,,No,https://www.getmetar.com/NWWA
+15,15,NC,NWWU,Touho Airport,S20.47.40',E165.15.57',-20.783333333333328,165.25, Public,3609 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/NWWU

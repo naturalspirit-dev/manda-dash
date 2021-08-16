@@ -1,0 +1,8 @@
+title: pacific-port-and-airfield-logistical-dashboard
+description: A tool for quickly viewing publicly available port and airfield data
+google_analytics:
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions

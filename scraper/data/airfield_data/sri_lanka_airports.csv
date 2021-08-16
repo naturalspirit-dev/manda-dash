@@ -1,0 +1,15 @@
+,Unnamed: 0.1,country,icaoCodes,airFieldName,latitude,longitude,ddLatitude,ddLongitude,airportUse,runwayOneDimensions,runwayOneSurface,runwayTwoDimensions,runwayTwoSurface,runwayThreeDimensions,runwayThreeSurface,runwayFourDimensions,runwayFourSurface,capableCOneThirtyCSeventeen,weatherLink
+0,0,LK,VCCG,Amparai Airport,N7.20.22',E81.37.82',7.333333333333332,81.61666666666666, Public,3600 x 151feet,Hard,,,,,,,Yes,https://www.getmetar.com/VCCG
+1,1,LK,VCCA,Anuradhapura Airport,N8.18.11',E80.25.73',8.3,80.41666666666667, Public,4897 x 115feet,Hard,,,,,,,Yes,https://www.getmetar.com/VCCA
+2,2,LK,VCBI,Bandaranaike International Apt Colombo Airport,N7.10.81',E79.53.12',7.166666666666668,79.88333333333334, Public,10991 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VCBI
+3,3,LK,VCCB,Batticaloa Airport,N7.42.31',E81.40.63',7.7,81.66666666666667, Public,3592 x 40feet,Hard,,,,,,,Yes,https://www.getmetar.com/VCCB
+4,4,LK,VCCT,China Bay Airport,N8.32.40',E81.11.07',8.533333333333333,81.18333333333334, Public,7800 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/VCCT
+5,5,LK,VCCC,Colombo Int Arpt Ratmalana Airport,N6.49.38',E79.53.10',6.816666666666666,79.88333333333334, Public,6392 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/VCCC
+6,6,LK,VCCJ,Jaffna International Airport,N9.47.54',E80.4.20',9.783333333333333,80.06666666666666, Public,7500 x 240feet,Hard,,,,,,,Yes,https://www.getmetar.com/VCCJ
+7,7,LK,VCCN,Katukurunda Airport,N6.33.17',E79.58.43',6.55,79.96666666666667,Military,3200 x 145feet,Hard,,,,,,,No,https://www.getmetar.com/VCCN
+8,8,LK,VCCK,Koggala Airport,N5.59.62',E80.19.12',5.9833333333333325,80.31666666666666,Private,,,,,,,,,No,https://www.getmetar.com/VCCK
+9,9,LK,VCRI,Mattala Rajapaksa International Airport,N6.17.07',E81.7.45',6.283333333333332,81.11666666666666, Public,,,,,,,,,No,https://www.getmetar.com/VCRI
+10,10,LK,VCCH,Minneriya Airport,N8.2.99',E80.58.88',8.033333333333333,80.96666666666667,Military,,,,,,,,,No,https://www.getmetar.com/VCCH
+11,11,LK,VCCS,Sigiriya Airport,N7.57.47',E80.43.78',7.95,80.71666666666667,Private,,,,,,,,,No,https://www.getmetar.com/VCCS
+12,12,LK,VCCV,Vavuniya Airport,N8.44.46',E80.29.87',8.733333333333333,80.48333333333333,Private,,,,,,,,,No,https://www.getmetar.com/VCCV
+13,13,LK,VCCW,Wirawila Airport,N6.15.00',E81.14.00',6.25,81.23333333333333, Public,4000 x 93feet,Hard,,,,,,,Yes,https://www.getmetar.com/VCCW

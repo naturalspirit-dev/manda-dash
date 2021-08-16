@@ -1,0 +1,30 @@
+,Unnamed: 0.1,country,icaoCodes,airFieldName,latitude,longitude,ddLatitude,ddLongitude,airportUse,runwayOneDimensions,runwayOneSurface,runwayTwoDimensions,runwayTwoSurface,runwayThreeDimensions,runwayThreeSurface,runwayFourDimensions,runwayFourSurface,capableCOneThirtyCSeventeen,weatherLink
+0,0,KR,RKPK,Busan Gimhae International Airport,N35.10.83',E128.56.28',35.166666666666664,128.93333333333334, Public,10499 x 197feet,Hard,8999 x 151feet,Unknown,,,,,Yes,https://www.getmetar.com/RKPK
+1,1,KR,RKTU,Cheongju International Airport,N36.42.98',E127.29.95',36.7,127.48333333333332, Public,9003 x 148feet,Hard,9003 x 197feet,Unknown,,,,,Yes,https://www.getmetar.com/RKTU
+2,2,KR,RKTN,Daegu International Airport,N35.53.65',E128.39.53',35.88333333333333,128.65, Public,9039 x 148feet,Hard,8999 x 148feet,Unknown,,,,,Yes,https://www.getmetar.com/RKTN
+3,3,KR,RKNN,Gangneung Airport,N37.45.21',E128.56.62',37.75,128.93333333333334,Military,9000 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/RKNN
+4,4,KR,RKJK,Gunsan Airport,N35.54.23',E126.36.95',35.9,126.6,Military,9000 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RKJK
+5,5,KR,RKJJ,Gwangju Airport,N35.7.58',E126.48.53',35.11666666666667,126.8, Public,9301 x 148feet,Hard,9301 x 148feet,Unknown,,,,,Yes,https://www.getmetar.com/RKJJ
+6,6,KR,RKSI,Incheon International Airport,N37.27.75',E126.26.35',37.45,126.43333333333334, Public,13123 x 197feet,Hard,12304 x 197feet,Unknown,12304 x 197feet,Unknown,,,Yes,https://www.getmetar.com/RKSI
+7,7,KR,RKPC,Jeju International Airport,N33.30.73',E126.29.57',33.5,126.48333333333332, Public,10433 x 148feet,Hard,6233 x 148feet,Unknown,,,,,Yes,https://www.getmetar.com/RKPC
+8,8,KR,RKPD,Jeju Jeongseok Airport,N33.23.90',E126.42.78',33.38333333333333,126.7, Public,7546 x 148feet,Hard,2953 x 82feet,Unknown,,,,,Yes,https://www.getmetar.com/RKPD
+9,9,KR,RKPE,Jinhae Airport,N35.8.47',E128.41.75',35.13333333333333,128.68333333333334, Public,3600 x 78feet,Hard,,,,,,,Yes,https://www.getmetar.com/RKPE
+10,10,KR,RKJU,Jun Ju Airport,N35.52.71',E127.7.17',35.86666666666667,127.11666666666666, Public,4800 x 100feet,Hard,,,,,,,Yes,https://www.getmetar.com/RKJU
+11,11,KR,RKTI,Jungwon AB Airport,N37.1.80',E127.53.12',37.016666666666666,127.88333333333334, Public,9620 x 120feet,Hard,9021 x 200feet,Unknown,,,,,Yes,https://www.getmetar.com/RKTI
+12,12,KR,RKJM,Mokpo Airport,N34.45.53',E126.22.87',34.75,126.36666666666666, Public,5249 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/RKJM
+13,13,KR,RKJB,Muan International Airport,N34.59.48',E126.22.97',34.98333333333333,126.36666666666666, Public,9186 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RKJB
+14,14,KR,RKTH,Pohang Airport,N35.59.27',E129.25.12',35.98333333333333,129.41666666666666, Public,6998 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RKTH
+15,15,KR,RKPP,Pusan Airport,N35.10.00',E129.8.00',35.166666666666664,129.13333333333333, Public,,,,,,,,,No,https://www.getmetar.com/RKPP
+16,16,KR,RKPS,Sacheon Airport,N35.5.32',E128.4.23',35.083333333333336,128.06666666666666,Military,8999 x 148feet,Hard,8999 x 148feet,Unknown,,,,,Yes,https://www.getmetar.com/RKPS
+17,17,KR,RKTE,Seongmu Airport,N36.34.09',E127.30.01',36.56666666666667,127.5, Public,4000 x 120feet,Hard,,,,,,,Yes,https://www.getmetar.com/RKTE
+18,18,KR,RKTP,Seosan Airport,N36.42.24',E126.29.17',36.7,126.48333333333332, Public,9000 x 150feet,Hard,9000 x 150feet,Unknown,,,,,Yes,https://www.getmetar.com/RKTP
+19,19,KR,RKSM,Seoul Airport,N37.26.75',E127.6.85',37.43333333333333,127.1,Military,9700 x 150feet,Hard,9000 x 150feet,Unknown,,,,,Yes,https://www.getmetar.com/RKSM
+20,20,KR,RKSS,Seoul Gimpo International Airport,N37.33.42',E126.47.85',37.55,126.78333333333332, Public,11811 x 150feet,Hard,10499 x 197feet,Unknown,,,,,Yes,https://www.getmetar.com/RKSS
+21,21,KR,RKND,Sokcho Airport,N38.8.85',E128.36.03',38.13333333333333,128.6,Military,5118 x 100feet,Hard,,,,,,,Yes,https://www.getmetar.com/RKND
+22,22,KR,RKSW,Suwon Airport,N37.14.36',E127.0.42',37.23333333333333,127.0,Military,9000 x 150feet,Hard,9000 x 150feet,Unknown,7535 x 143feet,Unknown,,,Yes,https://www.getmetar.com/RKSW
+23,23,KR,RKTL,Uljin Airport,N36.46.62',E129.27.70',36.766666666666666,129.45, Public,5906 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RKTL
+24,24,KR,RKPU,Ulsan Airport,N35.35.60',E129.21.13',35.583333333333336,129.35, Public,6562 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RKPU
+25,25,KR,RKNW,Wonju Airport,N37.26.28',E127.57.62',37.43333333333333,127.95,Military,8999 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/RKNW
+26,26,KR,RKNY,Yangyang International Airport,N38.3.68',E128.40.15',38.05,128.66666666666666, Public,8202 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RKNY
+27,27,KR,RKTY,Yecheon Airport,N36.37.90',E128.21.30',36.61666666666667,128.35,Military,9000 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RKTY
+28,28,KR,RKJY,Yeosu Airport,N34.50.53',E127.37.03',34.833333333333336,127.61666666666666,Military,6890 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/RKJY
