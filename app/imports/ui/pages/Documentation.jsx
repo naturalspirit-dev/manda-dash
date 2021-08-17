@@ -27,7 +27,7 @@ class Documentation extends React.Component {
               <Accordion fluid styled exclusive={false}>
                 <Accordion.Title className="docs-title" active={activeIndex === 0} index={0} onClick={this.handleClick}>
                   <Icon name='dropdown' />
-                  Who is this web app for?
+                  Who is this app for?
                 </Accordion.Title>
                 <Accordion.Content className="docs-text" active={activeIndex === 0}>
                   <p id="who">This app was designed for operational logisticians to assist in planning sea or air routes. All around the pacific are ports and airfields of varying capabilities. This program is supposed to assist in determining the restrictions of various locations in a searchable dashboard format.</p>
@@ -77,14 +77,16 @@ class Documentation extends React.Component {
               <Accordion style={{ marginTop: "35px" }} fluid styled exclusive={false}>
                 <Accordion.Title className="docs-title" active={activeIndex === 5} index={5} onClick={this.handleClick}>
                   <Icon name='dropdown' />
-                  How often should the scraper be run?
+                  How often should you scrape the latest data?
                 </Accordion.Title>
                 <Accordion.Content className="docs-text" active={activeIndex === 5}>
-                  <p>We recommend the scraper be run once every month. Much of the data presented is static and unlikely to change over short periods of time.</p>
+                  <p>We recommend the bot be run once every month. Much of the data presented is static and unlikely to change over short periods of time.</p>
+                  <p>This app comes loaded with all the data needed to use it. The initial data set was collected in August, 2021. You can see the data and
+                     time of the last scrape in the top right of the menu bar.</p>
                 </Accordion.Content>
                 <Accordion.Title className="docs-title" active={activeIndex === 6} index={6} onClick={this.handleClick}>
                   <Icon name='dropdown' />
-                  Why does the scraper take so long?
+                  Why does the scraper bot take so long?
                 </Accordion.Title>
                 <Accordion.Content className="docs-text" active={activeIndex === 6}>
                   <p id="scrapertime">Websites occasionally have preventions against large scale scraping. To subvert these mechanisms, we have included automated rest intervals in between our code.</p>
@@ -103,7 +105,7 @@ class Documentation extends React.Component {
                   Where can I find the error log?
                 </Accordion.Title>
                 <Accordion.Content className="docs-text" active={activeIndex === 8}>
-                  <p>Errors from the scraper are written to /scraper/data. All other errors are written to the client or server console.</p>
+                  <p>Errors from the scraper bot are written to /scraper/data. All other errors are written to the client or server console.</p>
                 </Accordion.Content>
                 <Accordion.Title className="docs-title" active={activeIndex === 9} index={9} onClick={this.handleClick}>
                   <Icon name='dropdown' />

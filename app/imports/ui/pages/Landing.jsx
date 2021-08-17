@@ -55,9 +55,10 @@ class Landing extends React.Component {
         <Grid.Column className="landing-title">
           <h1>Pacific Maritime & Aviation Logistics Dashboard</h1>
           <p>For operational logisticians, a detailed understanding of port and airfield capabilities is needed at all times to estimate the
-             viability of deployment plans and route options. This open source app brings crucial, hard to find data to the browser for one click access with the
-             goal of <u>enabling quicker descions</u> and <u>improving agility</u> for the user and their team.</p>
-          <p>This application utilizes a Python web scraper to gather the latest open source data on ports and airfields around the Indo-Pacific theatre.</p>
+             viability of deployment plans and route options. </p>
+          <p>This web application utilizes a scraping bot to gather the latest open source
+             data on ports and airfields around the Indo-Pacific theatre, bringing crucial, hard to find data to the browser for one click
+             access with the goal of <u>enabling quicker descions</u> and <u>improving agility</u> for the user and their team.</p>
           <div id="button-or" className="button-wrapper">
             <Button.Group>
               <Button content="Search by Location" color={this.state.lookupColor} size="huge" onClick={this.lookupInterface}></Button>

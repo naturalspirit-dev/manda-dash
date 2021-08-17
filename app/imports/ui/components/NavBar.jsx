@@ -77,7 +77,7 @@ class NavBar extends React.Component {
           </Modal>
         </Menu.Item>
         <Menu.Item >
-          <div><p>Data last updated {day}, {time}</p></div>
+          <div><p>Data last updated {day}</p></div>
         </Menu.Item>
         {controller}
       </Menu>

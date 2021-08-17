@@ -6,9 +6,8 @@ import { Ports } from '../../api/ports/PortsCollection.js';
 import { Airfields } from '../../api/airfields/AirfieldsCollection.js';
 import Initialization from './Initialization';
 import capitalizeWords from '../../utils/stringFormatting.js';
-import token from '../../api/keys/googleMapsKey.js';
 const util = require('util');
-const fs = require('fs'); 
+const fs = require('fs');
 
 // Initialize the Collections if empty. (first run)
 if (Ports.collection.find().count() === 0 || Airfields.collection.find().count() === 0) {
@@ -30,7 +29,7 @@ Meteor.methods({
       let string = "https://www.google.com/maps/embed/v1/place?key=";
       type === "Port" ? itemType = "Port+" : itemType = "Airfield+";
       let src = string.concat(
-        token.googleMapsKey,
+        Meteor.settings.GoogleMaps.key,
         "&q=",
         itemType,
         name,
