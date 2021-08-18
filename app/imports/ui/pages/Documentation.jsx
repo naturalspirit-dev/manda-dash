@@ -44,12 +44,10 @@ class Documentation extends React.Component {
                   Webmaster contact information
                 </Accordion.Title>
                 <Accordion.Content className="docs-text" active={activeIndex === 2}>
-                  <p>Emily Pang (MARFORPAC):
+                  <p>Emily Pang (MARFORPAC):</p>
                     <ul><li>emily.pang@usmc.mil</li></ul>
-                  </p>
-                  <p>Joseph Palma (X-Force):
+                  <p>Joseph Palma (X-Force):</p>
                     <ul><li>joepalma08@hotmail.com</li></ul>
-                  </p>
                 </Accordion.Content>
                 <Accordion.Title className="docs-title" active={activeIndex === 3} index={3} onClick={this.handleClick}>
                   <Icon name='dropdown' />
