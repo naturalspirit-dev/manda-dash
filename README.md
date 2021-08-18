@@ -12,7 +12,7 @@
 
 **Version 1.0.0**
 
-A React app that uses a Python bot to gather the latest open source data on ports and airfields from around the Indo-Pacific theatre. This app comes loaded with all the data required to use it. Users can run the python scraper to update the data set with the most up-to-date information.
+A React app that uses a Python bot to gather the latest open source data on ports and airfields from around the Indo-Pacific theatre. This app comes loaded with all the data required to use it. Users can run the bot to scrape the latest data and update the app with the most up-to-date information.
 
 ## Demo
 Check out our [video](https://www.youtube.com/watch?v=Hib1jKbl0w8)
@@ -43,7 +43,7 @@ After running the start script for the first time, it will initialize the Mongo 
 
 If all goes well, the application will appear at http://localhost:3000.
 
-## Python WebScraper
+## Python Web Scraper Bot
 Scrapes data from open sources like searates.com and skyvector.com. Maritime data is collected from the PUB150 database.
 
 Errors from the scraper are written to /scraper/data
