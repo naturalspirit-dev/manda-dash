@@ -19,7 +19,9 @@ def main():
         'Cambodia',
         'China',
         'Fiji',
+        'Germany',
         'Hong_Kong',
+        'Italy',
         'India',
         'Indonesia',
         'Japan',
@@ -38,6 +40,7 @@ def main():
         'Thailand',
         'Tonga',
         'Tuvalu',
+        'United_Kingdom',
         'Vanuatu',
         'Vietnam'
     ]
