@@ -28,7 +28,6 @@ def main():
         'Nauru',
         'New_Caledonia',
         'New_Zealand',
-        'Pakistan',
         'Papua_New_Guinea',
         'Philippines',
         'Samoa',
@@ -57,13 +56,7 @@ def main():
 
 
         df_air_copy = df_air.copy()
-        c130 = [[x, df_air['capableCOneThirtyCSeventeen'][x]] for x in range(len(df_air['capableCOneThirtyCSeventeen']))]
 
-        for x in c130:
-            if x[1] == 'No':
-                df_air_copy = df_air_copy.drop(x[0])
-
-        df_air_copy = df_air_copy.reset_index()
         air_cords = [[] for x in range(len(df_air_copy))]
         for x in range(len(df_air_copy)):
             air_cords[x].append(df_air_copy['ddLatitude'][x])
@@ -81,7 +74,7 @@ def main():
                 match = min(air_cords, key=lambda p: dist(p, port_cords[x]))
                 airfield.append(match[-1])
 
-            df_port['closestCOneThirtyCSeventeen'] =  airfield
+            df_port['closestAirField'] =  airfield
 
         del df_port['Unnamed: 0']
         df_port.to_csv(r'../../../../../../scraper/data/port_data/' + countries[k].lower() + '_ports.csv')

@@ -50,8 +50,6 @@ def airport_colletion(country_name, abr):
             second = second.replace("'",'')
             second = second.replace('.','')
             second = second.replace('Cooma','')  #This is for one airport in Australia
-            second = second.replace('LahoreWalton', 'Lahore-Walton') #This is for one airport in Pakistan
-            second = second.replace('DG-Khan-FAK-Leghari-International-Airport', 'D-G-Khan-International-Airport') #This is for one airport in Pakistan
             second = second.replace('Godofredo-PRamos-Principal-Airport', 'Caticlan-Airport') #This is for one in Philippines
             second = second.replace('BReyes', 'B-Reyes') #This is for one in Philippines
             second = second.replace('B U L A', 'Bula') #This is for one in Indonesia
@@ -217,26 +215,6 @@ def clean(country):
     df.insert(insert, 'ddLatitude', dd_lat_list)
     df.insert(insert+1, 'ddLongitude', dd_long_list)
 
-    c130_c17 = []
-
-    # This section is checking to see if the airfield is capable of landing a c130/c17
-    for k in range(len(df)):
-        for x in ['One', 'Two', 'Three', 'Four']:
-            runway = df['runway' + x +'Dimensions'][k]
-            runway = str(runway).split('x')
-            surface = str(df['runway' + x +'Surface'][k])
-
-
-            if runway[0] == 'nan':
-                c130_c17.append('No')
-                break
-
-            if int(runway[0]) > 3500 and surface == 'Hard':
-                c130_c17.append('Yes')
-                break
-
-    df.insert(len(df.columns), 'capableCOneThirtyCSeventeen', c130_c17)
-
     # this section will be inserting the links for the weather at the airports
     weather_link = ['https://www.getmetar.com/' + x for x in df.icaoCodes]
     df.insert(len(df.columns),'weatherLink',weather_link)
@@ -254,7 +232,9 @@ def run_airports():
         ['Cambodia','KH'],
         ['China','CN'],
         ['Fiji','FJ'],
+        ['Germany', 'DE']
         ['Hong_Kong','HK'],
+        ['Italy', 'IT'],
         ['India','IN'],
         ['Indonesia','ID'],
         ['Japan','JP'],
@@ -263,7 +243,6 @@ def run_airports():
         ['Nauru','NR'],
         ['New_Caledonia','NC'],
         ['New_Zealand','NZ'],
-        ['Pakistan','PK'],
         ['Papua_New_Guinea','PG'],
         ['Philippines','PH'],
         ['Samoa','WS'],
@@ -274,6 +253,7 @@ def run_airports():
         ['Thailand','TH'],
         ['Tonga','TO'],
         ['Tuvalu','TV'],
+        ['United_Kingdom', 'GB'],
         ['Vanuatu','VU'],
         ['Vietnam','VN'],
     ]
