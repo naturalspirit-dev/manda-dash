@@ -232,7 +232,7 @@ def run_airports():
         ['Cambodia','KH'],
         ['China','CN'],
         ['Fiji','FJ'],
-        ['Germany', 'DE']
+        ['Germany', 'DE'],
         ['Hong_Kong','HK'],
         ['Italy', 'IT'],
         ['India','IN'],
@@ -255,7 +255,7 @@ def run_airports():
         ['Tuvalu','TV'],
         ['United_Kingdom', 'GB'],
         ['Vanuatu','VU'],
-        ['Vietnam','VN'],
+        ['Vietnam','VN']
     ]
 
     errors = []
