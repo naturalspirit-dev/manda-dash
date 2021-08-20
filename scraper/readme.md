@@ -8,6 +8,7 @@ These two files are called from the run.py file. After these two files have fini
 To update the PUB150 database you will need to go to the [Pub 150 index](https://msi.nga.mil/Publications/WPI) and download the World Port Index Database (MS Access file). you will then need to export it to a csv file with the name "WPI_complete.csv". Once you have the csv file (WPI_complete.csv) you will place it within the scraper folder to replace the WPI_complete file already in there. The reason for using this dataset is to make the addition of countries easier.
 
 ### How do I add countries?
+First you will need to add a csv of that country to the appropriate section folder in the same format. Ex. (in the port_data folder you would add a csv file named canada_ports.csv)
 To add more ports countries, you will need to open the ports.py file. Once in the file go to the run_ports() function. There is a list of countries currently there. To add a country simply add a county to that list following the same format. To add more airfields, you will first need to check if the countries airfields are available on skyvector.com. Once that you have established that the country data is on skyvector.com you can add the country to the list in the run_airports() function, again following the same format of the list.
 
 ### Why isnt my newly added data being displayed in the app?
