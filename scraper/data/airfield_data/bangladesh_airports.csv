@@ -1,15 +1,15 @@
-,Unnamed: 0.1,country,icaoCodes,airFieldName,latitude,longitude,ddLatitude,ddLongitude,airportUse,runwayOneDimensions,runwayOneSurface,runwayTwoDimensions,runwayTwoSurface,runwayThreeDimensions,runwayThreeSurface,runwayFourDimensions,runwayFourSurface,capableCOneThirtyCSeventeen,weatherLink
-0,0,BD,VGBR,Barishal Airport,N22.47.94',E90.18.07',22.78333333,90.3, Public,6001 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/VGBR
-1,1,BD,VGBG,Bogura Airport,N24.51.98',E89.19.02',24.85,89.31666667, Public,3000 x 100feet,Hard,,,,,,,No,https://www.getmetar.com/VGBG
-2,2,BD,VGCB,Coxs Bazar Airport,N21.26.97',E91.57.89',21.43333333,91.95, Public,6700 x 125feet,Hard,,,,,,,Yes,https://www.getmetar.com/VGCB
-3,3,BD,VGCM,Cumilla Stolport Airport,N23.26.26',E91.11.37',23.43333333,91.18333333, Public,,,,,,,,,No,https://www.getmetar.com/VGCM
-4,4,BD,VGTJ,Dhaka Tejgaon Airport,N23.46.69',E90.22.96',23.76666667,90.36666667, Public,8800 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/VGTJ
-5,5,BD,VGHS,Hazrat Shahjalal International Airport,N23.50.60',E90.23.87',23.83333333,90.38333333, Public,10499 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/VGHS
-6,6,BD,VGIS,Ishurdi Airport,N24.9.16',E89.2.97',24.15,89.03333333, Public,4700 x 75feet,Hard,,,,,,,Yes,https://www.getmetar.com/VGIS
-7,7,BD,VGJR,Jashore Airport,N23.11.03',E89.9.65',23.18333333,89.15, Public,7999 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/VGJR
-8,8,BD,VGSY,Osmani International Sylhet Airport,N24.57.68',E91.52.30',24.95,91.86666667, Public,10253 x 151feet,Hard,,,,,,,Yes,https://www.getmetar.com/VGSY
-9,9,BD,VGSD,Saidpur Airport,N25.45.75',E88.54.46',25.75,88.9, Public,6001 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/VGSD
-10,10,BD,VGEG,Shah Amanat International Airport,N22.15.42',E91.49.33',22.25,91.81666667, Public,9646 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VGEG
-11,11,BD,VGRJ,Shah Mokhdum Airport,N24.26.24',E88.36.99',24.43333333,88.6, Public,6001 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/VGRJ
-12,12,BD,VGSH,Shamshernagar Stol Port Airport,N24.23.93',E91.55.01',24.38333333,91.91666667, Public,,,,,,,,,No,https://www.getmetar.com/VGSH
-13,13,BD,VGSG,Thakurgaon Airport,N26.0.00',E88.23.00',26.0,88.38333333, Public,,,,,,,,,No,https://www.getmetar.com/VGSG
+,country,icaoCodes,airFieldName,latitude,longitude,ddLatitude,ddLongitude,airportUse,runwayOneDimensions,runwayOneSurface,runwayTwoDimensions,runwayTwoSurface,runwayThreeDimensions,runwayThreeSurface,runwayFourDimensions,runwayFourSurface,weatherLink
+0,BD,VGBR,Barishal Airport,N22.47.94',E90.18.07',22.783333333333335,90.3, Public,6001 x 98feet,Hard,,,,,,,https://www.getmetar.com/VGBR
+1,BD,VGEG,Shah Amanat International Airport,N22.15.42',E91.49.33',22.25,91.81666666666666, Public,9646 x 148feet,Hard,,,,,,,https://www.getmetar.com/VGEG
+2,BD,VGCM,Cumilla Stolport Airport,N23.26.26',E91.11.37',23.433333333333334,91.18333333333334, Public,,,,,,,,,https://www.getmetar.com/VGCM
+3,BD,VGCB,Coxs Bazar Airport,N21.26.97',E91.57.89',21.433333333333334,91.95, Public,6700 x 125feet,Hard,,,,,,,https://www.getmetar.com/VGCB
+4,BD,VGTJ,Dhaka Tejgaon Airport,N23.46.69',E90.22.96',23.766666666666666,90.36666666666666, Public,8800 x 150feet,Hard,,,,,,,https://www.getmetar.com/VGTJ
+5,BD,VGHS,Hazrat Shahjalal International Airport,N23.50.60',E90.23.87',23.833333333333332,90.38333333333334, Public,10499 x 150feet,Hard,,,,,,,https://www.getmetar.com/VGHS
+6,BD,VGJR,Jashore Airport,N23.11.03',E89.9.65',23.183333333333334,89.15, Public,7999 x 150feet,Hard,,,,,,,https://www.getmetar.com/VGJR
+7,BD,VGSG,Thakurgaon Airport,N26.0.00',E88.23.00',26.0,88.38333333333334, Public,,,,,,,,,https://www.getmetar.com/VGSG
+8,BD,VGSD,Saidpur Airport,N25.45.75',E88.54.46',25.75,88.9, Public,6001 x 98feet,Hard,,,,,,,https://www.getmetar.com/VGSD
+9,BD,VGRJ,Shah Mokhdum Airport,N24.26.24',E88.36.99',24.433333333333334,88.6, Public,6001 x 98feet,Hard,,,,,,,https://www.getmetar.com/VGRJ
+10,BD,VGIS,Ishurdi Airport,N24.9.16',E89.2.97',24.15,89.03333333333333, Public,4700 x 75feet,Hard,,,,,,,https://www.getmetar.com/VGIS
+11,BD,VGBG,Bogura Airport,N24.51.98',E89.19.02',24.85,89.31666666666666, Public,3000 x 100feet,Hard,,,,,,,https://www.getmetar.com/VGBG
+12,BD,VGSY,Osmani International Sylhet Airport,N24.57.68',E91.52.30',24.95,91.86666666666666, Public,10253 x 151feet,Hard,,,,,,,https://www.getmetar.com/VGSY
+13,BD,VGSH,Shamshernagar Stol Port Airport,N24.23.93',E91.55.01',24.383333333333333,91.91666666666667, Public,,,,,,,,,https://www.getmetar.com/VGSH

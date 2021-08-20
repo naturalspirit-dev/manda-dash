@@ -1,0 +1,477 @@
+,country,icaoCodes,airFieldName,latitude,longitude,ddLatitude,ddLongitude,airportUse,runwayOneDimensions,runwayOneSurface,runwayTwoDimensions,runwayTwoSurface,runwayThreeDimensions,runwayThreeSurface,runwayFourDimensions,runwayFourSurface,weatherLink
+0,DE,ETOR,Coleman AAF Airport,N49.33.81',E8.27.80',49.55,8.45,Military,3004 x 75feet,Hard,,,,,,,https://www.getmetar.com/ETOR
+1,DE,ETIE,Heidelberg AAF Airport,N49.23.58',E8.39.25',49.38333333333333,8.65,Military,,,,,,,,,https://www.getmetar.com/ETIE
+2,DE,ETHN,Niederstetten Airport,N49.23.51',E9.57.49',49.38333333333333,9.95,Military,4305 x 98feet,Hard,,,,,,,https://www.getmetar.com/ETHN
+3,DE,ETHL,Laupheim Airport,N48.13.21',E9.54.61',48.21666666666667,9.9,Military,5400 x 98feet,Hard,1969 x 164feet,Unknown,,,,,https://www.getmetar.com/ETHL
+4,DE,EDTZ,Konstanz Airport,N47.40.65',E9.8.45',47.666666666666664,9.133333333333333, Public,,,,,,,,,https://www.getmetar.com/EDTZ
+5,DE,EDTY,Schwaebisch Hall Airport,N49.7.10',E9.47.04',49.11666666666667,9.783333333333333, Public,5052 x 98feet,Hard,2460 x 98feet,Unknown,,,,,https://www.getmetar.com/EDTY
+6,DE,EDTX,Schwabisch Hall Weckrieden Airport,N49.7.45',E9.46.87',49.11666666666667,9.766666666666667, Public,,,,,,,,,https://www.getmetar.com/EDTX
+7,DE,EDTW,Winzeln Schramberg Airport,N48.16.77',E8.25.74',48.266666666666666,8.416666666666666, Public,,,,,,,,,https://www.getmetar.com/EDTW
+8,DE,EDTU,Saulgau Airport,N48.1.76',E9.30.44',48.016666666666666,9.5, Public,,,,,,,,,https://www.getmetar.com/EDTU
+9,DE,EDTS,Schwenningen Am Neckar Airport,N48.3.94',E8.34.28',48.05,8.566666666666666, Public,,,,,,,,,https://www.getmetar.com/EDTS
+10,DE,EDTR,Herten Rheinfelden Airport,N47.33.60',E7.44.90',47.55,7.733333333333333, Public,2394 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDTR
+11,DE,EDTP,Pfullendorf Airport,N47.54.51',E9.15.10',47.9,9.25, Public,,,,,,,,,https://www.getmetar.com/EDTP
+12,DE,EDTO,Offenburg Baden Airport,N48.27.05',E7.55.53',48.45,7.916666666666667, Public,,,,,,,,,https://www.getmetar.com/EDTO
+13,DE,EDTN,Nabern Teck Airport,N48.36.82',E9.28.70',48.6,9.466666666666667, Public,,,,,,,,,https://www.getmetar.com/EDTN
+14,DE,EDTM,Mengen Hohentengen Airport,N48.3.23',E9.22.37',48.05,9.366666666666667, Public,5138 x 98feet,Hard,,,,,,,https://www.getmetar.com/EDTM
+15,DE,EDTL,Lahr Airport,N48.22.16',E7.49.66',48.36666666666667,7.816666666666666,Military,9842 x 148feet,Hard,,,,,,,https://www.getmetar.com/EDTL
+16,DE,EDTK,Sinsheim Airport,N49.14.15',E8.53.11',49.233333333333334,8.883333333333333, Public,,,,,,,,,https://www.getmetar.com/EDTK
+17,DE,EDTH,Heubach Airport,N48.48.14',E9.55.65',48.8,9.916666666666666, Public,2460 x 65feet,Hard,,,,,,,https://www.getmetar.com/EDTH
+18,DE,EDTG,Bremgarten Airport,N47.54.19',E7.37.07',47.9,7.616666666666667, Public,5414 x 148feet,Hard,,,,,,,https://www.getmetar.com/EDTG
+19,DE,EDTF,Freiburg Im Breisgau Airport,N48.1.23',E7.50.02',48.016666666666666,7.833333333333333, Public,4068 x 98feet,Hard,,,,,,,https://www.getmetar.com/EDTF
+20,DE,EDTE,Eutingen Im Gaeu Airport,N48.29.13',E8.46.69',48.483333333333334,8.766666666666667, Public,,,,,,,,,https://www.getmetar.com/EDTE
+21,DE,EDTD,Donaueschingen Airport,N47.58.41',E8.31.33',47.96666666666667,8.516666666666667, Public,4232 x 98feet,Hard,,,,,,,https://www.getmetar.com/EDTD
+22,DE,EDTC,Bruchsal Airport,N49.8.10',E8.33.81',49.13333333333333,8.55, Public,1640 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDTC
+23,DE,EDTB,Baden Oos Airport,N48.47.48',E8.11.23',48.78333333333333,8.183333333333334, Public,3937 x 98feet,Unknown,,,,,,,https://www.getmetar.com/EDTB
+24,DE,EDSZ,Rottweil Zepfenhan Airport,N48.11.19',E8.43.27',48.18333333333333,8.716666666666667, Public,,,,,,,,,https://www.getmetar.com/EDSZ
+25,DE,EDSW,Altdorf Wallburg Airport,N48.16.19',E7.50.53',48.266666666666666,7.833333333333333, Public,2755 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDSW
+26,DE,EDSV,Wachtersberg Airport,N48.36.91',E8.45.34',48.6,8.75, Public,,,,,,,,,https://www.getmetar.com/EDSV
+27,DE,EDSR,Radolfzell Stahringen Airport,N47.48.16',E8.58.78',47.8,8.966666666666667, Public,,,,,,,,,https://www.getmetar.com/EDSR
+28,DE,EDSO,Grubingen Nortel Airport,N48.37.27',E9.39.35',48.61666666666667,9.65, Public,,,,,,,,,https://www.getmetar.com/EDSO
+29,DE,EDSN,Neuhausen Ob Eck Airport,N47.58.61',E8.54.31',47.96666666666667,8.9, Public,4095 x 98feet,Hard,,,,,,,https://www.getmetar.com/EDSN
+30,DE,EDSL,Blumberg Airport,N47.50.70',E8.33.94',47.833333333333336,8.55, Public,2558 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDSL
+31,DE,EDSK,Kehl Sundheim Airport,N48.33.52',E7.51.02',48.55,7.85, Public,,,,,,,,,https://www.getmetar.com/EDSK
+32,DE,EDSI,Binningen Airport,N47.47.95',E8.43.23',47.78333333333333,8.716666666666667, Public,2821 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDSI
+33,DE,EDSH,Backnang Heininggen Airport,N48.55.19',E9.27.32',48.916666666666664,9.45, Public,1640 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDSH
+34,DE,EDSG,Grabenstetten Airport,N48.32.17',E9.26.22',48.53333333333333,9.433333333333334, Public,3608 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDSG
+35,DE,EDSE,Goppingen Bezgenriet Airport,N48.39.50',E9.37.50',48.65,9.616666666666667, Public,,,,,,,,,https://www.getmetar.com/EDSE
+36,DE,EDSB,Baden Baden Airport,N48.46.76',E8.4.83',48.766666666666666,8.066666666666666, Public,9843 x 148feet,Hard,,,,,,,https://www.getmetar.com/EDSB
+37,DE,EDSA,Albstadt Degerfeld Airport,N48.14.98',E9.3.62',48.233333333333334,9.05, Public,3149 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDSA
+38,DE,EDRI,Linkenheim Airport,N49.8.53',E8.23.73',49.13333333333333,8.383333333333333, Public,,,,,,,,,https://www.getmetar.com/EDRI
+39,DE,EDPY,Ellwangen Airport,N48.57.66',E10.14.19',48.95,10.233333333333333, Public,2575 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDPY
+40,DE,EDPU,Bartholoma Amalienhof Airport,N48.44.80',E10.0.30',48.733333333333334,10.0, Public,2952 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDPU
+41,DE,EDPT,Gerstetten Airport,N48.37.23',E10.3.68',48.61666666666667,10.05, Public,1738 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDPT
+42,DE,EDPM,Donzdorf Messelberg Airport,N48.40.69',E9.50.61',48.666666666666664,9.833333333333334, Public,1968 x 33feet,Hard,,,,,,,https://www.getmetar.com/EDPM
+43,DE,EDPJ,Laichingen Airport,N48.29.79',E9.38.35',48.483333333333334,9.633333333333333, Public,,,,,,,,,https://www.getmetar.com/EDPJ
+44,DE,EDPB,Bad Ditzenbach Airport,N48.33.77',E9.43.75',48.55,9.716666666666667, Public,2000 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDPB
+45,DE,EDPA,Aalen Heidenheim Airport,N48.46.67',E10.15.88',48.766666666666666,10.25, Public,3117 x 98feet,Hard,3117 x 82feet,Unknown,,,,,https://www.getmetar.com/EDPA
+46,DE,EDNY,Friedrichshafen Airport,N47.40.28',E9.30.69',47.666666666666664,9.5, Public,7730 x 98feet,Hard,,,,,,,https://www.getmetar.com/EDNY
+47,DE,EDNQ,Bopfingen Airport,N48.50.91',E10.20.03',48.833333333333336,10.333333333333334, Public,1525 x 49feet,Hard,,,,,,,https://www.getmetar.com/EDNQ
+48,DE,EDNL,Leutkirch Unterzeil Airport,N47.51.53',E10.0.86',47.85,10.0, Public,3346 x 66feet,Hard,,,,,,,https://www.getmetar.com/EDNL
+49,DE,EDNG,Giegen Brenz Airport,N48.38.11',E10.12.93',48.63333333333333,10.2, Public,1805 x 49feet,Hard,,,,,,,https://www.getmetar.com/EDNG
+50,DE,EDNE,Erbach Airport,N48.20.52',E9.55.00',48.333333333333336,9.916666666666666, Public,2132 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDNE
+51,DE,EDMT,Tannheim Airport,N48.0.70',E10.6.12',48.0,10.1, Public,,,,,,,,,https://www.getmetar.com/EDMT
+52,DE,EDMC,Blaubeuren Airport,N48.25.19',E9.47.93',48.416666666666664,9.783333333333333, Public,2857 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDMC
+53,DE,EDMB,Biberach A D Riss Airport,N48.6.66',E9.45.77',48.1,9.75, Public,3215 x 75feet,Hard,,,,,,,https://www.getmetar.com/EDMB
+54,DE,EDGX,Walldorf Airport,N49.18.30',E8.39.60',49.3,8.65, Public,,,,,,,,,https://www.getmetar.com/EDGX
+55,DE,EDGU,Unterschupf Airport,N49.31.00',E9.40.17',49.516666666666666,9.666666666666666, Public,,,,,,,,,https://www.getmetar.com/EDGU
+56,DE,EDGM,Mosbach Lohrbach Airport,N49.23.94',E9.7.44',49.38333333333333,9.116666666666667, Public,,,,,,,,,https://www.getmetar.com/EDGM
+57,DE,EDFX,Hockenheim Airport,N49.19.52',E8.31.71',49.31666666666667,8.516666666666667, Public,2755 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDFX
+58,DE,EDFM,Mannheim City Airport,N49.28.36',E8.30.86',49.46666666666667,8.5, Public,3497 x 82feet,Hard,2297 x 98feet,Unknown,,,,,https://www.getmetar.com/EDFM
+59,DE,EDEW,Walldurn Airport,N49.34.97',E9.24.20',49.56666666666667,9.4, Public,,,,,,,,,https://www.getmetar.com/EDEW
+60,DE,EDEH,Herrenteich Airport,N49.20.70',E8.29.26',49.333333333333336,8.483333333333333, Public,2083 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDEH
+61,DE,EDDS,Stuttgart Airport,N48.41.39',E9.13.32',48.68333333333333,9.216666666666667, Public,10974 x 148feet,Hard,,,,,,,https://www.getmetar.com/EDDS
+62,DE,ETSN,Neuburg Airport,N48.42.66',E11.12.68',48.7,11.2,Military,8005 x 98feet,Hard,,,,,,,https://www.getmetar.com/ETSN
+63,DE,ETSL,Lechfeld Airport,N48.11.13',E10.51.67',48.18333333333333,10.85,Military,8783 x 98feet,Hard,,,,,,,https://www.getmetar.com/ETSL
+64,DE,ETSI,Ingolstadt Manching Airport,N48.42.94',E11.32.02',48.7,11.533333333333333, Public,9646 x 197feet,Hard,7999 x 98feet,Unknown,,,,,https://www.getmetar.com/ETSI
+65,DE,ETSF,Furstenfeldbruck Airport,N48.12.34',E11.16.02',48.2,11.266666666666667,Military,9003 x 151feet,Hard,,,,,,,https://www.getmetar.com/ETSF
+66,DE,ETSA,Landsberg Lech Airport,N48.4.23',E10.54.36',48.06666666666667,10.9,Military,6778 x 98feet,Hard,,,,,,,https://www.getmetar.com/ETSA
+67,DE,ETOY,Leighton Bks AAF Airport,N49.47.38',E9.58.53',49.78333333333333,9.966666666666667,Military,,,,,,,,,https://www.getmetar.com/ETOY
+68,DE,ETOI,Vilseck AAF Airport,N49.38.02',E11.46.03',49.63333333333333,11.766666666666667,Military,3426 x 80feet,Hard,,,,,,,https://www.getmetar.com/ETOI
+69,DE,ETIN,Kitzingen AAF Airport,N49.44.60',E10.12.20',49.733333333333334,10.2,Military,5901 x 99feet,Hard,,,,,,,https://www.getmetar.com/ETIN
+70,DE,ETIK,Illesheim AAF Airport,N49.28.43',E10.23.27',49.46666666666667,10.383333333333333,Military,,,,,,,,,https://www.getmetar.com/ETIK
+71,DE,ETIH,Hohenfels AAF Airport,N49.12.99',E11.50.17',49.2,11.833333333333334,Military,2120 x 72feet,Hard,,,,,,,https://www.getmetar.com/ETIH
+72,DE,ETIC,Grafenwohr Airport,N49.41.92',E11.56.41',49.68333333333333,11.933333333333334,Military,3300 x 73feet,Hard,,,,,,,https://www.getmetar.com/ETIC
+73,DE,ETHA,Altenstadt Airport,N47.50.13',E10.52.28',47.833333333333336,10.866666666666667,Military,2300 x 98feet,Soft,,,,,,,https://www.getmetar.com/ETHA
+74,DE,ETGU,Ulm AAF Airport,N48.23.12',E10.2.15',48.38333333333333,10.033333333333333,Military,,,,,,,,,https://www.getmetar.com/ETGU
+75,DE,ETEB,Ansbach AHP Airport,N49.18.49',E10.38.32',49.3,10.633333333333333,Military,,,,,,,,,https://www.getmetar.com/ETEB
+76,DE,EDQZ,Pegnitz Zipser Berg Airport,N49.45.73',E11.34.48',49.75,11.566666666666666, Public,,,,,,,,,https://www.getmetar.com/EDQZ
+77,DE,EDQY,Coburg Steinrucken Airport,N50.13.81',E10.59.75',50.21666666666667,10.983333333333333, Public,2296 x 82feet,Soft,,,,,,,https://www.getmetar.com/EDQY
+78,DE,EDQX,Hetzleser Berg Airport,N49.38.53',E11.9.70',49.63333333333333,11.15, Public,1994 x 23feet,Hard,,,,,,,https://www.getmetar.com/EDQX
+79,DE,EDQW,Weiden Opf Airport,N49.40.73',E12.6.99',49.666666666666664,12.1, Public,,,,,,,,,https://www.getmetar.com/EDQW
+80,DE,EDQT,Hassfurt Schweinfurt Airport,N50.1.08',E10.31.77',50.016666666666666,10.516666666666667, Public,3609 x 66feet,Hard,,,,,,,https://www.getmetar.com/EDQT
+81,DE,EDQR,Ebern Sendelbach Airport,N50.2.38',E10.49.37',50.03333333333333,10.816666666666666, Public,1712 x 82feet,Soft,,,,,,,https://www.getmetar.com/EDQR
+82,DE,EDQP,Rosenthal Field Plossen Airport,N49.51.78',E11.47.26',49.85,11.783333333333333, Public,,,,,,,,,https://www.getmetar.com/EDQP
+83,DE,EDQO,Ottengruner Heide Airport,N50.13.55',E11.43.95',50.21666666666667,11.716666666666667, Public,,,,,,,,,https://www.getmetar.com/EDQO
+84,DE,EDQN,Neustadt Aisch Airport,N49.35.33',E10.34.73',49.583333333333336,10.566666666666666, Public,,,,,,,,,https://www.getmetar.com/EDQN
+85,DE,EDQM,Hof Plauen Airport,N50.17.33',E11.51.30',50.28333333333333,11.85, Public,4856 x 98feet,Hard,,,,,,,https://www.getmetar.com/EDQM
+86,DE,EDQL,Lichtenfels Airport,N50.8.97',E11.2.98',50.13333333333333,11.033333333333333, Public,,,,,,,,,https://www.getmetar.com/EDQL
+87,DE,EDQK,Kulmbach Airport,N50.8.17',E11.27.60',50.13333333333333,11.45, Public,,,,,,,,,https://www.getmetar.com/EDQK
+88,DE,EDQI,Lauf Lillinghof Airport,N49.36.35',E11.17.12',49.6,11.283333333333333, Public,,,,,,,,,https://www.getmetar.com/EDQI
+89,DE,EDQH,Herzogenaurach Airport,N49.34.95',E10.52.69',49.56666666666667,10.866666666666667, Public,2296 x 66feet,Hard,,,,,,,https://www.getmetar.com/EDQH
+90,DE,EDQG,Giebelstadt Airport,N49.38.89',E9.57.99',49.63333333333333,9.95, Public,5730 x 98feet,Hard,,,,,,,https://www.getmetar.com/EDQG
+91,DE,EDQF,Ansbach Petersdorf Airport,N49.21.67',E10.40.33',49.35,10.666666666666666, Public,2558 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDQF
+92,DE,EDQE,Burg Feuerstein Airport,N49.47.63',E11.7.99',49.78333333333333,11.116666666666667, Public,3190 x 49feet,Hard,2317 x 85feet,Unknown,,,,,https://www.getmetar.com/EDQE
+93,DE,EDQD,Bayreuth Bindlache Airport,N49.59.07',E11.38.31',49.983333333333334,11.633333333333333, Public,3550 x 98feet,Hard,,,,,,,https://www.getmetar.com/EDQD
+94,DE,EDQC,Coburg Brandensteinsebene Airport,N50.15.80',E10.59.70',50.25,10.983333333333333, Public,2074 x 65feet,Hard,,,,,,,https://www.getmetar.com/EDQC
+95,DE,EDQB,Bad Windsheim Airport,N49.30.60',E10.21.99',49.5,10.35, Public,2263 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDQB
+96,DE,EDQA,Bamberg Breitenau Airport,N49.55.23',E10.54.87',49.916666666666664,10.9, Public,,,,,,,,,https://www.getmetar.com/EDQA
+97,DE,EDPW,Thalmassing Waizenhofen Airport,N49.3.86',E11.12.57',49.05,11.2, Public,,,,,,,,,https://www.getmetar.com/EDPW
+98,DE,EDPS,Sonnen Airport,N48.41.00',E13.41.78',48.68333333333333,13.683333333333334,Private,,,,,,,,,https://www.getmetar.com/EDPS
+99,DE,EDPQ,Schmidgaden Airport,N49.25.85',E12.6.00',49.416666666666664,12.1, Public,,,,,,,,,https://www.getmetar.com/EDPQ
+100,DE,EDPO,Neumarkt Opf Airport,N49.17.14',E11.26.68',49.28333333333333,11.433333333333334, Public,,,,,,,,,https://www.getmetar.com/EDPO
+101,DE,EDPI,Moosburg Auf Der Kippe Airport,N48.27.45',E11.56.57',48.45,11.933333333333334, Public,,,,,,,,,https://www.getmetar.com/EDPI
+102,DE,EDPH,Schwabach Buchenbach Airport,N49.16.20',E11.0.95',49.266666666666666,11.0,Military,,,,,,,,,https://www.getmetar.com/EDPH
+103,DE,EDPG,Griesau Airport,N48.57.22',E12.25.28',48.95,12.416666666666666, Public,1558 x 66feet,Soft,,,,,,,https://www.getmetar.com/EDPG
+104,DE,EDPF,Schwandorf Airport,N49.20.44',E12.11.08',49.333333333333336,12.183333333333334, Public,,,,,,,,,https://www.getmetar.com/EDPF
+105,DE,EDPE,Eichstatt Airport,N48.52.62',E11.10.94',48.86666666666667,11.166666666666666, Public,2345 x 115feet,Soft,,,,,,,https://www.getmetar.com/EDPE
+106,DE,EDPD,Dingolfing Airport,N48.39.47',E12.30.03',48.65,12.5, Public,2165 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDPD
+107,DE,EDPC,Bad Endorf Jolling Airport,N47.55.61',E12.17.23',47.916666666666664,12.283333333333333, Public,,,,,,,,,https://www.getmetar.com/EDPC
+108,DE,EDNZ,Zell Haidberg Airport,N50.8.20',E11.47.67',50.13333333333333,11.783333333333333, Public,,,,,,,,,https://www.getmetar.com/EDNZ
+109,DE,EDNX,Oberschleissheim Airport,N48.14.34',E11.33.55',48.233333333333334,11.55, Public,,,,,,,,,https://www.getmetar.com/EDNX
+110,DE,EDNW,Weissenhorn Airport,N48.17.36',E10.8.41',48.28333333333333,10.133333333333333, Public,,,,,,,,,https://www.getmetar.com/EDNW
+111,DE,EDNV,Vogtareuth Airport,N47.56.82',E12.12.37',47.93333333333333,12.2, Public,,,,,,,,,https://www.getmetar.com/EDNV
+112,DE,EDNU,Thannhausen Airport,N48.17.23',E10.26.65',48.28333333333333,10.433333333333334, Public,,,,,,,,,https://www.getmetar.com/EDNU
+113,DE,EDNT,Treuchtlingen Bubenheim Airport,N49.59.76',E10.53.09',49.983333333333334,10.883333333333333, Public,,,,,,,,,https://www.getmetar.com/EDNT
+114,DE,EDNS,Schwabmunchen Airport,N48.10.82',E10.42.25',48.166666666666664,10.7, Public,,,,,,,,,https://www.getmetar.com/EDNS
+115,DE,EDNR,Regensburg Oberhub Airport,N49.8.52',E12.4.91',49.13333333333333,12.066666666666666, Public,,,,,,,,,https://www.getmetar.com/EDNR
+116,DE,EDNP,Pfarrkirchen Airport,N48.25.27',E12.51.98',48.416666666666664,12.85, Public,,,,,,,,,https://www.getmetar.com/EDNP
+117,DE,EDNO,Nordlingen Airport,N48.52.35',E10.30.32',48.86666666666667,10.5, Public,,,,,,,,,https://www.getmetar.com/EDNO
+118,DE,EDNM,Nittenau Bruck Airport,N49.13.42',E12.17.88',49.21666666666667,12.283333333333333, Public,,,,,,,,,https://www.getmetar.com/EDNM
+119,DE,EDNK,Kirchdorf Inn Airport,N48.14.31',E12.58.61',48.233333333333334,12.966666666666667, Public,,,,,,,,,https://www.getmetar.com/EDNK
+120,DE,EDNJ,Neuburg Egweil Airport,N48.47.00',E11.13.33',48.78333333333333,11.216666666666667, Public,,,,,,,,,https://www.getmetar.com/EDNJ
+121,DE,EDNI,Berching Airport,N49.7.83',E11.26.65',49.11666666666667,11.433333333333334, Public,2788 x 82feet,Soft,,,,,,,https://www.getmetar.com/EDNI
+122,DE,EDNH,Bad Worishofen Nor Airport,N48.0.98',E10.36.96',48.0,10.6, Public,2640 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDNH
+123,DE,EDND,Dinkelsbuhl Sinbronn Airport,N49.3.90',E10.24.06',49.05,10.4, Public,2296 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDND
+124,DE,EDNC,Beilngries Airport,N49.1.29',E11.29.08',49.016666666666666,11.483333333333333, Public,1968 x 82feet,Soft,,,,,,,https://www.getmetar.com/EDNC
+125,DE,EDNB,Arnbruck Airport,N49.7.51',E12.59.10',49.11666666666667,12.983333333333333, Public,2001 x 33feet,Hard,,,,,,,https://www.getmetar.com/EDNB
+126,DE,EDNA,Ampfing Waldkraiburg Airport,N48.15.86',E12.24.84',48.25,12.4, Public,2919 x 131feet,Soft,,,,,,,https://www.getmetar.com/EDNA
+127,DE,EDMY,Muhldorf Airport,N48.16.80',E12.30.11',48.266666666666666,12.5, Public,,,,,,,,,https://www.getmetar.com/EDMY
+128,DE,EDMW,Deggendorf Airport,N48.49.81',E12.52.79',48.81666666666667,12.866666666666667, Public,1804 x 49feet,Hard,,,,,,,https://www.getmetar.com/EDMW
+129,DE,EDMV,Vilshofen Airport,N48.38.11',E13.11.74',48.63333333333333,13.183333333333334, Public,3734 x 66feet,Hard,,,,,,,https://www.getmetar.com/EDMV
+130,DE,EDMU,Gundelfingen Airport,N48.34.17',E10.21.54',48.56666666666667,10.35, Public,1574 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDMU
+131,DE,EDMS,Straubing Wallmuhle Airport,N48.54.06',E12.31.09',48.9,12.516666666666667,Military,4428 x 98feet,Hard,,,,,,,https://www.getmetar.com/EDMS
+132,DE,EDMQ,Donauworth Genderkingen Airport,N48.42.17',E10.51.06',48.7,10.85, Public,1738 x 49feet,Hard,,,,,,,https://www.getmetar.com/EDMQ
+133,DE,EDMP,Vilsbiburg Airport,N48.25.65',E12.20.82',48.416666666666664,12.333333333333334, Public,,,,,,,,,https://www.getmetar.com/EDMP
+134,DE,EDMO,Oberpfaffenhofen Airport,N48.4.88',E11.16.98',48.06666666666667,11.266666666666667, Public,7500 x 148feet,Hard,,,,,,,https://www.getmetar.com/EDMO
+135,DE,EDMN,Mindelheim Matties Airport,N48.6.35',E10.31.32',48.1,10.516666666666667, Public,3770 x 66feet,Hard,,,,,,,https://www.getmetar.com/EDMN
+136,DE,EDML,Landshut Airport,N48.30.76',E12.2.10',48.5,12.033333333333333, Public,,,,,,,,,https://www.getmetar.com/EDML
+137,DE,EDMK,Kempten Durach Airport,N47.41.56',E10.20.30',47.68333333333333,10.333333333333334, Public,,,,,,,,,https://www.getmetar.com/EDMK
+138,DE,EDMJ,Jesenwang Airport,N48.10.46',E11.7.50',48.166666666666664,11.116666666666667,Private,1339 x 39feet,Hard,,,,,,,https://www.getmetar.com/EDMJ
+139,DE,EDMI,Illertissen Airport,N48.14.17',E10.8.33',48.233333333333334,10.133333333333333, Public,,,,,,,,,https://www.getmetar.com/EDMI
+140,DE,EDMH,Gunzenhausen Reutberg Airport,N49.6.72',E10.46.91',49.1,10.766666666666667, Public,2378 x 49feet,Hard,,,,,,,https://www.getmetar.com/EDMH
+141,DE,EDMG,Gunzburg Donauried Airport,N48.29.23',E10.17.01',48.483333333333334,10.283333333333333, Public,1902 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDMG
+142,DE,EDMF,Furstenzell Bei Pa Airport,N48.31.08',E13.20.76',48.516666666666666,13.333333333333334, Public,1591 x 39feet,Hard,,,,,,,https://www.getmetar.com/EDMF
+143,DE,EDME,Eggenfelden Airport,N48.23.77',E12.43.42',48.38333333333333,12.716666666666667, Public,3806 x 75feet,Hard,,,,,,,https://www.getmetar.com/EDME
+144,DE,EDMD,Dachau Grobenried Airport,N48.13.71',E11.25.39',48.21666666666667,11.416666666666666, Public,,,,,,,,,https://www.getmetar.com/EDMD
+145,DE,EDMA,Augsburg Airport,N48.25.51',E10.55.91',48.416666666666664,10.916666666666666, Public,5230 x 98feet,Hard,,,,,,,https://www.getmetar.com/EDMA
+146,DE,EDJG,Grabenstatt Airport,N47.51.18',E12.33.03',47.85,12.55, Public,,,,,,,,,https://www.getmetar.com/EDJG
+147,DE,EDJA,Memmingen Airport,N47.59.33',E10.14.37',47.983333333333334,10.233333333333333, Public,7877 x 98feet,Hard,,,,,,,https://www.getmetar.com/EDJA
+148,DE,EDGJ,Ochsenfurt Airport,N49.40.45',E10.4.29',49.666666666666664,10.066666666666666, Public,,,,,,,,,https://www.getmetar.com/EDGJ
+149,DE,EDGH,Hettstadt Airport,N49.47.92',E9.50.21',49.78333333333333,9.833333333333334, Public,1804 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDGH
+150,DE,EDFW,Wurzburg Schenkenturm Airport,N49.49.08',E9.53.83',49.81666666666667,9.883333333333333, Public,,,,,,,,,https://www.getmetar.com/EDFW
+151,DE,EDFU,Mainbullau Airport,N49.41.70',E9.10.92',49.68333333333333,9.166666666666666, Public,,,,,,,,,https://www.getmetar.com/EDFU
+152,DE,EDFS,Schweinfurt Sud Airport,N50.0.63',E10.15.08',50.0,10.25, Public,,,,,,,,,https://www.getmetar.com/EDFS
+153,DE,EDFR,Rothenburg Airport,N49.23.44',E10.13.13',49.38333333333333,10.216666666666667, Public,,,,,,,,,https://www.getmetar.com/EDFR
+154,DE,EDFK,Bad Kissingen AAF Airport,N50.12.63',E10.4.13',50.2,10.066666666666666, Public,2600 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDFK
+155,DE,EDFJ,Lager Hammelburg Airport,N50.5.91',E9.53.01',50.083333333333336,9.883333333333333, Public,,,,,,,,,https://www.getmetar.com/EDFJ
+156,DE,EDFD,Bad Neustadt Saale Grasberg Airport,N50.18.33',E10.13.59',50.3,10.216666666666667, Public,2000 x 49feet,Hard,,,,,,,https://www.getmetar.com/EDFD
+157,DE,EDFC,Aschaffenburg Airport,N49.56.33',E9.3.75',49.93333333333333,9.05, Public,2755 x 66feet,Hard,,,,,,,https://www.getmetar.com/EDFC
+158,DE,EDDN,Nuernberg Airport,N49.29.92',E11.4.68',49.483333333333334,11.066666666666666, Public,8859 x 148feet,Hard,,,,,,,https://www.getmetar.com/EDDN
+159,DE,EDDM,Muenchen Airport,N48.21.23',E11.47.17',48.35,11.783333333333333, Public,13123 x 197feet,Hard,13123 x 197feet,Unknown,,,,,https://www.getmetar.com/EDDM
+160,DE,EDDT,Berlin Tegel Airport,N52.33.58',E13.17.26',52.55,13.283333333333333, Public,9918 x 151feet,Hard,7966 x 151feet,Unknown,,,,,https://www.getmetar.com/EDDT
+161,DE,ETSH,Holzdorf Airport,N51.46.07',E13.10.06',51.766666666666666,13.166666666666666,Military,7936 x 98feet,Hard,,,,,,,https://www.getmetar.com/ETSH
+162,DE,EDUS,Finsterwall Schacksdorf Airport,N51.36.45',E13.44.28',51.6,13.733333333333333, Public,3937 x 98feet,Hard,2904 x 131feet,Unknown,,,,,https://www.getmetar.com/EDUS
+163,DE,EDUF,Falkenberg Lonnewitz Airport,N51.32.87',E13.13.69',51.53333333333333,13.216666666666667, Public,3937 x 98feet,Hard,,,,,,,https://www.getmetar.com/EDUF
+164,DE,EDOR,Stolln Rhinow Airport,N52.44.77',E12.23.67',52.733333333333334,12.383333333333333, Public,,,,,,,,,https://www.getmetar.com/EDOR
+165,DE,EDON,Neuhardenberg Airport,N52.36.78',E14.14.56',52.6,14.233333333333333, Public,7874 x 164feet,Hard,,,,,,,https://www.getmetar.com/EDON
+166,DE,EDOJ,Lusse Airport,N52.8.65',E12.40.18',52.13333333333333,12.666666666666666, Public,,,,,,,,,https://www.getmetar.com/EDOJ
+167,DE,EDOI,Bienenfarm Airport,N52.39.60',E12.44.75',52.65,12.733333333333333, Public,2788 x 131feet,Soft,,,,,,,https://www.getmetar.com/EDOI
+168,DE,EDOD,Reinsdorf Airport,N51.54.06',E13.11.66',51.9,13.183333333333334, Public,4200 x 131feet,Soft,,,,,,,https://www.getmetar.com/EDOD
+169,DE,EDDB,Berlin Brandenburg Airport,N52.21.73',E13.30.04',52.35,13.5, Public,11811 x 148feet,Hard,,,,,,,https://www.getmetar.com/EDDB
+170,DE,EDCY,Welzow Airport,N51.34.62',E14.8.22',51.56666666666667,14.133333333333333, Public,6562 x 98feet,Hard,,,,,,,https://www.getmetar.com/EDCY
+171,DE,EDCS,Saarmund Airport,N52.18.54',E13.6.04',52.3,13.1, Public,,,,,,,,,https://www.getmetar.com/EDCS
+172,DE,EDCE,Eggersdorf Muncheberg Airport,N52.28.97',E14.5.45',52.46666666666667,14.083333333333334, Public,7314 x 131feet,Soft,,,,,,,https://www.getmetar.com/EDCE
+173,DE,EDCD,Cottbus Drewitz Airport,N51.53.37',E14.31.92',51.88333333333333,14.516666666666667, Public,8150 x 148feet,Hard,6562 x 164feet,Unknown,,,,,https://www.getmetar.com/EDCD
+174,DE,EDBZ,Schwarzheide Schipkau Airport,N51.29.50',E13.52.75',51.483333333333334,13.866666666666667, Public,,,,,,,,,https://www.getmetar.com/EDBZ
+175,DE,EDBW,Werneuchen Airport,N52.37.98',E13.46.02',52.61666666666667,13.766666666666667, Public,4918 x 262feet,Hard,,,,,,,https://www.getmetar.com/EDBW
+176,DE,EDBU,Pritzwalk Sommersberg Airport,N53.10.85',E12.11.13',53.166666666666664,12.183333333333334, Public,,,,,,,,,https://www.getmetar.com/EDBU
+177,DE,EDBQ,Bronkow Airport,N51.40.24',E13.57.60',51.666666666666664,13.95, Public,,,,,,,,,https://www.getmetar.com/EDBQ
+178,DE,EDBO,Oehna Airport,N51.53.94',E13.3.35',51.88333333333333,13.05, Public,,,,,,,,,https://www.getmetar.com/EDBO
+179,DE,EDBK,Kyritz Airport,N52.55.13',E12.25.52',52.916666666666664,12.416666666666666, Public,3281 x 98feet,Hard,3281 x 75feet,Unknown,,,,,https://www.getmetar.com/EDBK
+180,DE,EDBF,Ruppiner Land Airport,N52.47.93',E12.45.65',52.78333333333333,12.75, Public,,,,,,,,,https://www.getmetar.com/EDBF
+181,DE,EDBE,Brandenburg Muhlenfeld Airport,N52.26.18',E12.35.44',52.43333333333333,12.583333333333334, Public,2394 x 131feet,Soft,,,,,,,https://www.getmetar.com/EDBE
+182,DE,EDBD,Dedelow Airport,N53.21.36',E13.47.02',53.35,13.783333333333333, Public,1033 x 33feet,Hard,,,,,,,https://www.getmetar.com/EDBD
+183,DE,EDAZ,Schonhagen Airport,N52.12.23',E13.9.60',52.2,13.15, Public,3937 x 75feet,Hard,,,,,,,https://www.getmetar.com/EDAZ
+184,DE,EDAY,Strausberg Airport,N52.34.81',E13.54.90',52.56666666666667,13.9, Public,3937 x 131feet,Hard,3937 x 92feet,Unknown,,,,,https://www.getmetar.com/EDAY
+185,DE,EDAV,Finow Airport,N52.49.58',E13.42.10',52.81666666666667,13.7, Public,8268 x 164feet,Hard,,,,,,,https://www.getmetar.com/EDAV
+186,DE,EDAP,Neuhausen Airport,N51.41.09',E14.25.39',51.68333333333333,14.416666666666666, Public,2624 x 131feet,Soft,,,,,,,https://www.getmetar.com/EDAP
+187,DE,EDAI,Segeletz Airport,N52.49.59',E12.32.59',52.81666666666667,12.533333333333333, Public,,,,,,,,,https://www.getmetar.com/EDAI
+188,DE,EDAE,Eisenhuttenstadt Airport,N52.11.84',E14.35.14',52.18333333333333,14.583333333333334, Public,3838 x 75feet,Hard,,,,,,,https://www.getmetar.com/EDAE
+189,DE,EDDW,Bremen Airport,N53.2.84',E8.47.20',53.03333333333333,8.783333333333333, Public,6693 x 148feet,Hard,2296 x 75feet,Unknown,,,,,https://www.getmetar.com/EDDW
+190,DE,EDHI,Hamburg Finkenwerder Airport,N53.32.03',E9.49.94',53.53333333333333,9.816666666666666, Public,10443 x 148feet,Hard,,,,,,,https://www.getmetar.com/EDHI
+191,DE,EDDH,Hamburg Airport,N53.37.82',E9.59.29',53.61666666666667,9.983333333333333, Public,12024 x 150feet,Hard,10663 x 150feet,Unknown,,,,,https://www.getmetar.com/EDDH
+192,DE,ETOU,Wiesbaden Airport,N50.2.99',E8.19.53',50.03333333333333,8.316666666666666,Military,7066 x 120feet,Hard,,,,,,,https://www.getmetar.com/ETOU
+193,DE,ETID,Hanau AAF Airport,N50.10.15',E8.57.70',50.166666666666664,8.95,Military,3007 x 75feet,Hard,,,,,,,https://www.getmetar.com/ETID
+194,DE,ETHF,Fritzlar Airport,N51.6.87',E9.17.15',51.1,9.283333333333333,Military,3422 x 98feet,Hard,,,,,,,https://www.getmetar.com/ETHF
+195,DE,EDVL,Holleberg Airport,N51.36.65',E9.23.90',51.6,9.383333333333333, Public,1706 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDVL
+196,DE,EDVK,Kassel Calden Airport,N51.25.25',E9.23.53',51.416666666666664,9.383333333333333, Public,4921 x 98feet,Hard,2297 x 98feet,Unknown,,,,,https://www.getmetar.com/EDVK
+197,DE,EDVG,Mengeringhausen Airport,N51.22.67',E8.58.62',51.36666666666667,8.966666666666667, Public,,,,,,,,,https://www.getmetar.com/EDVG
+198,DE,EDGZ,Weinheim Bergstrasse Airport,N49.34.05',E8.36.67',49.56666666666667,8.6, Public,,,,,,,,,https://www.getmetar.com/EDGZ
+199,DE,EDGW,Wolfhagen Graner Berg Airport,N51.18.50',E9.10.58',51.3,9.166666666666666, Public,,,,,,,,,https://www.getmetar.com/EDGW
+200,DE,EDGT,Bottenhorn Airport,N50.47.68',E8.27.81',50.78333333333333,8.45, Public,1722 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDGT
+201,DE,EDGR,Giessen Reiskirchen Airport,N50.34.01',E8.52.19',50.56666666666667,8.866666666666667, Public,1443 x 66feet,Soft,,,,,,,https://www.getmetar.com/EDGR
+202,DE,EDGN,Nordenbeck Airport,N51.14.20',E8.49.20',51.233333333333334,8.816666666666666, Public,,,,,,,,,https://www.getmetar.com/EDGN
+203,DE,EDGK,Korbach Airport,N51.15.30',E8.52.63',51.25,8.866666666666667, Public,,,,,,,,,https://www.getmetar.com/EDGK
+204,DE,EDGF,Fulda Jossa Airport,N50.28.54',E9.26.52',50.46666666666667,9.433333333333334, Public,1929 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDGF
+205,DE,EDGB,Breitscheid Airport,N50.40.63',E8.10.23',50.666666666666664,8.166666666666666, Public,2575 x 49feet,Soft,,,,,,,https://www.getmetar.com/EDGB
+206,DE,EDFY,Elz Airport,N50.25.61',E8.0.66',50.416666666666664,8.0, Public,1968 x 20feet,Hard,,,,,,,https://www.getmetar.com/EDFY
+207,DE,EDFT,Lauterbach Airport,N50.41.07',E9.24.68',50.68333333333333,9.4, Public,,,,,,,,,https://www.getmetar.com/EDFT
+208,DE,EDFQ,Allendorf Eder Airport,N51.2.12',E8.40.85',51.03333333333333,8.666666666666666, Public,4068 x 98feet,Hard,,,,,,,https://www.getmetar.com/EDFQ
+209,DE,EDFP,Ober Morlen Airport,N50.21.71',E8.42.64',50.35,8.7, Public,,,,,,,,,https://www.getmetar.com/EDFP
+210,DE,EDFO,Michelstadt Odenwa Airport,N49.40.71',E8.58.34',49.666666666666664,8.966666666666667, Public,,,,,,,,,https://www.getmetar.com/EDFO
+211,DE,EDFN,Marburg Schonstadt Airport,N50.52.47',E8.48.90',50.86666666666667,8.8, Public,,,,,,,,,https://www.getmetar.com/EDFN
+212,DE,EDFL,Giessen Lutzellinden Airport,N50.32.63',E8.35.41',50.53333333333333,8.583333333333334, Public,2348 x 52feet,Hard,,,,,,,https://www.getmetar.com/EDFL
+213,DE,EDFI,Hirzenhain Airport,N50.47.29',E8.23.56',50.78333333333333,8.383333333333333, Public,2132 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDFI
+214,DE,EDFG,Gelnhausen Airport,N50.11.83',E9.10.20',50.18333333333333,9.166666666666666, Public,2755 x 82feet,Soft,,,,,,,https://www.getmetar.com/EDFG
+215,DE,EDFE,Frankfurt Egelsbach Airport,N49.57.65',E8.38.49',49.95,8.633333333333333, Public,4593 x 82feet,Hard,2198 x 82feet,Unknown,,,,,https://www.getmetar.com/EDFE
+216,DE,EDFB,Bad Nauheim Reichelsheim Airport,N50.20.15',E8.52.69',50.333333333333336,8.866666666666667, Public,,,,,,,,,https://www.getmetar.com/EDFB
+217,DE,EDFA,Anspach Taunus Airport,N50.17.34',E8.32.11',50.28333333333333,8.533333333333333, Public,2099 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDFA
+218,DE,EDER,Wasserkuppe Airport,N50.29.87',E9.56.97',50.483333333333334,9.933333333333334, Public,,,,,,,,,https://www.getmetar.com/EDER
+219,DE,EDEP,Heppenheim Airport,N49.37.29',E8.37.50',49.61666666666667,8.616666666666667, Public,3611 x 131feet,Soft,3434 x 131feet,Unknown,,,,,https://www.getmetar.com/EDEP
+220,DE,EDEN,Bad Hersfeld Airport,N50.50.67',E9.42.44',50.833333333333336,9.7, Public,,,,,,,,,https://www.getmetar.com/EDEN
+221,DE,EDEM,Mosenberg Airport,N51.3.77',E9.25.32',51.05,9.416666666666666, Public,,,,,,,,,https://www.getmetar.com/EDEM
+222,DE,EDEF,Babenhausen Airport,N49.57.17',E8.58.16',49.95,8.966666666666667, Public,2200 x 60feet,Hard,,,,,,,https://www.getmetar.com/EDEF
+223,DE,EDDF,Frankfurt Main Airport,N50.2.00',E8.34.23',50.03333333333333,8.566666666666666, Public,13123 x 197feet,Hard,13123 x 148feet,Unknown,13123 x 148feet,Unknown,9186 x 148feet,Unknown,https://www.getmetar.com/EDDF
+224,DE,ETNL,Laage Airport,N53.55.09',E12.16.76',53.916666666666664,12.266666666666667,Military,8268 x 148feet,Hard,,,,,,,https://www.getmetar.com/ETNL
+225,DE,EDUW,Tutow Airport,N53.55.32',E13.13.13',53.916666666666664,13.216666666666667, Public,7218 x 197feet,Hard,,,,,,,https://www.getmetar.com/EDUW
+226,DE,EDOW,Waren Vielist Airport,N53.34.12',E12.39.17',53.56666666666667,12.65, Public,,,,,,,,,https://www.getmetar.com/EDOW
+227,DE,EDOP,Schwerin Parchim Airport,N53.25.62',E11.47.01',53.416666666666664,11.783333333333333, Public,9842 x 180feet,Hard,,,,,,,https://www.getmetar.com/EDOP
+228,DE,EDCX,Purkshof Airport,N54.10.00',E12.15.00',54.166666666666664,12.25,Private,,,,,,,,,https://www.getmetar.com/EDCX
+229,DE,EDCW,Wismar Airport,N53.54.87',E11.29.97',53.9,11.483333333333333, Public,,,,,,,,,https://www.getmetar.com/EDCW
+230,DE,EDCV,Pasewalk Airport,N53.30.33',E13.56.90',53.5,13.933333333333334, Public,,,,,,,,,https://www.getmetar.com/EDCV
+231,DE,EDCU,Gustrow Airport,N53.48.33',E12.13.83',53.8,12.216666666666667, Public,2296 x 131feet,Soft,,,,,,,https://www.getmetar.com/EDCU
+232,DE,EDCR,Rerik Zweedorf Airport,N54.4.95',E11.39.42',54.06666666666667,11.65, Public,,,,,,,,,https://www.getmetar.com/EDCR
+233,DE,EDCP,Peenemunde Airport,N54.9.47',E13.46.36',54.15,13.766666666666667, Public,7874 x 197feet,Hard,,,,,,,https://www.getmetar.com/EDCP
+234,DE,EDCG,Rugen Airport,N54.23.03',E13.19.54',54.38333333333333,13.316666666666666, Public,2952 x 66feet,Hard,,,,,,,https://www.getmetar.com/EDCG
+235,DE,EDCA,Anklam Airport,N53.49.91',E13.40.39',53.81666666666667,13.666666666666666, Public,3281 x 66feet,Hard,2953 x 131feet,Unknown,,,,,https://www.getmetar.com/EDCA
+236,DE,EDBY,Schmoldow Airport,N53.58.24',E13.20.64',53.96666666666667,13.333333333333334, Public,,,,,,,,,https://www.getmetar.com/EDBY
+237,DE,EDBV,Stralsund Airport,N54.20.32',E13.2.81',54.333333333333336,13.033333333333333, Public,,,,,,,,,https://www.getmetar.com/EDBV
+238,DE,EDBP,Schwein Pinnow Airport,N53.36.91',E11.33.66',53.6,11.55,Private,,,,,,,,,https://www.getmetar.com/EDBP
+239,DE,EDBN,Neubrandenburg Airport,N53.36.13',E13.18.36',53.6,13.3, Public,,,,,,,,,https://www.getmetar.com/EDBN
+240,DE,EDBH,Barth Airport,N54.20.29',E12.42.61',54.333333333333336,12.7, Public,3937 x 98feet,Hard,2953 x 131feet,Unknown,,,,,https://www.getmetar.com/EDBH
+241,DE,EDAX,Muritz Airpark Airport,N53.18.31',E12.45.13',53.3,12.75, Public,7808 x 164feet,Hard,,,,,,,https://www.getmetar.com/EDAX
+242,DE,EDAN,Neustadt Glewe Airport,N53.21.66',E11.36.91',53.35,11.6, Public,,,,,,,,,https://www.getmetar.com/EDAN
+243,DE,EDAH,Heringsdorf Airport,N53.52.72',E14.9.14',53.86666666666667,14.15, Public,7562 x 115feet,Hard,1969 x 98feet,Unknown,,,,,https://www.getmetar.com/EDAH
+244,DE,ETWM,Meppen Airport,N52.43.39',E7.19.58',52.71666666666667,7.316666666666666, Public,,,,,,,,,https://www.getmetar.com/ETWM
+245,DE,ETNW,Wunstorf AB Airport,N52.27.44',E9.25.63',52.45,9.416666666666666,Military,6175 x 148feet,Hard,5574 x 157feet,Unknown,3569 x 132feet,Unknown,,,https://www.getmetar.com/ETNW
+246,DE,ETNT,Wittmundhafen AB Airport,N53.32.87',E7.40.04',53.53333333333333,7.666666666666667,Military,8005 x 98feet,Hard,,,,,,,https://www.getmetar.com/ETNT
+247,DE,ETND,Diepholz Airport,N52.35.13',E8.20.44',52.583333333333336,8.333333333333334,Military,4209 x 148feet,Hard,,,,,,,https://www.getmetar.com/ETND
+248,DE,ETMN,Nordholz Airport,N53.46.06',E8.39.51',53.766666666666666,8.65,Military,8002 x 148feet,Hard,,,,,,,https://www.getmetar.com/ETMN
+249,DE,ETHS,Fassberg Airport,N52.55.16',E10.11.03',52.916666666666664,10.183333333333334,Military,1640 x 95feet,Hard,,,,,,,https://www.getmetar.com/ETHS
+250,DE,ETHC,Celle Airport,N52.35.47',E10.1.33',52.583333333333336,10.016666666666667,Military,6007 x 148feet,Hard,,,,,,,https://www.getmetar.com/ETHC
+251,DE,ETHB,Buckeburg Airport,N52.16.71',E9.4.93',52.266666666666666,9.066666666666666,Military,6010 x 148feet,Hard,,,,,,,https://www.getmetar.com/ETHB
+252,DE,EDXZ,Kuhrstedt Bederkesa Airport,N53.34.15',E8.47.50',53.56666666666667,8.783333333333333, Public,,,,,,,,,https://www.getmetar.com/EDXZ
+253,DE,EDXU,Huttenbusch Airport,N53.17.20',E8.56.90',53.28333333333333,8.933333333333334, Public,1476 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDXU
+254,DE,EDXS,Seedorf Airport,N53.20.23',E9.15.63',53.333333333333336,9.25, Public,,,,,,,,,https://www.getmetar.com/EDXS
+255,DE,EDXQ,Rotenburg Wumme Airport,N53.7.70',E9.20.92',53.11666666666667,9.333333333333334, Public,2558 x 98feet,Hard,2460 x 131feet,Unknown,,,,,https://www.getmetar.com/EDXQ
+256,DE,EDXP,Harle Airport,N53.42.40',E7.49.21',53.7,7.816666666666666, Public,1673 x 66feet,Hard,,,,,,,https://www.getmetar.com/EDXP
+257,DE,EDXN,Nordholz Spieka Airport,N53.46.02',E8.38.62',53.766666666666666,8.633333333333333, Public,2870 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDXN
+258,DE,EDXL,Barssel Airport,N53.9.81',E7.47.56',53.15,7.783333333333333, Public,2526 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDXL
+259,DE,EDXI,Nienburg Holzbalge Airport,N52.42.58',E9.9.75',52.7,9.15, Public,,,,,,,,,https://www.getmetar.com/EDXI
+260,DE,EDXG,Melle Gronegau Airport,N52.12.13',E8.22.72',52.2,8.366666666666667, Public,,,,,,,,,https://www.getmetar.com/EDXG
+261,DE,EDXD,Bohmte Bad Essen Airport,N52.21.08',E8.19.57',52.35,8.316666666666666, Public,1902 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDXD
+262,DE,EDXA,Achmer Airport,N52.22.73',E7.54.87',52.36666666666667,7.9, Public,3084 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDXA
+263,DE,EDWZ,Baltrum Airport,N53.43.52',E7.22.33',53.71666666666667,7.366666666666666, Public,1181 x 49feet,Hard,,,,,,,https://www.getmetar.com/EDWZ
+264,DE,EDWY,Norderney Airport,N53.42.42',E7.13.72',53.7,7.216666666666667, Public,3281 x 66feet,Hard,,,,,,,https://www.getmetar.com/EDWY
+265,DE,EDWX,Westerstede Felde Airport,N53.17.43',E7.55.85',53.28333333333333,7.916666666666667, Public,,,,,,,,,https://www.getmetar.com/EDWX
+266,DE,EDWV,Verden Scharnhorst Airport,N52.58.00',E9.17.12',52.96666666666667,9.283333333333333, Public,,,,,,,,,https://www.getmetar.com/EDWV
+267,DE,EDWU,Varrelbusch Airport,N52.54.50',E8.2.50',52.9,8.033333333333333, Public,,,,,,,,,https://www.getmetar.com/EDWU
+268,DE,EDWT,Blexen Airport,N53.32.30',E8.32.30',53.53333333333333,8.533333333333333, Public,,,,,,,,,https://www.getmetar.com/EDWT
+269,DE,EDWS,Norden Norddeich Airport,N53.37.99',E7.11.37',53.61666666666667,7.183333333333334, Public,,,,,,,,,https://www.getmetar.com/EDWS
+270,DE,EDWR,Borkum Airport,N53.35.88',E6.42.61',53.583333333333336,6.7, Public,3281 x 66feet,Hard,2854 x 131feet,Unknown,2657 x 131feet,Unknown,,,https://www.getmetar.com/EDWR
+271,DE,EDWQ,Ganderkesee Airport,N53.2.16',E8.30.31',53.03333333333333,8.5, Public,2742 x 72feet,Hard,,,,,,,https://www.getmetar.com/EDWQ
+272,DE,EDWO,Osnabruck Atterheide Airport,N52.17.27',E7.58.45',52.28333333333333,7.966666666666667, Public,,,,,,,,,https://www.getmetar.com/EDWO
+273,DE,EDWN,Nordhorn Lingen Airport,N52.27.75',E7.10.16',52.45,7.166666666666667, Public,,,,,,,,,https://www.getmetar.com/EDWN
+274,DE,EDWM,Weser Wumme Airport,N53.3.24',E9.12.52',53.05,9.2, Public,,,,,,,,,https://www.getmetar.com/EDWM
+275,DE,EDWL,Langeoog Airport,N53.44.57',E7.29.92',53.733333333333334,7.483333333333333, Public,,,,,,,,,https://www.getmetar.com/EDWL
+276,DE,EDWK,Karlshofen Airport,N53.19.96',E9.1.67',53.31666666666667,9.016666666666667, Public,,,,,,,,,https://www.getmetar.com/EDWK
+277,DE,EDWJ,Juist Airport,N53.40.84',E7.3.47',53.666666666666664,7.05, Public,,,,,,,,,https://www.getmetar.com/EDWJ
+278,DE,EDWI,Wilhelmshaven Jadeweser Airport,N53.30.29',E8.3.20',53.5,8.05, Public,4787 x 849feet,Hard,2018 x 49feet,Unknown,,,,,https://www.getmetar.com/EDWI
+279,DE,EDWH,Oldenburg Hatten Airport,N53.4.23',E8.18.87',53.06666666666667,8.3, Public,,,,,,,,,https://www.getmetar.com/EDWH
+280,DE,EDWG,Wangerooge Airport,N53.47.24',E7.54.95',53.78333333333333,7.9, Public,,,,,,,,,https://www.getmetar.com/EDWG
+281,DE,EDWF,Leer Papenburg Airport,N53.16.30',E7.26.54',53.266666666666666,7.433333333333334, Public,3937 x 66feet,Hard,,,,,,,https://www.getmetar.com/EDWF
+282,DE,EDWE,Emden Airport,N53.23.46',E7.13.54',53.38333333333333,7.216666666666667, Public,4265 x 98feet,Hard,,,,,,,https://www.getmetar.com/EDWE
+283,DE,EDWC,Damme Airport,N52.29.25',E8.11.16',52.483333333333334,8.183333333333334, Public,2296 x 66feet,Hard,,,,,,,https://www.getmetar.com/EDWC
+284,DE,EDWB,Bremerhaven Am Luneort Airport,N53.30.42',E8.34.37',53.5,8.566666666666666, Public,3937 x 98feet,Hard,2160 x 61feet,Unknown,,,,,https://www.getmetar.com/EDWB
+285,DE,EDVW,Bad Pyrmont Airport,N51.58.05',E9.17.58',51.96666666666667,9.283333333333333, Public,2000 x 98feet,Hard,2000 x 49feet,Unknown,,,,,https://www.getmetar.com/EDVW
+286,DE,EDVU,Uelzen Airport,N52.59.08',E10.28.00',52.983333333333334,10.466666666666667, Public,,,,,,,,,https://www.getmetar.com/EDVU
+287,DE,EDVT,Ithwiesen Airport,N51.57.08',E9.39.73',51.95,9.65, Public,,,,,,,,,https://www.getmetar.com/EDVT
+288,DE,EDVS,Salzgitter Drutte Airport,N52.9.27',E10.25.60',52.15,10.416666666666666, Public,,,,,,,,,https://www.getmetar.com/EDVS
+289,DE,EDVR,Rinteln Airport,N52.10.42',E9.3.44',52.166666666666664,9.05, Public,,,,,,,,,https://www.getmetar.com/EDVR
+290,DE,EDVQ,Wilsche Airport,N52.31.47',E10.27.77',52.516666666666666,10.45, Public,,,,,,,,,https://www.getmetar.com/EDVQ
+291,DE,EDVN,Northeim Airport,N51.42.67',E10.2.37',51.7,10.033333333333333, Public,,,,,,,,,https://www.getmetar.com/EDVN
+292,DE,EDVM,Hildesheim Airport,N52.10.79',E9.56.74',52.166666666666664,9.933333333333334, Public,4003 x 75feet,Hard,,,,,,,https://www.getmetar.com/EDVM
+293,DE,EDVJ,Salzgitter Schaferstuhl Airport,N52.1.72',E10.22.10',52.016666666666666,10.366666666666667, Public,,,,,,,,,https://www.getmetar.com/EDVJ
+294,DE,EDVH,Hodenhagen Airport,N52.45.77',E9.36.62',52.75,9.6, Public,2952 x 131feet,Soft,,,,,,,https://www.getmetar.com/EDVH
+295,DE,EDVE,Braunschweig Wolfsburg Airport,N52.19.16',E10.33.53',52.31666666666667,10.55, Public,6561 x 148feet,Hard,2953 x 98feet,Unknown,,,,,https://www.getmetar.com/EDVE
+296,DE,EDVC,Celle Arloh Airport,N52.41.27',E10.6.74',52.68333333333333,10.1, Public,2952 x 131feet,Soft,,,,,,,https://www.getmetar.com/EDVC
+297,DE,EDVA,Bad Gandersheim Airport,N51.51.17',E10.1.59',51.85,10.016666666666667, Public,2400 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDVA
+298,DE,EDHY,Hoya Airport,N52.48.73',E9.9.80',52.8,9.15, Public,,,,,,,,,https://www.getmetar.com/EDHY
+299,DE,EDHU,Lauenbruck Airport,N53.12.43',E9.34.43',53.2,9.566666666666666, Public,,,,,,,,,https://www.getmetar.com/EDHU
+300,DE,EDHG,Luneburg Airport,N53.14.90',E10.27.52',53.233333333333334,10.45, Public,,,,,,,,,https://www.getmetar.com/EDHG
+301,DE,EDHC,Luchow Rehbeck Airport,N53.1.00',E11.8.73',53.016666666666666,11.133333333333333, Public,,,,,,,,,https://www.getmetar.com/EDHC
+302,DE,EDHA,Ahlhorn Airport,N52.53.33',E8.13.97',52.88333333333333,8.216666666666667, Public,,,,,,,,,https://www.getmetar.com/EDHA
+303,DE,EDDV,Hannover Airport,N52.27.61',E9.41.01',52.45,9.683333333333334, Public,12467 x 148feet,Hard,7677 x 148feet,Unknown,2559 x 74feet,Unknown,,,https://www.getmetar.com/EDDV
+304,DE,ETUO,Gutersloh Airport,N51.55.37',E8.18.38',51.916666666666664,8.3, Public,1969 x 148feet,Hard,,,,,,,https://www.getmetar.com/ETUO
+305,DE,ETNN,Norvenich Airport,N50.49.87',E6.39.49',50.81666666666667,6.65,Military,8009 x 148feet,Hard,,,,,,,https://www.getmetar.com/ETNN
+306,DE,ETNG,Geilenkirchen Airport,N50.57.65',E6.2.51',50.95,6.033333333333333,Military,10000 x 148feet,Hard,,,,,,,https://www.getmetar.com/ETNG
+307,DE,ETHE,Rheine Bentlage Airport,N52.17.47',E7.23.22',52.28333333333333,7.383333333333334,Military,1673 x 98feet,Hard,,,,,,,https://www.getmetar.com/ETHE
+308,DE,EDXE,Rheine Eschendorf Airport,N52.16.63',E7.29.53',52.266666666666666,7.483333333333333, Public,,,,,,,,,https://www.getmetar.com/EDXE
+309,DE,EDVY,Porta Westfalica Airport,N52.13.42',E8.51.83',52.21666666666667,8.85, Public,,,,,,,,,https://www.getmetar.com/EDVY
+310,DE,EDVI,Hoxter Holzminden Airport,N51.48.38',E9.22.70',51.8,9.366666666666667,Private,,,,,,,,,https://www.getmetar.com/EDVI
+311,DE,EDVF,Blomberg Borkhausen Airport,N51.55.08',E9.6.80',51.916666666666664,9.1, Public,1952 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDVF
+312,DE,EDLZ,Soest Airport,N51.34.68',E8.12.50',51.56666666666667,8.2, Public,,,,,,,,,https://www.getmetar.com/EDLZ
+313,DE,EDLY,Borken Hoxfeld Airport,N51.51.20',E6.48.89',51.85,6.8, Public,2427 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDLY
+314,DE,EDLX,Wesel Romerwardt Airport,N51.39.77',E6.35.74',51.65,6.583333333333333, Public,,,,,,,,,https://www.getmetar.com/EDLX
+315,DE,EDLW,Dortmund Airport,N51.31.10',E7.36.73',51.516666666666666,7.6, Public,6562 x 148feet,Hard,,,,,,,https://www.getmetar.com/EDLW
+316,DE,EDLV,Niederrhein Airport,N51.36.14',E6.8.53',51.6,6.133333333333334, Public,8005 x 148feet,Hard,,,,,,,https://www.getmetar.com/EDLV
+317,DE,EDLT,Munster Telgte Airport,N51.56.68',E7.46.36',51.93333333333333,7.766666666666667, Public,,,,,,,,,https://www.getmetar.com/EDLT
+318,DE,EDLS,Stadtlohn Vreden Airport,N51.59.75',E6.50.44',51.983333333333334,6.833333333333333, Public,3215 x 66feet,Hard,,,,,,,https://www.getmetar.com/EDLS
+319,DE,EDLR,Paderborn Haxterbe Airport,N51.41.30',E8.46.49',51.68333333333333,8.766666666666667, Public,,,,,,,,,https://www.getmetar.com/EDLR
+320,DE,EDLP,Paderborn Lippstadt Airport,N51.36.85',E8.36.98',51.6,8.6, Public,7152 x 148feet,Hard,,,,,,,https://www.getmetar.com/EDLP
+321,DE,EDLO,Oerlinghausen Airport,N51.55.95',E8.39.72',51.916666666666664,8.65, Public,,,,,,,,,https://www.getmetar.com/EDLO
+322,DE,EDLN,Moenchengladbach Airport,N51.13.82',E6.30.27',51.21666666666667,6.5, Public,3937 x 98feet,Hard,,,,,,,https://www.getmetar.com/EDLN
+323,DE,EDLM,Marl Loemuhle Airport,N51.38.82',E7.9.82',51.63333333333333,7.15, Public,2723 x 66feet,Hard,,,,,,,https://www.getmetar.com/EDLM
+324,DE,EDLK,Krefeld Egelsberg Airport,N51.23.25',E6.35.15',51.38333333333333,6.583333333333333, Public,,,,,,,,,https://www.getmetar.com/EDLK
+325,DE,EDLJ,Detmold Airport,N51.56.46',E8.54.25',51.93333333333333,8.9, Public,1181 x 59feet,Hard,,,,,,,https://www.getmetar.com/EDLJ
+326,DE,EDLI,Bielefeld Airport,N51.57.89',E8.32.69',51.95,8.533333333333333, Public,4120 x 66feet,Hard,,,,,,,https://www.getmetar.com/EDLI
+327,DE,EDLH,Hamm Lippewiesen Airport,N51.41.40',E7.49.00',51.68333333333333,7.816666666666666, Public,2034 x 66feet,Hard,,,,,,,https://www.getmetar.com/EDLH
+328,DE,EDLG,Goch Asperden Airport,N51.41.45',E6.6.25',51.68333333333333,6.1, Public,2460 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDLG
+329,DE,EDLF,Grefrath Niershorst Airport,N51.20.04',E6.21.56',51.333333333333336,6.35, Public,1886 x 131feet,Soft,,,,,,,https://www.getmetar.com/EDLF
+330,DE,EDLE,Essen Mulheim Airport,N51.24.22',E6.56.28',51.4,6.933333333333334, Public,5095 x 148feet,Hard,,,,,,,https://www.getmetar.com/EDLE
+331,DE,EDLD,Dinslaken Schwarze Heide Airport,N51.36.96',E6.51.67',51.6,6.85, Public,4921 x 98feet,Hard,,,,,,,https://www.getmetar.com/EDLD
+332,DE,EDLC,Kamp Lintfort Airport,N51.31.74',E6.32.17',51.516666666666666,6.533333333333333, Public,,,,,,,,,https://www.getmetar.com/EDLC
+333,DE,EDLB,Borkenberge Airport,N51.46.75',E7.17.31',51.766666666666666,7.283333333333333, Public,2201 x 49feet,Hard,,,,,,,https://www.getmetar.com/EDLB
+334,DE,EDLA,Arnsberg Airport,N51.29.00',E7.53.96',51.483333333333334,7.883333333333333, Public,3018 x 66feet,Hard,,,,,,,https://www.getmetar.com/EDLA
+335,DE,EDKZ,Meinerzhagen Airport,N51.5.97',E7.36.12',51.083333333333336,7.6, Public,3748 x 66feet,Hard,,,,,,,https://www.getmetar.com/EDKZ
+336,DE,EDKW,Werdohl Kuntrop Airport,N51.17.82',E7.49.01',51.28333333333333,7.816666666666666, Public,,,,,,,,,https://www.getmetar.com/EDKW
+337,DE,EDKV,Dahlemer Binz Airport,N50.24.34',E6.31.74',50.4,6.516666666666667, Public,3510 x 98feet,Hard,,,,,,,https://www.getmetar.com/EDKV
+338,DE,EDKU,Attendorn Finnentrop Airport,N51.8.77',E7.56.22',51.13333333333333,7.933333333333334, Public,1837 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDKU
+339,DE,EDKR,Schmallenberg Rennefeld Airport,N51.9.68',E8.15.65',51.15,8.25, Public,,,,,,,,,https://www.getmetar.com/EDKR
+340,DE,EDKP,Plettenberg Huinghausen Airport,N51.11.58',E7.47.53',51.18333333333333,7.783333333333333, Public,,,,,,,,,https://www.getmetar.com/EDKP
+341,DE,EDKO,Brilon Hochsauerland Airport,N51.24.15',E8.38.51',51.4,8.633333333333333, Public,2460 x 49feet,Hard,,,,,,,https://www.getmetar.com/EDKO
+342,DE,EDKN,Wipperfurth Neye Airport,N51.7.50',E7.22.50',51.11666666666667,7.366666666666666, Public,,,,,,,,,https://www.getmetar.com/EDKN
+343,DE,EDKM,Meschede Schuren Airport,N51.18.23',E8.14.40',51.3,8.233333333333333, Public,,,,,,,,,https://www.getmetar.com/EDKM
+344,DE,EDKL,Leverkusen Airport,N51.0.92',E7.0.37',51.0,7.0, Public,,,,,,,,,https://www.getmetar.com/EDKL
+345,DE,EDKH,Hunsborn Airport,N50.55.74',E7.53.95',50.916666666666664,7.883333333333333, Public,3116 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDKH
+346,DE,EDKF,Bergneustadt Airport,N51.3.11',E7.42.38',51.05,7.7, Public,1968 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDKF
+347,DE,EDKD,Altena Hegenscheid Airport,N51.18.78',E7.42.22',51.3,7.7, Public,1968 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDKD
+348,DE,EDKB,Bonn Hangelar Airport,N50.46.13',E7.9.84',50.766666666666666,7.15, Public,2624 x 98feet,Hard,,,,,,,https://www.getmetar.com/EDKB
+349,DE,EDKA,Aachen Merzbruck Airport,N50.49.39',E6.11.18',50.81666666666667,6.183333333333334, Public,1706 x 66feet,Hard,,,,,,,https://www.getmetar.com/EDKA
+350,DE,EDGS,Siegerland Airport,N50.42.46',E8.4.98',50.7,8.066666666666666, Public,5315 x 98feet,Hard,1969 x 98feet,Unknown,1640 x 98feet,Unknown,,,https://www.getmetar.com/EDGS
+351,DE,EDGQ,Schameder Airport,N51.0.00',E8.18.41',51.0,8.3,Private,,,,,,,,,https://www.getmetar.com/EDGQ
+352,DE,EDDL,Duesseldorf Airport,N51.16.86',E6.45.44',51.266666666666666,6.75, Public,9843 x 148feet,Hard,8859 x 148feet,Unknown,,,,,https://www.getmetar.com/EDDL
+353,DE,EDDK,Koeln Bonn Airport,N50.51.96',E7.8.56',50.85,7.133333333333334, Public,12517 x 197feet,Hard,8067 x 148feet,Unknown,6113 x 148feet,Unknown,,,https://www.getmetar.com/EDDK
+354,DE,EDDG,Muenster Osnabrueck Airport,N52.8.08',E7.41.09',52.13333333333333,7.683333333333334, Public,7119 x 148feet,Hard,,,,,,,https://www.getmetar.com/EDDG
+355,DE,ETSP,Pferdsfeld Airport,N49.51.37',E7.36.37',49.85,7.6,Military,7989 x 148feet,Hard,,,,,,,https://www.getmetar.com/ETSP
+356,DE,ETSB,Buchel Airport,N50.10.43',E7.3.80',50.166666666666664,7.05,Military,8225 x 148feet,Hard,,,,,,,https://www.getmetar.com/ETSB
+357,DE,ETHM,Mendig Airport,N50.21.96',E7.18.92',50.35,7.3,Military,5344 x 118feet,Hard,,,,,,,https://www.getmetar.com/ETHM
+358,DE,ETEK,Baumholder Airport,N49.39.09',E7.18.43',49.65,7.3,Military,,,,,,,,,https://www.getmetar.com/ETEK
+359,DE,ETAR,Ramstein Airport,N49.26.17',E7.36.39',49.43333333333333,7.6,Military,10498 x 148feet,Hard,9843 x 148feet,Unknown,,,,,https://www.getmetar.com/ETAR
+360,DE,ETAD,Spangdahlem Airport,N49.58.59',E6.41.91',49.96666666666667,6.683333333333334,Military,10023 x 148feet,Hard,,,,,,,https://www.getmetar.com/ETAD
+361,DE,EDRZ,Zweibruecken AB Airport,N49.12.57',E7.24.04',49.2,7.4,Military,8776 x 148feet,Hard,,,,,,,https://www.getmetar.com/EDRZ
+362,DE,EDRY,Speyer Airport,N49.18.29',E8.27.09',49.3,8.45, Public,4022 x 98feet,Hard,3281 x 98feet,Unknown,,,,,https://www.getmetar.com/EDRY
+363,DE,EDRW,Dierdorf Wienau Airport,N50.33.98',E7.39.23',50.55,7.65, Public,1902 x 33feet,Hard,,,,,,,https://www.getmetar.com/EDRW
+364,DE,EDRV,Wershofen Eifel Airport,N50.27.11',E6.47.16',50.45,6.783333333333333, Public,,,,,,,,,https://www.getmetar.com/EDRV
+365,DE,EDRT,Trier Fohren Airport,N49.51.85',E6.47.27',49.85,6.783333333333333, Public,3937 x 98feet,Hard,,,,,,,https://www.getmetar.com/EDRT
+366,DE,EDRS,Sobernheim Domberg Airport,N49.47.45',E7.39.95',49.78333333333333,7.65, Public,2296 x 98feet,Soft,1968 x 98feet,Unknown,,,,,https://www.getmetar.com/EDRS
+367,DE,EDRQ,Imsweiler Airport,N49.36.38',E7.47.73',49.6,7.783333333333333, Public,,,,,,,,,https://www.getmetar.com/EDRQ
+368,DE,EDRP,Pirmasens Zweibrucken Airport,N49.15.94',E7.29.45',49.25,7.483333333333333, Public,,,,,,,,,https://www.getmetar.com/EDRP
+369,DE,EDRO,Schweighofen Airport,N49.1.97',E7.59.45',49.016666666666666,7.983333333333333, Public,,,,,,,,,https://www.getmetar.com/EDRO
+370,DE,EDRN,Nannhausen Airport,N49.58.20',E7.28.75',49.96666666666667,7.466666666666667,Private,,,,,,,,,https://www.getmetar.com/EDRN
+371,DE,EDRM,Traben Trarbach Mont Royal Airport,N49.57.92',E7.6.92',49.95,7.1, Public,,,,,,,,,https://www.getmetar.com/EDRM
+372,DE,EDRL,Lachen Speyerdorf Airport,N49.19.85',E8.12.31',49.31666666666667,8.2, Public,,,,,,,,,https://www.getmetar.com/EDRL
+373,DE,EDRK,Koblenz Winningen Airport,N50.19.46',E7.31.65',50.31666666666667,7.516666666666667, Public,3855 x 66feet,Hard,,,,,,,https://www.getmetar.com/EDRK
+374,DE,EDRH,Hoppstadten Weiersbach Airport,N49.36.68',E7.11.10',49.6,7.183333333333334, Public,3280 x 98feet,Soft,2198 x 69feet,Unknown,,,,,https://www.getmetar.com/EDRH
+375,DE,EDRG,Idar Oberstein Gottschied Airport,N49.44.03',E7.20.33',49.733333333333334,7.333333333333333, Public,,,,,,,,,https://www.getmetar.com/EDRG
+376,DE,EDRF,Bad Durkheim Airport,N49.28.38',E8.11.78',49.46666666666667,8.183333333333334, Public,1969 x 66feet,Hard,,,,,,,https://www.getmetar.com/EDRF
+377,DE,EDRD,Neumagen Dhron Airport,N49.50.56',E6.54.97',49.833333333333336,6.9, Public,,,,,,,,,https://www.getmetar.com/EDRD
+378,DE,EDRB,Bitburg Airport,N49.56.72',E6.33.90',49.93333333333333,6.55, Public,10026 x 148feet,Hard,,,,,,,https://www.getmetar.com/EDRB
+379,DE,EDRA,Bad Neuenahr Ahrweiler Airport,N50.33.47',E7.8.23',50.55,7.133333333333334, Public,1600 x 49feet,Hard,,,,,,,https://www.getmetar.com/EDRA
+380,DE,EDKI,Betzdorf Kirchen Airport,N50.49.05',E7.49.94',50.81666666666667,7.816666666666666, Public,1640 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDKI
+381,DE,EDGP,Oppenheim Airport,N49.50.50',E8.22.67',49.833333333333336,8.366666666666667, Public,,,,,,,,,https://www.getmetar.com/EDGP
+382,DE,EDGA,Ailertchen West Wd Airport,N50.35.59',E7.56.70',50.583333333333336,7.933333333333334, Public,1804 x 164feet,Soft,,,,,,,https://www.getmetar.com/EDGA
+383,DE,EDFZ,Mainz Finthen Airport,N49.58.18',E8.8.93',49.96666666666667,8.133333333333333, Public,3281 x 262feet,Hard,3281 x 72feet,Unknown,,,,,https://www.getmetar.com/EDFZ
+384,DE,EDFV,Worms Airport,N49.36.38',E8.22.01',49.6,8.366666666666667, Public,3018 x 98feet,Hard,2625 x 75feet,Unknown,,,,,https://www.getmetar.com/EDFV
+385,DE,EDFH,Frankfurt Hahn Airport,N49.56.75',E7.15.66',49.93333333333333,7.25,Military,12471 x 148feet,Hard,,,,,,,https://www.getmetar.com/EDFH
+386,DE,EDEL,Langenlonsheim Airport,N49.54.50',E7.54.46',49.9,7.9, Public,,,,,,,,,https://www.getmetar.com/EDEL
+387,DE,EDRJ,Saarlouis Duren Airport,N49.18.75',E6.40.44',49.3,6.666666666666667, Public,,,,,,,,,https://www.getmetar.com/EDRJ
+388,DE,EDDR,Saarbruecken Airport,N49.12.87',E7.6.57',49.2,7.1, Public,6562 x 148feet,Hard,1788 x 164feet,Unknown,,,,,https://www.getmetar.com/EDDR
+389,DE,EDOQ,Oschatz Airport,N51.17.83',E13.4.80',51.28333333333333,13.066666666666666, Public,,,,,,,,,https://www.getmetar.com/EDOQ
+390,DE,EDOH,Langhennersdorf Airport,N50.56.84',E13.15.70',50.93333333333333,13.25, Public,,,,,,,,,https://www.getmetar.com/EDOH
+391,DE,EDOG,Torgau Beilrode Airport,N51.34.26',E13.3.14',51.56666666666667,13.05, Public,,,,,,,,,https://www.getmetar.com/EDOG
+392,DE,EDOE,Bohlen Airport,N51.12.92',E12.22.07',51.2,12.366666666666667, Public,3117 x 131feet,Soft,2625 x 131feet,Unknown,,,,,https://www.getmetar.com/EDOE
+393,DE,EDOA,Auerbach Airport,N50.29.84',E12.22.68',50.483333333333334,12.366666666666667, Public,2624 x 75feet,Hard,,,,,,,https://www.getmetar.com/EDOA
+394,DE,EDDP,Leipzig Airport,N51.25.44',E12.14.18',51.416666666666664,12.233333333333333, Public,11811 x 197feet,Hard,11811 x 147feet,Unknown,,,,,https://www.getmetar.com/EDDP
+395,DE,EDDC,Dresden Airport,N51.8.06',E13.46.08',51.13333333333333,13.766666666666667, Public,9350 x 197feet,Hard,,,,,,,https://www.getmetar.com/EDDC
+396,DE,EDCT,Taucha Airport,N51.23.68',E12.32.21',51.38333333333333,12.533333333333333, Public,,,,,,,,,https://www.getmetar.com/EDCT
+397,DE,EDCM,Kamenz Airport,N51.17.82',E14.7.65',51.28333333333333,14.116666666666667, Public,3609 x 92feet,Hard,3609 x 131feet,Unknown,,,,,https://www.getmetar.com/EDCM
+398,DE,EDCJ,Chemnitz Jahnsdorf Airport,N50.44.84',E12.50.24',50.733333333333334,12.833333333333334, Public,1968 x 98feet,Hard,,,,,,,https://www.getmetar.com/EDCJ
+399,DE,EDCI,Klix Airport,N51.16.42',E14.30.39',51.266666666666666,14.5, Public,,,,,,,,,https://www.getmetar.com/EDCI
+400,DE,EDBX,Goerlitz Airport,N51.9.53',E14.57.02',51.15,14.95, Public,2460 x 131feet,Soft,,,,,,,https://www.getmetar.com/EDBX
+401,DE,EDBR,Rothenburg Gorlitz Airport,N51.21.91',E14.57.06',51.35,14.95, Public,8203 x 148feet,Hard,,,,,,,https://www.getmetar.com/EDBR
+402,DE,EDBI,Zwickau Airport,N50.42.18',E12.27.57',50.7,12.45, Public,,,,,,,,,https://www.getmetar.com/EDBI
+403,DE,EDAW,Roitzschjora Airport,N51.34.67',E12.29.23',51.56666666666667,12.483333333333333, Public,3940 x 131feet,Soft,,,,,,,https://www.getmetar.com/EDAW
+404,DE,EDAU,Riesa Gohlis Airport,N51.17.59',E13.21.43',51.28333333333333,13.35, Public,4593 x 65feet,Hard,,,,,,,https://www.getmetar.com/EDAU
+405,DE,EDAT,Nardt Airport,N51.27.08',E14.12.08',51.45,14.2, Public,,,,,,,,,https://www.getmetar.com/EDAT
+406,DE,EDAR,Pirna Pratzschwitz Airport,N50.58.68',E13.54.88',50.96666666666667,13.9, Public,2953 x 131feet,Soft,,,,,,,https://www.getmetar.com/EDAR
+407,DE,EDAK,Grossenhain Airport,N51.18.48',E13.33.32',51.3,13.55, Public,7873 x 157feet,Hard,,,,,,,https://www.getmetar.com/EDAK
+408,DE,EDAG,Grobruckerswalde Airport,N50.38.63',E13.7.58',50.63333333333333,13.116666666666667, Public,3281 x 131feet,Soft,,,,,,,https://www.getmetar.com/EDAG
+409,DE,EDAB,Bautzen Airport,N51.11.61',E14.31.18',51.18333333333333,14.516666666666667, Public,7218 x 164feet,Hard,3281 x 131feet,Unknown,,,,,https://www.getmetar.com/EDAB
+410,DE,EDUZ,Zerbst Airport,N52.0.05',E12.8.95',52.0,12.133333333333333, Public,,,,,,,,,https://www.getmetar.com/EDUZ
+411,DE,EDUO,Oberrissdorf Airport,N51.32.55',E11.35.75',51.53333333333333,11.583333333333334, Public,1969 x 82feet,Soft,,,,,,,https://www.getmetar.com/EDUO
+412,DE,EDOZ,Schonebeck Zackmunde Airport,N51.59.78',E11.47.53',51.983333333333334,11.783333333333333, Public,,,,,,,,,https://www.getmetar.com/EDOZ
+413,DE,EDOX,Renneritz Airport,N51.35.59',E12.14.24',51.583333333333336,12.233333333333333, Public,,,,,,,,,https://www.getmetar.com/EDOX
+414,DE,EDOV,Stendal Borstel Airport,N52.37.73',E11.49.20',52.61666666666667,11.816666666666666, Public,6552 x 171feet,Hard,2297 x 131feet,Unknown,,,,,https://www.getmetar.com/EDOV
+415,DE,EDOM,Klein Muhlingen Airport,N51.56.85',E11.46.19',51.93333333333333,11.766666666666667, Public,,,,,,,,,https://www.getmetar.com/EDOM
+416,DE,EDOL,Oschersleben Airport,N52.2.42',E11.12.17',52.03333333333333,11.2, Public,,,,,,,,,https://www.getmetar.com/EDOL
+417,DE,EDOC,Gardelegen Airport,N52.31.66',E11.21.25',52.516666666666666,11.35, Public,,,,,,,,,https://www.getmetar.com/EDOC
+418,DE,EDCQ,Aschersleben Airport,N51.45.92',E11.29.91',51.75,11.483333333333333, Public,3444 x 164feet,Soft,,,,,,,https://www.getmetar.com/EDCQ
+419,DE,EDCL,Klietz Scharlibbe Airport,N52.42.57',E12.4.40',52.7,12.066666666666666, Public,,,,,,,,,https://www.getmetar.com/EDCL
+420,DE,EDCK,Kothen Airport,N51.43.35',E11.56.83',51.71666666666667,11.933333333333334, Public,,,,,,,,,https://www.getmetar.com/EDCK
+421,DE,EDCH,Sprossen Airport,N51.2.59',E12.13.99',51.03333333333333,12.216666666666667, Public,2428 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDCH
+422,DE,EDCB,Ballenstedt Airport,N51.44.78',E11.13.86',51.733333333333334,11.216666666666667, Public,2247 x 98feet,Hard,1837 x 98feet,Unknown,,,,,https://www.getmetar.com/EDCB
+423,DE,EDBT,Allstedt Airport,N51.22.83',E11.26.80',51.36666666666667,11.433333333333334, Public,3937 x 98feet,Hard,,,,,,,https://www.getmetar.com/EDBT
+424,DE,EDBM,Magdeburg Airport,N52.4.42',E11.37.59',52.06666666666667,11.616666666666667, Public,3281 x 98feet,Hard,,,,,,,https://www.getmetar.com/EDBM
+425,DE,EDBL,Laucha Airport,N51.14.76',E11.41.58',51.233333333333334,11.683333333333334, Public,,,,,,,,,https://www.getmetar.com/EDBL
+426,DE,EDBG,Burg Airport,N52.14.50',E11.51.36',52.233333333333334,11.85, Public,2788 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDBG
+427,DE,EDBC,Cochstedt Airport,N51.51.36',E11.25.08',51.85,11.416666666666666, Public,8202 x 148feet,Hard,,,,,,,https://www.getmetar.com/EDBC
+428,DE,EDAQ,Halle Oppin Airport,N51.33.12',E12.3.16',51.55,12.05, Public,3675 x 98feet,Hard,,,,,,,https://www.getmetar.com/EDAQ
+429,DE,EDAM,Merseburg Airport,N51.21.78',E11.56.45',51.35,11.933333333333334, Public,3740 x 98feet,Hard,,,,,,,https://www.getmetar.com/EDAM
+430,DE,EDAD,Dessau Airport,N51.49.93',E12.11.15',51.81666666666667,12.183333333333334, Public,3290 x 82feet,Hard,,,,,,,https://www.getmetar.com/EDAD
+431,DE,ETNS,Schleswig Airport,N54.27.56',E9.30.98',54.45,9.5,Military,8081 x 144feet,Hard,8002 x 98feet,Unknown,,,,,https://www.getmetar.com/ETNS
+432,DE,ETNH,Hohn Airport,N54.18.73',E9.32.29',54.3,9.533333333333333,Military,8005 x 98feet,Hard,,,,,,,https://www.getmetar.com/ETNH
+433,DE,ETME,Eggebek Airport,N54.37.49',E9.20.76',54.61666666666667,9.333333333333334,Military,8005 x 98feet,Hard,,,,,,,https://www.getmetar.com/ETME
+434,DE,EDXY,Wyk Auf Fohr Airport,N54.41.12',E8.31.91',54.68333333333333,8.516666666666667, Public,,,,,,,,,https://www.getmetar.com/EDXY
+435,DE,EDXW,Sylt Airport,N54.54.70',E8.20.54',54.9,8.333333333333334, Public,6955 x 148feet,Hard,5564 x 148feet,Unknown,,,,,https://www.getmetar.com/EDXW
+436,DE,EDXT,Sierksdorf Hof Altona Airport,N54.4.07',E10.44.59',54.06666666666667,10.733333333333333, Public,,,,,,,,,https://www.getmetar.com/EDXT
+437,DE,EDXR,Rendsburg Schachtholm Airport,N54.13.26',E9.36.05',54.21666666666667,9.6, Public,3150 x 98feet,Hard,1969 x 98feet,Unknown,,,,,https://www.getmetar.com/EDXR
+438,DE,EDXO,,,,0,0,,,,,,,,,,https://www.getmetar.com/EDXO
+439,DE,EDXM,,,,0,0,,,,,,,,,,https://www.getmetar.com/EDXM
+440,DE,EDXK,Leck Airport,N54.47.40',E8.57.69',54.78333333333333,8.95, Public,,,,,,,,,https://www.getmetar.com/EDXK
+441,DE,EDXJ,Husum Schwesing Airport,N54.30.60',E9.8.30',54.5,9.133333333333333, Public,4757 x 98feet,Hard,,,,,,,https://www.getmetar.com/EDXJ
+442,DE,EDXH,Helgoland Dune Airport,N54.11.12',E7.54.95',54.18333333333333,7.9, Public,,,,,,,,,https://www.getmetar.com/EDXH
+443,DE,EDXF,Flensburg Schaferhaus Airport,N54.46.50',E9.22.80',54.766666666666666,9.366666666666667, Public,4003 x 98feet,Hard,3937 x 197feet,Unknown,2297 x 148feet,Unknown,,,https://www.getmetar.com/EDXF
+444,DE,EDXC,Schleswig Kropp Airport,N54.25.63',E9.32.50',54.416666666666664,9.533333333333333,Private,,,,,,,,,https://www.getmetar.com/EDXC
+445,DE,EDXB,Heide Busum Airport,N54.9.20',E8.54.10',54.15,8.9, Public,2362 x 75feet,Hard,,,,,,,https://www.getmetar.com/EDXB
+446,DE,EDWA,Bordelum Airport,N54.37.62',E8.55.82',54.61666666666667,8.916666666666666, Public,1804 x 82feet,Soft,,,,,,,https://www.getmetar.com/EDWA
+447,DE,EDHW,Wahlstedt Airport,N53.58.28',E10.13.50',53.96666666666667,10.216666666666667, Public,,,,,,,,,https://www.getmetar.com/EDHW
+448,DE,EDHO,Ahrenlohe Airport,N53.41.99',E9.44.43',53.68333333333333,9.733333333333333, Public,1968 x 49feet,Hard,,,,,,,https://www.getmetar.com/EDHO
+449,DE,EDHN,Neumunster Airport,N54.4.72',E9.56.43',54.06666666666667,9.933333333333334, Public,,,,,,,,,https://www.getmetar.com/EDHN
+450,DE,EDHM,Hartenholm Airport,N53.54.88',E10.2.10',53.9,10.033333333333333, Public,2496 x 49feet,Hard,,,,,,,https://www.getmetar.com/EDHM
+451,DE,EDHL,Luebeck Blankensee Airport,N53.48.32',E10.43.15',53.8,10.716666666666667, Public,6896 x 197feet,Hard,,,,,,,https://www.getmetar.com/EDHL
+452,DE,EDHK,Kiel Holtenau Airport,N54.22.77',E10.8.71',54.36666666666667,10.133333333333333, Public,4134 x 98feet,Hard,1476 x 115feet,Unknown,,,,,https://www.getmetar.com/EDHK
+453,DE,EDHF,Itzehoe Hungriger Airport,N53.59.67',E9.34.71',53.983333333333334,9.566666666666666, Public,,,,,,,,,https://www.getmetar.com/EDHF
+454,DE,EDHE,Uetersen Airport,N53.38.82',E9.42.25',53.63333333333333,9.7, Public,,,,,,,,,https://www.getmetar.com/EDHE
+455,DE,EDHB,Grube Airport,N54.14.67',E11.1.43',54.233333333333334,11.016666666666667, Public,1640 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDHB
+456,DE,EDQS,Suhl Goldlauter Airport,N50.38.03',E10.43.72',50.63333333333333,10.716666666666667, Public,,,,,,,,,https://www.getmetar.com/EDQS
+457,DE,EDOU,Weimar Umpferstedt Airport,N50.57.89',E11.24.02',50.95,11.4, Public,,,,,,,,,https://www.getmetar.com/EDOU
+458,DE,EDOT,Griez Obergrochlitz Airport,N50.38.75',E12.10.42',50.63333333333333,12.166666666666666, Public,,,,,,,,,https://www.getmetar.com/EDOT
+459,DE,EDOS,Pennewitz Airport,N50.40.17',E11.3.04',50.666666666666664,11.05, Public,,,,,,,,,https://www.getmetar.com/EDOS
+460,DE,EDOK,Rudolstadt Groschwitz Airport,N50.43.96',E11.14.16',50.71666666666667,11.233333333333333, Public,,,,,,,,,https://www.getmetar.com/EDOK
+461,DE,EDOF,Bad Frankenhausen Airport,N51.22.39',E11.8.48',51.36666666666667,11.133333333333333, Public,2100 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDOF
+462,DE,EDOB,Bad Berka Airport,N50.54.26',E11.15.42',50.9,11.25, Public,2300 x 131feet,Soft,,,,,,,https://www.getmetar.com/EDOB
+463,DE,EDHD,Gottingen Heilbad Airport,N51.24.45',E10.8.72',51.4,10.133333333333333, Public,,,,,,,,,https://www.getmetar.com/EDHD
+464,DE,EDGE,Eisenach Kindel Airport,N50.59.57',E10.28.36',50.983333333333334,10.466666666666667, Public,5643 x 180feet,Hard,,,,,,,https://www.getmetar.com/EDGE
+465,DE,EDEQ,Muehlhausen Airport,N51.12.87',E10.32.55',51.2,10.533333333333333, Public,,,,,,,,,https://www.getmetar.com/EDEQ
+466,DE,EDEG,Gotha Ost Airport,N50.58.23',E10.43.68',50.96666666666667,10.716666666666667, Public,2657 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDEG
+467,DE,EDEB,Bad Langensalza Airport,N51.7.75',E10.37.30',51.11666666666667,10.616666666666667, Public,2600 x 131feet,Soft,,,,,,,https://www.getmetar.com/EDEB
+468,DE,EDDE,Erfurt Weimar Airport,N50.58.79',E10.57.49',50.96666666666667,10.95, Public,8530 x 164feet,Hard,,,,,,,https://www.getmetar.com/EDDE
+469,DE,EDCO,Obermehlers Schlotheim Airport,N51.16.06',E10.38.09',51.266666666666666,10.633333333333333, Public,4757 x 98feet,Hard,,,,,,,https://www.getmetar.com/EDCO
+470,DE,EDBS,Sommerda Airport,N51.12.02',E11.11.63',51.2,11.183333333333334, Public,,,,,,,,,https://www.getmetar.com/EDBS
+471,DE,EDBJ,Jena Schongleina Airport,N50.54.93',E11.42.85',50.9,11.7, Public,3960 x 75feet,Hard,2000 x 100feet,Unknown,,,,,https://www.getmetar.com/EDBJ
+472,DE,EDBA,Alkersleben Wulfershausen Airport,N50.50.85',E11.4.33',50.833333333333336,11.066666666666666, Public,2854 x 75feet,Hard,,,,,,,https://www.getmetar.com/EDBA
+473,DE,EDAO,Nordhausen Airport,N51.29.60',E10.50.00',51.483333333333334,10.833333333333334, Public,2936 x 98feet,Soft,,,,,,,https://www.getmetar.com/EDAO
+474,DE,EDAJ,Gera Leumnitz Airport,N50.52.88',E12.8.12',50.86666666666667,12.133333333333333, Public,2460 x 78feet,Hard,,,,,,,https://www.getmetar.com/EDAJ
+475,DE,EDAC,Leipzig Altenburg Airport,N50.58.91',E12.30.38',50.96666666666667,12.5, Public,7989 x 148feet,Hard,,,,,,,https://www.getmetar.com/EDAC

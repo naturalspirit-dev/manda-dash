@@ -1,7 +1,7 @@
-,Unnamed: 0.1,country,icaoCodes,airFieldName,latitude,longitude,ddLatitude,ddLongitude,airportUse,runwayOneDimensions,runwayOneSurface,runwayTwoDimensions,runwayTwoSurface,runwayThreeDimensions,runwayThreeSurface,runwayFourDimensions,runwayFourSurface,capableCOneThirtyCSeventeen,weatherLink
-0,0,TO,NFTE,Eua Airport,S21.22.66',W174.57.44',-21.366666666666667,-174.95, Public,2625 x 59feet,Soft,,,,,,,No,https://www.getmetar.com/NFTE
-1,1,TO,NFTF,FuaAmotu International Airport,S21.14.51',W175.8.43',-21.233333333333334,-175.13333333333333, Public,8763 x 148feet,Hard,4951 x 377feet,Unknown,,,,,Yes,https://www.getmetar.com/NFTF
-2,2,TO,NFTL,HaApai Airport,S19.46.62',W174.20.42',-19.766666666666666,-174.33333333333337, Public,3937 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/NFTL
-3,3,TO,NFTO,NiuafoOu Airport,S15.34.31',W175.37.77',-15.566666666666665,-175.61666666666667, Public,,,,,,,,,No,https://www.getmetar.com/NFTO
-4,4,TO,NFTP,Niuatoputapu Airport,S15.58.65',W173.47.49',-15.966666666666667,-173.78333333333333, Public,3937 x 98feet,Soft,,,,,,,No,https://www.getmetar.com/NFTP
-5,5,TO,NFTV,VavaU Airport,S18.35.13',W173.58.08',-18.58333333333333,-173.96666666666667, Public,5593 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/NFTV
+,country,icaoCodes,airFieldName,latitude,longitude,ddLatitude,ddLongitude,airportUse,runwayOneDimensions,runwayOneSurface,runwayTwoDimensions,runwayTwoSurface,runwayThreeDimensions,runwayThreeSurface,runwayFourDimensions,runwayFourSurface,weatherLink
+0,TO,NFTE,Eua Airport,S21.22.66',W174.57.44',-21.366666666666667,-174.95, Public,2625 x 59feet,Soft,,,,,,,https://www.getmetar.com/NFTE
+1,TO,NFTL,HaApai Airport,S19.46.62',W174.20.42',-19.766666666666666,-174.33333333333334, Public,3937 x 98feet,Hard,,,,,,,https://www.getmetar.com/NFTL
+2,TO,NFTP,Niuatoputapu Airport,S15.58.65',W173.47.49',-15.966666666666667,-173.78333333333333, Public,3937 x 98feet,Soft,,,,,,,https://www.getmetar.com/NFTP
+3,TO,NFTF,FuaAmotu International Airport,S21.14.51',W175.8.43',-21.233333333333334,-175.13333333333333, Public,8763 x 148feet,Hard,4951 x 377feet,Unknown,,,,,https://www.getmetar.com/NFTF
+4,TO,NFTV,VavaU Airport,S18.35.13',W173.58.08',-18.583333333333332,-173.96666666666667, Public,5593 x 98feet,Hard,,,,,,,https://www.getmetar.com/NFTV
+5,TO,NFTO,NiuafoOu Airport,S15.34.31',W175.37.77',-15.566666666666666,-175.61666666666667, Public,,,,,,,,,https://www.getmetar.com/NFTO

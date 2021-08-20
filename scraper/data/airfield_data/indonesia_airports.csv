@@ -1,244 +1,245 @@
-,Unnamed: 0.1,country,icaoCodes,airFieldName,latitude,longitude,ddLatitude,ddLongitude,airportUse,runwayOneDimensions,runwayOneSurface,runwayTwoDimensions,runwayTwoSurface,runwayThreeDimensions,runwayThreeSurface,runwayFourDimensions,runwayFourSurface,capableCOneThirtyCSeventeen,weatherLink
-0,0,ID,WARA,Abdul Rachman Saleh Airport,S7.55.77',E112.42.72',-7.916666667,112.7, Public,6496 x 131feet,Hard,,,,,,,Yes,https://www.getmetar.com/WARA
-1,1,ID,WAHH,Adisutjipto Airport,S7.47.20',E110.25.92',-7.783333333,110.41666670000001,Military,,,,,,,,,No,https://www.getmetar.com/WAHH
-2,2,ID,WIME,Aek Godang Airport,N1.23.93',E99.25.83',1.3833333330000002,99.41666667, Public,4580 x 75feet,Hard,,,,,,,Yes,https://www.getmetar.com/WIME
-3,3,ID,WITL,Airport Point A Lhoksukon Airport,N5.4.38',E97.15.32',5.066666667,97.25, Public,3675 x 69feet,Hard,,,,,,,Yes,https://www.getmetar.com/WITL
-4,4,ID,WALS,Aji Pangeran Tumenggung Pran Airport,S0.22.53',E117.15.08',-0.36666666700000006,117.25, Public,2953 x 75feet,Hard,,,,,,,No,https://www.getmetar.com/WALS
-5,5,ID,WATP,Alor Pantar Airport,S8.14.75',E124.13.12',-8.233333333,124.21666670000002, Public,,,,,,,,,No,https://www.getmetar.com/WATP
-6,6,ID,WIDL,Anambas Airport,N2.57.77',E105.44.98',2.95,105.73333329999998, Public,,,,,,,,,No,https://www.getmetar.com/WIDL
-7,7,ID,WAFM,Andi Jemma Airport,S2.33.25',E120.19.47',-2.55,120.31666670000001, Public,,,,,,,,,No,https://www.getmetar.com/WAFM
-8,8,ID,WAKM,Asmat Airport,S6.11.12',E138.38.45',-6.183333332999999,138.6333333, Public,,,,,,,,,No,https://www.getmetar.com/WAKM
-9,9,ID,WILM,Astra Ksetra Airport,S4.36.68',E105.13.93',-4.6,105.21666670000002, Public,,,,,,,,,No,https://www.getmetar.com/WILM
-10,10,ID,WIHJ,Atang Sendjaja Airport,S6.32.65',E106.45.25',-6.533333333,106.75, Public,,,,,,,,,No,https://www.getmetar.com/WIHJ
-11,11,ID,WIPY,Atung Bungsu Airport,S4.1.48',E103.22.72',-4.016666667,103.3666667, Public,,,,,,,,,No,https://www.getmetar.com/WIPY
-12,13,ID,WADY,Banyuwangi Airport,S8.18.63',E114.20.42',-8.3,114.33333329999999, Public,,,,,,,,,No,https://www.getmetar.com/WADY
-13,14,ID,WAOC,Batulicin Bersujud Airport,S3.24.80',E116.0.05',-3.4,116.0, Public,5689 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/WAOC
-14,15,ID,WARW,Bawean Airport,S5.43.42',E112.40.60',-5.716666667,112.66666670000001, Public,,,,,,,,,No,https://www.getmetar.com/WARW
-15,16,ID,WAPK,Benjina Airport,S6.3.77',E134.16.62',-6.05,134.2666667, Public,4265 x 59feet,Hard,,,,,,,Yes,https://www.getmetar.com/WAPK
-16,17,ID,WAQC,Berau Maratua Airport,N2.12.20',E118.35.55',2.2,118.58333329999999, Public,,,,,,,,,No,https://www.getmetar.com/WAQC
-17,18,ID,WAGK,Beringin Airport,S0.56.42',E114.53.63',-0.933333333,114.88333329999999, Public,,,,,,,,,No,https://www.getmetar.com/WAGK
-18,19,ID,WAWB,Betoambari Airport,S5.29.22',E122.34.17',-5.483333332999999,122.56666670000001, Public,3445 x 75feet,Hard,,,,,,,No,https://www.getmetar.com/WAWB
-19,20,ID,WABB,Biak Frans Kaisiepo Airport,S1.11.52',E136.6.60',-1.183333333,136.1, Public,11712 x 151feet,Hard,,,,,,,Yes,https://www.getmetar.com/WABB
-20,21,ID,WABF,Biak Numfor Numfor Airport,S0.56.18',E134.51.98',-0.933333333,134.85, Public,,,,,,,,,No,https://www.getmetar.com/WABF
-21,22,ID,WAYB,Bilorai Airport,S3.44.39',E137.1.86',-3.733333333,137.0166667, Public,,,,,,,,,No,https://www.getmetar.com/WAYB
-22,23,ID,WIMB,Binaka Airport,N1.9.93',E97.42.37',1.15,97.7, Public,4445 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/WIMB
-23,24,ID,WAUB,Bintuni Airport,S2.6.05',E133.30.82',-2.1,133.5, Public,,,,,,,,,No,https://www.getmetar.com/WAUB
-24,25,ID,WARC,Blora Ngloram Airport,S7.11.65',E111.32.83',-7.183333332999999,111.53333329999998, Public,,,,,,,,,No,https://www.getmetar.com/WARC
-25,26,ID,WAWN,Bone Arung Palakka Airport,S4.27.53',E120.18.42',-4.45,120.3, Public,,,,,,,,,No,https://www.getmetar.com/WAWN
-26,27,ID,WALC,Bontang Lng Badak Airport,N0.7.17',E117.28.48',0.11666666699999999,117.46666670000002, Public,,,,,,,,,No,https://www.getmetar.com/WALC
-27,12,ID,WAPB,Bula Airport,S3.6.65',E130.30.65',-3.1,130.5, Public,,,,,,,,,No,https://www.getmetar.com/WAPB
-28,28,ID,WAFD,Bula Airport,S3.5.07',E120.14.70',-3.083333333,120.23333329999998, Public,,,,,,,,,No,https://www.getmetar.com/WAFD
-29,29,ID,WICD,Cakrabhuwana Airport,S6.45.37',E108.32.30',-6.75,108.53333329999998, Public,4131 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/WICD
-30,30,ID,WAPC,Central Maluku Bandaneira Airport,S4.31.00',E129.55.00',-4.516666667,129.9166667, Public,,,,,,,,,No,https://www.getmetar.com/WAPC
-31,31,ID,WITC,Cut Nyak Dien Airport,N4.2.88',E96.15.00',4.033333333,96.25, Public,,,,,,,,,No,https://www.getmetar.com/WITC
-32,32,ID,WIDS,Dabo Airport,S0.28.70',E104.34.65',-0.46666666700000003,104.5666667, Public,3839 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/WIDS
-33,33,ID,WATR,David Constantijn Saudale Airport,S10.46.02',E123.4.45',-10.76666667,123.06666670000001, Public,,,,,,,,,No,https://www.getmetar.com/WATR
-34,34,ID,WABA,Deiyai Waghete Baru Airport,S4.4.05',E136.16.42',-4.066666667,136.2666667, Public,,,,,,,,,No,https://www.getmetar.com/WABA
-35,35,ID,WIKK,Depati Amir Airport,S2.9.75',E106.8.29',-2.15,106.13333329999999,Military,,,,,,,,,No,https://www.getmetar.com/WIKK
-36,36,ID,WIJI,Depati Parbo Airport,S2.5.77',E101.28.27',-2.083333333,101.4666667, Public,,,,,,,,,No,https://www.getmetar.com/WIJI
-37,37,ID,WAHU,Dewadaru Airport,S5.48.07',E110.28.67',-5.8,110.46666670000002, Public,,,,,,,,,No,https://www.getmetar.com/WAHU
-38,38,ID,WAPD,Dobo Airport,S5.46.45',E134.12.60',-5.766666667000001,134.2, Public,,,,,,,,,No,https://www.getmetar.com/WAPD
-39,39,ID,WABD,Dogiyai Moanamani Airport,S4.0.53',E136.2.22',-4.0,136.0333333, Public,,,,,,,,,No,https://www.getmetar.com/WABD
-40,40,ID,WASS,Domine Eduard Osok Airport,S0.53.50',E131.17.22',-0.8833333329999999,131.28333329999998, Public,6070 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/WASS
-41,41,ID,WABI,Douw Aturure Airport,S3.22.08',E135.29.83',-3.366666667,135.4833333, Public,4593 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/WABI
-42,42,ID,WIMS,Dr Ferdinand Lumban Tobing Airport,N1.33.32',E98.53.48',1.55,98.88333333, Public,5655 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/WIMS
-43,43,ID,WIBD,Dumai Pinang Kampai Airport,N1.36.73',E101.26.00',1.6,101.4333333, Public,5905 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/WIBD
-44,44,ID,WAPL,Dumatubun Airport,S5.39.70',E132.43.80',-5.65,132.71666670000002, Public,4265 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/WAPL
-45,45,ID,WATT,El Tari Airport,S10.10.67',E123.39.83',-10.16666667,123.65, Public,8202 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/WATT
-46,46,ID,WAES,Emalamo Airport,S2.5.87',E125.57.83',-2.083333333,125.95, Public,,,,,,,,,No,https://www.getmetar.com/WAES
-47,47,ID,WIGE,Enggano Airport,S5.18.12',E102.10.98',-5.3,102.16666670000001, Public,,,,,,,,,No,https://www.getmetar.com/WIGE
-48,48,ID,WAKG,Ewer Airport,S5.29.73',E138.4.85',-5.483333332999999,138.06666669999998, Public,,,,,,,,,No,https://www.getmetar.com/WAKG
-49,49,ID,WAEO,Falabisahaya Airport,S1.46.93',E125.28.93',-1.766666667,125.46666670000002, Public,,,,,,,,,No,https://www.getmetar.com/WAEO
-50,50,ID,WIGG,Fatmawati Soekarno Airport,S3.51.67',E102.20.37',-3.85,102.33333329999999, Public,,,,,,,,,No,https://www.getmetar.com/WIGG
-51,51,ID,WATG,Frans Sales Lega Airport,S8.35.92',E120.28.78',-8.583333332999999,120.46666670000002, Public,,,,,,,,,No,https://www.getmetar.com/WATG
-52,52,ID,WATC,Fransiskus Xaverius Seda Airport,S8.38.25',E122.14.22',-8.633333333,122.23333329999998, Public,5980 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/WATC
-53,53,ID,WAEG,Gamar Malamo Airport,N1.50.20',E127.47.22',1.8333333330000001,127.78333329999998, Public,,,,,,,,,No,https://www.getmetar.com/WAEG
-54,54,ID,WATL,Gewayantana Airport,S8.16.50',E123.0.00',-8.266666667,123.0, Public,,,,,,,,,No,https://www.getmetar.com/WATL
-55,55,ID,WAMG,Gorontalo Djalaluddin Airport,N0.38.30',E122.51.13',0.6333333329999999,122.85, Public,6070 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/WAMG
-56,56,ID,WAOK,Gusti Sjamsir Alam Airport,S3.17.70',E116.9.95',-3.2833333330000003,116.15, Public,,,,,,,,,No,https://www.getmetar.com/WAOK
-57,57,ID,WAGS,H Asan Airport,S2.30.08',E112.58.53',-2.5,112.96666670000002, Public,,,,,,,,,No,https://www.getmetar.com/WAGS
-58,58,ID,WATE,Haji Hasan Aroeboesman Airport,S8.50.88',E121.39.80',-8.833333332999999,121.65, Public,5440 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/WATE
-59,59,ID,WAGB,Haji Muhammad Sidik Airport,S1.1.32',E114.55.58',-1.016666667,114.91666670000001, Public,,,,,,,,,No,https://www.getmetar.com/WAGB
-60,60,ID,WIHH,Halim Perdanakusuma Airport,S6.16.05',E106.53.18',-6.266666667000001,106.88333329999999, Public,9843 x 197feet,Hard,,,,,,,Yes,https://www.getmetar.com/WIHH
-61,61,ID,WAEM,Halmahera Island Buli Airport,N0.55.17',E128.22.95',0.916666667,128.36666670000002, Public,,,,,,,,,No,https://www.getmetar.com/WAEM
-62,62,ID,WAWW,Halu Oleo Airport,S4.5.05',E122.24.78',-4.083333333,122.4,Military,7382 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/WAWW
-63,63,ID,WIDD,Hang Nadim Airport,N1.7.13',E104.6.83',1.116666667,104.1, Public,13205 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/WIDD
-64,64,ID,WICC,Husein Sastranegara Bandung Airport,S6.54.12',E107.34.57',-6.9,107.56666670000001,Military,7382 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/WICC
-65,65,ID,WADD,I Gusti Ngurah Rai Airport,S8.44.85',E115.10.15',-8.733333333,115.16666670000001, Public,9843 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/WADD
-66,66,ID,WAYL,Ilaga Airport,S3.58.63',E137.37.22',-3.9666666669999997,137.6166667, Public,,,,,,,,,No,https://www.getmetar.com/WAYL
-67,67,ID,WAVC,Ilu Airport,S3.42.50',E138.12.02',-3.7,138.2, Public,,,,,,,,,No,https://www.getmetar.com/WAVC
-68,68,ID,WAMP,Imip Airport,S2.48.08',E122.8.47',-2.8,122.13333329999999, Public,3650 x 75feet,Hard,,,,,,,Yes,https://www.getmetar.com/WAMP
-69,69,ID,WASI,Inanwatan Airport,S2.7.60',E132.9.78',-2.116666667,132.15, Public,,,,,,,,,No,https://www.getmetar.com/WASI
-70,70,ID,WAHI,Internasional Yogyakarta Airport,S7.54.25',E110.3.45',-7.9,110.05, Public,,,,,,,,,No,https://www.getmetar.com/WAHI
-71,71,ID,WASO,Irarutu Babo Airport,S2.32.12',E133.26.33',-2.5333333330000003,133.4333333, Public,4280 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/WASO
-72,72,ID,WAGI,Iskandar Airport,S2.42.25',E111.40.23',-2.7,111.66666670000001, Public,,,,,,,,,No,https://www.getmetar.com/WAGI
-73,73,ID,WIII,Jakarta International Soekarno Hatta Airport,S6.7.42',E106.39.67',-6.1166666670000005,106.65, Public,12008 x 197feet,Hard,11811 x 197feet,Unknown,,,,,Yes,https://www.getmetar.com/WIII
-74,74,ID,WIBJ,Japura Airport,S0.21.10',E102.20.07',-0.35,102.33333329999999, Public,,,,,,,,,No,https://www.getmetar.com/WIBJ
-75,75,ID,WAHS,Jenderal Ahmad Yani International Airport,S6.58.58',E110.22.63',-6.966666667,110.36666670000001, Public,,,,,,,,,No,https://www.getmetar.com/WAHS
-76,76,ID,WAHP,Jenderal Besar Soedirman Airport,S7.27.75',E109.25.30',-7.45,109.41666670000001, Public,,,,,,,,,No,https://www.getmetar.com/WAHP
-77,77,ID,WAPM,Jos Orno Imsula Airport,S8.8.35',E127.54.20',-8.133333333,127.9, Public,,,,,,,,,No,https://www.getmetar.com/WAPM
-78,78,ID,WARR,Juanda Airport,S7.22.85',E112.47.18',-7.3666666670000005,112.78333329999998,Military,9843 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/WARR
-79,79,ID,WAQQ,Juwata Int Airport,N3.19.60',E117.34.17',3.316666667,117.56666670000001, Public,,,,,,,,,No,https://www.getmetar.com/WAQQ
-80,80,ID,WASK,Kaimana Airport,S3.38.68',E133.41.73',-3.633333333,133.6833333, Public,5250 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/WASK
-81,81,ID,WIHK,Kalijati Airport,S6.31.88',E107.39.57',-6.516666667000001,107.65,Military,,,,,,,,,No,https://www.getmetar.com/WIHK
-82,82,ID,SIHK,Kalijati Airport,S6.31.88',E107.39.57',-6.516666667000001,107.65,Military,,,,,,,,,No,https://www.getmetar.com/SIHK
-83,83,ID,WASU,Kambuaya Airport,S1.19.10',E132.16.95',-1.316666667,132.2666667, Public,,,,,,,,,No,https://www.getmetar.com/WASU
-84,84,ID,WAFP,Kasiguncu Airport,S1.25.02',E120.39.55',-1.4166666669999999,120.65, Public,,,,,,,,,No,https://www.getmetar.com/WAFP
-85,85,ID,WAUK,Kebar Airport,S0.48.58',E133.3.32',-0.8,133.05, Public,,,,,,,,,No,https://www.getmetar.com/WAUK
-86,86,ID,WAKP,Kepi Airport,S6.32.33',E139.19.82',-6.533333333,139.31666669999998, Public,,,,,,,,,No,https://www.getmetar.com/WAKP
-87,87,ID,WIDB,Kepulauan Riau Tambelan Airport,N0.58.53',E107.33.70',0.966666667,107.55, Public,,,,,,,,,No,https://www.getmetar.com/WIDB
-88,88,ID,WICA,Kertajati International Airport,S6.38.90',E108.9.25',-6.6333333329999995,108.15, Public,,,,,,,,,No,https://www.getmetar.com/WICA
-89,89,ID,WIOK,Ketapang Rahadi Oesman Airport,S1.48.97',E109.57.72',-1.8,109.95, Public,4585 x 95feet,Hard,,,,,,,Yes,https://www.getmetar.com/WIOK
-90,90,ID,WAJK,Kiwirok Airport,S4.42.80',E140.44.37',-4.7,140.7333333, Public,,,,,,,,,No,https://www.getmetar.com/WAJK
-91,91,ID,WAYK,Kokonao Airport,S4.42.68',E136.26.17',-4.7,136.43333330000002, Public,,,,,,,,,No,https://www.getmetar.com/WAYK
-92,92,ID,WAWA,Kolaka Pomala Airport,S4.18.00',E121.36.00',-4.3,121.6, Public,,,,,,,,,No,https://www.getmetar.com/WAWA
-93,93,ID,WATO,Komodo Airport,S8.29.18',E119.53.25',-8.483333333,119.88333329999999, Public,,,,,,,,,No,https://www.getmetar.com/WATO
-94,94,ID,WAGF,Kota Waringin Timur Airport,S3.22.68',E112.32.50',-3.366666667,112.53333329999998, Public,,,,,,,,,No,https://www.getmetar.com/WAGF
-95,95,ID,WAEK,Kuabang Airport,N1.11.22',E127.53.70',1.183333333,127.88333329999999, Public,,,,,,,,,No,https://www.getmetar.com/WAEK
-96,96,ID,WAGA,Kuala Kurun Airport,S1.7.58',E113.52.48',-1.116666667,113.86666670000001, Public,,,,,,,,,No,https://www.getmetar.com/WAGA
-97,97,ID,WIMM,Kualanamu International Airport,N3.38.53',E98.53.12',3.633333333,98.88333333, Public,9514 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/WIMM
-98,98,ID,WIMU,Kuta Cane Alas Lauser Airport,N3.23.23',E97.52.17',3.383333333,97.86666667, Public,,,,,,,,,No,https://www.getmetar.com/WIMU
-99,99,ID,WALE,Kutai Barat Melalan Melak Airport,S0.12.35',E115.45.63',-0.2,115.75, Public,,,,,,,,,No,https://www.getmetar.com/WALE
-100,100,ID,WAPF,Langgur Karel Sadsuitubun Airport,S5.45.45',E132.45.68',-5.75,132.75, Public,,,,,,,,,No,https://www.getmetar.com/WAPF
-101,101,ID,WADE,Letkol Wisnu Airport,S8.8.42',E114.37.30',-8.133333333,114.61666670000001, Public,,,,,,,,,No,https://www.getmetar.com/WADE
-102,102,ID,WAQL,Long Apung Airport,N1.42.33',E114.58.28',1.7,114.96666670000002, Public,,,,,,,,,No,https://www.getmetar.com/WAQL
-103,103,ID,WARI,Madiun Iswahyudi Airport,S7.36.95',E111.26.04',-7.6,111.43333329999999, Public,,,,,,,,,No,https://www.getmetar.com/WARI
-104,104,ID,WAAA,Makassar Sultan Hasanuddin Airport,S5.3.65',E119.33.27',-5.05,119.55, Public,10171 x 148feet,Hard,8202 x 148feet,Unknown,,,,,Yes,https://www.getmetar.com/WAAA
-105,105,ID,WATM,Mali Airport,S8.8.12',E124.35.67',-8.133333333,124.58333329999999, Public,,,,,,,,,No,https://www.getmetar.com/WATM
-106,106,ID,WIMA,Malikussaleh Airport,N5.13.73',E96.57.08',5.216666667,96.95, Public,,,,,,,,,No,https://www.getmetar.com/WIMA
-107,107,ID,WAFJ,Mamuju Tampa Padang Airport,S2.35.32',E119.1.77',-2.583333333,119.01666670000002, Public,,,,,,,,,No,https://www.getmetar.com/WAFJ
-108,108,ID,WAQK,Mangkajang Airport,N2.0.30',E117.44.52',2.0,117.73333329999998, Public,,,,,,,,,No,https://www.getmetar.com/WAQK
-109,109,ID,WAKE,Mappi Bade Airport,S7.10.52',E139.35.05',-7.166666667,139.58333330000002, Public,,,,,,,,,No,https://www.getmetar.com/WAKE
-110,110,ID,WICK,Margahayu Airport,S6.58.45',E107.34.35',-6.966666667,107.56666670000001, Public,,,,,,,,,No,https://www.getmetar.com/WICK
-111,111,ID,WAEB,Marimoi Airport,N1.6.37',E127.42.00',1.1,127.7, Public,,,,,,,,,No,https://www.getmetar.com/WAEB
-112,112,ID,WASN,Marinda Airport,S0.25.92',E130.46.32',-0.41666666700000005,130.7666667, Public,,,,,,,,,No,https://www.getmetar.com/WASN
-113,113,ID,WAWD,Matahora Airport,S5.17.43',E123.38.17',-5.283333333,123.63333329999999, Public,,,,,,,,,No,https://www.getmetar.com/WAWD
-114,114,ID,WIDM,Matak Airport,N3.20.82',E106.15.50',3.333333333,106.25, Public,,,,,,,,,No,https://www.getmetar.com/WIDM
-115,115,ID,WAPS,Mathilda Batlayeri Airport,S7.51.38',E131.20.38',-7.85,131.3333333, Public,,,,,,,,,No,https://www.getmetar.com/WAPS
-116,116,ID,WASA,Maybrat Ayawasi Airport,S1.9.58',E132.27.92',-1.15,132.45, Public,,,,,,,,,No,https://www.getmetar.com/WASA
-117,117,ID,WIMK,Medan Polonia Airport,N3.33.55',E98.40.27',3.55,98.66666667, Public,,,,,,,,,No,https://www.getmetar.com/WIMK
-118,118,ID,WAMN,Melonguane Airport,N4.0.37',E126.40.48',4.0,126.66666670000001, Public,,,,,,,,,No,https://www.getmetar.com/WAMN
-119,119,ID,WAKJ,Merauke Kimam Airport,S7.58.75',E138.51.15',-7.966666667,138.85, Public,,,,,,,,,No,https://www.getmetar.com/WAKJ
-120,120,ID,WAUM,Merdey Airport,S1.35.48',E133.17.75',-1.5833333330000001,133.28333329999998, Public,,,,,,,,,No,https://www.getmetar.com/WAUM
-121,121,ID,WAMS,Miangas Airport,N5.33.37',E126.34.60',5.55,126.56666670000001, Public,,,,,,,,,No,https://www.getmetar.com/WAMS
-122,122,ID,WAYG,Mimika Akimuga Airport,S4.36.18',E137.39.55',-4.6,137.65, Public,,,,,,,,,No,https://www.getmetar.com/WAYG
-123,123,ID,WIEE,Minangkabau Airport,S0.47.30',E100.17.18',-0.783333333,100.2833333, Public,,,,,,,,,No,https://www.getmetar.com/WIEE
-124,124,ID,WAKK,Mopah Airport,S8.31.27',E140.25.02',-8.516666667,140.41666669999998, Public,8202 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/WAKK
-125,125,ID,WAFO,Morowali Morowali Airport,S2.12.13',E121.39.70',-2.2,121.65, Public,,,,,,,,,No,https://www.getmetar.com/WAFO
-126,126,ID,WAYY,Mozes Kilangin Airport,S4.31.90',E136.53.30',-4.516666667,136.8833333, Public,,,,,,,,,No,https://www.getmetar.com/WAYY
-127,127,ID,WIJB,Muara Bungo Airport,S1.32.60',E102.10.72',-1.533333333,102.16666670000001, Public,,,,,,,,,No,https://www.getmetar.com/WIJB
-128,128,ID,WIPI,Muara Bungo Pasir Mayang Airport,S1.8.00',E102.9.00',-1.133333333,102.15, Public,,,,,,,,,No,https://www.getmetar.com/WIPI
-129,129,ID,WILP,Muhammad Taufik Kiemas Airport,S5.12.70',E103.56.37',-5.2,103.9333333, Public,,,,,,,,,No,https://www.getmetar.com/WILP
-130,130,ID,WIGM,Muko Muko Airport,S2.32.47',E101.5.32',-2.5333333330000003,101.08333329999999, Public,,,,,,,,,No,https://www.getmetar.com/WIGM
-131,131,ID,WAFF,Mutiara Sis Al Jufri Airport,S0.55.00',E119.54.62',-0.916666667,119.9, Public,,,,,,,,,No,https://www.getmetar.com/WAFF
-132,132,ID,WAMH,Naha Airport,N3.41.13',E125.31.75',3.683333333,125.51666670000002, Public,3597 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/WAMH
-133,133,ID,WAPN,Namniwel Airport,S3.8.62',E126.58.58',-3.133333333,126.96666670000002, Public,,,,,,,,,No,https://www.getmetar.com/WAPN
-134,134,ID,WAPG,Namrole Airport,S3.51.17',E126.42.15',-3.85,126.7, Public,,,,,,,,,No,https://www.getmetar.com/WAPG
-135,135,ID,WIOG,Nanga Pinoh Airport,S0.20.88',E111.45.02',-0.333333333,111.75, Public,3272 x 75feet,Hard,,,,,,,No,https://www.getmetar.com/WIOG
-136,136,ID,WAVD,Nop Goliat Dekai Airport,S4.51.22',E139.29.20',-4.85,139.4833333, Public,,,,,,,,,No,https://www.getmetar.com/WAVD
-137,137,ID,WARE,Noto Hadinegoro Airport,S8.14.60',E113.41.77',-8.233333333,113.68333329999999, Public,,,,,,,,,No,https://www.getmetar.com/WARE
-138,138,ID,WAQA,Nunukan Airport,N4.8.00',E117.40.00',4.133333333,117.66666670000001, Public,,,,,,,,,No,https://www.getmetar.com/WAQA
-139,139,ID,WICN,Nusawiru Airport,S7.42.23',E108.29.35',-7.7,108.48333329999998, Public,,,,,,,,,No,https://www.getmetar.com/WICN
-140,140,ID,WAEL,Oesman Sadik Airport,S0.38.23',E127.30.12',-0.6333333329999999,127.5, Public,,,,,,,,,No,https://www.getmetar.com/WAEL
-141,141,ID,WAKO,Okaba Airport,S8.5.70',E139.43.35',-8.083333332999999,139.7166667, Public,,,,,,,,,No,https://www.getmetar.com/WAKO
-142,142,ID,WIMG,Padang Tabing Airport,S0.52.53',E100.21.03',-0.8666666670000001,100.35,Military,7054 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/WIMG
-143,143,ID,WIPM,Pagar Alam Airport,S4.1.48',E103.22.72',-4.016666667,103.3666667, Public,,,,,,,,,No,https://www.getmetar.com/WIPM
-144,144,ID,WARP,Pagerungan Airport,S6.57.40',E115.55.95',-6.95,115.91666670000001, Public,,,,,,,,,No,https://www.getmetar.com/WARP
-145,145,ID,WIPP,Palembang Airport,S2.54.07',E104.42.00',-2.9,104.7, Public,9843 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/WIPP
-146,146,ID,WIOP,Pangsuma Airport,N0.50.30',E112.56.13',0.833333333,112.93333329999999, Public,3294 x 75feet,Hard,,,,,,,No,https://www.getmetar.com/WIOP
-147,147,ID,WAYE,Paniai Enarotali Airport,S3.55.57',E136.22.82',-3.916666667,136.3666667, Public,,,,,,,,,No,https://www.getmetar.com/WAYE
-148,148,ID,WIBG,Pasir Pangaraian Airport,N0.50.80',E100.22.22',0.833333333,100.3666667, Public,,,,,,,,,No,https://www.getmetar.com/WIBG
-149,149,ID,WAPP,Pattimura Airport,S3.42.45',E128.5.37',-3.7,128.0833333,Military,8202 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/WAPP
-150,150,ID,WSAP,Paya Lebar Airport,N1.21.34',E103.54.17',1.35,103.9, Public,12402 x 200feet,Hard,,,,,,,Yes,https://www.getmetar.com/WSAP
-151,151,ID,WAJG,Pegunungan Bintang Batom Airport,S4.26.65',E140.52.90',-4.433333333,140.8666667, Public,,,,,,,,,No,https://www.getmetar.com/WAJG
-152,152,ID,WAJO,Pegunungan Bintang Oksibil Airport,S4.54.43',E140.37.82',-4.9,140.6166667, Public,,,,,,,,,No,https://www.getmetar.com/WAJO
-153,153,ID,WIPQ,Pendopo Airport,S3.17.17',E103.52.78',-3.2833333330000003,103.8666667, Public,4265 x 66feet,Hard,,,,,,,Yes,https://www.getmetar.com/WIPQ
-154,154,ID,WAEW,Pitu Airport,N2.3.00',E128.19.00',2.05,128.3166667, Public,,,,,,,,,No,https://www.getmetar.com/WAEW
-155,155,ID,WAFY,Pogogul Airport,N1.6.32',E121.24.93',1.1,121.4, Public,,,,,,,,,No,https://www.getmetar.com/WAFY
-156,156,ID,WIHP,Pondok Cabe Airport,S6.20.22',E106.45.87',-6.333333333,106.75, Public,6516 x 146feet,Hard,,,,,,,Yes,https://www.getmetar.com/WIHP
-157,157,ID,WALQ,Pujungan Airport,S0.18.33',E117.24.92',-0.3,117.4, Public,,,,,,,,,No,https://www.getmetar.com/WALQ
-158,158,ID,WIBI,Pulai Airport,N0.12.97',E103.9.88',0.2,103.15, Public,,,,,,,,,No,https://www.getmetar.com/WIBI
-159,159,ID,WIHG,Pulau Panjang Airport,S5.38.67',E106.33.75',-5.6333333329999995,106.55, Public,,,,,,,,,No,https://www.getmetar.com/WIHG
-160,160,ID,WAPA,Pulau Seram Airport,S3.20.77',E128.55.63',-3.333333333,128.9166667, Public,,,,,,,,,No,https://www.getmetar.com/WAPA
-161,161,ID,WAVA,Puncak Jaya Mulia Airport,S3.42.07',E137.57.62',-3.7,137.95, Public,,,,,,,,,No,https://www.getmetar.com/WAVA
-162,162,ID,WAGP,Purukcahu Airport,S0.41.35',E114.26.70',-0.683333333,114.43333329999999, Public,,,,,,,,,No,https://www.getmetar.com/WAGP
-163,163,ID,WILL,Radin Inten II Airport,S5.14.43',E105.10.53',-5.233333333,105.16666670000001, Public,,,,,,,,,No,https://www.getmetar.com/WILL
-164,164,ID,WIDT,Raja Haji Abdullah Airport,N1.3.00',E103.23.00',1.05,103.3833333, Public,,,,,,,,,No,https://www.getmetar.com/WIDT
-165,165,ID,WIDN,Raja Haji Fisabilillah Airport,N0.55.13',E104.31.62',0.916666667,104.5166667, Public,6581 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/WIDN
-166,166,ID,WIMN,Raja Sisingamangaraja Xii Airport,N2.15.67',E98.59.68',2.25,98.98333333, Public,,,,,,,,,No,https://www.getmetar.com/WIMN
-167,167,ID,WAFK,Rampi Airport,S2.7.43',E120.17.63',-2.116666667,120.28333329999998, Public,,,,,,,,,No,https://www.getmetar.com/WAFK
-168,168,ID,WIDO,Ranai Airport,N3.54.37',E108.23.28',3.9,108.38333329999999, Public,,,,,,,,,No,https://www.getmetar.com/WIDO
-169,169,ID,WITK,Rembele Takengon Airport,N4.43.37',E96.51.18',4.716666667,96.85, Public,,,,,,,,,No,https://www.getmetar.com/WITK
-170,170,ID,WAUU,Rendani Airport,S0.53.63',E134.3.02',-0.8833333329999999,134.05, Public,,,,,,,,,No,https://www.getmetar.com/WAUU
-171,171,ID,WIEB,Rokot Airport,S2.5.83',E99.42.23',-2.083333333,99.7, Public,,,,,,,,,No,https://www.getmetar.com/WIEB
-172,172,ID,WITN,Sabang Maimun Saleh Airport,N5.52.58',E95.20.25',5.8666666670000005,95.33333333, Public,6050 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/WITN
-173,173,ID,WIHI,Salakanagara Tanjun Lesung Airport,S6.29.58',E105.39.93',-6.483333332999999,105.65,Private,,,,,,,,,No,https://www.getmetar.com/WIHI
-174,174,ID,WAMM,Sam Ratulangi Airport,N1.32.73',E124.55.50',1.533333333,124.91666670000001, Public,8694 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/WAMM
-175,175,ID,WAGM,Sanggu Airport,S1.40.15',E114.53.63',-1.6666666669999999,114.88333329999999, Public,,,,,,,,,No,https://www.getmetar.com/WAGM
-176,176,ID,WAWP,Sangia Nibandera Airport,S4.20.70',E121.31.33',-4.333333333,121.51666670000002, Public,,,,,,,,,No,https://www.getmetar.com/WAWP
-177,177,ID,WAJI,Sarmi Mararena Airport,S1.52.48',E138.45.27',-1.8666666669999998,138.75, Public,,,,,,,,,No,https://www.getmetar.com/WAJI
-178,178,ID,WAFN,Seko Airport,S2.16.32',E119.53.70',-2.266666667,119.88333329999999, Public,,,,,,,,,No,https://www.getmetar.com/WAFN
-179,179,ID,WADA,Selaparang Airport,S8.33.72',E116.5.97',-8.55,116.08333329999999, Public,6890 x 131feet,Hard,,,,,,,Yes,https://www.getmetar.com/WADA
-180,180,ID,WSSL,Seletar Airport,N1.25.02',E103.52.06',1.4166666669999999,103.8666667, Public,6024 x 151feet,Hard,,,,,,,Yes,https://www.getmetar.com/WSSL
-181,181,ID,WAQM,Seluwing Airport,N3.34.62',E116.37.05',3.566666667,116.61666670000001, Public,,,,,,,,,No,https://www.getmetar.com/WAQM
-182,182,ID,WSAG,Sembawang Airport,N1.25.60',E103.48.97',1.4166666669999999,103.8, Public,6255 x 100feet,Hard,3400 x 100feet,Unknown,,,,,Yes,https://www.getmetar.com/WSAG
-183,183,ID,WAJS,Senggeh Airport,S3.26.57',E140.46.70',-3.433333333,140.7666667, Public,,,,,,,,,No,https://www.getmetar.com/WAJS
-184,184,ID,WAJJ,Sentani Airport,S2.34.32',E140.30.70',-2.566666667,140.5, Public,8202 x 147feet,Hard,,,,,,,Yes,https://www.getmetar.com/WAJJ
-185,185,ID,WAPU,Seram Bagian Timur Kufar Airport,S3.27.80',E130.47.27',-3.45,130.78333329999998, Public,,,,,,,,,No,https://www.getmetar.com/WAPU
-186,186,ID,WAMO,Siau Sitaro Airport,N2.39.18',E125.25.48',2.65,125.41666670000001, Public,,,,,,,,,No,https://www.getmetar.com/WAMO
-187,187,ID,WIMP,Sibisa Airport,N2.36.08',E98.57.77',2.6,98.95, Public,,,,,,,,,No,https://www.getmetar.com/WIMP
-188,188,ID,WIPB,Silampari Airport,S3.17.05',E102.54.85',-3.2833333330000003,102.9, Public,,,,,,,,,No,https://www.getmetar.com/WIPB
-189,189,ID,WIML,Sinabang Lasikin Airport,N2.24.72',E96.19.73',2.4,96.31666667, Public,,,,,,,,,No,https://www.getmetar.com/WIML
-190,190,ID,WATB,Soa Airport,S8.42.52',E121.3.43',-8.7,121.05, Public,,,,,,,,,No,https://www.getmetar.com/WATB
-191,191,ID,WAHQ,Solo Adi Soemarmo Airport,S7.30.82',E110.45.03',-7.5,110.75, Public,,,,,,,,,No,https://www.getmetar.com/WAHQ
-192,192,ID,WAWS,Soroako Airport,S2.31.77',E121.21.44',-2.516666667,121.35, Public,3382 x 62feet,Hard,,,,,,,No,https://www.getmetar.com/WAWS
-193,193,ID,WABO,Stevanus Rumbewas Airport,S1.49.80',E136.4.17',-1.8166666669999998,136.06666669999998, Public,,,,,,,,,No,https://www.getmetar.com/WABO
-194,194,ID,WAWR,Sugimanuru Airport,S4.45.72',E122.34.20',-4.75,122.56666670000001, Public,,,,,,,,,No,https://www.getmetar.com/WAWR
-195,195,ID,WALL,Sultan Aji Muhammad Sulaiman Airport,S1.16.05',E116.53.63',-1.266666667,116.88333329999999, Public,8202 x 147feet,Hard,,,,,,,Yes,https://www.getmetar.com/WALL
-196,196,ID,WAFL,Sultan Bantilan Airport,N1.7.38',E120.47.58',1.116666667,120.78333329999998, Public,,,,,,,,,No,https://www.getmetar.com/WAFL
-197,197,ID,WITT,Sultan Iskandar Muda Airport,N5.31.02',E95.25.20',5.516666667000001,95.41666667, Public,9843 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/WITT
-198,198,ID,WADS,Sultan Muhammad Kaharuddin Airport,S8.29.32',E117.24.85',-8.483333333,117.4, Public,4754 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/WADS
-199,199,ID,WADB,Sultan Muhammad Salahuddin Airport,S8.32.43',E118.41.42',-8.533333333,118.68333329999999, Public,5413 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/WADB
-200,200,ID,WIBL,Sultan Syarif Haroen Setia Neg Airport,N0.30.28',E101.55.37',0.5,101.91666670000001, Public,,,,,,,,,No,https://www.getmetar.com/WIBL
-201,201,ID,WIBB,Sultan Syarif Kasim II Airport,N0.27.73',E101.26.72',0.45,101.4333333, Public,7349 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/WIBB
-202,202,ID,WIJJ,Sultan Thaha Airport,S1.38.13',E103.38.58',-1.6333333330000002,103.6333333, Public,,,,,,,,,No,https://www.getmetar.com/WIJJ
-203,203,ID,WAFS,Sumarorong Airport,S3.8.87',E119.18.20',-3.133333333,119.3, Public,,,,,,,,,No,https://www.getmetar.com/WAFS
-204,204,ID,WIOO,Supadio Airport,S0.8.73',E109.24.22',-0.133333333,109.4,Military,7382 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/WIOO
-205,205,ID,WAOO,Syamsudin Noor Airport,S3.26.38',E114.45.17',-3.433333333,114.75, Public,8202 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/WAOO
-206,206,ID,WAFW,Syukuran Aminuddin Amir Airport,S1.2.43',E122.46.35',-1.033333333,122.76666670000002, Public,,,,,,,,,No,https://www.getmetar.com/WAFW
-207,207,ID,WATK,Tambolaka Airport,S9.24.73',E119.14.82',-9.4,119.23333329999998, Public,,,,,,,,,No,https://www.getmetar.com/WATK
-208,208,ID,WAFT,Tana Toraja Pongtiku Airport,S3.2.57',E119.49.28',-3.0333333330000003,119.81666670000001, Public,,,,,,,,,No,https://www.getmetar.com/WAFT
-209,209,ID,WAFB,Tana Toraja Toraja Airport,S3.11.13',E119.55.03',-3.183333333,119.91666670000001, Public,,,,,,,,,No,https://www.getmetar.com/WAFB
-210,210,ID,WAKT,Tanah Merah Airport,S6.5.77',E140.18.00',-6.083333333,140.3, Public,,,,,,,,,No,https://www.getmetar.com/WAKT
-211,211,ID,WIRR,Tangerang Budiarto Airport,S6.17.60',E106.34.08',-6.283333333,106.56666670000001, Public,,,,,,,,,No,https://www.getmetar.com/WIRR
-212,212,ID,WAFU,Tanjung Api Airport,S0.51.83',E121.37.50',-0.85,121.61666670000001, Public,,,,,,,,,No,https://www.getmetar.com/WAFU
-213,213,ID,WALB,Tanjung Bara Airport,N0.33.68',E117.38.70',0.55,117.63333329999999, Public,,,,,,,,,No,https://www.getmetar.com/WALB
-214,214,ID,WAQD,Tanjung Harapan Airport,N2.50.47',E117.22.73',2.833333333,117.36666670000001, Public,,,,,,,,,No,https://www.getmetar.com/WAQD
-215,215,ID,WAQT,Tanjung Redep Kalimarau Airport,N2.9.20',E117.25.85',2.15,117.41666670000001, Public,,,,,,,,,No,https://www.getmetar.com/WAQT
-216,216,ID,WALT,Tanjung Santan Airport,S0.5.53',E117.26.38',-0.083333333,117.43333329999999, Public,4501 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/WALT
-217,217,ID,WITA,Tapak Tuan Airport,N3.10.25',E97.17.33',3.166666667,97.28333333, Public,,,,,,,,,No,https://www.getmetar.com/WITA
-218,218,ID,WATS,Tardamu Airport,S10.29.63',E121.50.77',-10.48333333,121.83333329999999, Public,,,,,,,,,No,https://www.getmetar.com/WATS
-219,219,ID,WIOS,Tebelian Airport,S0.2.50',E111.27.38',-0.033333333,111.45, Public,3248 x 98feet,Hard,,,,,,,No,https://www.getmetar.com/WIOS
-220,220,ID,WAST,Teminabuan Airport,S1.26.73',E132.1.23',-1.4333333330000002,132.0166667, Public,,,,,,,,,No,https://www.getmetar.com/WAST
-221,221,ID,WSAT,Tengah Airport,N1.23.26',E103.42.50',1.3833333330000002,103.7,Military,9000 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/WSAT
-222,222,ID,WAEE,Ternate Sultan Babullah Airport,N0.49.87',E127.22.82',0.816666667,127.36666670000001, Public,,,,,,,,,No,https://www.getmetar.com/WAEE
-223,223,ID,WIMT,Teuku Cut Ali Airport,N3.10.25',E97.17.32',3.166666667,97.28333333, Public,,,,,,,,,No,https://www.getmetar.com/WIMT
-224,224,ID,WAGG,Tjilik Riwut Airport,S2.13.60',E113.56.67',-2.2166666669999997,113.93333329999999, Public,,,,,,,,,No,https://www.getmetar.com/WAGG
-225,225,ID,WAWC,Tomia Maranggo Airport,S5.46.03',E123.55.13',-5.766666667000001,123.91666670000001, Public,,,,,,,,,No,https://www.getmetar.com/WAWC
-226,226,ID,WASF,Torea Airport,S2.55.17',E132.15.85',-2.916666667,132.25, Public,3415 x 65feet,Hard,,,,,,,No,https://www.getmetar.com/WASF
-227,227,ID,WART,Trunojoyo Airport,S7.1.42',E113.53.45',-7.016666667000001,113.88333329999999, Public,,,,,,,,,No,https://www.getmetar.com/WART
-228,228,ID,WAHL,Tunggul Wulung Airport,S7.38.67',E109.2.08',-7.6333333329999995,109.03333329999998, Public,,,,,,,,,No,https://www.getmetar.com/WAHL
-229,229,ID,WADW,Umbu Mehang Kunda Airport,S9.40.08',E120.17.93',-9.666666667000001,120.28333329999998, Public,,,,,,,,,No,https://www.getmetar.com/WADW
-230,230,ID,WATU,Umbu Mehang Kunda Airport,S9.40.08',E120.17.93',-9.666666667000001,120.28333329999998, Public,,,,,,,,,No,https://www.getmetar.com/WATU
-231,231,ID,WAJD,Wakde Airport,S1.56.00',E139.1.00',-1.9333333330000002,139.0166667, Public,,,,,,,,,No,https://www.getmetar.com/WAJD
-232,232,ID,WAVV,Wamena Airport,S4.5.85',E138.57.08',-4.083333333,138.95, Public,,,,,,,,,No,https://www.getmetar.com/WAVV
-233,233,ID,WAON,Warukin Airport,S2.12.77',E115.26.55',-2.2,115.43333329999999, Public,4601 x 94feet,Hard,,,,,,,Yes,https://www.getmetar.com/WAON
-234,234,ID,WIPO,Way Kanan Gatot Subroto Airport,S4.23.63',E104.24.17',-4.383333333,104.4, Public,,,,,,,,,No,https://www.getmetar.com/WIPO
-235,235,ID,WAEH,Weda Bay Airport,N0.28.08',E127.56.77',0.46666666700000003,127.93333329999999, Public,,,,,,,,,No,https://www.getmetar.com/WAEH
-236,236,ID,WIHC,Wiladatika Airport,S6.21.42',E106.53.82',-6.35,106.88333329999999, Public,,,,,,,,,No,https://www.getmetar.com/WIHC
-237,237,ID,WICM,Wiriadinata Airport,S7.20.53',E108.14.90',-7.333333333,108.23333329999998,Military,3707 x 64feet,Hard,,,,,,,Yes,https://www.getmetar.com/WICM
-238,238,ID,WATW,Wunopito Airport,S8.21.98',E123.26.28',-8.35,123.43333329999999, Public,,,,,,,,,No,https://www.getmetar.com/WATW
-239,239,ID,WAQJ,Yuvai Semaring Airport,N3.53.00',E115.42.00',3.883333333,115.7, Public,,,,,,,,,No,https://www.getmetar.com/WAQJ
-240,240,ID,WADL,Zainuddin Abdul Madjid International Airport,S8.45.43',E116.16.60',-8.75,116.26666670000002, Public,9022 x 197feet,Hard,,,,,,,Yes,https://www.getmetar.com/WADL
-241,241,ID,WIKT,,,,0.0,0.0,,,,,,,,,,No,https://www.getmetar.com/WIKT
-242,242,ID,WATA,,,,0.0,0.0,,,,,,,,,,No,https://www.getmetar.com/WATA
+,country,icaoCodes,airFieldName,latitude,longitude,ddLatitude,ddLongitude,airportUse,runwayOneDimensions,runwayOneSurface,runwayTwoDimensions,runwayTwoSurface,runwayThreeDimensions,runwayThreeSurface,runwayFourDimensions,runwayFourSurface,weatherLink
+0,ID,WITT,Sultan Iskandar Muda Airport,N5.31.02',E95.25.20',5.516666666666667,95.41666666666667, Public,9843 x 148feet,Hard,,,,,,,https://www.getmetar.com/WITT
+1,ID,WITN,Sabang Maimun Saleh Airport,N5.52.58',E95.20.25',5.866666666666667,95.33333333333333, Public,6050 x 98feet,Hard,,,,,,,https://www.getmetar.com/WITN
+2,ID,WITL,Airport Point A Lhoksukon Airport,N5.4.38',E97.15.32',5.066666666666666,97.25, Public,3675 x 69feet,Hard,,,,,,,https://www.getmetar.com/WITL
+3,ID,WITK,Rembele Takengon Airport,N4.43.37',E96.51.18',4.716666666666667,96.85, Public,,,,,,,,,https://www.getmetar.com/WITK
+4,ID,WITC,Cut Nyak Dien Airport,N4.2.88',E96.15.00',4.033333333333333,96.25, Public,,,,,,,,,https://www.getmetar.com/WITC
+5,ID,WITA,Tapak Tuan Airport,N3.10.25',E97.17.33',3.1666666666666665,97.28333333333333, Public,,,,,,,,,https://www.getmetar.com/WITA
+6,ID,WIMU,Kuta Cane Alas Lauser Airport,N3.23.23',E97.52.17',3.3833333333333333,97.86666666666666, Public,,,,,,,,,https://www.getmetar.com/WIMU
+7,ID,WIMT,Teuku Cut Ali Airport,N3.10.25',E97.17.32',3.1666666666666665,97.28333333333333, Public,,,,,,,,,https://www.getmetar.com/WIMT
+8,ID,WIML,Sinabang Lasikin Airport,N2.24.53',E96.19.57',2.4,96.31666666666666, Public,,,,,,,,,https://www.getmetar.com/WIML
+9,ID,WIMA,Malikussaleh Airport,N5.13.73',E96.57.08',5.216666666666667,96.95, Public,,,,,,,,,https://www.getmetar.com/WIMA
+10,ID,WADE,Letkol Wisnu Airport,S8.8.42',E114.37.30',-8.133333333333333,114.61666666666666, Public,,,,,,,,,https://www.getmetar.com/WADE
+11,ID,WADD,I Gusti Ngurah Rai Airport,S8.44.85',E115.10.15',-8.733333333333333,115.16666666666667, Public,9843 x 148feet,Hard,,,,,,,https://www.getmetar.com/WADD
+12,ID,WIKT,,,,0,0,,,,,,,,,,https://www.getmetar.com/WIKT
+13,ID,WIKK,Depati Amir Airport,S2.9.75',E106.8.29',-2.15,106.13333333333334,Military,,,,,,,,,https://www.getmetar.com/WIKK
+14,ID,WIRR,Tangerang Budiarto Airport,S6.17.60',E106.34.08',-6.283333333333333,106.56666666666666, Public,,,,,,,,,https://www.getmetar.com/WIRR
+15,ID,WIII,Jakarta International Soekarno Hatta Airport,S6.7.42',E106.39.67',-6.116666666666666,106.65, Public,12008 x 197feet,Hard,11811 x 197feet,Unknown,,,,,https://www.getmetar.com/WIII
+16,ID,WIHP,Pondok Cabe Airport,S6.20.22',E106.45.87',-6.333333333333333,106.75, Public,6516 x 146feet,Hard,,,,,,,https://www.getmetar.com/WIHP
+17,ID,WIHI,Salakanagara Tanjun Lesung Airport,S6.29.58',E105.39.93',-6.483333333333333,105.65,Private,,,,,,,,,https://www.getmetar.com/WIHI
+18,ID,WIGM,Muko Muko Airport,S2.32.47',E101.5.32',-2.533333333333333,101.08333333333333, Public,,,,,,,,,https://www.getmetar.com/WIGM
+19,ID,WIGG,Bengkulu Fatmawati Soekarno Airport,S3.51.67',E102.20.37',-3.85,102.33333333333333, Public,,,,,,,,,https://www.getmetar.com/WIGG
+20,ID,WIGE,Enggano Airport,S5.18.12',E102.10.98',-5.3,102.16666666666667, Public,,,,,,,,,https://www.getmetar.com/WIGE
+21,ID,WAMG,Gorontalo Djalaluddin Airport,N0.38.30',E122.51.13',0.6333333333333333,122.85, Public,6070 x 98feet,Hard,,,,,,,https://www.getmetar.com/WAMG
+22,ID,WAUU,Rendani Airport,S0.53.63',E134.3.02',-0.8833333333333333,134.05, Public,,,,,,,,,https://www.getmetar.com/WAUU
+23,ID,WAUM,Merdey Airport,S1.35.48',E133.17.75',-1.5833333333333335,133.28333333333333, Public,,,,,,,,,https://www.getmetar.com/WAUM
+24,ID,WAUK,Kebar Airport,S0.48.58',E133.3.32',-0.8,133.05, Public,,,,,,,,,https://www.getmetar.com/WAUK
+25,ID,WAUB,Bintuni Airport,S2.6.05',E133.30.82',-2.1,133.5, Public,,,,,,,,,https://www.getmetar.com/WAUB
+26,ID,WASU,Kambuaya Airport,S1.19.10',E132.16.95',-1.3166666666666667,132.26666666666668, Public,,,,,,,,,https://www.getmetar.com/WASU
+27,ID,WAST,Teminabuan Airport,S1.26.73',E132.1.23',-1.4333333333333333,132.01666666666668, Public,,,,,,,,,https://www.getmetar.com/WAST
+28,ID,WASS,Domine Eduard Osok Airport,S0.53.50',E131.17.22',-0.8833333333333333,131.28333333333333, Public,6070 x 98feet,Hard,,,,,,,https://www.getmetar.com/WASS
+29,ID,WASO,Irarutu Babo Airport,S2.32.12',E133.26.33',-2.533333333333333,133.43333333333334, Public,4280 x 98feet,Hard,,,,,,,https://www.getmetar.com/WASO
+30,ID,WASN,Marinda Airport,S0.25.92',E130.46.32',-0.4166666666666667,130.76666666666668, Public,,,,,,,,,https://www.getmetar.com/WASN
+31,ID,WASK,Kaimana Airport,S3.38.68',E133.41.73',-3.6333333333333333,133.68333333333334, Public,5250 x 98feet,Hard,,,,,,,https://www.getmetar.com/WASK
+32,ID,WASI,Inanwatan Airport,S2.7.60',E132.9.78',-2.1166666666666667,132.15, Public,,,,,,,,,https://www.getmetar.com/WASI
+33,ID,WASF,Torea Airport,S2.55.17',E132.15.85',-2.9166666666666665,132.25, Public,3415 x 65feet,Hard,,,,,,,https://www.getmetar.com/WASF
+34,ID,WASA,Maybrat Ayawasi Airport,S1.9.58',E132.27.92',-1.15,132.45, Public,,,,,,,,,https://www.getmetar.com/WASA
+35,ID,WIHH,Halim Perdanakusuma Airport,S6.16.05',E106.53.18',-6.266666666666667,106.88333333333334, Public,9843 x 197feet,Hard,,,,,,,https://www.getmetar.com/WIHH
+36,ID,WIHG,Pulau Panjang Airport,S5.38.67',E106.33.75',-5.633333333333333,106.55, Public,,,,,,,,,https://www.getmetar.com/WIHG
+37,ID,WIHC,Wiladatika Airport,S6.21.42',E106.53.82',-6.35,106.88333333333334, Public,,,,,,,,,https://www.getmetar.com/WIHC
+38,ID,WIPI,Muara Bungo Pasir Mayang Airport,S1.8.00',E102.9.00',-1.1333333333333333,102.15, Public,,,,,,,,,https://www.getmetar.com/WIPI
+39,ID,WIJJ,Sultan Thaha Airport,S1.38.13',E103.38.58',-1.6333333333333333,103.63333333333334, Public,,,,,,,,,https://www.getmetar.com/WIJJ
+40,ID,WIJI,Depati Parbo Airport,S2.5.77',E101.28.27',-2.0833333333333335,101.46666666666667, Public,,,,,,,,,https://www.getmetar.com/WIJI
+41,ID,WIJB,Muara Bungo Airport,S1.32.60',E102.10.72',-1.5333333333333332,102.16666666666667, Public,,,,,,,,,https://www.getmetar.com/WIJB
+42,ID,WIHK,Kalijati Airport,S6.31.88',E107.39.57',-6.516666666666667,107.65,Military,,,,,,,,,https://www.getmetar.com/WIHK
+43,ID,WIHJ,Atang Sendjaja Airport,S6.32.65',E106.45.25',-6.533333333333333,106.75, Public,,,,,,,,,https://www.getmetar.com/WIHJ
+44,ID,WICN,Nusawiru Airport,S7.42.23',E108.29.35',-7.7,108.48333333333333, Public,,,,,,,,,https://www.getmetar.com/WICN
+45,ID,WICM,Wiriadinata Airport,S7.20.53',E108.14.90',-7.333333333333333,108.23333333333333,Military,3707 x 64feet,Hard,,,,,,,https://www.getmetar.com/WICM
+46,ID,WICK,Margahayu Airport,S6.58.45',E107.34.35',-6.966666666666667,107.56666666666666, Public,,,,,,,,,https://www.getmetar.com/WICK
+47,ID,WICD,Cakrabhuwana Airport,S6.45.37',E108.32.30',-6.75,108.53333333333333, Public,4131 x 98feet,Hard,,,,,,,https://www.getmetar.com/WICD
+48,ID,WICC,Husein Sastranegara Bandung Airport,S6.54.12',E107.34.57',-6.9,107.56666666666666,Military,7382 x 148feet,Hard,,,,,,,https://www.getmetar.com/WICC
+49,ID,WICA,Kertajati International Airport,S6.38.90',E108.9.25',-6.633333333333333,108.15, Public,,,,,,,,,https://www.getmetar.com/WICA
+50,ID,SIHK,Kalijati Airport,S6.31.88',E107.39.57',-6.516666666666667,107.65,Military,,,,,,,,,https://www.getmetar.com/SIHK
+51,ID,WARC,Blora Ngloram Airport,S7.11.65',E111.32.83',-7.183333333333334,111.53333333333333, Public,,,,,,,,,https://www.getmetar.com/WARC
+52,ID,WAHU,Dewadaru Airport,S5.48.07',E110.28.67',-5.8,110.46666666666667, Public,,,,,,,,,https://www.getmetar.com/WAHU
+53,ID,WAHS,Jenderal Ahmad Yani International Airport,S6.58.58',E110.22.63',-6.966666666666667,110.36666666666666, Public,,,,,,,,,https://www.getmetar.com/WAHS
+54,ID,WAHQ,Solo Adi Soemarmo Airport,S7.30.82',E110.45.03',-7.5,110.75, Public,,,,,,,,,https://www.getmetar.com/WAHQ
+55,ID,WAHP,Jenderal Besar Soedirman Airport,S7.27.75',E109.25.30',-7.45,109.41666666666667, Public,,,,,,,,,https://www.getmetar.com/WAHP
+56,ID,WAHL,Cilacap Tunggul Wulung Airport,S7.38.67',E109.2.08',-7.633333333333333,109.03333333333333, Public,,,,,,,,,https://www.getmetar.com/WAHL
+57,ID,WARW,Bawean Airport,S5.43.42',E112.40.60',-5.716666666666667,112.66666666666667, Public,,,,,,,,,https://www.getmetar.com/WARW
+58,ID,WART,Trunojoyo Airport,S7.1.42',E113.53.45',-7.016666666666667,113.88333333333334, Public,,,,,,,,,https://www.getmetar.com/WART
+59,ID,WARR,Juanda Airport,S7.22.85',E112.47.18',-7.366666666666666,112.78333333333333,Military,9843 x 148feet,Hard,,,,,,,https://www.getmetar.com/WARR
+60,ID,WARP,Pagerungan Airport,S6.57.40',E115.55.95',-6.95,115.91666666666667, Public,,,,,,,,,https://www.getmetar.com/WARP
+61,ID,WARI,Madiun Iswahyudi Airport,S7.36.95',E111.26.04',-7.6,111.43333333333334, Public,,,,,,,,,https://www.getmetar.com/WARI
+62,ID,WARE,Noto Hadinegoro Airport,S8.14.60',E113.41.77',-8.233333333333333,113.68333333333334, Public,,,,,,,,,https://www.getmetar.com/WARE
+63,ID,WARA,Abdul Rachman Saleh Airport,S7.55.77',E112.42.72',-7.916666666666667,112.7, Public,6496 x 131feet,Hard,,,,,,,https://www.getmetar.com/WARA
+64,ID,WADY,Banyuwangi Airport,S8.18.63',E114.20.42',-8.3,114.33333333333333, Public,,,,,,,,,https://www.getmetar.com/WADY
+65,ID,WIOS,Tebelian Airport,S0.2.50',E111.27.38',-0.03333333333333333,111.45, Public,3248 x 98feet,Hard,,,,,,,https://www.getmetar.com/WIOS
+66,ID,WIOP,Pangsuma Airport,N0.50.30',E112.56.13',0.8333333333333334,112.93333333333334, Public,3294 x 75feet,Hard,,,,,,,https://www.getmetar.com/WIOP
+67,ID,WIOO,Supadio Airport,S0.8.73',E109.24.22',-0.13333333333333333,109.4,Military,7382 x 98feet,Hard,,,,,,,https://www.getmetar.com/WIOO
+68,ID,WIOK,Ketapang Rahadi Oesman Airport,S1.48.97',E109.57.72',-1.8,109.95, Public,4585 x 95feet,Hard,,,,,,,https://www.getmetar.com/WIOK
+69,ID,WIOG,Nanga Pinoh Airport,S0.20.88',E111.45.02',-0.3333333333333333,111.75, Public,3272 x 75feet,Hard,,,,,,,https://www.getmetar.com/WIOG
+70,ID,WAOO,Syamsudin Noor Airport,S3.26.38',E114.45.17',-3.4333333333333336,114.75, Public,8202 x 148feet,Hard,,,,,,,https://www.getmetar.com/WAOO
+71,ID,WAON,Warukin Airport,S2.12.77',E115.26.55',-2.2,115.43333333333334, Public,4601 x 94feet,Hard,,,,,,,https://www.getmetar.com/WAON
+72,ID,WAOK,Gusti Sjamsir Alam Airport,S3.17.70',E116.9.95',-3.283333333333333,116.15, Public,,,,,,,,,https://www.getmetar.com/WAOK
+73,ID,WAOC,Batulicin Bersujud Airport,S3.24.80',E116.0.05',-3.4,116.0, Public,5689 x 98feet,Hard,,,,,,,https://www.getmetar.com/WAOC
+74,ID,WAGS,H Asan Airport,S2.30.08',E112.58.53',-2.5,112.96666666666667, Public,,,,,,,,,https://www.getmetar.com/WAGS
+75,ID,WAGP,Purukcahu Airport,S0.41.35',E114.26.70',-0.6833333333333333,114.43333333333334, Public,,,,,,,,,https://www.getmetar.com/WAGP
+76,ID,WAGM,Sanggu Airport,S1.40.15',E114.53.63',-1.6666666666666665,114.88333333333334, Public,,,,,,,,,https://www.getmetar.com/WAGM
+77,ID,WAGK,Beringin Airport,S0.56.42',E114.53.63',-0.9333333333333333,114.88333333333334, Public,,,,,,,,,https://www.getmetar.com/WAGK
+78,ID,WAGI,Iskandar Airport,S2.42.25',E111.40.23',-2.7,111.66666666666667, Public,,,,,,,,,https://www.getmetar.com/WAGI
+79,ID,WAGG,Tjilik Riwut Airport,S2.13.60',E113.56.67',-2.216666666666667,113.93333333333334, Public,,,,,,,,,https://www.getmetar.com/WAGG
+80,ID,WAGF,Kota Waringin Timur Airport,S3.22.68',E112.32.50',-3.3666666666666667,112.53333333333333, Public,,,,,,,,,https://www.getmetar.com/WAGF
+81,ID,WAGB,Haji Muhammad Sidik Airport,S1.1.32',E114.55.58',-1.0166666666666666,114.91666666666667, Public,,,,,,,,,https://www.getmetar.com/WAGB
+82,ID,WAGA,Kuala Kurun Airport,S1.7.58',E113.52.48',-1.1166666666666667,113.86666666666666, Public,,,,,,,,,https://www.getmetar.com/WAGA
+83,ID,WAQT,Tanjung Redep Kalimarau Airport,N2.9.20',E117.25.85',2.15,117.41666666666667, Public,,,,,,,,,https://www.getmetar.com/WAQT
+84,ID,WAQQ,Juwata Int Airport,N3.19.60',E117.34.17',3.3166666666666664,117.56666666666666, Public,,,,,,,,,https://www.getmetar.com/WAQQ
+85,ID,WAQM,Seluwing Airport,N3.34.62',E116.37.05',3.5666666666666664,116.61666666666666, Public,,,,,,,,,https://www.getmetar.com/WAQM
+86,ID,WAQL,Long Apung Airport,N1.42.33',E114.58.28',1.7,114.96666666666667, Public,,,,,,,,,https://www.getmetar.com/WAQL
+87,ID,WAQK,Mangkajang Airport,N2.0.30',E117.44.52',2.0,117.73333333333333, Public,,,,,,,,,https://www.getmetar.com/WAQK
+88,ID,WAQJ,Yuvai Semaring Airport,N3.53.00',E115.42.00',3.8833333333333333,115.7, Public,,,,,,,,,https://www.getmetar.com/WAQJ
+89,ID,WAQD,Tanjung Selor Tanjung Harapan Airport,N2.50.25',E117.22.40',2.8333333333333335,117.36666666666666, Public,,,,,,,,,https://www.getmetar.com/WAQD
+90,ID,WAQC,Berau Maratua Airport,N2.12.20',E118.35.55',2.2,118.58333333333333, Public,,,,,,,,,https://www.getmetar.com/WAQC
+91,ID,WAQA,Nunukan Airport,N4.8.00',E117.40.00',4.133333333333334,117.66666666666667, Public,,,,,,,,,https://www.getmetar.com/WAQA
+92,ID,WALT,Tanjung Santan Airport,S0.5.53',E117.26.38',-0.08333333333333333,117.43333333333334, Public,4501 x 98feet,Hard,,,,,,,https://www.getmetar.com/WALT
+93,ID,WALS,Aji Pangeran Tumenggung Pran Airport,S0.22.53',E117.15.08',-0.36666666666666664,117.25, Public,2953 x 75feet,Hard,,,,,,,https://www.getmetar.com/WALS
+94,ID,WALQ,Pujungan Airport,S0.18.33',E117.24.92',-0.3,117.4, Public,,,,,,,,,https://www.getmetar.com/WALQ
+95,ID,WALL,Sultan Aji Muhammad Sulaiman Airport,S1.16.05',E116.53.63',-1.2666666666666666,116.88333333333334, Public,8202 x 147feet,Hard,,,,,,,https://www.getmetar.com/WALL
+96,ID,WALE,Kutai Barat Melalan Melak Airport,S0.12.35',E115.45.63',-0.2,115.75, Public,,,,,,,,,https://www.getmetar.com/WALE
+97,ID,WALC,Bontang Lng Badak Airport,N0.7.17',E117.28.48',0.11666666666666667,117.46666666666667, Public,,,,,,,,,https://www.getmetar.com/WALC
+98,ID,WALB,Tanjung Bara Airport,N0.33.68',E117.38.70',0.55,117.63333333333334, Public,,,,,,,,,https://www.getmetar.com/WALB
+99,ID,WIDT,Raja Haji Abdullah Airport,N1.3.00',E103.23.00',1.05,103.38333333333334, Public,,,,,,,,,https://www.getmetar.com/WIDT
+100,ID,WIDS,Dabo Airport,S0.28.70',E104.34.65',-0.4666666666666667,104.56666666666666, Public,3839 x 98feet,Hard,,,,,,,https://www.getmetar.com/WIDS
+101,ID,WIDO,Ranai Airport,N3.54.37',E108.23.28',3.9,108.38333333333334, Public,,,,,,,,,https://www.getmetar.com/WIDO
+102,ID,WIDN,Raja Haji Fisabilillah Airport,N0.55.13',E104.31.62',0.9166666666666666,104.51666666666667, Public,6581 x 148feet,Hard,,,,,,,https://www.getmetar.com/WIDN
+103,ID,WIDM,Matak Airport,N3.20.82',E106.15.50',3.3333333333333335,106.25, Public,,,,,,,,,https://www.getmetar.com/WIDM
+104,ID,WIDL,Anambas Airport,N2.57.77',E105.44.98',2.95,105.73333333333333, Public,,,,,,,,,https://www.getmetar.com/WIDL
+105,ID,WIDD,Hang Nadim Airport,N1.7.13',E104.6.83',1.1166666666666667,104.1, Public,13205 x 148feet,Hard,,,,,,,https://www.getmetar.com/WIDD
+106,ID,WIDB,Kepulauan Riau Tambelan Airport,N0.58.53',E107.33.70',0.9666666666666667,107.55, Public,,,,,,,,,https://www.getmetar.com/WIDB
+107,ID,WIPO,Way Kanan Gatot Subroto Airport,S4.23.63',E104.24.17',-4.383333333333334,104.4, Public,,,,,,,,,https://www.getmetar.com/WIPO
+108,ID,WILP,Muhammad Taufik Kiemas Airport,S5.12.70',E103.56.37',-5.2,103.93333333333334, Public,,,,,,,,,https://www.getmetar.com/WILP
+109,ID,WILM,Astra Ksetra Airport,S4.36.68',E105.13.93',-4.6,105.21666666666667, Public,,,,,,,,,https://www.getmetar.com/WILM
+110,ID,WILL,Radin Inten II Airport,S5.14.43',E105.10.53',-5.233333333333333,105.16666666666667, Public,,,,,,,,,https://www.getmetar.com/WILL
+111,ID,WAPU,Seram Bagian Timur Kufar Airport,S3.27.80',E130.47.27',-3.45,130.78333333333333, Public,,,,,,,,,https://www.getmetar.com/WAPU
+112,ID,WAPS,Mathilda Batlayeri Airport,S7.51.38',E131.20.38',-7.85,131.33333333333334, Public,,,,,,,,,https://www.getmetar.com/WAPS
+113,ID,WAPP,Pattimura Airport,S3.42.45',E128.5.37',-3.7,128.08333333333334,Military,8202 x 148feet,Hard,,,,,,,https://www.getmetar.com/WAPP
+114,ID,WAPN,Namniwel Airport,S3.8.62',E126.58.58',-3.1333333333333333,126.96666666666667, Public,,,,,,,,,https://www.getmetar.com/WAPN
+115,ID,WAPM,Jos Orno Imsula Airport,S8.8.35',E127.54.20',-8.133333333333333,127.9, Public,,,,,,,,,https://www.getmetar.com/WAPM
+116,ID,WAPL,Dumatubun Airport,S5.39.70',E132.43.80',-5.65,132.71666666666667, Public,4265 x 98feet,Hard,,,,,,,https://www.getmetar.com/WAPL
+117,ID,WAPK,Benjina Airport,S6.3.77',E134.16.62',-6.05,134.26666666666668, Public,4265 x 59feet,Hard,,,,,,,https://www.getmetar.com/WAPK
+118,ID,WAPG,Namrole Airport,S3.51.17',E126.42.15',-3.85,126.7, Public,,,,,,,,,https://www.getmetar.com/WAPG
+119,ID,WAPF,Langgur Karel Sadsuitubun Airport,S5.45.45',E132.45.68',-5.75,132.75, Public,,,,,,,,,https://www.getmetar.com/WAPF
+120,ID,WAPD,Dobo Airport,S5.46.45',E134.12.60',-5.766666666666667,134.2, Public,,,,,,,,,https://www.getmetar.com/WAPD
+121,ID,WAPC,Central Maluku Bandaneira Airport,S4.31.00',E129.55.00',-4.516666666666667,129.91666666666666, Public,,,,,,,,,https://www.getmetar.com/WAPC
+122,ID,WAPB,B U L A Airport,S3.6.65',E130.30.65',-3.1,130.5, Public,,,,,,,,,https://www.getmetar.com/WAPB
+123,ID,WAPA,Pulau Seram Airport,S3.20.77',E128.55.63',-3.3333333333333335,128.91666666666666, Public,,,,,,,,,https://www.getmetar.com/WAPA
+124,ID,WAEW,Pitu Airport,N2.3.00',E128.19.00',2.05,128.31666666666666, Public,,,,,,,,,https://www.getmetar.com/WAEW
+125,ID,WAES,Emalamo Airport,S2.5.87',E125.57.83',-2.0833333333333335,125.95, Public,,,,,,,,,https://www.getmetar.com/WAES
+126,ID,WAEO,Falabisahaya Airport,S1.46.93',E125.28.93',-1.7666666666666666,125.46666666666667, Public,,,,,,,,,https://www.getmetar.com/WAEO
+127,ID,WAEM,Halmahera Island Buli Airport,N0.55.17',E128.22.95',0.9166666666666666,128.36666666666667, Public,,,,,,,,,https://www.getmetar.com/WAEM
+128,ID,WAEL,South Halmahera Oesman Sadik Airport,S0.38.23',E127.30.12',-0.6333333333333333,127.5, Public,,,,,,,,,https://www.getmetar.com/WAEL
+129,ID,WAEK,Kuabang Airport,N1.11.22',E127.53.70',1.1833333333333333,127.88333333333334, Public,,,,,,,,,https://www.getmetar.com/WAEK
+130,ID,WAEH,Weda Bay Airport,N0.28.08',E127.56.77',0.4666666666666667,127.93333333333334, Public,,,,,,,,,https://www.getmetar.com/WAEH
+131,ID,WAEG,Gamar Malamo Airport,N1.50.20',E127.47.22',1.8333333333333335,127.78333333333333, Public,,,,,,,,,https://www.getmetar.com/WAEG
+132,ID,WAEE,Ternate Sultan Babullah Airport,N0.49.87',E127.22.82',0.8166666666666667,127.36666666666666, Public,,,,,,,,,https://www.getmetar.com/WAEE
+133,ID,WAEB,Marimoi Airport,N1.6.37',E127.42.00',1.1,127.7, Public,,,,,,,,,https://www.getmetar.com/WAEB
+134,ID,WADS,Sultan Muhammad Kaharuddin Airport,S8.29.32',E117.24.85',-8.483333333333333,117.4, Public,4754 x 98feet,Hard,,,,,,,https://www.getmetar.com/WADS
+135,ID,WADL,Zainuddin Abdul Madjid International Airport,S8.45.43',E116.16.60',-8.75,116.26666666666667, Public,9022 x 197feet,Hard,,,,,,,https://www.getmetar.com/WADL
+136,ID,WADB,Sultan Muhammad Salahuddin Airport,S8.32.43',E118.41.42',-8.533333333333333,118.68333333333334, Public,5413 x 98feet,Hard,,,,,,,https://www.getmetar.com/WADB
+137,ID,WADA,Selaparang Airport,S8.33.72',E116.5.97',-8.55,116.08333333333333, Public,6890 x 131feet,Hard,,,,,,,https://www.getmetar.com/WADA
+138,ID,WATW,Wunopito Airport,S8.21.98',E123.26.28',-8.35,123.43333333333334, Public,,,,,,,,,https://www.getmetar.com/WATW
+139,ID,WATU,Umbu Mehang Kunda Airport,S9.40.08',E120.17.93',-9.666666666666666,120.28333333333333, Public,,,,,,,,,https://www.getmetar.com/WATU
+140,ID,WATT,El Tari Airport,S10.10.67',E123.39.83',-10.166666666666666,123.65, Public,8202 x 148feet,Hard,,,,,,,https://www.getmetar.com/WATT
+141,ID,WATS,Tardamu Airport,S10.29.63',E121.50.77',-10.483333333333333,121.83333333333333, Public,,,,,,,,,https://www.getmetar.com/WATS
+142,ID,WATR,David Constantijn Saudale Airport,S10.46.02',E123.4.45',-10.766666666666667,123.06666666666666, Public,,,,,,,,,https://www.getmetar.com/WATR
+143,ID,WATP,Alor Pantar Airport,S8.14.75',E124.13.12',-8.233333333333333,124.21666666666667, Public,,,,,,,,,https://www.getmetar.com/WATP
+144,ID,WATO,Komodo Airport,S8.29.18',E119.53.25',-8.483333333333333,119.88333333333334, Public,,,,,,,,,https://www.getmetar.com/WATO
+145,ID,WATM,Mali Airport,S8.8.12',E124.35.67',-8.133333333333333,124.58333333333333, Public,,,,,,,,,https://www.getmetar.com/WATM
+146,ID,WATL,Gewayantana Airport,S8.16.50',E123.0.00',-8.266666666666667,123.0, Public,,,,,,,,,https://www.getmetar.com/WATL
+147,ID,WATK,Tambolaka Airport,S9.24.73',E119.14.82',-9.4,119.23333333333333, Public,,,,,,,,,https://www.getmetar.com/WATK
+148,ID,WATG,Frans Sales Lega Airport,S8.35.92',E120.28.78',-8.583333333333334,120.46666666666667, Public,,,,,,,,,https://www.getmetar.com/WATG
+149,ID,WATE,Haji Hasan Aroeboesman Airport,S8.50.88',E121.39.80',-8.833333333333334,121.65, Public,5440 x 98feet,Hard,,,,,,,https://www.getmetar.com/WATE
+150,ID,WATC,Fransiskus Xaverius Seda Airport,S8.38.25',E122.14.22',-8.633333333333333,122.23333333333333, Public,5980 x 98feet,Hard,,,,,,,https://www.getmetar.com/WATC
+151,ID,WATB,Soa Airport,S8.42.52',E121.3.43',-8.7,121.05, Public,,,,,,,,,https://www.getmetar.com/WATB
+152,ID,WATA,,,,0,0,,,,,,,,,,https://www.getmetar.com/WATA
+153,ID,WADW,Umbu Mehang Kunda Airport,S9.40.08',E120.17.93',-9.666666666666666,120.28333333333333, Public,,,,,,,,,https://www.getmetar.com/WADW
+154,ID,WAYY,Mozes Kilangin Airport,S4.31.90',E136.53.30',-4.516666666666667,136.88333333333333, Public,,,,,,,,,https://www.getmetar.com/WAYY
+155,ID,WAYL,Ilaga Airport,S3.58.63',E137.37.22',-3.966666666666667,137.61666666666667, Public,,,,,,,,,https://www.getmetar.com/WAYL
+156,ID,WAYK,Kokonao Airport,S4.42.68',E136.26.17',-4.7,136.43333333333334, Public,,,,,,,,,https://www.getmetar.com/WAYK
+157,ID,WAYG,Mimika Akimuga Airport,S4.36.18',E137.39.55',-4.6,137.65, Public,,,,,,,,,https://www.getmetar.com/WAYG
+158,ID,WAYE,Paniai Enarotali Airport,S3.55.57',E136.22.82',-3.9166666666666665,136.36666666666667, Public,,,,,,,,,https://www.getmetar.com/WAYE
+159,ID,WAYB,Bilorai Airport,S3.44.39',E137.1.86',-3.7333333333333334,137.01666666666668, Public,,,,,,,,,https://www.getmetar.com/WAYB
+160,ID,WAVV,Wamena Airport,S4.5.85',E138.57.08',-4.083333333333333,138.95, Public,,,,,,,,,https://www.getmetar.com/WAVV
+161,ID,WAVD,Nop Goliat Dekai Airport,S4.51.22',E139.29.20',-4.85,139.48333333333332, Public,,,,,,,,,https://www.getmetar.com/WAVD
+162,ID,WAVC,Ilu Airport,S3.42.50',E138.12.02',-3.7,138.2, Public,,,,,,,,,https://www.getmetar.com/WAVC
+163,ID,WAVA,Puncak Jaya Mulia Airport,S3.42.07',E137.57.62',-3.7,137.95, Public,,,,,,,,,https://www.getmetar.com/WAVA
+164,ID,WAKT,Tanah Merah Airport,S6.5.77',E140.18.00',-6.083333333333333,140.3, Public,,,,,,,,,https://www.getmetar.com/WAKT
+165,ID,WAKP,Kepi Airport,S6.32.33',E139.19.82',-6.533333333333333,139.31666666666666, Public,,,,,,,,,https://www.getmetar.com/WAKP
+166,ID,WAKO,Okaba Airport,S8.5.70',E139.43.35',-8.083333333333334,139.71666666666667, Public,,,,,,,,,https://www.getmetar.com/WAKO
+167,ID,WAKM,Asmat Airport,S6.11.12',E138.38.45',-6.183333333333334,138.63333333333333, Public,,,,,,,,,https://www.getmetar.com/WAKM
+168,ID,WAKK,Mopah Airport,S8.31.27',E140.25.02',-8.516666666666667,140.41666666666666, Public,8202 x 148feet,Hard,,,,,,,https://www.getmetar.com/WAKK
+169,ID,WAKJ,Merauke Kimam Airport,S7.58.75',E138.51.15',-7.966666666666667,138.85, Public,,,,,,,,,https://www.getmetar.com/WAKJ
+170,ID,WAKG,Ewer Airport,S5.29.73',E138.4.85',-5.483333333333333,138.06666666666666, Public,,,,,,,,,https://www.getmetar.com/WAKG
+171,ID,WAKE,Mappi Bade Airport,S7.10.52',E139.35.05',-7.166666666666667,139.58333333333334, Public,,,,,,,,,https://www.getmetar.com/WAKE
+172,ID,WAJS,Senggeh Airport,S3.26.57',E140.46.70',-3.4333333333333336,140.76666666666668, Public,,,,,,,,,https://www.getmetar.com/WAJS
+173,ID,WAJO,Pegunungan Bintang Oksibil Airport,S4.54.43',E140.37.82',-4.9,140.61666666666667, Public,,,,,,,,,https://www.getmetar.com/WAJO
+174,ID,WAJK,Kiwirok Airport,S4.42.80',E140.44.37',-4.7,140.73333333333332, Public,,,,,,,,,https://www.getmetar.com/WAJK
+175,ID,WAJJ,Sentani Airport,S2.34.32',E140.30.70',-2.5666666666666664,140.5, Public,8202 x 147feet,Hard,,,,,,,https://www.getmetar.com/WAJJ
+176,ID,WAJI,Sarmi Mararena Airport,S1.52.48',E138.45.27',-1.8666666666666667,138.75, Public,,,,,,,,,https://www.getmetar.com/WAJI
+177,ID,WAJG,Pegunungan Bintang Batom Airport,S4.26.65',E140.52.90',-4.433333333333334,140.86666666666667, Public,,,,,,,,,https://www.getmetar.com/WAJG
+178,ID,WAJD,Wakde Airport,S1.56.00',E139.1.00',-1.9333333333333333,139.01666666666668, Public,,,,,,,,,https://www.getmetar.com/WAJD
+179,ID,WABS,Puncak Sinak Airport,S3.49.32',E137.50.28',-3.8166666666666664,137.83333333333334, Public,,,,,,,,,https://www.getmetar.com/WABS
+180,ID,WABO,Stevanus Rumbewas Airport,S1.49.80',E136.4.17',-1.8166666666666667,136.06666666666666, Public,,,,,,,,,https://www.getmetar.com/WABO
+181,ID,WABI,Douw Aturure Airport,S3.22.08',E135.29.83',-3.3666666666666667,135.48333333333332, Public,4593 x 98feet,Hard,,,,,,,https://www.getmetar.com/WABI
+182,ID,WABF,Biak Numfor Numfor Airport,S0.56.18',E134.51.98',-0.9333333333333333,134.85, Public,,,,,,,,,https://www.getmetar.com/WABF
+183,ID,WABD,Dogiyai Moanamani Airport,S4.0.53',E136.2.22',-4.0,136.03333333333333, Public,,,,,,,,,https://www.getmetar.com/WABD
+184,ID,WABB,Biak Frans Kaisiepo Airport,S1.11.52',E136.6.60',-1.1833333333333333,136.1, Public,11712 x 151feet,Hard,,,,,,,https://www.getmetar.com/WABB
+185,ID,WABA,Deiyai Waghete Baru Airport,S4.4.05',E136.16.42',-4.066666666666666,136.26666666666668, Public,,,,,,,,,https://www.getmetar.com/WABA
+186,ID,WSSL,Seletar Airport,N1.25.02',E103.52.06',1.4166666666666667,103.86666666666666, Public,6024 x 151feet,Hard,,,,,,,https://www.getmetar.com/WSSL
+187,ID,WSAT,Tengah Airport,N1.23.26',E103.42.50',1.3833333333333333,103.7,Military,9000 x 150feet,Hard,,,,,,,https://www.getmetar.com/WSAT
+188,ID,WSAP,Paya Lebar Airport,N1.21.34',E103.54.17',1.35,103.9, Public,12402 x 200feet,Hard,,,,,,,https://www.getmetar.com/WSAP
+189,ID,WSAG,Sembawang Airport,N1.25.60',E103.48.97',1.4166666666666667,103.8, Public,6255 x 100feet,Hard,3400 x 100feet,Unknown,,,,,https://www.getmetar.com/WSAG
+190,ID,WIBL,Sultan Syarif Haroen Setia Neg Airport,N0.30.28',E101.55.37',0.5,101.91666666666667, Public,,,,,,,,,https://www.getmetar.com/WIBL
+191,ID,WIBJ,Japura Airport,S0.21.10',E102.20.07',-0.35,102.33333333333333, Public,,,,,,,,,https://www.getmetar.com/WIBJ
+192,ID,WIBI,Pulai Airport,N0.12.97',E103.9.88',0.2,103.15, Public,,,,,,,,,https://www.getmetar.com/WIBI
+193,ID,WIBG,Pasir Pangaraian Airport,N0.50.80',E100.22.22',0.8333333333333334,100.36666666666666, Public,,,,,,,,,https://www.getmetar.com/WIBG
+194,ID,WIBD,Dumai Pinang Kampai Airport,N1.36.73',E101.26.00',1.6,101.43333333333334, Public,5905 x 98feet,Hard,,,,,,,https://www.getmetar.com/WIBD
+195,ID,WIBB,Sultan Syarif Kasim II Airport,N0.27.73',E101.26.72',0.45,101.43333333333334, Public,7349 x 98feet,Hard,,,,,,,https://www.getmetar.com/WIBB
+196,ID,WAFS,Sumarorong Airport,S3.8.87',E119.18.20',-3.1333333333333333,119.3, Public,,,,,,,,,https://www.getmetar.com/WAFS
+197,ID,WAFJ,Mamuju Tampa Padang Airport,S2.35.32',E119.1.77',-2.5833333333333335,119.01666666666667, Public,,,,,,,,,https://www.getmetar.com/WAFJ
+198,ID,WAWS,Soroako Airport,S2.31.77',E121.21.44',-2.5166666666666666,121.35, Public,3382 x 62feet,Hard,,,,,,,https://www.getmetar.com/WAWS
+199,ID,WAWN,Bone Arung Palakka Airport,S4.27.53',E120.18.42',-4.45,120.3, Public,,,,,,,,,https://www.getmetar.com/WAWN
+200,ID,WAFT,Tana Toraja Pongtiku Airport,S3.2.57',E119.49.28',-3.033333333333333,119.81666666666666, Public,,,,,,,,,https://www.getmetar.com/WAFT
+201,ID,WAFN,Seko Airport,S2.16.32',E119.53.70',-2.2666666666666666,119.88333333333334, Public,,,,,,,,,https://www.getmetar.com/WAFN
+202,ID,WAFM,Andi Jemma Airport,S2.33.25',E120.19.47',-2.55,120.31666666666666, Public,,,,,,,,,https://www.getmetar.com/WAFM
+203,ID,WAFK,Rampi Airport,S2.7.43',E120.17.63',-2.1166666666666667,120.28333333333333, Public,,,,,,,,,https://www.getmetar.com/WAFK
+204,ID,WAFD,Bua Airport,S3.5.07',E120.14.70',-3.0833333333333335,120.23333333333333, Public,,,,,,,,,https://www.getmetar.com/WAFD
+205,ID,WAFB,Tana Toraja Toraja Airport,S3.11.13',E119.55.03',-3.183333333333333,119.91666666666667, Public,,,,,,,,,https://www.getmetar.com/WAFB
+206,ID,WAAA,Makassar Sultan Hasanuddin Airport,S5.3.65',E119.33.27',-5.05,119.55, Public,10171 x 148feet,Hard,8202 x 148feet,Unknown,,,,,https://www.getmetar.com/WAAA
+207,ID,WAMP,Imip Airport,S2.48.08',E122.8.47',-2.8,122.13333333333334, Public,3650 x 75feet,Hard,,,,,,,https://www.getmetar.com/WAMP
+208,ID,WAFY,Pogogul Airport,N1.6.32',E121.24.93',1.1,121.4, Public,,,,,,,,,https://www.getmetar.com/WAFY
+209,ID,WAFW,Syukuran Aminuddin Amir Airport,S1.2.43',E122.46.35',-1.0333333333333334,122.76666666666667, Public,,,,,,,,,https://www.getmetar.com/WAFW
+210,ID,WAFU,Tanjung Api Airport,S0.51.83',E121.37.50',-0.85,121.61666666666666, Public,,,,,,,,,https://www.getmetar.com/WAFU
+211,ID,WAFP,Kasiguncu Airport,S1.25.02',E120.39.55',-1.4166666666666667,120.65, Public,,,,,,,,,https://www.getmetar.com/WAFP
+212,ID,WAFO,Morowali Morowali Airport,S2.12.13',E121.39.70',-2.2,121.65, Public,,,,,,,,,https://www.getmetar.com/WAFO
+213,ID,WAFL,Sultan Bantilan Airport,N1.7.38',E120.47.58',1.1166666666666667,120.78333333333333, Public,,,,,,,,,https://www.getmetar.com/WAFL
+214,ID,WAFF,Mutiara Sis Al Jufri Airport,S0.55.00',E119.54.62',-0.9166666666666666,119.9, Public,,,,,,,,,https://www.getmetar.com/WAFF
+215,ID,WAWW,Halu Oleo Airport,S4.5.05',E122.24.78',-4.083333333333333,122.4,Military,7382 x 148feet,Hard,,,,,,,https://www.getmetar.com/WAWW
+216,ID,WAWR,Sugimanuru Airport,S4.45.72',E122.34.20',-4.75,122.56666666666666, Public,,,,,,,,,https://www.getmetar.com/WAWR
+217,ID,WAWP,Sangia Nibandera Airport,S4.20.70',E121.31.33',-4.333333333333333,121.51666666666667, Public,,,,,,,,,https://www.getmetar.com/WAWP
+218,ID,WAWD,Matahora Airport,S5.17.43',E123.38.17',-5.283333333333333,123.63333333333334, Public,,,,,,,,,https://www.getmetar.com/WAWD
+219,ID,WAWC,Tomia Maranggo Airport,S5.46.03',E123.55.13',-5.766666666666667,123.91666666666667, Public,,,,,,,,,https://www.getmetar.com/WAWC
+220,ID,WAWB,Betoambari Airport,S5.29.22',E122.34.17',-5.483333333333333,122.56666666666666, Public,3445 x 75feet,Hard,,,,,,,https://www.getmetar.com/WAWB
+221,ID,WAWA,Kolaka Pomala Airport,S4.18.00',E121.36.00',-4.3,121.6, Public,,,,,,,,,https://www.getmetar.com/WAWA
+222,ID,WAMS,Miangas Airport,N5.33.37',E126.34.60',5.55,126.56666666666666, Public,,,,,,,,,https://www.getmetar.com/WAMS
+223,ID,WAMO,Siau Sitaro Airport,N2.39.18',E125.25.48',2.65,125.41666666666667, Public,,,,,,,,,https://www.getmetar.com/WAMO
+224,ID,WAMN,Melonguane Airport,N4.0.37',E126.40.48',4.0,126.66666666666667, Public,,,,,,,,,https://www.getmetar.com/WAMN
+225,ID,WAMM,Manado Sam Ratulangi Airport,N1.32.73',E124.55.50',1.5333333333333332,124.91666666666667, Public,8694 x 148feet,Hard,,,,,,,https://www.getmetar.com/WAMM
+226,ID,WAMH,Naha Airport,N3.41.13',E125.31.75',3.6833333333333336,125.51666666666667, Public,3597 x 98feet,Hard,,,,,,,https://www.getmetar.com/WAMH
+227,ID,WIMG,Padang Tabing Airport,S0.52.53',E100.21.03',-0.8666666666666667,100.35,Military,7054 x 148feet,Hard,,,,,,,https://www.getmetar.com/WIMG
+228,ID,WIEE,Minangkabau Airport,S0.47.30',E100.17.18',-0.7833333333333333,100.28333333333333, Public,,,,,,,,,https://www.getmetar.com/WIEE
+229,ID,WIEB,Rokot Airport,S2.5.83',E99.42.23',-2.0833333333333335,99.7, Public,,,,,,,,,https://www.getmetar.com/WIEB
+230,ID,WIPY,Atung Bungsu Airport,S4.1.48',E103.22.72',-4.016666666666667,103.36666666666666, Public,,,,,,,,,https://www.getmetar.com/WIPY
+231,ID,WIPQ,Pendopo Airport,S3.17.17',E103.52.78',-3.283333333333333,103.86666666666666, Public,4265 x 66feet,Hard,,,,,,,https://www.getmetar.com/WIPQ
+232,ID,WIPP,Palembang Airport,S2.54.07',E104.42.00',-2.9,104.7, Public,9843 x 148feet,Hard,,,,,,,https://www.getmetar.com/WIPP
+233,ID,WIPM,Pagar Alam Airport,S4.1.48',E103.22.72',-4.016666666666667,103.36666666666666, Public,,,,,,,,,https://www.getmetar.com/WIPM
+234,ID,WIPB,Silampari Airport,S3.17.05',E102.54.85',-3.283333333333333,102.9, Public,,,,,,,,,https://www.getmetar.com/WIPB
+235,ID,WIMS,Dr Ferdinand Lumban Tobing Airport,N1.33.32',E98.53.48',1.55,98.88333333333334, Public,5655 x 98feet,Hard,,,,,,,https://www.getmetar.com/WIMS
+236,ID,WIMP,Sibisa Airport,N2.36.08',E98.57.77',2.6,98.95, Public,,,,,,,,,https://www.getmetar.com/WIMP
+237,ID,WIMN,Raja Sisingamangaraja Xii Airport,N2.15.67',E98.59.68',2.25,98.98333333333333, Public,,,,,,,,,https://www.getmetar.com/WIMN
+238,ID,WIMM,Kualanamu International Airport,N3.38.53',E98.53.12',3.6333333333333333,98.88333333333334, Public,9514 x 148feet,Hard,,,,,,,https://www.getmetar.com/WIMM
+239,ID,WIMK,Medan Polonia Airport,N3.33.55',E98.40.27',3.55,98.66666666666667, Public,,,,,,,,,https://www.getmetar.com/WIMK
+240,ID,WIME,Aek Godang Airport,N1.23.93',E99.25.83',1.3833333333333333,99.41666666666667, Public,4580 x 75feet,Hard,,,,,,,https://www.getmetar.com/WIME
+241,ID,WIMB,Binaka Airport,N1.9.93',E97.42.37',1.15,97.7, Public,4445 x 98feet,Hard,,,,,,,https://www.getmetar.com/WIMB
+242,ID,WAHI,Internasional Yogyakarta Airport,S7.54.25',E110.3.45',-7.9,110.05, Public,,,,,,,,,https://www.getmetar.com/WAHI
+243,ID,WAHH,Adisutjipto Airport,S7.47.20',E110.25.92',-7.783333333333333,110.41666666666667,Military,,,,,,,,,https://www.getmetar.com/WAHH
