@@ -16,12 +16,19 @@ if (Ports.collection.find().count() === 0 || Airfields.collection.find().count()
 }
 
 async function initializeCollections() {
-  let init = new Initialization()
+  let init = new Initialization();
   await init.fetchScrapedData();
 }
 
 //Custom Meteor methods. Runs on server
 Meteor.methods({
+  //initialize front end Collections
+  initalize: async function() {
+    return new Promise(async (resolve, reject) => {
+      let init = new Initialization();
+      resolve(await init.fetchScrapedData());
+    });
+  },
   //builds src code for Google Maps iframe
   buildSrc: function(name, type, country) {
     return new Promise((resolve, reject) => {

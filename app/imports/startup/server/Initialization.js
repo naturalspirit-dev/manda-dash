@@ -17,7 +17,7 @@ class Initialization extends React.Component {
   }
 
   async listAirfieldCsv() {
-  return fs.readdirSync('../../../../../../scraper/data/airfield_data');
+    return fs.readdirSync('../../../../../../scraper/data/airfield_data');
   }
 
     //fetches all data from folder of csvs, adds to state
@@ -76,7 +76,7 @@ class Initialization extends React.Component {
     async setPortData(newPortData) {
       let n = 0;
       while(n < newPortData.length) {
-        await this.updatePort(newPortData[n]);
+        await Meteor.call('updatePort', newPortData[n]);
         n++;
       }
       return null;
@@ -85,23 +85,12 @@ class Initialization extends React.Component {
     async setAirfieldData(newAirfieldData) {
       let n = 0;
       while(n < newAirfieldData.length) {
-        await this.updateAirfield(newAirfieldData[n]);
+        await Meteor.call('updateAirfield', newAirfieldData[n]);
         n++;
       }
       return null;
     }
 
-    updatePort(port) {
-      Ports.collection.insert(port, (error) => {
-        if (error) { console.log('Error', error.message, 'error'); }
-      });
-    }
-
-    updateAirfield(airfield) {
-      Airfields.collection.insert(airfield, (error) => {
-        if (error) { console.log('Error', error.message, 'error'); }
-      });
-    }
 }
 
 export default Initialization;

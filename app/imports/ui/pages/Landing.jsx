@@ -24,6 +24,12 @@ class Landing extends React.Component {
     }
   }
 
+  async componentDidMount() {
+    if (Ports.collection.find().count() === 0 || Airfields.collection.find().count() === 0) {
+      await Meteor.call('initalize');
+    }
+  }
+
   //logic for rendering lookup by location
   lookupInterface = () => {
     this.setState({
