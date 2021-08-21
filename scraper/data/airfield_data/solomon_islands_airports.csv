@@ -1,39 +1,39 @@
-,Unnamed: 0.1,country,icaoCodes,airFieldName,latitude,longitude,ddLatitude,ddLongitude,airportUse,runwayOneDimensions,runwayOneSurface,runwayTwoDimensions,runwayTwoSurface,runwayThreeDimensions,runwayThreeSurface,runwayFourDimensions,runwayFourSurface,capableCOneThirtyCSeventeen,weatherLink
-0,0,SB,AGAF,Afutara Airport,S9.11.10',E160.56.90',-9.183333333333334,160.93333333333334,Private,,,,,,,,,No,https://www.getmetar.com/AGAF
-1,1,SB,AGGB,Anua Airport,S11.17.70',E159.47.80',-11.283333333333333,159.78333333333333, Public,,,,,,,,,No,https://www.getmetar.com/AGGB
-2,2,SB,AGGI,Babanakira Airport,S9.44.90',E159.50.40',-9.733333333333333,159.83333333333334, Public,,,,,,,,,No,https://www.getmetar.com/AGGI
-3,3,SB,AGGE,Ballalae Airport,S6.59.00',E155.53.10',-6.9833333333333325,155.88333333333333, Public,,,,,,,,,No,https://www.getmetar.com/AGGE
-4,4,SB,AGBA,Barakoma Airport,S7.54.60',E156.42.50',-7.9,156.7,Private,,,,,,,,,No,https://www.getmetar.com/AGBA
-5,5,SB,AGBT,Batuna Airport,S8.33.30',E158.7.10',-8.55,158.11666666666667,Private,,,,,,,,,No,https://www.getmetar.com/AGBT
-6,6,SB,AGOK,Gatokae Airport,S8.43.90',E158.12.10',-8.716666666666667,158.2,Private,,,,,,,,,No,https://www.getmetar.com/AGOK
-7,7,SB,AGGL,Graciosa Bay Luovo Airport,S10.43.20',E165.47.90',-10.716666666666667,165.78333333333333,Private,,,,,,,,,No,https://www.getmetar.com/AGGL
-8,8,SB,AGGA,GwaunaruU Airport,S8.42.30',E160.40.90',-8.7,160.66666666666666, Public,3111 x 98feet,Soft,,,,,,,No,https://www.getmetar.com/AGGA
-9,9,SB,AGGJ,Haimaru Airport,S9.52.10',E160.24.60',-9.866666666666667,160.4, Public,,,,,,,,,No,https://www.getmetar.com/AGGJ
-10,10,SB,AGGH,Honiara International Airport,S9.25.10',E160.3.20',-9.416666666666666,160.05, Public,7218 x 148feet,Unknown,,,,,,,No,https://www.getmetar.com/AGGH
-11,11,SB,AGJO,Jajao Airport,S8.12.80',E159.16.00',-8.2,159.26666666666668,Private,,,,,,,,,No,https://www.getmetar.com/AGJO
-12,12,SB,AGKG,Kaghau Airport,S7.19.90',E157.35.20',-7.316666666666666,157.58333333333334,Private,,,,,,,,,No,https://www.getmetar.com/AGKG
-13,13,SB,AGKA,Kaghau Airport,S7.19.90',E157.35.20',-7.316666666666666,157.58333333333334,Private,,,,,,,,,No,https://www.getmetar.com/AGKA
-14,14,SB,AGGK,Kirakira Airport,S10.26.50',E161.53.80',-10.433333333333334,161.88333333333333, Public,,,,,,,,,No,https://www.getmetar.com/AGGK
-15,15,SB,AGKU,Kukudu Airport,S8.1.20',E156.56.80',-8.016666666666667,156.93333333333334,Private,,,,,,,,,No,https://www.getmetar.com/AGKU
-16,16,SB,AGKW,Kwailabesi Airport,S8.19.28',E160.47.75',-8.316666666666666,160.78333333333333,Private,,,,,,,,,No,https://www.getmetar.com/AGKW
-17,17,SB,AGLM,Lomlom Airport,S10.17.81',E166.19.64',-10.283333333333333,166.31666666666666, Public,,,,,,,,,No,https://www.getmetar.com/AGLM
-18,18,SB,AGOB,Manaoba Airport,S8.19.28',E160.47.75',-8.316666666666666,160.78333333333333, Public,,,,,,,,,No,https://www.getmetar.com/AGOB
-19,19,SB,AGGF,Maringe Airport,S8.6.40',E159.34.60',-8.1,159.56666666666666, Public,,,,,,,,,No,https://www.getmetar.com/AGGF
-20,20,SB,AGGM,Munda Airport,S8.19.63',E157.15.70',-8.316666666666666,157.25, Public,4593 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/AGGM
-21,21,SB,AGNA,Nana Airport,S10.39.30',E162.12.40',-10.65,162.2,Private,,,,,,,,,No,https://www.getmetar.com/AGNA
-22,22,SB,AGGN,Nusatupe Airport,S8.5.90',E156.51.80',-8.083333333333334,156.85,Private,,,,,,,,,No,https://www.getmetar.com/AGGN
-23,23,SB,AGGQ,Ontong Java Airport,S5.30.40',E159.31.60',-5.5,159.51666666666668, Public,,,,,,,,,No,https://www.getmetar.com/AGGQ
-24,24,SB,AGGP,Parasi Airport,S9.38.62',E161.25.69',-9.633333333333333,161.41666666666666, Public,,,,,,,,,No,https://www.getmetar.com/AGGP
-25,25,SB,AGGU,Paruru Airport,S9.51.86',E160.49.36',-9.85,160.81666666666666, Public,,,,,,,,,No,https://www.getmetar.com/AGGU
-26,26,SB,AGRM,Ramata Airport,S8.9.90',E157.38.40',-8.15,157.63333333333333,Private,,,,,,,,,No,https://www.getmetar.com/AGRM
-27,27,SB,AGRC,Ringicove Airport,S8.7.10',E157.8.50',-8.116666666666667,157.13333333333333,Private,,,,,,,,,No,https://www.getmetar.com/AGRC
-28,28,SB,AGGY,Russell Islands Airport,S9.5.60',E159.13.10',-9.083333333333334,159.21666666666667,Private,,,,,,,,,No,https://www.getmetar.com/AGGY
-29,29,SB,AGGT,Santa Anna Airport,S10.50.50',E162.27.30',-10.833333333333336,162.45, Public,,,,,,,,,No,https://www.getmetar.com/AGGT
-30,30,SB,AGGS,Seghe Airport,S8.34.70',E157.52.80',-8.566666666666666,157.86666666666667, Public,,,,,,,,,No,https://www.getmetar.com/AGGS
-31,31,SB,AGGO,Stirling Island Airport,S7.23.90',E155.33.00',-7.383333333333334,155.55,Private,,,,,,,,,No,https://www.getmetar.com/AGGO
-32,32,SB,AGGV,Suavanao Airport,S7.35.00',E158.44.00',-7.583333333333332,158.73333333333332,Private,,,,,,,,,No,https://www.getmetar.com/AGGV
-33,33,SB,AGGC,Taro Island Airport,S6.42.30',E156.23.70',-6.7,156.38333333333333, Public,,,,,,,,,No,https://www.getmetar.com/AGGC
-34,34,SB,AGGR,Tingoa Airport,S11.32.60',E160.3.70',-11.533333333333333,160.05, Public,,,,,,,,,No,https://www.getmetar.com/AGGR
-35,35,SB,AGAT,Uru Harbour Airport,S8.52.00',E161.0.60',-8.866666666666667,161.0,Private,,,,,,,,,No,https://www.getmetar.com/AGAT
-36,36,SB,AGEV,Vella La Vella Airport,S7.34.20',E156.35.80',-7.566666666666666,156.58333333333334,Private,,,,,,,,,No,https://www.getmetar.com/AGEV
-37,37,SB,AGVH,Viru Harbour Airport,S8.30.10',E157.41.40',-8.5,157.68333333333334,Private,,,,,,,,,No,https://www.getmetar.com/AGVH
+,country,icaoCodes,airFieldName,latitude,longitude,ddLatitude,ddLongitude,airportUse,runwayOneDimensions,runwayOneSurface,runwayTwoDimensions,runwayTwoSurface,runwayThreeDimensions,runwayThreeSurface,runwayFourDimensions,runwayFourSurface,weatherLink
+0,SB,AGKG,Kaghau Airport,S7.19.90',E157.35.20',-7.316666666666666,157.58333333333334,Private,,,,,,,,,https://www.getmetar.com/AGKG
+1,SB,AGKA,Kaghau Airport,S7.19.90',E157.35.20',-7.316666666666666,157.58333333333334,Private,,,,,,,,,https://www.getmetar.com/AGKA
+2,SB,AGGC,Taro Island Airport,S6.42.30',E156.23.70',-6.7,156.38333333333333, Public,,,,,,,,,https://www.getmetar.com/AGGC
+3,SB,AGGY,Russell Islands Airport,S9.5.60',E159.13.10',-9.083333333333334,159.21666666666667,Private,,,,,,,,,https://www.getmetar.com/AGGY
+4,SB,AGGU,Paruru Airport,S9.51.86',E160.49.36',-9.85,160.81666666666666, Public,,,,,,,,,https://www.getmetar.com/AGGU
+5,SB,AGGJ,Haimaru Airport,S9.52.10',E160.24.60',-9.866666666666667,160.4, Public,,,,,,,,,https://www.getmetar.com/AGGJ
+6,SB,AGGI,Babanakira Airport,S9.44.90',E159.50.40',-9.733333333333333,159.83333333333334, Public,,,,,,,,,https://www.getmetar.com/AGGI
+7,SB,AGGH,Honiara International Airport,S9.25.10',E160.3.20',-9.416666666666666,160.05, Public,7218 x 148feet,Unknown,,,,,,,https://www.getmetar.com/AGGH
+8,SB,AGJO,Jajao Airport,S8.12.80',E159.16.00',-8.2,159.26666666666668,Private,,,,,,,,,https://www.getmetar.com/AGJO
+9,SB,AGGV,Suavanao Airport,S7.35.00',E158.44.00',-7.583333333333333,158.73333333333332,Private,,,,,,,,,https://www.getmetar.com/AGGV
+10,SB,AGGF,Maringe Airport,S8.6.40',E159.34.60',-8.1,159.56666666666666, Public,,,,,,,,,https://www.getmetar.com/AGGF
+11,SB,AGNA,Nana Airport,S10.39.30',E162.12.40',-10.65,162.2,Private,,,,,,,,,https://www.getmetar.com/AGNA
+12,SB,AGGT,Santa Anna Airport,S10.50.50',E162.27.30',-10.833333333333334,162.45, Public,,,,,,,,,https://www.getmetar.com/AGGT
+13,SB,AGGK,Kirakira Airport,S10.26.50',E161.53.80',-10.433333333333334,161.88333333333333, Public,,,,,,,,,https://www.getmetar.com/AGGK
+14,SB,AGOB,Manaoba Airport,S8.19.28',E160.47.75',-8.316666666666666,160.78333333333333, Public,,,,,,,,,https://www.getmetar.com/AGOB
+15,SB,AGKW,Kwailabesi Airport,S8.19.28',E160.47.75',-8.316666666666666,160.78333333333333,Private,,,,,,,,,https://www.getmetar.com/AGKW
+16,SB,AGGQ,Ontong Java Airport,S5.30.40',E159.31.60',-5.5,159.51666666666668, Public,,,,,,,,,https://www.getmetar.com/AGGQ
+17,SB,AGGP,Parasi Airport,S9.38.62',E161.25.69',-9.633333333333333,161.41666666666666, Public,,,,,,,,,https://www.getmetar.com/AGGP
+18,SB,AGGA,GwaunaruU Airport,S8.42.30',E160.40.90',-8.7,160.66666666666666, Public,3111 x 98feet,Soft,,,,,,,https://www.getmetar.com/AGGA
+19,SB,AGAT,Uru Harbour Airport,S8.52.00',E161.0.60',-8.866666666666667,161.0,Private,,,,,,,,,https://www.getmetar.com/AGAT
+20,SB,AGAF,Afutara Airport,S9.11.10',E160.56.90',-9.183333333333334,160.93333333333334,Private,,,,,,,,,https://www.getmetar.com/AGAF
+21,SB,AGGR,Tingoa Airport,S11.32.60',E160.3.70',-11.533333333333333,160.05, Public,,,,,,,,,https://www.getmetar.com/AGGR
+22,SB,AGGB,Anua Airport,S11.17.70',E159.47.80',-11.283333333333333,159.78333333333333, Public,,,,,,,,,https://www.getmetar.com/AGGB
+23,SB,AGLM,Lomlom Airport,S10.17.81',E166.19.64',-10.283333333333333,166.31666666666666, Public,,,,,,,,,https://www.getmetar.com/AGLM
+24,SB,AGGL,Graciosa Bay Luovo Airport,S10.43.20',E165.47.90',-10.716666666666667,165.78333333333333,Private,,,,,,,,,https://www.getmetar.com/AGGL
+25,SB,AGVH,Viru Harbour Airport,S8.30.10',E157.41.40',-8.5,157.68333333333334,Private,,,,,,,,,https://www.getmetar.com/AGVH
+26,SB,AGRM,Ramata Airport,S8.9.90',E157.38.40',-8.15,157.63333333333333,Private,,,,,,,,,https://www.getmetar.com/AGRM
+27,SB,AGRC,Ringicove Airport,S8.7.10',E157.8.50',-8.116666666666667,157.13333333333333,Private,,,,,,,,,https://www.getmetar.com/AGRC
+28,SB,AGOK,Gatokae Airport,S8.43.90',E158.12.10',-8.716666666666667,158.2,Private,,,,,,,,,https://www.getmetar.com/AGOK
+29,SB,AGKU,Kukudu Airport,S8.1.20',E156.56.80',-8.016666666666667,156.93333333333334,Private,,,,,,,,,https://www.getmetar.com/AGKU
+30,SB,AGGS,Seghe Airport,S8.34.70',E157.52.80',-8.566666666666666,157.86666666666667, Public,,,,,,,,,https://www.getmetar.com/AGGS
+31,SB,AGGO,Stirling Island Airport,S7.23.90',E155.33.00',-7.383333333333334,155.55,Private,,,,,,,,,https://www.getmetar.com/AGGO
+32,SB,AGGN,Nusatupe Airport,S8.5.90',E156.51.80',-8.083333333333334,156.85,Private,,,,,,,,,https://www.getmetar.com/AGGN
+33,SB,AGGM,Munda Airport,S8.19.63',E157.15.70',-8.316666666666666,157.25, Public,4593 x 98feet,Hard,,,,,,,https://www.getmetar.com/AGGM
+34,SB,AGGE,Ballalae Airport,S6.59.00',E155.53.10',-6.983333333333333,155.88333333333333, Public,,,,,,,,,https://www.getmetar.com/AGGE
+35,SB,AGEV,Vella La Vella Airport,S7.34.20',E156.35.80',-7.566666666666666,156.58333333333334,Private,,,,,,,,,https://www.getmetar.com/AGEV
+36,SB,AGBT,Batuna Airport,S8.33.30',E158.7.10',-8.55,158.11666666666667,Private,,,,,,,,,https://www.getmetar.com/AGBT
+37,SB,AGBA,Barakoma Airport,S7.54.60',E156.42.50',-7.9,156.7,Private,,,,,,,,,https://www.getmetar.com/AGBA

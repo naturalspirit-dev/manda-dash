@@ -1,97 +1,97 @@
-,Unnamed: 0.1,country,icaoCodes,airFieldName,latitude,longitude,ddLatitude,ddLongitude,airportUse,runwayOneDimensions,runwayOneSurface,runwayTwoDimensions,runwayTwoSurface,runwayThreeDimensions,runwayThreeSurface,runwayFourDimensions,runwayFourSurface,capableCOneThirtyCSeventeen,weatherLink
-0,0,CN,ZBOW,Baotou Donghe Airport,N40.33.50',E110.0.00',40.55,110.0, Public,,,,,,,,,No,https://www.getmetar.com/ZBOW
-1,1,CN,RCMT,Beigan Airport,N26.13.45',E120.0.17',26.216666666666665,120.0, Public,3773 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/RCMT
-2,2,CN,ZBAA,Beijing Capital Airport,N40.4.40',E116.35.90',40.06666666666667,116.58333333333331, Public,12467 x 197feet,Hard,12467 x 197feet,Unknown,10499 x 164feet,Unknown,,,Yes,https://www.getmetar.com/ZBAA
-3,3,CN,ZBAD,Beijing Daxing Airport,N39.30.00',E116.24.00',39.5,116.4, Public,,,,,,,,,No,https://www.getmetar.com/ZBAD
-4,4,CN,ZYCC,Changchun Longjia Airport,N43.59.90',E125.41.30',43.98333333333333,125.68333333333334, Public,10499 x 164feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZYCC
-5,5,CN,ZGCD,Changde Airport,N28.55.20',E111.38.30',28.91666666666667,111.63333333333334, Public,,,,,,,,,No,https://www.getmetar.com/ZGCD
-6,6,CN,ZGHA,Changsha Huanghua Airport,N28.11.40',E113.13.10',28.18333333333333,113.21666666666668, Public,10499 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZGHA
-7,7,CN,ZSCG,Changzhou Benniu Airport,N31.55.10',E119.46.60',31.91666666666667,119.76666666666668, Public,,,,,,,,,No,https://www.getmetar.com/ZSCG
-8,8,CN,ZUUU,Chengdu Shuangliu Airport,N30.34.80',E103.56.90',30.566666666666666,103.93333333333334, Public,11811 x 197feet,Hard,11811 x 148feet,Unknown,,,,,Yes,https://www.getmetar.com/ZUUU
-9,9,CN,ZUTF,Chengdu Tianfu Airport,N30.17.40',E104.26.60',30.28333333333333,104.43333333333334, Public,,,,,,,,,No,https://www.getmetar.com/ZUTF
-10,10,CN,ZUCK,Chongqing Jiangbei Airport,N29.43.20',E106.38.40',29.716666666666665,106.63333333333334, Public,11811 x 148feet,Hard,10499 x 148feet,Unknown,,,,,Yes,https://www.getmetar.com/ZUCK
-11,11,CN,ZYTL,Dalian Zhoushuizi Airport,N38.58.00',E121.32.40',38.96666666666667,121.53333333333332, Public,10827 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZYTL
-12,12,CN,ZBDT,Datong Yungang Airport,N40.3.70',E113.29.00',40.05,113.48333333333332, Public,,,,,,,,,No,https://www.getmetar.com/ZBDT
-13,13,CN,ZUDX,Dazhou Heshi Airport,N31.7.93',E107.25.80',31.11666666666667,107.41666666666669, Public,,,,,,,,,No,https://www.getmetar.com/ZUDX
-14,14,CN,ZPMS,Dehong Mangshi Airport,N24.24.00',E98.32.00',24.4,98.53333333333332, Public,,,,,,,,,No,https://www.getmetar.com/ZPMS
-15,15,CN,ZLDH,Dunhuang Mogao Airport,N40.9.80',E94.48.60',40.15,94.8, Public,,,,,,,,,No,https://www.getmetar.com/ZLDH
-16,16,CN,ZHES,Enshi Xujiaping Airport,N30.19.30',E109.29.20',30.316666666666666,109.48333333333332, Public,,,,,,,,,No,https://www.getmetar.com/ZHES
-17,17,CN,ZBER,Erenhot Saiwusu Airport,N43.25.50',E112.5.60',43.41666666666666,112.08333333333331, Public,,,,,,,,,No,https://www.getmetar.com/ZBER
-18,18,CN,ZSFZ,Fuzhou Changle Airport,N25.56.00',E119.39.90',25.93333333333333,119.65, Public,11812 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZSFZ
-19,19,CN,ZGGG,Guangzhou Baiyun Airport,N23.23.60',E113.18.50',23.38333333333333,113.3, Public,12467 x 197feet,Hard,11811 x 148feet,Unknown,,,,,Yes,https://www.getmetar.com/ZGGG
-20,20,CN,ZGKL,Guilin Liangjiang Airport,N25.13.00',E110.2.30',25.216666666666665,110.03333333333332, Public,10499 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZGKL
-21,21,CN,ZUGY,Guiyang Longdongbao Airport,N26.32.20',E106.48.00',26.53333333333333,106.8, Public,10499 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZUGY
-22,22,CN,ZJHK,Haikou Meilan Airport,N19.56.00',E110.27.60',19.933333333333334,110.45, Public,11811 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZJHK
-23,23,CN,ZSHC,Hangzhou Xiaoshan Airport,N30.13.70',E120.26.00',30.216666666666665,120.43333333333334, Public,11812 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZSHC
-24,24,CN,ZYHB,Harbin Taiping Airport,N45.37.50',E126.15.10',45.61666666666667,126.25, Public,10499 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZYHB
-25,25,CN,ZSOF,Hefei Xinqiao Airport,N31.59.20',E116.58.50',31.98333333333333,116.96666666666668, Public,9843 x 164feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZSOF
-26,26,CN,ZBHH,Hohhot Baita Airport,N40.50.90',E111.49.40',40.833333333333336,111.81666666666666, Public,11811 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZBHH
-27,27,CN,ZWTN,Hotan Hotan Airport,N37.2.40',E79.51.70',37.03333333333333,79.85, Public,10499 x 164feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZWTN
-28,28,CN,ZSSH,Huaian Lianshui Airport,N33.47.40',E119.7.40',33.78333333333333,119.11666666666666, Public,,,,,,,,,No,https://www.getmetar.com/ZSSH
-29,29,CN,ZSTX,Huangshan Tunxi Airport,N29.44.10',E118.15.30',29.73333333333333,118.25, Public,8531 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZSTX
-30,30,CN,ZBLA,Hulunbeier Hailar Airport,N49.12.30',E119.49.60',49.2,119.81666666666666, Public,9186 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZBLA
-31,31,CN,ZYJM,Jiamusi Jiamusi Airport,N46.50.50',E130.27.90',46.83333333333334,130.45, Public,8202 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZYJM
-32,32,CN,ZLJQ,Jiayuguan Airport,N39.51.50',E98.20.40',39.85,98.33333333333331, Public,,,,,,,,,No,https://www.getmetar.com/ZLJQ
-33,33,CN,ZGOW,Jieyang Chaoshan Airport,N23.33.20',E116.30.10',23.55,116.5, Public,9186 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZGOW
-34,34,CN,ZSJN,Jinan Yaoqiang Airport,N36.51.50',E117.12.90',36.85,117.2, Public,11811 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZSJN
-35,35,CN,ZWSH,Kashi Kashi Airport,N39.32.70',E76.1.30',39.53333333333333,76.01666666666667, Public,10499 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZWSH
-36,36,CN,RCBS,Kinmen Airport,N24.25.73',E118.21.67',24.41666666666667,118.35, Public,9856 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RCBS
-37,37,CN,ZPPP,Kunming Changshui Airport,N25.6.30',E102.56.50',25.1,102.93333333333334, Public,14764 x 197feet,Hard,13123 x 148feet,Unknown,,,,,Yes,https://www.getmetar.com/ZPPP
-38,38,CN,ZWKC,Kuqa Qiuci Airport,N41.40.60',E82.52.30',41.66666666666666,82.86666666666666, Public,,,,,,,,,No,https://www.getmetar.com/ZWKC
-39,39,CN,ZLLL,Lanzhou Zhongchuan Airport,N36.30.90',E103.37.20',36.5,103.61666666666666, Public,11811 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZLLL
-40,40,CN,ZULS,Lhasa Gonggar Airport,N29.17.80',E90.54.70',29.28333333333333,90.9, Public,13123 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZULS
-41,41,CN,ZPLJ,Lijiang Sanyi Airport,N26.40.70',E100.14.80',26.66666666666667,100.23333333333332, Public,,,,,,,,,No,https://www.getmetar.com/ZPLJ
-42,42,CN,ZSLY,Linyi Qiyang Airport,N35.2.90',E118.24.80',35.03333333333333,118.4, Public,,,,,,,,,No,https://www.getmetar.com/ZSLY
-43,43,CN,VMMC,Macao International Airport,N22.8.97',E113.35.48',22.13333333333333,113.58333333333331, Public,11024 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VMMC
-44,44,CN,ZBMZ,Manzhouli Xijiao Airport,N49.33.90',E117.20.00',49.55,117.33333333333331, Public,9186 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZBMZ
-45,45,CN,RCFG,Matsu Nangan Airport,N26.9.58',E119.57.50',26.15,119.95, Public,5180 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/RCFG
-46,46,CN,ZGMX,Meizhou Meixian Airport,N24.16.00',E116.5.90',24.266666666666666,116.08333333333331, Public,,,,,,,,,No,https://www.getmetar.com/ZGMX
-47,47,CN,ZYMD,Mudanjiang Hailang Airport,N44.31.40',E129.34.20',44.51666666666666,129.56666666666666, Public,8530 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZYMD
-48,48,CN,ZSCN,Nanchang Changbei Airport,N28.51.80',E115.54.00',28.85,115.9, Public,11155 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZSCN
-49,49,CN,ZSNJ,Nanjing Lukou Airport,N31.44.60',E118.51.80',31.73333333333333,118.85, Public,11812 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZSNJ
-50,50,CN,ZGNN,Nanning Wuxu Airport,N22.36.60',E108.10.40',22.6,108.16666666666669, Public,10499 x 197feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZGNN
-51,51,CN,ZSNT,Nantong Xingdong Airport,N32.4.10',E120.58.90',32.06666666666667,120.96666666666668, Public,,,,,,,,,No,https://www.getmetar.com/ZSNT
-52,52,CN,ZSNB,Ningbo Lishe Airport,N29.49.60',E121.27.80',29.816666666666666,121.45, Public,10499 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZSNB
-53,53,CN,ZBDS,Ordos Ejin Horo Airport,N39.29.40',E109.51.90',39.48333333333333,109.85, Public,,,,,,,,,No,https://www.getmetar.com/ZBDS
-54,54,CN,ZSQD,Qingdao Liuting Airport,N36.15.90',E120.22.40',36.25,120.36666666666666, Public,11155 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZSQD
-55,55,CN,ZBDH,Qinhuangdao Beidaihe Airport,N39.39.90',E119.3.60',39.65,119.05, Public,,,,,,,,,No,https://www.getmetar.com/ZBDH
-56,56,CN,ZJQH,Qionghai Boao Airport,N19.8.30',E110.27.20',19.133333333333333,110.45, Public,,,,,,,,,No,https://www.getmetar.com/ZJQH
-57,57,CN,ZYQQ,Qiqihar Sanjiazi Airport,N47.14.30',E123.55.00',47.23333333333333,123.91666666666669, Public,8516 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZYQQ
-58,58,CN,ZSQZ,Quanzhou Jinjiang Airport,N24.47.90',E118.35.30',24.78333333333333,118.58333333333331, Public,8530 x 164feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZSQZ
-59,59,CN,ZJSY,Sanya Phoenix Airport,N18.18.10',E109.24.80',18.3,109.4, Public,11155 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZJSY
-60,60,CN,ZSSS,Shanghai Hongqiao Airport,N31.11.80',E121.20.10',31.18333333333333,121.33333333333331, Public,11155 x 148feet,Hard,10827 x 197feet,Unknown,,,,,Yes,https://www.getmetar.com/ZSSS
-61,61,CN,ZSPD,Shanghai Pudong Airport,N31.8.70',E121.47.60',31.13333333333333,121.78333333333332, Public,13124 x 197feet,Hard,12467 x 197feet,Unknown,11155 x 197feet,Unknown,,,Yes,https://www.getmetar.com/ZSPD
-62,62,CN,ZYTX,Shenyang Taoxian Airport,N41.38.50',E123.29.10',41.63333333333333,123.48333333333332, Public,10499 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZYTX
-63,63,CN,ZGSZ,Shenzhen Baoan Airport,N22.38.30',E113.48.70',22.63333333333333,113.8, Public,12467 x 197feet,Hard,11155 x 148feet,Unknown,,,,,Yes,https://www.getmetar.com/ZGSZ
-64,64,CN,ZBSJ,Shijiazhuang Zhengding Airport,N38.16.90',E114.41.90',38.266666666666666,114.68333333333334, Public,11155 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZBSJ
-65,65,CN,ZBYN,Taiyuan Wusu Airport,N37.44.90',E112.37.80',37.73333333333333,112.61666666666666, Public,11811 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZBYN
-66,66,CN,ZBTJ,Tianjin Binhai Airport,N39.7.40',E117.20.70',39.11666666666667,117.33333333333331, Public,11811 x 164feet,Hard,10499 x 148feet,Unknown,,,,,Yes,https://www.getmetar.com/ZBTJ
-67,67,CN,ZUTR,Tongren Fenghuang Airport,N27.53.00',E109.18.50',27.88333333333333,109.3, Public,,,,,,,,,No,https://www.getmetar.com/ZUTR
-68,68,CN,ZWTL,Turpan Jiaohe Airport,N43.1.80',E89.6.00',43.01666666666666,89.1, Public,,,,,,,,,No,https://www.getmetar.com/ZWTL
-69,69,CN,ZWWW,Urumqi Diwopu Airport,N43.54.50',E87.28.50',43.9,87.46666666666668, Public,11811 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZWWW
-70,70,CN,ZUWX,Wanzhou Wuqiao Airport,N30.48.20',E108.25.90',30.8,108.41666666666669, Public,,,,,,,,,No,https://www.getmetar.com/ZUWX
-71,71,CN,ZSWH,Weihai Dashuipo Airport,N37.11.30',E122.13.80',37.18333333333333,122.21666666666668, Public,8530 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZSWH
-72,72,CN,ZSWZ,Wenzhou Longwan Airport,N27.54.60',E120.51.20',27.9,120.85, Public,7874 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZSWZ
-73,73,CN,ZHHH,Wuhan Tianhe Airport,N30.47.10',E114.12.40',30.78333333333333,114.2, Public,11155 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZHHH
-74,74,CN,ZSWX,Wuxi Shuofang Airport,N31.29.60',E120.25.70',31.48333333333333,120.41666666666669, Public,,,,,,,,,No,https://www.getmetar.com/ZSWX
-75,75,CN,ZLXY,XiAn Xianyang Airport,N34.26.70',E108.45.00',34.43333333333333,108.75, Public,12470 x 197feet,Hard,9843 x 148feet,Unknown,,,,,Yes,https://www.getmetar.com/ZLXY
-76,76,CN,ZSAM,Xiamen Gaoqi Airport,N24.32.70',E118.7.60',24.53333333333333,118.11666666666666, Public,11155 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZSAM
-77,77,CN,ZUXC,Xichang Qingshan Airport,N27.59.40',E102.11.00',27.98333333333333,102.18333333333334, Public,11811 x 164feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZUXC
-78,78,CN,ZLXN,Xining Caojiapu Airport,N36.31.90',E102.2.30',36.516666666666666,102.03333333333332, Public,12467 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZLXN
-79,79,CN,ZUZY,Xinzhou Airport,N27.48.60',E107.14.70',27.8,107.23333333333332, Public,,,,,,,,,No,https://www.getmetar.com/ZUZY
-80,80,CN,ZPJH,Xishuangbanna Gasa Airport,N21.58.50',E100.45.70',21.966666666666665,100.75, Public,7874 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZPJH
-81,81,CN,ZSXZ,Xuzhou Guanyin Airport,N34.3.50',E117.33.30',34.05,117.55, Public,11155 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZSXZ
-82,82,CN,ZSYN,Yancheng Nanyang Airport,N33.25.50',E120.12.10',33.416666666666664,120.2, Public,7218 x 164feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZSYN
-83,83,CN,ZSYA,Yangzhou Taizhou Airport,N32.33.70',E119.43.10',32.55,119.71666666666668, Public,,,,,,,,,No,https://www.getmetar.com/ZSYA
-84,84,CN,ZYYJ,Yanji Chaoyangchuan Airport,N42.52.90',E129.27.00',42.86666666666667,129.45, Public,8531 x 147feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZYYJ
-85,85,CN,ZSYT,Yantai Penglai Airport,N37.39.70',E120.58.70',37.65,120.96666666666668, Public,10499 x 164feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZSYT
-86,86,CN,ZHYC,Yichang Sanxia Airport,N30.33.30',E111.28.90',30.55,111.46666666666668, Public,,,,,,,,,No,https://www.getmetar.com/ZHYC
-87,87,CN,ZLIC,Yinchuan Hedong Airport,N38.19.20',E106.23.60',38.31666666666667,106.38333333333334, Public,10499 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZLIC
-88,88,CN,ZSYW,Yiwu Yiwu Airport,N29.20.60',E120.2.00',29.33333333333333,120.03333333333332, Public,,,,,,,,,No,https://www.getmetar.com/ZSYW
-89,89,CN,ZLYL,Yulin Yuyang Airport,N38.21.60',E109.35.60',38.35,109.58333333333331, Public,,,,,,,,,No,https://www.getmetar.com/ZLYL
-90,90,CN,ZBYC,Yuncheng Zhangxiao Airport,N35.7.10',E111.2.00',35.11666666666667,111.03333333333332, Public,,,,,,,,,No,https://www.getmetar.com/ZBYC
-91,91,CN,ZLYS,Yushu Airport,N32.50.18',E97.2.18',32.833333333333336,97.03333333333332, Public,,,,,,,,,No,https://www.getmetar.com/ZLYS
-92,92,CN,ZGDY,Zhangjiajie Hehua Airport,N29.6.10',E110.26.70',29.1,110.43333333333334, Public,8530 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZGDY
-93,93,CN,ZHCC,Zhengzhou Xinzhheng Airport,N34.31.10',E113.50.40',34.516666666666666,113.83333333333331, Public,11155 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZHCC
-94,94,CN,ZSZS,Zhoushan Putuoshan Airport,N29.56.10',E122.21.80',29.93333333333333,122.35, Public,,,,,,,,,No,https://www.getmetar.com/ZSZS
-95,95,CN,ZGSD,Zhuhai Jinwan Airport,N22.0.50',E113.22.70',22.0,113.36666666666666, Public,13124 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ZGSD
+,country,icaoCodes,airFieldName,latitude,longitude,ddLatitude,ddLongitude,airportUse,runwayOneDimensions,runwayOneSurface,runwayTwoDimensions,runwayTwoSurface,runwayThreeDimensions,runwayThreeSurface,runwayFourDimensions,runwayFourSurface,weatherLink
+0,CN,ZSTX,Huangshan Tunxi Airport,N29.44.10',E118.15.30',29.733333333333334,118.25, Public,8531 x 148feet,Hard,,,,,,,https://www.getmetar.com/ZSTX
+1,CN,ZSOF,Hefei Xinqiao Airport,N31.59.20',E116.58.50',31.983333333333334,116.96666666666667, Public,9843 x 164feet,Hard,,,,,,,https://www.getmetar.com/ZSOF
+2,CN,ZBAD,Beijing Daxing Airport,N39.30.00',E116.24.00',39.5,116.4, Public,,,,,,,,,https://www.getmetar.com/ZBAD
+3,CN,ZBAA,Beijing Capital Airport,N40.4.40',E116.35.90',40.06666666666667,116.58333333333333, Public,12467 x 197feet,Hard,12467 x 197feet,Unknown,10499 x 164feet,Unknown,,,https://www.getmetar.com/ZBAA
+4,CN,ZUWX,Wanzhou Wuqiao Airport,N30.48.20',E108.25.90',30.8,108.41666666666667, Public,,,,,,,,,https://www.getmetar.com/ZUWX
+5,CN,ZUCK,Chongqing Jiangbei Airport,N29.43.20',E106.38.40',29.716666666666665,106.63333333333334, Public,11811 x 148feet,Hard,10499 x 148feet,Unknown,,,,,https://www.getmetar.com/ZUCK
+6,CN,ZSQZ,Quanzhou Jinjiang Airport,N24.47.90',E118.35.30',24.783333333333335,118.58333333333333, Public,8530 x 164feet,Hard,,,,,,,https://www.getmetar.com/ZSQZ
+7,CN,ZSFZ,Fuzhou Changle Airport,N25.56.00',E119.39.90',25.933333333333334,119.65, Public,11812 x 148feet,Hard,,,,,,,https://www.getmetar.com/ZSFZ
+8,CN,ZSAM,Xiamen Gaoqi Airport,N24.32.70',E118.7.60',24.533333333333335,118.11666666666666, Public,11155 x 148feet,Hard,,,,,,,https://www.getmetar.com/ZSAM
+9,CN,RCMT,Beigan Airport,N26.13.45',E120.0.17',26.216666666666665,120.0, Public,3773 x 98feet,Hard,,,,,,,https://www.getmetar.com/RCMT
+10,CN,RCFG,Matsu Nangan Airport,N26.9.58',E119.57.50',26.15,119.95, Public,5180 x 98feet,Hard,,,,,,,https://www.getmetar.com/RCFG
+11,CN,RCBS,Kinmen Airport,N24.25.73',E118.21.67',24.416666666666668,118.35, Public,9856 x 148feet,Hard,,,,,,,https://www.getmetar.com/RCBS
+12,CN,ZLLL,Lanzhou Zhongchuan Airport,N36.30.90',E103.37.20',36.5,103.61666666666666, Public,11811 x 148feet,Hard,,,,,,,https://www.getmetar.com/ZLLL
+13,CN,ZLJQ,Jiayuguan Airport,N39.51.50',E98.20.40',39.85,98.33333333333333, Public,,,,,,,,,https://www.getmetar.com/ZLJQ
+14,CN,ZLDH,Dunhuang Mogao Airport,N40.9.80',E94.48.60',40.15,94.8, Public,,,,,,,,,https://www.getmetar.com/ZLDH
+15,CN,ZGSZ,Shenzhen Baoan Airport,N22.38.30',E113.48.70',22.633333333333333,113.8, Public,12467 x 197feet,Hard,11155 x 148feet,Unknown,,,,,https://www.getmetar.com/ZGSZ
+16,CN,ZGSD,Zhuhai Jinwan Airport,N22.0.50',E113.22.70',22.0,113.36666666666666, Public,13124 x 148feet,Hard,,,,,,,https://www.getmetar.com/ZGSD
+17,CN,ZGOW,Jieyang Chaoshan Airport,N23.33.20',E116.30.10',23.55,116.5, Public,9186 x 148feet,Hard,,,,,,,https://www.getmetar.com/ZGOW
+18,CN,ZGMX,Meizhou Meixian Airport,N24.16.00',E116.5.90',24.266666666666666,116.08333333333333, Public,,,,,,,,,https://www.getmetar.com/ZGMX
+19,CN,ZGGG,Guangzhou Baiyun Airport,N23.23.60',E113.18.50',23.383333333333333,113.3, Public,12467 x 197feet,Hard,11811 x 148feet,Unknown,,,,,https://www.getmetar.com/ZGGG
+20,CN,VMMC,Macao International Airport,N22.8.97',E113.35.48',22.133333333333333,113.58333333333333, Public,11024 x 148feet,Hard,,,,,,,https://www.getmetar.com/VMMC
+21,CN,ZGNN,Nanning Wuxu Airport,N22.36.60',E108.10.40',22.6,108.16666666666667, Public,10499 x 197feet,Hard,,,,,,,https://www.getmetar.com/ZGNN
+22,CN,ZGKL,Guilin Liangjiang Airport,N25.13.00',E110.2.30',25.216666666666665,110.03333333333333, Public,10499 x 148feet,Hard,,,,,,,https://www.getmetar.com/ZGKL
+23,CN,ZUZY,Xinzhou Airport,N27.48.60',E107.14.70',27.8,107.23333333333333, Public,,,,,,,,,https://www.getmetar.com/ZUZY
+24,CN,ZUGY,Guiyang Longdongbao Airport,N26.32.20',E106.48.00',26.533333333333335,106.8, Public,10499 x 148feet,Hard,,,,,,,https://www.getmetar.com/ZUGY
+25,CN,ZJSY,Sanya Phoenix Airport,N18.18.10',E109.24.80',18.3,109.4, Public,11155 x 148feet,Hard,,,,,,,https://www.getmetar.com/ZJSY
+26,CN,ZJQH,Qionghai Boao Airport,N19.8.30',E110.27.20',19.133333333333333,110.45, Public,,,,,,,,,https://www.getmetar.com/ZJQH
+27,CN,ZJHK,Haikou Meilan Airport,N19.56.00',E110.27.60',19.933333333333334,110.45, Public,11811 x 148feet,Hard,,,,,,,https://www.getmetar.com/ZJHK
+28,CN,ZBSJ,Shijiazhuang Zhengding Airport,N38.16.90',E114.41.90',38.266666666666666,114.68333333333334, Public,11155 x 148feet,Hard,,,,,,,https://www.getmetar.com/ZBSJ
+29,CN,ZBDH,Qinhuangdao Beidaihe Airport,N39.39.90',E119.3.60',39.65,119.05, Public,,,,,,,,,https://www.getmetar.com/ZBDH
+30,CN,ZYQQ,Qiqihar Sanjiazi Airport,N47.14.30',E123.55.00',47.233333333333334,123.91666666666667, Public,8516 x 148feet,Hard,,,,,,,https://www.getmetar.com/ZYQQ
+31,CN,ZYMD,Mudanjiang Hailang Airport,N44.31.40',E129.34.20',44.516666666666666,129.56666666666666, Public,8530 x 148feet,Hard,,,,,,,https://www.getmetar.com/ZYMD
+32,CN,ZYJM,Jiamusi Jiamusi Airport,N46.50.50',E130.27.90',46.833333333333336,130.45, Public,8202 x 148feet,Hard,,,,,,,https://www.getmetar.com/ZYJM
+33,CN,ZYHB,Harbin Taiping Airport,N45.37.50',E126.15.10',45.61666666666667,126.25, Public,10499 x 148feet,Hard,,,,,,,https://www.getmetar.com/ZYHB
+34,CN,ZHCC,Zhengzhou Xinzhheng Airport,N34.31.10',E113.50.40',34.516666666666666,113.83333333333333, Public,11155 x 148feet,Hard,,,,,,,https://www.getmetar.com/ZHCC
+35,CN,ZHYC,Yichang Sanxia Airport,N30.33.30',E111.28.90',30.55,111.46666666666667, Public,,,,,,,,,https://www.getmetar.com/ZHYC
+36,CN,ZHHH,Wuhan Tianhe Airport,N30.47.10',E114.12.40',30.783333333333335,114.2, Public,11155 x 148feet,Hard,,,,,,,https://www.getmetar.com/ZHHH
+37,CN,ZHES,Enshi Xujiaping Airport,N30.19.30',E109.29.20',30.316666666666666,109.48333333333333, Public,,,,,,,,,https://www.getmetar.com/ZHES
+38,CN,ZUTR,Tongren Fenghuang Airport,N27.53.00',E109.18.50',27.883333333333333,109.3, Public,,,,,,,,,https://www.getmetar.com/ZUTR
+39,CN,ZGHA,Changsha Huanghua Airport,N28.11.40',E113.13.10',28.183333333333334,113.21666666666667, Public,10499 x 148feet,Hard,,,,,,,https://www.getmetar.com/ZGHA
+40,CN,ZGDY,Zhangjiajie Hehua Airport,N29.6.10',E110.26.70',29.1,110.43333333333334, Public,8530 x 148feet,Hard,,,,,,,https://www.getmetar.com/ZGDY
+41,CN,ZGCD,Changde Airport,N28.55.20',E111.38.30',28.916666666666668,111.63333333333334, Public,,,,,,,,,https://www.getmetar.com/ZGCD
+42,CN,ZSYN,Yancheng Nanyang Airport,N33.25.50',E120.12.10',33.416666666666664,120.2, Public,7218 x 164feet,Hard,,,,,,,https://www.getmetar.com/ZSYN
+43,CN,ZSYA,Yangzhou Taizhou Airport,N32.33.70',E119.43.10',32.55,119.71666666666667, Public,,,,,,,,,https://www.getmetar.com/ZSYA
+44,CN,ZSXZ,Xuzhou Guanyin Airport,N34.3.50',E117.33.30',34.05,117.55, Public,11155 x 148feet,Hard,,,,,,,https://www.getmetar.com/ZSXZ
+45,CN,ZSWX,Wuxi Shuofang Airport,N31.29.60',E120.25.70',31.483333333333334,120.41666666666667, Public,,,,,,,,,https://www.getmetar.com/ZSWX
+46,CN,ZSSH,Huaian Lianshui Airport,N33.47.40',E119.7.40',33.78333333333333,119.11666666666666, Public,,,,,,,,,https://www.getmetar.com/ZSSH
+47,CN,ZSNT,Nantong Xingdong Airport,N32.4.10',E120.58.90',32.06666666666667,120.96666666666667, Public,,,,,,,,,https://www.getmetar.com/ZSNT
+48,CN,ZSNJ,Nanjing Lukou Airport,N31.44.60',E118.51.80',31.733333333333334,118.85, Public,11812 x 148feet,Hard,,,,,,,https://www.getmetar.com/ZSNJ
+49,CN,ZSCG,Changzhou Benniu Airport,N31.55.10',E119.46.60',31.916666666666668,119.76666666666667, Public,,,,,,,,,https://www.getmetar.com/ZSCG
+50,CN,ZSCN,Nanchang Changbei Airport,N28.51.80',E115.54.00',28.85,115.9, Public,11155 x 148feet,Hard,,,,,,,https://www.getmetar.com/ZSCN
+51,CN,ZYYJ,Yanji Chaoyangchuan Airport,N42.52.90',E129.27.00',42.86666666666667,129.45, Public,8531 x 147feet,Hard,,,,,,,https://www.getmetar.com/ZYYJ
+52,CN,ZYCC,Changchun Longjia Airport,N43.59.90',E125.41.30',43.983333333333334,125.68333333333334, Public,10499 x 164feet,Hard,,,,,,,https://www.getmetar.com/ZYCC
+53,CN,ZYTX,Shenyang Taoxian Airport,N41.38.50',E123.29.10',41.63333333333333,123.48333333333333, Public,10499 x 148feet,Hard,,,,,,,https://www.getmetar.com/ZYTX
+54,CN,ZYTL,Dalian Zhoushuizi Airport,N38.58.00',E121.32.40',38.96666666666667,121.53333333333333, Public,10827 x 148feet,Hard,,,,,,,https://www.getmetar.com/ZYTL
+55,CN,ZBOW,Baotou Donghe Airport,N40.33.50',E110.0.00',40.55,110.0, Public,,,,,,,,,https://www.getmetar.com/ZBOW
+56,CN,ZBMZ,Manzhouli Xijiao Airport,N49.33.90',E117.20.00',49.55,117.33333333333333, Public,9186 x 148feet,Hard,,,,,,,https://www.getmetar.com/ZBMZ
+57,CN,ZBLA,Hulunbeier Hailar Airport,N49.12.30',E119.49.60',49.2,119.81666666666666, Public,9186 x 148feet,Hard,,,,,,,https://www.getmetar.com/ZBLA
+58,CN,ZBHH,Hohhot Baita Airport,N40.50.90',E111.49.40',40.833333333333336,111.81666666666666, Public,11811 x 148feet,Hard,,,,,,,https://www.getmetar.com/ZBHH
+59,CN,ZBER,Erenhot Saiwusu Airport,N43.25.50',E112.5.60',43.416666666666664,112.08333333333333, Public,,,,,,,,,https://www.getmetar.com/ZBER
+60,CN,ZBDS,Ordos Ejin Horo Airport,N39.29.40',E109.51.90',39.483333333333334,109.85, Public,,,,,,,,,https://www.getmetar.com/ZBDS
+61,CN,ZLIC,Yinchuan Hedong Airport,N38.19.20',E106.23.60',38.31666666666667,106.38333333333334, Public,10499 x 148feet,Hard,,,,,,,https://www.getmetar.com/ZLIC
+62,CN,ZLYS,Yushu Airport,N32.50.18',E97.2.18',32.833333333333336,97.03333333333333, Public,,,,,,,,,https://www.getmetar.com/ZLYS
+63,CN,ZLXN,Xining Caojiapu Airport,N36.31.90',E102.2.30',36.516666666666666,102.03333333333333, Public,12467 x 148feet,Hard,,,,,,,https://www.getmetar.com/ZLXN
+64,CN,ZLYL,Yulin Yuyang Airport,N38.21.60',E109.35.60',38.35,109.58333333333333, Public,,,,,,,,,https://www.getmetar.com/ZLYL
+65,CN,ZLXY,XiAn Xianyang Airport,N34.26.70',E108.45.00',34.43333333333333,108.75, Public,12470 x 197feet,Hard,9843 x 148feet,Unknown,,,,,https://www.getmetar.com/ZLXY
+66,CN,ZSYT,Yantai Penglai Airport,N37.39.70',E120.58.70',37.65,120.96666666666667, Public,10499 x 164feet,Hard,,,,,,,https://www.getmetar.com/ZSYT
+67,CN,ZSWH,Weihai Dashuipo Airport,N37.11.30',E122.13.80',37.18333333333333,122.21666666666667, Public,8530 x 148feet,Hard,,,,,,,https://www.getmetar.com/ZSWH
+68,CN,ZSQD,Qingdao Jiaodong Airport,N36.21.90',E120.5.90',36.35,120.08333333333333, Public,11155 x 148feet,Hard,,,,,,,https://www.getmetar.com/ZSQD
+69,CN,ZSLY,Linyi Qiyang Airport,N35.2.90',E118.24.80',35.03333333333333,118.4, Public,,,,,,,,,https://www.getmetar.com/ZSLY
+70,CN,ZSJN,Jinan Yaoqiang Airport,N36.51.50',E117.12.90',36.85,117.2, Public,11811 x 148feet,Hard,,,,,,,https://www.getmetar.com/ZSJN
+71,CN,ZSSS,Shanghai Hongqiao Airport,N31.11.80',E121.20.10',31.183333333333334,121.33333333333333, Public,11155 x 148feet,Hard,10827 x 197feet,Unknown,,,,,https://www.getmetar.com/ZSSS
+72,CN,ZSPD,Shanghai Pudong Airport,N31.8.70',E121.47.60',31.133333333333333,121.78333333333333, Public,13124 x 197feet,Hard,12467 x 197feet,Unknown,11155 x 197feet,Unknown,,,https://www.getmetar.com/ZSPD
+73,CN,ZBYN,Taiyuan Wusu Airport,N37.44.90',E112.37.80',37.733333333333334,112.61666666666666, Public,11811 x 148feet,Hard,,,,,,,https://www.getmetar.com/ZBYN
+74,CN,ZBYC,Yuncheng Zhangxiao Airport,N35.7.10',E111.2.00',35.11666666666667,111.03333333333333, Public,,,,,,,,,https://www.getmetar.com/ZBYC
+75,CN,ZBDT,Datong Yungang Airport,N40.3.70',E113.29.00',40.05,113.48333333333333, Public,,,,,,,,,https://www.getmetar.com/ZBDT
+76,CN,ZUXC,Xichang Qingshan Airport,N27.59.40',E102.11.00',27.983333333333334,102.18333333333334, Public,11811 x 164feet,Hard,,,,,,,https://www.getmetar.com/ZUXC
+77,CN,ZUUU,Chengdu Shuangliu Airport,N30.34.80',E103.56.90',30.566666666666666,103.93333333333334, Public,11811 x 197feet,Hard,11811 x 148feet,Unknown,,,,,https://www.getmetar.com/ZUUU
+78,CN,ZUTF,Chengdu Tianfu Airport,N30.17.40',E104.26.60',30.283333333333335,104.43333333333334, Public,,,,,,,,,https://www.getmetar.com/ZUTF
+79,CN,ZUDX,Dazhou Heshi Airport,N31.7.93',E107.25.80',31.116666666666667,107.41666666666667, Public,,,,,,,,,https://www.getmetar.com/ZUDX
+80,CN,ZBTJ,Tianjin Binhai Airport,N39.7.40',E117.20.70',39.11666666666667,117.33333333333333, Public,11811 x 164feet,Hard,10499 x 148feet,Unknown,,,,,https://www.getmetar.com/ZBTJ
+81,CN,ZWWW,Urumqi Diwopu Airport,N43.54.50',E87.28.50',43.9,87.46666666666667, Public,11811 x 148feet,Hard,,,,,,,https://www.getmetar.com/ZWWW
+82,CN,ZWTN,Hotan Hotan Airport,N37.2.40',E79.51.70',37.03333333333333,79.85, Public,10499 x 164feet,Hard,,,,,,,https://www.getmetar.com/ZWTN
+83,CN,ZWTL,Turpan Jiaohe Airport,N43.1.80',E89.6.00',43.016666666666666,89.1, Public,,,,,,,,,https://www.getmetar.com/ZWTL
+84,CN,ZWSH,Kashi Kashi Airport,N39.32.70',E76.1.30',39.53333333333333,76.01666666666667, Public,10499 x 148feet,Hard,,,,,,,https://www.getmetar.com/ZWSH
+85,CN,ZWKC,Kuqa Qiuci Airport,N41.40.60',E82.52.30',41.666666666666664,82.86666666666666, Public,,,,,,,,,https://www.getmetar.com/ZWKC
+86,CN,ZULS,Lhasa Gonggar Airport,N29.17.80',E90.54.70',29.283333333333335,90.9, Public,13123 x 148feet,Hard,,,,,,,https://www.getmetar.com/ZULS
+87,CN,ZPPP,Kunming Changshui Airport,N25.6.30',E102.56.50',25.1,102.93333333333334, Public,14764 x 197feet,Hard,13123 x 148feet,Unknown,,,,,https://www.getmetar.com/ZPPP
+88,CN,ZPMS,Dehong Mangshi Airport,N24.24.00',E98.32.00',24.4,98.53333333333333, Public,,,,,,,,,https://www.getmetar.com/ZPMS
+89,CN,ZPLJ,Lijiang Sanyi Airport,N26.40.70',E100.14.80',26.666666666666668,100.23333333333333, Public,,,,,,,,,https://www.getmetar.com/ZPLJ
+90,CN,ZPJH,Xishuangbanna Gasa Airport,N21.58.50',E100.45.70',21.966666666666665,100.75, Public,7874 x 148feet,Hard,,,,,,,https://www.getmetar.com/ZPJH
+91,CN,ZSZS,Zhoushan Putuoshan Airport,N29.56.10',E122.21.80',29.933333333333334,122.35, Public,,,,,,,,,https://www.getmetar.com/ZSZS
+92,CN,ZSYW,Yiwu Yiwu Airport,N29.20.60',E120.2.00',29.333333333333332,120.03333333333333, Public,,,,,,,,,https://www.getmetar.com/ZSYW
+93,CN,ZSWZ,Wenzhou Longwan Airport,N27.54.60',E120.51.20',27.9,120.85, Public,7874 x 148feet,Hard,,,,,,,https://www.getmetar.com/ZSWZ
+94,CN,ZSNB,Ningbo Lishe Airport,N29.49.60',E121.27.80',29.816666666666666,121.45, Public,10499 x 148feet,Hard,,,,,,,https://www.getmetar.com/ZSNB
+95,CN,ZSHC,Hangzhou Xiaoshan Airport,N30.13.70',E120.26.00',30.216666666666665,120.43333333333334, Public,11812 x 148feet,Hard,,,,,,,https://www.getmetar.com/ZSHC

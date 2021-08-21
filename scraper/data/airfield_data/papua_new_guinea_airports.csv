@@ -1,36 +1,36 @@
-,Unnamed: 0.1,country,icaoCodes,airFieldName,latitude,longitude,ddLatitude,ddLongitude,airportUse,runwayOneDimensions,runwayOneSurface,runwayTwoDimensions,runwayTwoSurface,runwayThreeDimensions,runwayThreeSurface,runwayFourDimensions,runwayFourSurface,capableCOneThirtyCSeventeen,weatherLink
-0,0,PG,YBOI,Boigu Island Airport,S9.14.00',E142.13.00',-9.233333333333333,142.21666666666667,Private,,,,,,,,,No,https://www.getmetar.com/YBOI
-1,1,PG,AYBK,Buka Airport,S5.25.25',E154.40.53',-5.416666666666668,154.66666666666666, Public,5125 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/AYBK
-2,2,PG,AYBU,Bulolo Airport,S7.13.27',E146.39.08',-7.216666666666668,146.65,Private,,,,,,,,,No,https://www.getmetar.com/AYBU
-3,3,PG,AYCH,Chimbu Airport,S6.1.46',E144.58.20',-6.0166666666666675,144.96666666666667, Public,3330 x 89feet,Hard,,,,,,,No,https://www.getmetar.com/AYCH
-4,4,PG,AYDU,Daru Airport,S9.5.20',E143.12.49',-9.083333333333334,143.2, Public,,,,,,,,,No,https://www.getmetar.com/AYDU
-5,5,PG,AYFF,Faia Airport,S7.9.53',E143.31.74',-7.15,143.51666666666668, Public,,,,,,,,,No,https://www.getmetar.com/AYFF
-6,6,PG,AYGR,Girua Airport,S8.48.53',E148.18.39',-8.8,148.3, Public,5485 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/AYGR
-7,7,PG,AYGB,Gobe Airport,S6.52.67',E143.43.31',-6.866666666666667,143.71666666666667,Private,,,,,,,,,No,https://www.getmetar.com/AYGB
-8,8,PG,AYGA,Goroka Airport,S6.4.96',E145.23.48',-6.066666666666666,145.38333333333333, Public,5400 x 98feet,Hard,3983 x 59feet,Unknown,,,,,Yes,https://www.getmetar.com/AYGA
-9,9,PG,AYGN,Gurney Airport,S10.18.66',E150.20.07',-10.3,150.33333333333334, Public,5545 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/AYGN
-10,10,PG,AYKV,Kavieng Airport,S2.34.93',E150.48.65',-2.5666666666666664,150.8, Public,5584 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/AYKV
-11,11,PG,AYKM,Kerema Airport,S7.57.83',E145.46.31',-7.95,145.76666666666668, Public,3044 x 60feet,Hard,,,,,,,No,https://www.getmetar.com/AYKM
-12,12,PG,AYIQ,Kieta Airport,S6.18.37',E155.43.68',-6.3,155.71666666666667, Public,,,,,,,,,No,https://www.getmetar.com/AYIQ
-13,13,PG,AYKK,Kikori Airport,S7.25.48',E144.14.98',-7.416666666666668,144.23333333333332, Public,,,,,,,,,No,https://www.getmetar.com/AYKK
-14,14,PG,AYHK,Kimbe Hoskins Airport,S5.27.81',E150.24.42',-5.45,150.4, Public,5212 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/AYHK
-15,15,PG,AYKA,Kiriwina Losuia Airport,S8.30.37',E151.4.88',-8.5,151.06666666666666, Public,,,,,,,,,No,https://www.getmetar.com/AYKA
-16,16,PG,AYKI,Kiunga Airport,S6.7.49',E141.17.12',-6.116666666666666,141.28333333333333, Public,4171 x 75feet,Hard,,,,,,,Yes,https://www.getmetar.com/AYKI
-17,17,PG,AYXM,Komo Airport,S6.3.80',E142.52.61',-6.05,142.86666666666667, Public,,,,,,,,,No,https://www.getmetar.com/AYXM
-18,18,PG,AYKY,Lihir Kunaye Airport,S3.2.59',E152.37.68',-3.033333333333333,152.61666666666667, Public,3937 x 75feet,Soft,,,,,,,No,https://www.getmetar.com/AYKY
-19,19,PG,AYMD,Madang Airport,S5.12.50',E145.47.26',-5.2,145.78333333333333, Public,5148 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/AYMD
-20,20,PG,AYMN,Mendi Airport,S6.8.77',E143.39.44',-6.133333333333334,143.65, Public,4396 x 98feet,Soft,,,,,,,No,https://www.getmetar.com/AYMN
-21,21,PG,AYMS,Misima Bwagaoia Airport,S10.41.29',E152.50.36',-10.683333333333334,152.83333333333334, Public,,,,,,,,,No,https://www.getmetar.com/AYMS
-22,22,PG,AYMO,Momote Airport,S2.3.60',E147.25.45',-2.05,147.41666666666666, Public,6136 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/AYMO
-23,23,PG,AYMR,Moro Airport,S6.21.71',E143.13.84',-6.35,143.21666666666667, Public,5774 x 98feet,Soft,,,,,,,No,https://www.getmetar.com/AYMR
-24,24,PG,AYMH,Mount Hagen Airport,S5.49.67',E144.17.97',-5.816666666666666,144.28333333333333, Public,6185 x 98feet,Hard,3599 x 59feet,Unknown,,,,,Yes,https://www.getmetar.com/AYMH
-25,25,PG,AYNZ,Nadzab Airport,S6.34.15',E146.43.68',-6.566666666666666,146.71666666666667, Public,7999 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/AYNZ
-26,26,PG,AYPY,Port Moresby Airport,S9.26.42',E147.13.12',-9.433333333333334,147.21666666666667, Public,9022 x 148feet,Hard,6798 x 148feet,Unknown,,,,,Yes,https://www.getmetar.com/AYPY
-27,27,PG,YSII,Saibai Island Airport,S9.22.70',E142.37.50',-9.366666666666667,142.61666666666667, Public,,,,,,,,,No,https://www.getmetar.com/YSII
-28,28,PG,AYTB,Tabubil Airport,S5.16.75',E141.13.65',-5.266666666666667,141.21666666666667, Public,4232 x 75feet,Soft,,,,,,,No,https://www.getmetar.com/AYTB
-29,29,PG,AYTA,Tari Airport,S5.50.69',E142.56.82',-5.833333333333332,142.93333333333334, Public,5197 x 72feet,Soft,,,,,,,No,https://www.getmetar.com/AYTA
-30,30,PG,AYTK,Tokua Rabaul Airport,S4.20.46',E152.22.75',-4.333333333333333,152.36666666666667, Public,5643 x 92feet,Hard,,,,,,,Yes,https://www.getmetar.com/AYTK
-31,31,PG,AYTU,Tufi Airport,S9.4.60',E149.19.03',-9.066666666666666,149.31666666666666, Public,,,,,,,,,No,https://www.getmetar.com/AYTU
-32,32,PG,AYVN,Vanimo Airport,S2.41.62',E141.18.24',-2.6833333333333336,141.3, Public,5775 x 85feet,Hard,,,,,,,Yes,https://www.getmetar.com/AYVN
-33,33,PG,AYWD,Wapenamanda Airport,S5.38.00',E143.53.48',-5.633333333333333,143.88333333333333, Public,,,,,,,,,No,https://www.getmetar.com/AYWD
-34,34,PG,AYWK,Wewak Boram Airport,S3.35.05',E143.40.13',-3.583333333333333,143.66666666666666, Public,5234 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/AYWK
+,country,icaoCodes,airFieldName,latitude,longitude,ddLatitude,ddLongitude,airportUse,runwayOneDimensions,runwayOneSurface,runwayTwoDimensions,runwayTwoSurface,runwayThreeDimensions,runwayThreeSurface,runwayFourDimensions,runwayFourSurface,weatherLink
+0,PG,AYPY,Port Moresby Airport,S9.26.42',E147.13.12',-9.433333333333334,147.21666666666667, Public,9022 x 148feet,Hard,6798 x 148feet,Unknown,,,,,https://www.getmetar.com/AYPY
+1,PG,AYCH,Chimbu Airport,S6.1.46',E144.58.20',-6.016666666666667,144.96666666666667, Public,3330 x 89feet,Hard,,,,,,,https://www.getmetar.com/AYCH
+2,PG,AYGA,Goroka Airport,S6.4.96',E145.23.48',-6.066666666666666,145.38333333333333, Public,5400 x 98feet,Hard,3983 x 59feet,Unknown,,,,,https://www.getmetar.com/AYGA
+3,PG,AYTK,Tokua Rabaul Airport,S4.20.46',E152.22.75',-4.333333333333333,152.36666666666667, Public,5643 x 92feet,Hard,,,,,,,https://www.getmetar.com/AYTK
+4,PG,AYWK,Wewak Boram Airport,S3.35.05',E143.40.13',-3.5833333333333335,143.66666666666666, Public,5234 x 98feet,Hard,,,,,,,https://www.getmetar.com/AYWK
+5,PG,AYWD,Wapenamanda Airport,S5.38.00',E143.53.48',-5.633333333333333,143.88333333333333, Public,,,,,,,,,https://www.getmetar.com/AYWD
+6,PG,AYKM,Kerema Airport,S7.57.83',E145.46.31',-7.95,145.76666666666668, Public,3044 x 60feet,Hard,,,,,,,https://www.getmetar.com/AYKM
+7,PG,AYKK,Kikori Airport,S7.25.48',E144.14.98',-7.416666666666667,144.23333333333332, Public,,,,,,,,,https://www.getmetar.com/AYKK
+8,PG,AYGB,Gobe Airport,S6.52.67',E143.43.31',-6.866666666666667,143.71666666666667,Private,,,,,,,,,https://www.getmetar.com/AYGB
+9,PG,AYFF,Faia Airport,S7.9.53',E143.31.74',-7.15,143.51666666666668, Public,,,,,,,,,https://www.getmetar.com/AYFF
+10,PG,AYMD,Madang Airport,S5.12.50',E145.47.26',-5.2,145.78333333333333, Public,5148 x 98feet,Hard,,,,,,,https://www.getmetar.com/AYMD
+11,PG,AYMO,Momote Airport,S2.3.60',E147.25.45',-2.05,147.41666666666666, Public,6136 x 148feet,Hard,,,,,,,https://www.getmetar.com/AYMO
+12,PG,AYMS,Misima Bwagaoia Airport,S10.41.29',E152.50.36',-10.683333333333334,152.83333333333334, Public,,,,,,,,,https://www.getmetar.com/AYMS
+13,PG,AYKA,Kiriwina Losuia Airport,S8.30.37',E151.4.88',-8.5,151.06666666666666, Public,,,,,,,,,https://www.getmetar.com/AYKA
+14,PG,AYGN,Gurney Airport,S10.18.66',E150.20.07',-10.3,150.33333333333334, Public,5545 x 98feet,Hard,,,,,,,https://www.getmetar.com/AYGN
+15,PG,AYNZ,Nadzab Airport,S6.34.15',E146.43.68',-6.566666666666666,146.71666666666667, Public,7999 x 98feet,Hard,,,,,,,https://www.getmetar.com/AYNZ
+16,PG,AYBU,Bulolo Airport,S7.13.27',E146.39.08',-7.216666666666667,146.65,Private,,,,,,,,,https://www.getmetar.com/AYBU
+17,PG,AYKY,Lihir Kunaye Airport,S3.2.59',E152.37.68',-3.033333333333333,152.61666666666667, Public,3937 x 75feet,Soft,,,,,,,https://www.getmetar.com/AYKY
+18,PG,AYKV,Kavieng Airport,S2.34.93',E150.48.65',-2.5666666666666664,150.8, Public,5584 x 98feet,Hard,,,,,,,https://www.getmetar.com/AYKV
+19,PG,AYTU,Tufi Airport,S9.4.60',E149.19.03',-9.066666666666666,149.31666666666666, Public,,,,,,,,,https://www.getmetar.com/AYTU
+20,PG,AYGR,Girua Airport,S8.48.53',E148.18.39',-8.8,148.3, Public,5485 x 98feet,Hard,,,,,,,https://www.getmetar.com/AYGR
+21,PG,AYIQ,Kieta Airport,S6.18.37',E155.43.68',-6.3,155.71666666666667, Public,,,,,,,,,https://www.getmetar.com/AYIQ
+22,PG,AYBK,Buka Airport,S5.25.25',E154.40.53',-5.416666666666667,154.66666666666666, Public,5125 x 98feet,Hard,,,,,,,https://www.getmetar.com/AYBK
+23,PG,AYVN,Vanimo Airport,S2.41.62',E141.18.24',-2.6833333333333336,141.3, Public,5775 x 85feet,Hard,,,,,,,https://www.getmetar.com/AYVN
+24,PG,AYXM,Komo Airport,S6.3.80',E142.52.61',-6.05,142.86666666666667, Public,,,,,,,,,https://www.getmetar.com/AYXM
+25,PG,AYTA,Tari Airport,S5.50.69',E142.56.82',-5.833333333333333,142.93333333333334, Public,5197 x 72feet,Soft,,,,,,,https://www.getmetar.com/AYTA
+26,PG,AYMR,Moro Airport,S6.21.71',E143.13.84',-6.35,143.21666666666667, Public,5774 x 98feet,Soft,,,,,,,https://www.getmetar.com/AYMR
+27,PG,AYMN,Mendi Airport,S6.8.77',E143.39.44',-6.133333333333334,143.65, Public,4396 x 98feet,Soft,,,,,,,https://www.getmetar.com/AYMN
+28,PG,YSII,Saibai Island Airport,S9.22.70',E142.37.50',-9.366666666666667,142.61666666666667, Public,,,,,,,,,https://www.getmetar.com/YSII
+29,PG,YBOI,Boigu Island Airport,S9.14.00',E142.13.00',-9.233333333333333,142.21666666666667,Private,,,,,,,,,https://www.getmetar.com/YBOI
+30,PG,AYTB,Tabubil Airport,S5.16.75',E141.13.65',-5.266666666666667,141.21666666666667, Public,4232 x 75feet,Soft,,,,,,,https://www.getmetar.com/AYTB
+31,PG,AYKI,Kiunga Airport,S6.7.49',E141.17.12',-6.116666666666666,141.28333333333333, Public,4171 x 75feet,Hard,,,,,,,https://www.getmetar.com/AYKI
+32,PG,AYDU,Daru Airport,S9.5.20',E143.12.49',-9.083333333333334,143.2, Public,,,,,,,,,https://www.getmetar.com/AYDU
+33,PG,AYMH,Mount Hagen Airport,S5.49.67',E144.17.97',-5.816666666666666,144.28333333333333, Public,6185 x 98feet,Hard,3599 x 59feet,Unknown,,,,,https://www.getmetar.com/AYMH
+34,PG,AYHK,Kimbe Hoskins Airport,S5.27.81',E150.24.42',-5.45,150.4, Public,5212 x 98feet,Hard,,,,,,,https://www.getmetar.com/AYHK

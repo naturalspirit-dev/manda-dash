@@ -1,22 +1,22 @@
-,Unnamed: 0.1,country,icaoCodes,airFieldName,latitude,longitude,ddLatitude,ddLongitude,airportUse,runwayOneDimensions,runwayOneSurface,runwayTwoDimensions,runwayTwoSurface,runwayThreeDimensions,runwayThreeSurface,runwayFourDimensions,runwayFourSurface,capableCOneThirtyCSeventeen,weatherLink
-0,0,TW,RCKU,Chiayi Airport,N23.27.27',E120.24.20',23.45,120.4, Public,10006 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RCKU
-1,1,TW,RCQS,Chihhong Airport,N22.47.59',E121.10.92',22.78333333333333,121.16666666666669,Military,11055 x 147feet,Hard,,,,,,,Yes,https://www.getmetar.com/RCQS
-2,2,TW,RCMQ,Cingcyuangang Airport,N24.15.90',E120.37.25',24.25,120.61666666666666,Military,12004 x 200feet,Hard,,,,,,,Yes,https://www.getmetar.com/RCMQ
-3,3,TW,RCFN,Fongnian Airport,N22.45.32',E121.6.02',22.75,121.1, Public,7999 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RCFN
-4,4,TW,RCKW,Hengchun Airport,N22.2.45',E120.43.82',22.03333333333333,120.71666666666668, Public,5577 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/RCKW
-5,5,TW,RCPO,Hsinchu Airport,N24.49.20',E120.56.50',24.816666666666666,120.93333333333334, Public,12014 x 147feet,Hard,,,,,,,Yes,https://www.getmetar.com/RCPO
-6,6,TW,RCYU,Hualien Airport,N24.1.40',E121.36.60',24.016666666666666,121.6, Public,9025 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RCYU
-7,7,TW,RCMS,Ilan Airport,N24.44.00',E121.45.00',24.73333333333333,121.75, Public,,,,,,,,,No,https://www.getmetar.com/RCMS
-8,8,TW,RCAY,Kangshan Airport,N22.46.94',E120.15.69',22.766666666666666,120.25,Military,6657 x 147feet,Hard,,,,,,,Yes,https://www.getmetar.com/RCAY
-9,9,TW,RCKH,Kaohsiung International Airport,N22.34.62',E120.21.02',22.566666666666666,120.35, Public,10335 x 197feet,Hard,,,,,,,Yes,https://www.getmetar.com/RCKH
-10,10,TW,RCLY,Lanyu Airport,N22.1.67',E121.32.08',22.016666666666666,121.53333333333332, Public,3714 x 79feet,Hard,,,,,,,Yes,https://www.getmetar.com/RCLY
-11,11,TW,RCGI,Lyudao Airport,N22.40.40',E121.27.97',22.66666666666667,121.45, Public,3255 x 75feet,Hard,,,,,,,No,https://www.getmetar.com/RCGI
-12,12,TW,RCQC,Penghu Airport,N23.34.12',E119.37.70',23.566666666666666,119.61666666666666, Public,6890 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RCQC
-13,13,TW,RCSQ,Pingtung North Airport,N22.42.00',E120.28.93',22.7,120.46666666666668,Military,8012 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/RCSQ
-14,14,TW,RCDC,Pingtung South Airport,N22.40.33',E120.27.67',22.66666666666667,120.45,Military,7828 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RCDC
-15,15,TW,RCCM,Qimei Airport,N23.12.78',E119.25.05',23.2,119.41666666666669, Public,2569 x 75feet,Hard,,,,,,,No,https://www.getmetar.com/RCCM
-16,16,TW,RCSS,Songshan Airport,N25.4.18',E121.33.15',25.066666666666666,121.55, Public,8547 x 197feet,Hard,,,,,,,Yes,https://www.getmetar.com/RCSS
-17,17,TW,RCLG,Taichung Airport,N24.11.18',E120.39.23',24.18333333333333,120.65, Public,5249 x 100feet,Hard,,,,,,,Yes,https://www.getmetar.com/RCLG
-18,18,TW,RCNN,Tainan Airport,N22.56.95',E120.12.67',22.93333333333333,120.2, Public,10007 x 148feet,Hard,10007 x 148feet,Unknown,,,,,Yes,https://www.getmetar.com/RCNN
-19,19,TW,RCTP,Taiwan Taoyuan International Airport,N25.4.82',E121.13.93',25.066666666666666,121.21666666666668, Public,12008 x 197feet,Hard,10991 x 197feet,Unknown,,,,,Yes,https://www.getmetar.com/RCTP
-20,20,TW,RCWA,Wang An Airport,N23.22.15',E119.30.22',23.36666666666667,119.5, Public,2697 x 75feet,Hard,,,,,,,No,https://www.getmetar.com/RCWA
+,country,icaoCodes,airFieldName,latitude,longitude,ddLatitude,ddLongitude,airportUse,runwayOneDimensions,runwayOneSurface,runwayTwoDimensions,runwayTwoSurface,runwayThreeDimensions,runwayThreeSurface,runwayFourDimensions,runwayFourSurface,weatherLink
+0,TW,RCSS,Songshan Airport,N25.4.18',E121.33.15',25.066666666666666,121.55, Public,8547 x 197feet,Hard,,,,,,,https://www.getmetar.com/RCSS
+1,TW,RCYU,Hualien Airport,N24.1.40',E121.36.60',24.016666666666666,121.6, Public,9025 x 148feet,Hard,,,,,,,https://www.getmetar.com/RCYU
+2,TW,RCWA,Wang An Airport,N23.22.15',E119.30.22',23.366666666666667,119.5, Public,2697 x 75feet,Hard,,,,,,,https://www.getmetar.com/RCWA
+3,TW,RCTP,Taiwan Taoyuan International Airport,N25.4.82',E121.13.93',25.066666666666666,121.21666666666667, Public,12008 x 197feet,Hard,10991 x 197feet,Unknown,,,,,https://www.getmetar.com/RCTP
+4,TW,RCSQ,Pingtung North Airport,N22.42.00',E120.28.93',22.7,120.46666666666667,Military,8012 x 150feet,Hard,,,,,,,https://www.getmetar.com/RCSQ
+5,TW,RCQS,Chihhong Airport,N22.47.59',E121.10.92',22.783333333333335,121.16666666666667,Military,11055 x 147feet,Hard,,,,,,,https://www.getmetar.com/RCQS
+6,TW,RCQC,Penghu Airport,N23.34.12',E119.37.70',23.566666666666666,119.61666666666666, Public,6890 x 148feet,Hard,,,,,,,https://www.getmetar.com/RCQC
+7,TW,RCPO,Hsinchu Airport,N24.49.20',E120.56.50',24.816666666666666,120.93333333333334, Public,12014 x 147feet,Hard,,,,,,,https://www.getmetar.com/RCPO
+8,TW,RCNN,Tainan Airport,N22.56.95',E120.12.67',22.933333333333334,120.2, Public,10007 x 148feet,Hard,10007 x 148feet,Unknown,,,,,https://www.getmetar.com/RCNN
+9,TW,RCMS,Ilan Airport,N24.44.00',E121.45.00',24.733333333333334,121.75, Public,,,,,,,,,https://www.getmetar.com/RCMS
+10,TW,RCMQ,Cingcyuangang Airport,N24.15.90',E120.37.25',24.25,120.61666666666666,Military,12004 x 200feet,Hard,,,,,,,https://www.getmetar.com/RCMQ
+11,TW,RCLY,Lanyu Airport,N22.1.67',E121.32.08',22.016666666666666,121.53333333333333, Public,3714 x 79feet,Hard,,,,,,,https://www.getmetar.com/RCLY
+12,TW,RCLG,Taichung Airport,N24.11.18',E120.39.23',24.183333333333334,120.65, Public,5249 x 100feet,Hard,,,,,,,https://www.getmetar.com/RCLG
+13,TW,RCKW,Hengchun Airport,N22.2.45',E120.43.82',22.033333333333335,120.71666666666667, Public,5577 x 98feet,Hard,,,,,,,https://www.getmetar.com/RCKW
+14,TW,RCKU,Chiayi Airport,N23.27.27',E120.24.20',23.45,120.4, Public,10006 x 148feet,Hard,,,,,,,https://www.getmetar.com/RCKU
+15,TW,RCKH,Kaohsiung International Airport,N22.34.62',E120.21.02',22.566666666666666,120.35, Public,10335 x 197feet,Hard,,,,,,,https://www.getmetar.com/RCKH
+16,TW,RCGI,Lyudao Airport,N22.40.40',E121.27.97',22.666666666666668,121.45, Public,3255 x 75feet,Hard,,,,,,,https://www.getmetar.com/RCGI
+17,TW,RCFN,Fongnian Airport,N22.45.32',E121.6.02',22.75,121.1, Public,7999 x 148feet,Hard,,,,,,,https://www.getmetar.com/RCFN
+18,TW,RCDC,Pingtung South Airport,N22.40.33',E120.27.67',22.666666666666668,120.45,Military,7828 x 148feet,Hard,,,,,,,https://www.getmetar.com/RCDC
+19,TW,RCCM,Qimei Airport,N23.12.78',E119.25.05',23.2,119.41666666666667, Public,2569 x 75feet,Hard,,,,,,,https://www.getmetar.com/RCCM
+20,TW,RCAY,Kangshan Airport,N22.46.94',E120.15.69',22.766666666666666,120.25,Military,6657 x 147feet,Hard,,,,,,,https://www.getmetar.com/RCAY

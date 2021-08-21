@@ -1,28 +1,28 @@
-,Unnamed: 0.1,country,icaoCodes,airFieldName,latitude,longitude,ddLatitude,ddLongitude,airportUse,runwayOneDimensions,runwayOneSurface,runwayTwoDimensions,runwayTwoSurface,runwayThreeDimensions,runwayThreeSurface,runwayFourDimensions,runwayFourSurface,capableCOneThirtyCSeventeen,weatherLink
-0,0,VN,VVBH,Bien Hoa Aero Airport,N10.58.00',E106.49.00',10.966666666666667,106.81666666666666, Public,,,,,,,,,No,https://www.getmetar.com/VVBH
-1,1,VN,VVBM,Buon Ma Thuot Dom Airport,N12.40.10',E108.7.00',12.666666666666664,108.11666666666666, Public,9843 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VVBM
-2,2,VN,VVCM,Ca Mau Airport,N9.10.65',E105.10.55',9.166666666666666,105.16666666666669, Public,,,,,,,,,No,https://www.getmetar.com/VVCM
-3,3,VN,VVCR,Cam Ranh International Airport,N11.59.73',E109.13.10',11.983333333333333,109.21666666666668, Public,10000 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VVCR
-4,4,VN,VVCT,Can Tho International Airport,N10.5.03',E105.42.60',10.083333333333334,105.7, Public,9843 x 119feet,Hard,,,,,,,Yes,https://www.getmetar.com/VVCT
-5,5,VN,VVDN,Da Nang International Airport,N16.2.63',E108.12.02',16.033333333333335,108.2, Public,11483 x 148feet,Hard,10000 x 148feet,Unknown,,,,,Yes,https://www.getmetar.com/VVDN
-6,6,VN,VVDB,Dien Bien Airport,N21.23.87',E103.0.55',21.383333333333333,103.0, Public,,,,,,,,,No,https://www.getmetar.com/VVDB
-7,7,VN,VVDH,Dong Hoi Airport,N17.30.92',E106.35.45',17.5,106.58333333333331, Public,,,,,,,,,No,https://www.getmetar.com/VVDH
-8,8,VN,VVPK,Gia Lai Pleiku Airport,N14.0.27',E108.1.18',14.0,108.01666666666668, Public,5960 x 115feet,Hard,,,,,,,Yes,https://www.getmetar.com/VVPK
-9,9,VN,VVCI,Hai Phong Cat Bi International Airport,N20.49.02',E106.43.38',20.816666666666666,106.71666666666668, Public,7880 x 164feet,Hard,,,,,,,Yes,https://www.getmetar.com/VVCI
-10,10,VN,VVGL,Hanoi Gialam Airport,N21.2.40',E105.53.20',21.033333333333328,105.88333333333334,Military,6562 x 145feet,Hard,,,,,,,Yes,https://www.getmetar.com/VVGL
-11,11,VN,VVKP,Kep Airport,N21.23.68',E106.15.66',21.383333333333333,106.25, Public,7230 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/VVKP
-12,12,VN,VVPQ,Kien Giang Phu Quoc Airport,N10.10.18',E103.59.58',10.166666666666666,103.98333333333332, Public,6980 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/VVPQ
-13,13,VN,VVRG,Kien Giang Rach Gia Airport,N9.57.52',E105.8.05',9.95,105.13333333333334, Public,,,,,,,,,No,https://www.getmetar.com/VVRG
-14,14,VN,VVDL,Lien Khuong Airport,N11.45.20',E108.22.08',11.75,108.36666666666666, Public,,,,,,,,,No,https://www.getmetar.com/VVDL
-15,15,VN,VVNT,Nhatrang Airport,N12.13.65',E109.11.54',12.216666666666667,109.18333333333334, Public,6400 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VVNT
-16,16,VN,VVNB,Noi Bai International Airport,N21.13.30',E105.48.33',21.216666666666665,105.8, Public,12467 x 148feet,Hard,10499 x 148feet,Unknown,,,,,Yes,https://www.getmetar.com/VVNB
-17,17,VN,VVPR,Phan Rang Airport,N11.38.01',E108.57.11',11.633333333333333,108.95, Public,9990 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VVPR
-18,18,VN,VVPC,Phu Cat Airport,N13.56.95',E109.2.77',13.933333333333335,109.03333333333332, Public,10010 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VVPC
-19,19,VN,VVPB,Phubai Airport,N16.24.04',E107.42.15',16.4,107.7, Public,8858 x 131feet,Hard,,,,,,,Yes,https://www.getmetar.com/VVPB
-20,20,VN,VVCA,Quang Nam Chu Lai Airport,N15.24.37',E108.42.35',15.4,108.7, Public,10300 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/VVCA
-21,21,VN,VVTS,Tan Son Nhat International Airport,N10.49.23',E106.39.65',10.816666666666665,106.65, Public,12467 x 148feet,Hard,10000 x 148feet,Unknown,,,,,Yes,https://www.getmetar.com/VVTS
-22,22,VN,VVTX,Tho Xuan Airport,N19.54.15',E105.28.15',19.9,105.46666666666668, Public,,,,,,,,,No,https://www.getmetar.com/VVTX
-23,23,VN,VVTH,Tuy Hoa Airport,N13.2.53',E109.19.82',13.033333333333333,109.31666666666666, Public,9520 x 150feet,Hard,9300 x 150feet,Unknown,2770 x 90feet,Unknown,,,Yes,https://www.getmetar.com/VVTH
-24,24,VN,VVVD,Van Don International Airport,N21.7.08',E107.24.85',21.116666666666667,107.4, Public,,,,,,,,,No,https://www.getmetar.com/VVVD
-25,25,VN,VVVH,Vinh Airport,N18.43.80',E105.40.30',18.716666666666665,105.66666666666669, Public,,,,,,,,,No,https://www.getmetar.com/VVVH
-26,26,VN,VVCS,Vung Tau Con Son Airport,N8.43.98',E106.37.78',8.716666666666667,106.61666666666666, Public,4223 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/VVCS
+,country,icaoCodes,airFieldName,latitude,longitude,ddLatitude,ddLongitude,airportUse,runwayOneDimensions,runwayOneSurface,runwayTwoDimensions,runwayTwoSurface,runwayThreeDimensions,runwayThreeSurface,runwayFourDimensions,runwayFourSurface,weatherLink
+0,VN,VVVH,Vinh Airport,N18.43.80',E105.40.30',18.716666666666665,105.66666666666667, Public,,,,,,,,,https://www.getmetar.com/VVVH
+1,VN,VVTX,Tho Xuan Airport,N19.54.15',E105.28.15',19.9,105.46666666666667, Public,,,,,,,,,https://www.getmetar.com/VVTX
+2,VN,VVPB,Phubai Airport,N16.24.04',E107.42.15',16.4,107.7, Public,8858 x 131feet,Hard,,,,,,,https://www.getmetar.com/VVPB
+3,VN,VVDH,Dong Hoi Airport,N17.30.92',E106.35.45',17.5,106.58333333333333, Public,,,,,,,,,https://www.getmetar.com/VVDH
+4,VN,VVRG,Kien Giang Rach Gia Airport,N9.57.52',E105.8.05',9.95,105.13333333333334, Public,,,,,,,,,https://www.getmetar.com/VVRG
+5,VN,VVPQ,Kien Giang Phu Quoc Airport,N10.10.18',E103.59.58',10.166666666666666,103.98333333333333, Public,6980 x 98feet,Hard,,,,,,,https://www.getmetar.com/VVPQ
+6,VN,VVCT,Can Tho International Airport,N10.5.03',E105.42.60',10.083333333333334,105.7, Public,9843 x 119feet,Hard,,,,,,,https://www.getmetar.com/VVCT
+7,VN,VVCM,Ca Mau Airport,N9.10.65',E105.10.55',9.166666666666666,105.16666666666667, Public,,,,,,,,,https://www.getmetar.com/VVCM
+8,VN,VVNB,Noi Bai International Airport,N21.13.30',E105.48.33',21.216666666666665,105.8, Public,12467 x 148feet,Hard,10499 x 148feet,Unknown,,,,,https://www.getmetar.com/VVNB
+9,VN,VVGL,Hanoi Gialam Airport,N21.2.40',E105.53.20',21.033333333333335,105.88333333333334,Military,6562 x 145feet,Hard,,,,,,,https://www.getmetar.com/VVGL
+10,VN,VVCI,Hai Phong Cat Bi International Airport,N20.49.02',E106.43.38',20.816666666666666,106.71666666666667, Public,7880 x 164feet,Hard,,,,,,,https://www.getmetar.com/VVCI
+11,VN,VVVD,Van Don International Airport,N21.7.08',E107.24.85',21.116666666666667,107.4, Public,,,,,,,,,https://www.getmetar.com/VVVD
+12,VN,VVKP,Kep Airport,N21.23.68',E106.15.66',21.383333333333333,106.25, Public,7230 x 150feet,Hard,,,,,,,https://www.getmetar.com/VVKP
+13,VN,VVTS,Tan Son Nhat International Airport,N10.49.23',E106.39.65',10.816666666666666,106.65, Public,12467 x 148feet,Hard,10000 x 148feet,Unknown,,,,,https://www.getmetar.com/VVTS
+14,VN,VVPR,Phan Rang Airport,N11.38.01',E108.57.11',11.633333333333333,108.95, Public,9990 x 148feet,Hard,,,,,,,https://www.getmetar.com/VVPR
+15,VN,VVCS,Vung Tau Con Son Airport,N8.43.98',E106.37.78',8.716666666666667,106.61666666666666, Public,4223 x 98feet,Hard,,,,,,,https://www.getmetar.com/VVCS
+16,VN,VVBH,Bien Hoa Aero Airport,N10.58.00',E106.49.00',10.966666666666667,106.81666666666666, Public,,,,,,,,,https://www.getmetar.com/VVBH
+17,VN,VVTH,Tuy Hoa Airport,N13.2.53',E109.19.82',13.033333333333333,109.31666666666666, Public,9520 x 150feet,Hard,9300 x 150feet,Unknown,2770 x 90feet,Unknown,,,https://www.getmetar.com/VVTH
+18,VN,VVPC,Phu Cat Airport,N13.56.95',E109.2.77',13.933333333333334,109.03333333333333, Public,10010 x 148feet,Hard,,,,,,,https://www.getmetar.com/VVPC
+19,VN,VVNT,Nhatrang Airport,N12.13.65',E109.11.54',12.216666666666667,109.18333333333334, Public,6400 x 148feet,Hard,,,,,,,https://www.getmetar.com/VVNT
+20,VN,VVDN,Da Nang International Airport,N16.2.63',E108.12.02',16.033333333333335,108.2, Public,11483 x 148feet,Hard,10000 x 148feet,Unknown,,,,,https://www.getmetar.com/VVDN
+21,VN,VVCR,Cam Ranh International Airport,N11.59.73',E109.13.10',11.983333333333333,109.21666666666667, Public,10000 x 148feet,Hard,,,,,,,https://www.getmetar.com/VVCR
+22,VN,VVCA,Quang Nam Chu Lai Airport,N15.24.37',E108.42.35',15.4,108.7, Public,10300 x 150feet,Hard,,,,,,,https://www.getmetar.com/VVCA
+23,VN,VVDB,Dien Bien Airport,N21.23.87',E103.0.55',21.383333333333333,103.0, Public,,,,,,,,,https://www.getmetar.com/VVDB
+24,VN,VVPK,Gia Lai Pleiku Airport,N14.0.27',E108.1.18',14.0,108.01666666666667, Public,5960 x 115feet,Hard,,,,,,,https://www.getmetar.com/VVPK
+25,VN,VVDL,Lien Khuong Airport,N11.45.20',E108.22.08',11.75,108.36666666666666, Public,,,,,,,,,https://www.getmetar.com/VVDL
+26,VN,VVBM,Buon Ma Thuot Dom Airport,N12.40.10',E108.7.00',12.666666666666666,108.11666666666666, Public,9843 x 148feet,Hard,,,,,,,https://www.getmetar.com/VVBM

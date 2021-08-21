@@ -1,130 +1,130 @@
-,Unnamed: 0.1,country,icaoCodes,airFieldName,latitude,longitude,ddLatitude,ddLongitude,airportUse,runwayOneDimensions,runwayOneSurface,runwayTwoDimensions,runwayTwoSurface,runwayThreeDimensions,runwayThreeSurface,runwayFourDimensions,runwayFourSurface,capableCOneThirtyCSeventeen,weatherLink
-0,0,JP,RORA,Aguni Airport,N26.35.57',E127.14.42',26.58333333333333,127.23333333333332, Public,2625 x 82feet,Hard,,,,,,,No,https://www.getmetar.com/RORA
-1,1,JP,RJOE,Akeno Airport,N34.32.00',E136.40.33',34.53333333333333,136.66666666666666,Military,,,,,,,,,No,https://www.getmetar.com/RJOE
-2,2,JP,RJSK,Akita Airport,N39.36.93',E140.13.12',39.6,140.21666666666667, Public,8200 x 197feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJSK
-3,3,JP,RJDA,Amakusa Airport,N32.28.93',E130.9.53',32.46666666666667,130.15, Public,3281 x 98feet,Hard,,,,,,,No,https://www.getmetar.com/RJDA
-4,4,JP,RJKA,Amami Airport,N28.25.85',E129.42.75',28.41666666666667,129.7, Public,6560 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJKA
-5,5,JP,RJSA,Aomori Airport,N40.44.00',E140.41.32',40.73333333333333,140.68333333333334, Public,9843 x 197feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJSA
-6,6,JP,RJEC,Asahikawa Airport,N43.40.25',E142.26.85',43.66666666666666,142.43333333333334, Public,8202 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJEC
-7,7,JP,RJCA,Asahikawa Mil Airport,N43.47.67',E142.21.90',43.78333333333333,142.35,Military,,,,,,,,,No,https://www.getmetar.com/RJCA
-8,8,JP,RJFA,Ashiya Airport,N33.52.88',E130.39.10',33.86666666666667,130.65,Military,5380 x 164feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJFA
-9,9,JP,RJTA,Atsugi Airport,N35.27.28',E139.27.01',35.45,139.45,Military,8000 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJTA
-10,10,JP,RJCJ,Chitose Airport,N42.47.67',E141.39.98',42.78333333333333,141.65, Public,13120 x 197feet,Hard,8860 x 148feet,Unknown,,,,,Yes,https://www.getmetar.com/RJCJ
-11,11,JP,RJTF,Chofu Airport,N35.40.30',E139.31.68',35.666666666666664,139.51666666666668, Public,2625 x 98feet,Hard,,,,,,,No,https://www.getmetar.com/RJTF
-12,12,JP,RJGG,Chubu Centrair Airport,N34.51.50',E136.48.32',34.85,136.8, Public,11483 x 197feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJGG
-13,13,JP,RJFE,Fukue Airport,N32.39.98',E128.49.97',32.65,128.81666666666666, Public,6562 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJFE
-14,14,JP,RJNF,Fukui Airport,N36.8.57',E136.13.43',36.13333333333333,136.21666666666667, Public,3937 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJNF
-15,15,JP,RJFF,Fukuoka Airport,N33.35.07',E130.27.10',33.583333333333336,130.45, Public,9186 x 197feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJFF
-16,16,JP,RJSF,Fukushima Airport,N37.13.65',E140.25.68',37.21666666666667,140.41666666666666, Public,8202 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJSF
-17,17,JP,ROTM,Futenma Airport,N26.16.24',E127.44.88',26.266666666666666,127.73333333333332, Public,9181 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/ROTM
-18,18,JP,RJNG,Gifu Airport,N35.23.64',E136.52.18',35.38333333333333,136.86666666666667,Military,8860 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJNG
-19,19,JP,RJTH,Hachijojima Airport,N33.6.90',E139.47.15',33.1,139.78333333333333, Public,6562 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJTH
-20,20,JP,RJSH,Hachinohe Airport,N40.33.12',E141.28.03',40.55,141.46666666666667,Military,7380 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJSH
-21,21,JP,RJCH,Hakodate Airport,N41.46.20',E140.49.32',41.766666666666666,140.81666666666666, Public,9843 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJCH
-22,22,JP,RJNH,Hamamatsu Airport,N34.45.01',E137.42.18',34.75,137.7,Military,8366 x 197feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJNH
-23,23,JP,RJSI,Hanamaki Airport,N39.25.72',E141.8.12',39.41666666666666,141.13333333333333, Public,8202 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJSI
-24,24,JP,RORH,Hateruma Airport,N24.3.50',E123.48.23',24.05,123.8, Public,,,,,,,,,No,https://www.getmetar.com/RORH
-25,25,JP,RJOA,Hiroshima Airport,N34.26.17',E132.55.17',34.43333333333333,132.91666666666666, Public,9843 x 197feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJOA
-26,26,JP,RJOF,Hofu Airport,N34.2.07',E131.32.78',34.03333333333333,131.53333333333333,Military,4856 x 148feet,Hard,3871 x 197feet,Unknown,,,,,Yes,https://www.getmetar.com/RJOF
-27,27,JP,RJAH,Hyakuri Airport,N36.10.90',E140.24.88',36.16666666666666,140.4, Public,8858 x 148feet,Hard,8858 x 148feet,Unknown,,,,,Yes,https://www.getmetar.com/RJAH
-28,28,JP,RODE,Ie Shima Aux AB Airport,N26.43.73',E127.45.71',26.716666666666665,127.75,Military,5517 x 150feet,Soft,,,,,,,No,https://www.getmetar.com/RODE
-29,29,JP,RORE,Iejima Airport,N26.43.35',E127.47.22',26.716666666666665,127.78333333333332, Public,4961 x 92feet,Hard,4921 x 150feet,Unknown,,,,,Yes,https://www.getmetar.com/RORE
-30,30,JP,RJDB,Iki Airport,N33.44.95',E129.47.15',33.73333333333333,129.78333333333333, Public,3937 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJDB
-31,31,JP,RJTJ,Iruma Airport,N35.50.52',E139.24.63',35.833333333333336,139.4,Military,6562 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJTJ
-32,32,JP,RJOI,Iwakuni Airport,N34.8.70',E132.14.82',34.13333333333333,132.23333333333332, Public,8005 x 197feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJOI
-33,33,JP,RJOW,Iwami Airport,N34.40.58',E131.47.42',34.666666666666664,131.78333333333333, Public,6562 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJOW
-34,34,JP,RJAW,Iwoto Airport,N24.47.05',E141.19.37',24.78333333333333,141.31666666666666,Military,8700 x 200feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJAW
-35,35,JP,RJOC,Izumo Airport,N35.24.82',E132.53.40',35.4,132.88333333333333, Public,6562 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJOC
-36,36,JP,RODN,Kadena Airport,N26.21.34',E127.46.06',26.35,127.76666666666668,Military,12100 x 299feet,Hard,12100 x 200feet,Unknown,,,,,Yes,https://www.getmetar.com/RODN
-37,37,JP,RJFK,Kagoshima Airport,N31.48.20',E130.43.17',31.8,130.71666666666667, Public,9843 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJFK
-38,38,JP,RJDK,Kamigoto Airport,N33.0.82',E129.11.55',33.0,129.18333333333334, Public,2625 x 82feet,Hard,,,,,,,No,https://www.getmetar.com/RJDK
-39,39,JP,RJFY,Kanoya Airport,N31.22.08',E130.50.28',31.36666666666667,130.83333333333334,Military,7382 x 148feet,Hard,3937 x 131feet,Unknown,,,,,Yes,https://www.getmetar.com/RJFY
-40,40,JP,RJBB,Kansai International Airport,N34.26.05',E135.13.97',34.43333333333333,135.21666666666667, Public,13123 x 197feet,Hard,11483 x 197feet,Unknown,,,,,Yes,https://www.getmetar.com/RJBB
-41,41,JP,RJAK,Kasumigaura Airport,N36.2.08',E140.11.57',36.03333333333333,140.18333333333334, Public,,,,,,,,,No,https://www.getmetar.com/RJAK
-42,42,JP,RJSU,Kasuminome Airport,N38.14.13',E140.55.38',38.23333333333333,140.91666666666666,Military,,,,,,,,,No,https://www.getmetar.com/RJSU
-43,43,JP,ROKR,Kerama Airport,N26.10.10',E127.17.60',26.16666666666667,127.28333333333332, Public,,,,,,,,,No,https://www.getmetar.com/ROKR
-44,44,JP,RJKI,Kikai Airport,N28.19.28',E129.55.68',28.316666666666666,129.91666666666666, Public,3937 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJKI
-45,45,JP,RJTK,Kisarazu Airport,N35.23.90',E139.54.59',35.38333333333333,139.9,Military,6004 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJTK
-46,46,JP,RORK,Kitadaito Airport,N25.56.68',E131.19.62',25.93333333333333,131.31666666666666, Public,4921 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RORK
-47,47,JP,RJFR,Kitakyushu Airport,N33.50.73',E131.2.10',33.833333333333336,131.03333333333333, Public,8202 x 197feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJFR
-48,48,JP,RJBE,Kobe Airport,N34.37.97',E135.13.43',34.61666666666667,135.21666666666667, Public,8202 x 197feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJBE
-49,49,JP,RJOK,Kochi Airport,N33.32.77',E133.40.17',33.53333333333333,133.66666666666666, Public,8202 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJOK
-50,50,JP,RJBK,Kohnan Airport,N34.35.48',E133.56.00',34.583333333333336,133.93333333333334, Public,4327 x 100feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJBK
-51,51,JP,RJNK,Komatsu Airport,N36.23.63',E136.24.45',36.38333333333333,136.4, Public,8860 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJNK
-52,52,JP,RJAZ,Kozushima Airport,N34.11.37',E139.8.02',34.18333333333333,139.13333333333333, Public,2625 x 82feet,Hard,,,,,,,No,https://www.getmetar.com/RJAZ
-53,53,JP,RJFT,Kumamoto Airport,N32.50.23',E130.51.32',32.833333333333336,130.85, Public,9843 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJFT
-54,54,JP,ROKJ,Kumejima Airport,N26.21.82',E126.42.83',26.35,126.7, Public,6562 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ROKJ
-55,55,JP,RJCK,Kushiro Airport,N43.2.45',E144.11.58',43.03333333333333,144.18333333333334, Public,8202 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJCK
-56,56,JP,RJAF,Matsumoto Airport,N36.10.00',E137.55.37',36.16666666666666,137.91666666666666, Public,6562 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJAF
-57,57,JP,RJST,Matsushima Airport,N38.24.18',E141.12.72',38.4,141.2,Military,8860 x 148feet,Hard,4920 x 148feet,Unknown,,,,,Yes,https://www.getmetar.com/RJST
-58,58,JP,RJOM,Matsuyama Airport,N33.49.63',E132.41.98',33.81666666666667,132.68333333333334, Public,8202 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJOM
-59,59,JP,RJCM,Memanbetsu Airport,N43.52.83',E144.9.85',43.86666666666667,144.15, Public,8202 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJCM
-60,60,JP,RJDM,Metabaru Airport,N33.19.52',E130.24.82',33.31666666666667,130.4, Public,,,,,,,,,No,https://www.getmetar.com/RJDM
-61,61,JP,RJOH,Miho Airport,N35.29.60',E133.14.35',35.48333333333333,133.23333333333332,Military,8202 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJOH
-62,62,JP,RJAM,Minami Torishima Airport,N24.17.38',E153.58.75',24.28333333333333,153.96666666666667,Military,4500 x 145feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJAM
-63,63,JP,ROMD,Minamidaito Airport,N25.50.80',E131.15.82',25.83333333333333,131.25, Public,4921 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ROMD
-64,64,JP,RJSM,Misawa Airport,N40.42.18',E141.22.10',40.7,141.36666666666667,Military,10000 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJSM
-65,65,JP,RJTQ,Miyake Jima Airport,N34.4.42',E139.33.62',34.06666666666667,139.55, Public,3937 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJTQ
-66,66,JP,ROMY,Miyako Airport,N24.46.97',E125.17.70',24.766666666666666,125.28333333333332, Public,6562 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ROMY
-67,67,JP,RJFM,Miyazaki Airport,N31.52.63',E131.26.92',31.86666666666667,131.43333333333334, Public,8202 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJFM
-68,68,JP,RJFU,Nagasaki Airport,N32.55.02',E129.54.82',32.916666666666664,129.9, Public,9840 x 197feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJFU
-69,69,JP,RJNA,Nagoya Airport,N35.15.30',E136.55.47',35.25,136.91666666666666, Public,8989 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJNA
-70,70,JP,ROAH,Naha Airport,N26.11.60',E127.38.38',26.18333333333333,127.63333333333334, Public,9843 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ROAH
-71,71,JP,RJCN,Nakashibetsu Airport,N43.34.65',E144.57.60',43.56666666666667,144.95, Public,6562 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJCN
-72,72,JP,RJBD,Nanki Shirahama Airport,N33.39.73',E135.21.87',33.65,135.35, Public,6562 x 148feet,Hard,4327 x 98feet,Unknown,,,,,Yes,https://www.getmetar.com/RJBD
-73,73,JP,RJAA,Narita International Airport,N35.45.92',E140.23.13',35.75,140.38333333333333, Public,13123 x 197feet,Hard,8202 x 197feet,Unknown,,,,,Yes,https://www.getmetar.com/RJAA
-74,74,JP,ROIG,New Ishigaki Airport,N24.23.78',E124.14.70',24.38333333333333,124.23333333333332, Public,4921 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ROIG
-75,75,JP,RJEB,New Monbetsu Airport,N44.18.25',E143.24.25',44.3,143.4, Public,6562 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJEB
-76,76,JP,RJSN,Niigata Airport,N37.57.35',E139.6.70',37.95,139.1, Public,8202 x 148feet,Hard,4311 x 148feet,Unknown,,,,,Yes,https://www.getmetar.com/RJSN
-77,77,JP,RJAN,Niijima Airport,N34.22.17',E139.16.12',34.36666666666667,139.26666666666668, Public,2625 x 82feet,Hard,,,,,,,No,https://www.getmetar.com/RJAN
-78,78,JP,RJNW,Noto Airport,N37.17.53',E136.57.54',37.28333333333333,136.95, Public,6562 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJNW
-79,79,JP,RJFN,Nyutabaru Airport,N32.5.02',E131.27.08',32.083333333333336,131.45,Military,8858 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJFN
-80,80,JP,RJCB,Obihiro Airport,N42.44.00',E143.13.03',42.73333333333333,143.21666666666667, Public,8202 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJCB
-81,81,JP,RJSR,Odate Noshiro Airport,N40.11.52',E140.22.30',40.18333333333333,140.36666666666667, Public,6562 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJSR
-82,82,JP,RJFO,Oita Airport,N33.28.77',E131.44.23',33.46666666666667,131.73333333333332, Public,9842 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJFO
-83,83,JP,RJDO,Ojika Airport,N33.11.45',E129.5.42',33.18333333333333,129.08333333333334, Public,2625 x 82feet,Hard,,,,,,,No,https://www.getmetar.com/RJDO
-84,84,JP,RJOB,Okayama Airport,N34.45.42',E133.51.32',34.75,133.85, Public,9843 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJOB
-85,85,JP,RJNO,Oki Airport,N36.10.70',E133.19.40',36.16666666666666,133.31666666666666, Public,6562 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJNO
-86,86,JP,RJKB,Okierabu Airport,N27.25.90',E128.42.33',27.41666666666667,128.7, Public,4429 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJKB
-87,87,JP,RJEO,Okushiri Airport,N42.4.30',E139.25.97',42.06666666666667,139.41666666666666, Public,4921 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJEO
-88,88,JP,RJSO,Ominato Airport,N41.13.97',E141.7.93',41.21666666666667,141.11666666666667,Military,,,,,,,,,No,https://www.getmetar.com/RJSO
-89,89,JP,RJDU,Omura Airport,N32.55.68',E129.56.05',32.916666666666664,129.93333333333334, Public,3937 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJDU
-90,90,JP,RJOO,Osaka International Airport,N34.47.07',E135.26.35',34.78333333333333,135.43333333333334, Public,9843 x 197feet,Hard,5997 x 148feet,Unknown,,,,,Yes,https://www.getmetar.com/RJOO
-91,91,JP,RJTO,Oshima Airport,N34.46.92',E139.21.62',34.766666666666666,139.35, Public,5905 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJTO
-92,92,JP,RJOZ,Ozuki Airport,N34.2.82',E131.3.15',34.03333333333333,131.05,Military,3940 x 200feet,Hard,2950 x 150feet,Unknown,,,,,Yes,https://www.getmetar.com/RJOZ
-93,93,JP,RJCR,Rebun Airport,N45.27.30',E141.2.35',45.45,141.03333333333333, Public,2627 x 82feet,Hard,,,,,,,No,https://www.getmetar.com/RJCR
-94,94,JP,RJER,Rishiri Airport,N45.14.52',E141.11.25',45.23333333333333,141.18333333333334, Public,5905 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJER
-95,95,JP,RJSD,Sado Airport,N38.3.67',E138.24.85',38.05,138.4, Public,3952 x 82feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJSD
-96,96,JP,RJFS,Saga Airport,N33.8.98',E130.18.13',33.13333333333333,130.3, Public,6562 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJFS
-97,97,JP,RJCO,Sapporo Airport,N43.7.05',E141.22.88',43.11666666666667,141.36666666666667, Public,4921 x 100feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJCO
-98,98,JP,RJCC,Sapporo New Chitose Airport,N42.46.52',E141.41.55',42.766666666666666,141.68333333333334, Public,9842 x 197feet,Hard,9842 x 197feet,Unknown,,,,,Yes,https://www.getmetar.com/RJCC
-99,99,JP,RJSS,Sendai Airport,N38.8.38',E140.55.02',38.13333333333333,140.91666666666666, Public,9843 x 148feet,Hard,3937 x 148feet,Unknown,,,,,Yes,https://www.getmetar.com/RJSS
-100,100,JP,RJTL,Shimofusa Airport,N35.47.93',E140.0.73',35.78333333333333,140.0,Military,7382 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJTL
-101,101,JP,RORS,Shimojishima Airport,N24.49.60',E125.8.68',24.816666666666666,125.13333333333334, Public,9840 x 197feet,Hard,,,,,,,Yes,https://www.getmetar.com/RORS
-102,102,JP,RJNY,Shizuhama Airport,N34.48.77',E138.17.88',34.8,138.28333333333333,Military,4920 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJNY
-103,103,JP,RJNS,Shizuoka Airport,N34.47.77',E138.11.37',34.78333333333333,138.18333333333334, Public,8202 x 197feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJNS
-104,104,JP,RJSY,Shonai Airport,N38.48.73',E139.47.23',38.8,139.78333333333333, Public,6562 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJSY
-105,105,JP,RJTC,Tachikawa Airport,N35.42.65',E139.24.18',35.7,139.4,Military,,,,,,,,,No,https://www.getmetar.com/RJTC
-106,106,JP,RJBT,Tajima Airport,N35.30.77',E134.47.22',35.5,134.78333333333333, Public,3937 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJBT
-107,107,JP,RJOT,Takamatsu Airport,N34.12.85',E134.0.93',34.2,134.0, Public,8203 x 197feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJOT
-108,108,JP,RJFG,Tanegashima Airport,N30.36.30',E130.59.50',30.6,130.98333333333332, Public,6562 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJFG
-109,109,JP,RORT,Tarama Airport,N24.39.23',E124.40.52',24.65,124.66666666666669, Public,4921 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RORT
-110,110,JP,RJTE,Tateyama Airport,N34.59.25',E139.49.92',34.98333333333333,139.81666666666666,Military,984 x 148feet,Hard,,,,,,,No,https://www.getmetar.com/RJTE
-111,111,JP,RJCT,Tokachi Airport,N42.53.42',E143.9.50',42.88333333333333,143.15,Military,4920 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJCT
-112,112,JP,RJKN,Tokunoshima Airport,N27.50.18',E128.52.88',27.83333333333333,128.86666666666667, Public,6560 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJKN
-113,113,JP,RJOS,Tokushima Airport,N34.7.93',E134.36.55',34.11666666666667,134.6, Public,8202 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJOS
-114,114,JP,RJTT,Tokyo International Airport,N35.33.20',E139.46.87',35.55,139.76666666666668, Public,9843 x 197feet,Hard,9843 x 197feet,Unknown,8202 x 197feet,Unknown,8202 x 197feet,Unknown,Yes,https://www.getmetar.com/RJTT
-115,115,JP,RJOR,Tottori Airport,N35.31.80',E134.9.90',35.516666666666666,134.15, Public,6562 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJOR
-116,116,JP,RJNT,Toyama Airport,N36.38.90',E137.11.25',36.63333333333333,137.18333333333334, Public,6560 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJNT
-117,117,JP,RJFZ,Tsuiki Airport,N33.41.03',E131.2.35',33.68333333333333,131.03333333333333,Military,7870 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJFZ
-118,118,JP,RJDT,Tsushima Airport,N34.17.10',E129.19.83',34.28333333333333,129.31666666666666, Public,6234 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJDT
-119,119,JP,RJTU,Utsunomiya Airport,N36.30.87',E139.52.26',36.5,139.86666666666667,Military,5570 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJTU
-120,120,JP,RJCW,Wakkanai Airport,N45.24.27',E141.48.13',45.4,141.8, Public,7218 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJCW
-121,121,JP,RJFC,Yakushima Airport,N30.23.13',E130.39.55',30.38333333333333,130.65, Public,4921 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJFC
-122,122,JP,RJSC,Yamagata Airport,N38.24.72',E140.22.27',38.4,140.36666666666667, Public,6562 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJSC
-123,123,JP,RJDC,Yamaguchi Ube Airport,N33.55.80',E131.16.72',33.916666666666664,131.26666666666668, Public,8202 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJDC
-124,124,JP,RJOY,Yao Airport,N34.35.80',E135.36.03',34.583333333333336,135.6, Public,4888 x 148feet,Hard,3937 x 98feet,Unknown,,,,,Yes,https://www.getmetar.com/RJOY
-125,125,JP,RJTY,Yokota Airport,N35.44.92',E139.20.92',35.73333333333333,139.33333333333334,Military,11001 x 197feet,Hard,,,,,,,Yes,https://www.getmetar.com/RJTY
-126,126,JP,ROYN,Yonaguni Airport,N24.28.05',E122.58.78',24.466666666666665,122.96666666666668, Public,6562 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/ROYN
-127,127,JP,RORY,Yoron Airport,N27.2.63',E128.24.10',27.03333333333333,128.4, Public,3937 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/RORY
-128,128,JP,RJTR,Zama Kastner Airport,N35.30.82',E139.23.62',35.5,139.38333333333333,Military,1910 x 52feet,Hard,,,,,,,No,https://www.getmetar.com/RJTR
+,country,icaoCodes,airFieldName,latitude,longitude,ddLatitude,ddLongitude,airportUse,runwayOneDimensions,runwayOneSurface,runwayTwoDimensions,runwayTwoSurface,runwayThreeDimensions,runwayThreeSurface,runwayFourDimensions,runwayFourSurface,weatherLink
+0,JP,RJNA,Nagoya Airport,N35.15.30',E136.55.47',35.25,136.91666666666666, Public,8989 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJNA
+1,JP,RJSR,Odate Noshiro Airport,N40.11.52',E140.22.30',40.18333333333333,140.36666666666667, Public,6562 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJSR
+2,JP,RJSK,Akita Airport,N39.36.93',E140.13.12',39.6,140.21666666666667, Public,8200 x 197feet,Hard,,,,,,,https://www.getmetar.com/RJSK
+3,JP,RJSO,Ominato Airport,N41.13.97',E141.7.93',41.21666666666667,141.11666666666667,Military,,,,,,,,,https://www.getmetar.com/RJSO
+4,JP,RJSM,Misawa Airport,N40.42.18',E141.22.10',40.7,141.36666666666667,Military,10000 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJSM
+5,JP,RJSH,Hachinohe Airport,N40.33.12',E141.28.03',40.55,141.46666666666667,Military,7380 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJSH
+6,JP,RJSA,Aomori Airport,N40.44.00',E140.41.32',40.733333333333334,140.68333333333334, Public,9843 x 197feet,Hard,,,,,,,https://www.getmetar.com/RJSA
+7,JP,RJTL,Shimofusa Airport,N35.47.93',E140.0.73',35.78333333333333,140.0,Military,7382 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJTL
+8,JP,RJTK,Kisarazu Airport,N35.23.90',E139.54.59',35.38333333333333,139.9,Military,6004 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJTK
+9,JP,RJTE,Tateyama Airport,N34.59.25',E139.49.92',34.983333333333334,139.81666666666666,Military,984 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJTE
+10,JP,RJAA,Narita International Airport,N35.45.92',E140.23.13',35.75,140.38333333333333, Public,13123 x 197feet,Hard,8202 x 197feet,Unknown,,,,,https://www.getmetar.com/RJAA
+11,JP,RJOM,Matsuyama Airport,N33.49.63',E132.41.98',33.81666666666667,132.68333333333334, Public,8202 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJOM
+12,JP,RJOI,Iwakuni Airport,N34.8.70',E132.14.82',34.13333333333333,132.23333333333332, Public,8005 x 197feet,Hard,,,,,,,https://www.getmetar.com/RJOI
+13,JP,RJNF,Fukui Airport,N36.8.57',E136.13.43',36.13333333333333,136.21666666666667, Public,3937 x 98feet,Hard,,,,,,,https://www.getmetar.com/RJNF
+14,JP,RJFZ,Tsuiki Airport,N33.41.03',E131.2.35',33.68333333333333,131.03333333333333,Military,7870 x 150feet,Hard,,,,,,,https://www.getmetar.com/RJFZ
+15,JP,RJFR,Kitakyushu Airport,N33.50.73',E131.2.10',33.833333333333336,131.03333333333333, Public,8202 x 197feet,Hard,,,,,,,https://www.getmetar.com/RJFR
+16,JP,RJFF,Fukuoka Airport,N33.35.07',E130.27.10',33.583333333333336,130.45, Public,9186 x 197feet,Hard,,,,,,,https://www.getmetar.com/RJFF
+17,JP,RJFA,Ashiya Airport,N33.52.88',E130.39.10',33.86666666666667,130.65,Military,5380 x 164feet,Hard,,,,,,,https://www.getmetar.com/RJFA
+18,JP,RJSF,Fukushima Airport,N37.13.65',E140.25.68',37.21666666666667,140.41666666666666, Public,8202 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJSF
+19,JP,RJNG,Gifu Airport,N35.23.64',E136.52.18',35.38333333333333,136.86666666666667,Military,8860 x 150feet,Hard,,,,,,,https://www.getmetar.com/RJNG
+20,JP,RJOA,Hiroshima Airport,N34.26.17',E132.55.17',34.43333333333333,132.91666666666666, Public,9843 x 197feet,Hard,,,,,,,https://www.getmetar.com/RJOA
+21,JP,RJER,Rishiri Airport,N45.14.52',E141.11.25',45.233333333333334,141.18333333333334, Public,5905 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJER
+22,JP,RJEO,Okushiri Airport,N42.4.30',E139.25.97',42.06666666666667,139.41666666666666, Public,4921 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJEO
+23,JP,RJEC,Asahikawa Airport,N43.40.25',E142.26.85',43.666666666666664,142.43333333333334, Public,8202 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJEC
+24,JP,RJEB,New Monbetsu Airport,N44.18.25',E143.24.25',44.3,143.4, Public,6562 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJEB
+25,JP,RJCW,Wakkanai Airport,N45.24.27',E141.48.13',45.4,141.8, Public,7218 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJCW
+26,JP,RJCT,Tokachi Airport,N42.53.42',E143.9.50',42.88333333333333,143.15,Military,4920 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJCT
+27,JP,RJCR,Rebun Airport,N45.27.30',E141.2.35',45.45,141.03333333333333, Public,2627 x 82feet,Hard,,,,,,,https://www.getmetar.com/RJCR
+28,JP,RJCO,Sapporo Airport,N43.7.05',E141.22.88',43.11666666666667,141.36666666666667, Public,4921 x 100feet,Hard,,,,,,,https://www.getmetar.com/RJCO
+29,JP,RJCN,Nakashibetsu Airport,N43.34.65',E144.57.60',43.56666666666667,144.95, Public,6562 x 150feet,Hard,,,,,,,https://www.getmetar.com/RJCN
+30,JP,RJCM,Memanbetsu Airport,N43.52.83',E144.9.85',43.86666666666667,144.15, Public,8202 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJCM
+31,JP,RJCK,Kushiro Airport,N43.2.45',E144.11.58',43.03333333333333,144.18333333333334, Public,8202 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJCK
+32,JP,RJCJ,Chitose Airport,N42.47.67',E141.39.98',42.78333333333333,141.65, Public,13120 x 197feet,Hard,8860 x 148feet,Unknown,,,,,https://www.getmetar.com/RJCJ
+33,JP,RJCH,Hakodate Airport,N41.46.20',E140.49.32',41.766666666666666,140.81666666666666, Public,9843 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJCH
+34,JP,RJCC,Sapporo New Chitose Airport,N42.46.52',E141.41.55',42.766666666666666,141.68333333333334, Public,9842 x 197feet,Hard,9842 x 197feet,Unknown,,,,,https://www.getmetar.com/RJCC
+35,JP,RJCB,Obihiro Airport,N42.44.00',E143.13.03',42.733333333333334,143.21666666666667, Public,8202 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJCB
+36,JP,RJCA,Asahikawa Mil Airport,N43.47.67',E142.21.90',43.78333333333333,142.35,Military,,,,,,,,,https://www.getmetar.com/RJCA
+37,JP,RJOO,Osaka International Airport,N34.47.07',E135.26.35',34.78333333333333,135.43333333333334, Public,9843 x 197feet,Hard,5997 x 148feet,Unknown,,,,,https://www.getmetar.com/RJOO
+38,JP,RJBT,Tajima Airport,N35.30.77',E134.47.22',35.5,134.78333333333333, Public,3937 x 98feet,Hard,,,,,,,https://www.getmetar.com/RJBT
+39,JP,RJAK,Kasumigaura Airport,N36.2.08',E140.11.57',36.03333333333333,140.18333333333334, Public,,,,,,,,,https://www.getmetar.com/RJAK
+40,JP,RJAH,Hyakuri Airport,N36.10.90',E140.24.88',36.166666666666664,140.4, Public,8858 x 148feet,Hard,8858 x 148feet,Unknown,,,,,https://www.getmetar.com/RJAH
+41,JP,RJNW,Noto Airport,N37.17.53',E136.57.54',37.28333333333333,136.95, Public,6562 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJNW
+42,JP,RJNK,Komatsu Airport,N36.23.63',E136.24.45',36.38333333333333,136.4, Public,8860 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJNK
+43,JP,RJSI,Hanamaki Airport,N39.25.72',E141.8.12',39.416666666666664,141.13333333333333, Public,8202 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJSI
+44,JP,RJOT,Takamatsu Airport,N34.12.85',E134.0.93',34.2,134.0, Public,8203 x 197feet,Hard,,,,,,,https://www.getmetar.com/RJOT
+45,JP,RORY,Yoron Airport,N27.2.63',E128.24.10',27.033333333333335,128.4, Public,3937 x 98feet,Hard,,,,,,,https://www.getmetar.com/RORY
+46,JP,RJKN,Tokunoshima Airport,N27.50.18',E128.52.88',27.833333333333332,128.86666666666667, Public,6560 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJKN
+47,JP,RJKI,Kikai Airport,N28.19.28',E129.55.68',28.316666666666666,129.91666666666666, Public,3937 x 98feet,Hard,,,,,,,https://www.getmetar.com/RJKI
+48,JP,RJKB,Okierabu Airport,N27.25.90',E128.42.33',27.416666666666668,128.7, Public,4429 x 98feet,Hard,,,,,,,https://www.getmetar.com/RJKB
+49,JP,RJKA,Amami Airport,N28.25.85',E129.42.75',28.416666666666668,129.7, Public,6560 x 150feet,Hard,,,,,,,https://www.getmetar.com/RJKA
+50,JP,RJFY,Kanoya Airport,N31.22.08',E130.50.28',31.366666666666667,130.83333333333334,Military,7382 x 148feet,Hard,3937 x 131feet,Unknown,,,,,https://www.getmetar.com/RJFY
+51,JP,RJFK,Kagoshima Airport,N31.48.20',E130.43.17',31.8,130.71666666666667, Public,9843 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJFK
+52,JP,RJFG,Tanegashima Airport,N30.36.30',E130.59.50',30.6,130.98333333333332, Public,6562 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJFG
+53,JP,RJFC,Yakushima Airport,N30.23.13',E130.39.55',30.383333333333333,130.65, Public,4921 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJFC
+54,JP,RJTR,Zama Kastner Airport,N35.30.82',E139.23.62',35.5,139.38333333333333,Military,1910 x 52feet,Hard,,,,,,,https://www.getmetar.com/RJTR
+55,JP,RJTA,Atsugi Airport,N35.27.28',E139.27.01',35.45,139.45,Military,8000 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJTA
+56,JP,RJOK,Kochi Airport,N33.32.77',E133.40.17',33.53333333333333,133.66666666666666, Public,8202 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJOK
+57,JP,RJFT,Kumamoto Airport,N32.50.23',E130.51.32',32.833333333333336,130.85, Public,9843 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJFT
+58,JP,RJDA,Amakusa Airport,N32.28.93',E130.9.53',32.46666666666667,130.15, Public,3281 x 98feet,Hard,,,,,,,https://www.getmetar.com/RJDA
+59,JP,RJBE,Kobe Airport,N34.37.97',E135.13.43',34.61666666666667,135.21666666666667, Public,8202 x 197feet,Hard,,,,,,,https://www.getmetar.com/RJBE
+60,JP,RJOE,Akeno Airport,N34.32.00',E136.40.33',34.53333333333333,136.66666666666666,Military,,,,,,,,,https://www.getmetar.com/RJOE
+61,JP,RJGG,Chubu Centrair Airport,N34.51.50',E136.48.32',34.85,136.8, Public,11483 x 197feet,Hard,,,,,,,https://www.getmetar.com/RJGG
+62,JP,RJSU,Kasuminome Airport,N38.14.13',E140.55.38',38.233333333333334,140.91666666666666,Military,,,,,,,,,https://www.getmetar.com/RJSU
+63,JP,RJST,Matsushima Airport,N38.24.18',E141.12.72',38.4,141.2,Military,8860 x 148feet,Hard,4920 x 148feet,Unknown,,,,,https://www.getmetar.com/RJST
+64,JP,RJSS,Sendai Airport,N38.8.38',E140.55.02',38.13333333333333,140.91666666666666, Public,9843 x 148feet,Hard,3937 x 148feet,Unknown,,,,,https://www.getmetar.com/RJSS
+65,JP,RJFN,Nyutabaru Airport,N32.5.02',E131.27.08',32.083333333333336,131.45,Military,8858 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJFN
+66,JP,RJFM,Miyazaki Airport,N31.52.63',E131.26.92',31.866666666666667,131.43333333333334, Public,8202 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJFM
+67,JP,RJAF,Matsumoto Airport,N36.10.00',E137.55.37',36.166666666666664,137.91666666666666, Public,6562 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJAF
+68,JP,RJFU,Nagasaki Airport,N32.55.02',E129.54.82',32.916666666666664,129.9, Public,9840 x 197feet,Hard,,,,,,,https://www.getmetar.com/RJFU
+69,JP,RJFE,Fukue Airport,N32.39.98',E128.49.97',32.65,128.81666666666666, Public,6562 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJFE
+70,JP,RJDU,Omura Airport,N32.55.68',E129.56.05',32.916666666666664,129.93333333333334, Public,3937 x 98feet,Hard,,,,,,,https://www.getmetar.com/RJDU
+71,JP,RJDT,Tsushima Airport,N34.17.10',E129.19.83',34.28333333333333,129.31666666666666, Public,6234 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJDT
+72,JP,RJDO,Ojika Airport,N33.11.45',E129.5.42',33.18333333333333,129.08333333333334, Public,2625 x 82feet,Hard,,,,,,,https://www.getmetar.com/RJDO
+73,JP,RJDK,Kamigoto Airport,N33.0.82',E129.11.55',33.0,129.18333333333334, Public,2625 x 82feet,Hard,,,,,,,https://www.getmetar.com/RJDK
+74,JP,RJDB,Iki Airport,N33.44.95',E129.47.15',33.733333333333334,129.78333333333333, Public,3937 x 98feet,Hard,,,,,,,https://www.getmetar.com/RJDB
+75,JP,RJSN,Niigata Airport,N37.57.35',E139.6.70',37.95,139.1, Public,8202 x 148feet,Hard,4311 x 148feet,Unknown,,,,,https://www.getmetar.com/RJSN
+76,JP,RJSD,Sado Airport,N38.3.67',E138.24.85',38.05,138.4, Public,3952 x 82feet,Hard,,,,,,,https://www.getmetar.com/RJSD
+77,JP,RJFO,Oita Airport,N33.28.77',E131.44.23',33.46666666666667,131.73333333333332, Public,9842 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJFO
+78,JP,RJOB,Okayama Airport,N34.45.42',E133.51.32',34.75,133.85, Public,9843 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJOB
+79,JP,RJBK,Kohnan Airport,N34.35.48',E133.56.00',34.583333333333336,133.93333333333334, Public,4327 x 100feet,Hard,,,,,,,https://www.getmetar.com/RJBK
+80,JP,ROYN,Yonaguni Airport,N24.28.05',E122.58.78',24.466666666666665,122.96666666666667, Public,6562 x 148feet,Hard,,,,,,,https://www.getmetar.com/ROYN
+81,JP,ROTM,Futenma Airport,N26.16.24',E127.44.88',26.266666666666666,127.73333333333333, Public,9181 x 150feet,Hard,,,,,,,https://www.getmetar.com/ROTM
+82,JP,RORT,Tarama Airport,N24.39.23',E124.40.52',24.65,124.66666666666667, Public,4921 x 148feet,Hard,,,,,,,https://www.getmetar.com/RORT
+83,JP,RORS,Shimojishima Airport,N24.49.60',E125.8.68',24.816666666666666,125.13333333333334, Public,9840 x 197feet,Hard,,,,,,,https://www.getmetar.com/RORS
+84,JP,RORK,Kitadaito Airport,N25.56.68',E131.19.62',25.933333333333334,131.31666666666666, Public,4921 x 148feet,Hard,,,,,,,https://www.getmetar.com/RORK
+85,JP,RORH,Hateruma Airport,N24.3.50',E123.48.23',24.05,123.8, Public,,,,,,,,,https://www.getmetar.com/RORH
+86,JP,RORE,Iejima Airport,N26.43.35',E127.47.22',26.716666666666665,127.78333333333333, Public,4961 x 92feet,Hard,4921 x 150feet,Unknown,,,,,https://www.getmetar.com/RORE
+87,JP,RORA,Aguni Airport,N26.35.57',E127.14.42',26.583333333333332,127.23333333333333, Public,2625 x 82feet,Hard,,,,,,,https://www.getmetar.com/RORA
+88,JP,ROMY,Miyako Airport,N24.46.97',E125.17.70',24.766666666666666,125.28333333333333, Public,6562 x 148feet,Hard,,,,,,,https://www.getmetar.com/ROMY
+89,JP,ROMD,Minamidaito Airport,N25.50.80',E131.15.82',25.833333333333332,131.25, Public,4921 x 148feet,Hard,,,,,,,https://www.getmetar.com/ROMD
+90,JP,ROKR,Kerama Airport,N26.10.10',E127.17.60',26.166666666666668,127.28333333333333, Public,,,,,,,,,https://www.getmetar.com/ROKR
+91,JP,ROKJ,Kumejima Airport,N26.21.82',E126.42.83',26.35,126.7, Public,6562 x 148feet,Hard,,,,,,,https://www.getmetar.com/ROKJ
+92,JP,ROIG,New Ishigaki Airport,N24.23.78',E124.14.70',24.383333333333333,124.23333333333333, Public,4921 x 148feet,Hard,,,,,,,https://www.getmetar.com/ROIG
+93,JP,RODN,Kadena Airport,N26.21.34',E127.46.06',26.35,127.76666666666667,Military,12100 x 200feet,Hard,12100 x 299feet,Unknown,,,,,https://www.getmetar.com/RODN
+94,JP,RODE,Ie Shima Aux AB Airport,N26.43.73',E127.45.71',26.716666666666665,127.75,Military,5517 x 150feet,Soft,,,,,,,https://www.getmetar.com/RODE
+95,JP,ROAH,Naha Airport,N26.11.60',E127.38.38',26.183333333333334,127.63333333333334, Public,9843 x 148feet,Hard,,,,,,,https://www.getmetar.com/ROAH
+96,JP,RJOY,Yao Airport,N34.35.80',E135.36.03',34.583333333333336,135.6, Public,4888 x 148feet,Hard,3937 x 98feet,Unknown,,,,,https://www.getmetar.com/RJOY
+97,JP,RJFS,Saga Airport,N33.8.98',E130.18.13',33.13333333333333,130.3, Public,6562 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJFS
+98,JP,RJDM,Metabaru Airport,N33.19.52',E130.24.82',33.31666666666667,130.4, Public,,,,,,,,,https://www.getmetar.com/RJDM
+99,JP,RJTJ,Iruma Airport,N35.50.52',E139.24.63',35.833333333333336,139.4,Military,6562 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJTJ
+100,JP,RJOW,Iwami Airport,N34.40.58',E131.47.42',34.666666666666664,131.78333333333333, Public,6562 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJOW
+101,JP,RJOC,Izumo Airport,N35.24.82',E132.53.40',35.4,132.88333333333333, Public,6562 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJOC
+102,JP,RJNO,Oki Airport,N36.10.70',E133.19.40',36.166666666666664,133.31666666666666, Public,6562 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJNO
+103,JP,RJTQ,Miyake Jima Airport,N34.4.42',E139.33.62',34.06666666666667,139.55, Public,3937 x 98feet,Hard,,,,,,,https://www.getmetar.com/RJTQ
+104,JP,RJTO,Oshima Airport,N34.46.92',E139.21.62',34.766666666666666,139.35, Public,5905 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJTO
+105,JP,RJTH,Hachijojima Airport,N33.6.90',E139.47.15',33.1,139.78333333333333, Public,6562 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJTH
+106,JP,RJNY,Shizuhama Airport,N34.48.77',E138.17.88',34.8,138.28333333333333,Military,4920 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJNY
+107,JP,RJNS,Shizuoka Airport,N34.47.77',E138.11.37',34.78333333333333,138.18333333333334, Public,8202 x 197feet,Hard,,,,,,,https://www.getmetar.com/RJNS
+108,JP,RJNH,Hamamatsu Airport,N34.45.01',E137.42.18',34.75,137.7,Military,8366 x 197feet,Hard,,,,,,,https://www.getmetar.com/RJNH
+109,JP,RJAZ,Kozushima Airport,N34.11.37',E139.8.02',34.18333333333333,139.13333333333333, Public,2625 x 82feet,Hard,,,,,,,https://www.getmetar.com/RJAZ
+110,JP,RJAW,Iwoto Airport,N24.47.05',E141.19.37',24.783333333333335,141.31666666666666,Military,8700 x 200feet,Hard,,,,,,,https://www.getmetar.com/RJAW
+111,JP,RJAN,Niijima Airport,N34.22.17',E139.16.12',34.36666666666667,139.26666666666668, Public,2625 x 82feet,Hard,,,,,,,https://www.getmetar.com/RJAN
+112,JP,RJAM,Minami Torishima Airport,N24.17.38',E153.58.75',24.283333333333335,153.96666666666667,Military,4500 x 145feet,Hard,,,,,,,https://www.getmetar.com/RJAM
+113,JP,RJTU,Utsunomiya Airport,N36.30.87',E139.52.26',36.5,139.86666666666667,Military,5570 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJTU
+114,JP,RJOS,Tokushima Airport,N34.7.93',E134.36.55',34.11666666666667,134.6, Public,8202 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJOS
+115,JP,RJTY,Yokota Airport,N35.44.92',E139.20.92',35.733333333333334,139.33333333333334,Military,11001 x 197feet,Hard,,,,,,,https://www.getmetar.com/RJTY
+116,JP,RJTT,Tokyo International Airport,N35.33.20',E139.46.87',35.55,139.76666666666668, Public,9843 x 197feet,Hard,9843 x 197feet,Unknown,8202 x 197feet,Unknown,8202 x 197feet,Unknown,https://www.getmetar.com/RJTT
+117,JP,RJTF,Chofu Airport,N35.40.30',E139.31.68',35.666666666666664,139.51666666666668, Public,2625 x 98feet,Hard,,,,,,,https://www.getmetar.com/RJTF
+118,JP,RJTC,Tachikawa Airport,N35.42.65',E139.24.18',35.7,139.4,Military,,,,,,,,,https://www.getmetar.com/RJTC
+119,JP,RJOR,Tottori Airport,N35.31.80',E134.9.90',35.516666666666666,134.15, Public,6562 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJOR
+120,JP,RJOH,Miho Airport,N35.29.60',E133.14.35',35.483333333333334,133.23333333333332,Military,8202 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJOH
+121,JP,RJNT,Toyama Airport,N36.38.90',E137.11.25',36.63333333333333,137.18333333333334, Public,6560 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJNT
+122,JP,RJBD,Nanki Shirahama Airport,N33.39.73',E135.21.87',33.65,135.35, Public,6562 x 148feet,Hard,4327 x 98feet,Unknown,,,,,https://www.getmetar.com/RJBD
+123,JP,RJBB,Kansai International Airport,N34.26.05',E135.13.97',34.43333333333333,135.21666666666667, Public,13123 x 197feet,Hard,11483 x 197feet,Unknown,,,,,https://www.getmetar.com/RJBB
+124,JP,RJSY,Shonai Airport,N38.48.73',E139.47.23',38.8,139.78333333333333, Public,6562 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJSY
+125,JP,RJSC,Yamagata Airport,N38.24.72',E140.22.27',38.4,140.36666666666667, Public,6562 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJSC
+126,JP,RJOZ,Ozuki Airport,N34.2.82',E131.3.15',34.03333333333333,131.05,Military,3940 x 200feet,Hard,2950 x 150feet,Unknown,,,,,https://www.getmetar.com/RJOZ
+127,JP,RJOF,Hofu Airport,N34.2.07',E131.32.78',34.03333333333333,131.53333333333333,Military,4856 x 148feet,Hard,3871 x 197feet,Unknown,,,,,https://www.getmetar.com/RJOF
+128,JP,RJDC,Yamaguchi Ube Airport,N33.55.80',E131.16.72',33.916666666666664,131.26666666666668, Public,8202 x 148feet,Hard,,,,,,,https://www.getmetar.com/RJDC

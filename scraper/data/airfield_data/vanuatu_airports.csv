@@ -1,11 +1,11 @@
-,Unnamed: 0.1,country,icaoCodes,airFieldName,latitude,longitude,ddLatitude,ddLongitude,airportUse,runwayOneDimensions,runwayOneSurface,runwayTwoDimensions,runwayTwoSurface,runwayThreeDimensions,runwayThreeSurface,runwayFourDimensions,runwayFourSurface,capableCOneThirtyCSeventeen,weatherLink
-0,0,VU,NVSF,Craig Cove Airport,S16.15.80',E167.55.38',-16.25,167.91666666666666, Public,,,,,,,,,No,https://www.getmetar.com/NVSF
-1,1,VU,NVVF,Futuna Airport,S19.30.90',E170.13.87',-19.5,170.21666666666667, Public,,,,,,,,,No,https://www.getmetar.com/NVVF
-2,2,VU,NVSG,Longana Airport,S15.18.28',E167.58.13',-15.3,167.96666666666667, Public,,,,,,,,,No,https://www.getmetar.com/NVSG
-3,3,VU,NVSO,Lonorore Airport,S15.51.93',E168.10.30',-15.85,168.16666666666666, Public,,,,,,,,,No,https://www.getmetar.com/NVSO
-4,4,VU,NVSA,Mota Lava Airport,S13.40.12',E167.42.77',-13.666666666666664,167.7, Public,,,,,,,,,No,https://www.getmetar.com/NVSA
-5,5,VU,NVSP,Norsup Airport,S16.4.67',E167.23.97',-16.066666666666666,167.38333333333333, Public,,,,,,,,,No,https://www.getmetar.com/NVSP
-6,6,VU,NVVV,Port Vila Airport,S17.41.96',E168.19.19',-17.683333333333334,168.31666666666666, Public,8530 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/NVVV
-7,7,VU,NVSS,Santo Airport,S15.30.35',E167.13.28',-15.5,167.21666666666667, Public,6562 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/NVSS
-8,8,VU,NVSC,Sola Airport,S13.51.33',E167.32.32',-13.85,167.53333333333333, Public,,,,,,,,,No,https://www.getmetar.com/NVSC
-9,9,VU,NVVW,Tanna Airport,S19.27.30',E169.13.40',-19.45,169.21666666666667, Public,4035 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/NVVW
+,country,icaoCodes,airFieldName,latitude,longitude,ddLatitude,ddLongitude,airportUse,runwayOneDimensions,runwayOneSurface,runwayTwoDimensions,runwayTwoSurface,runwayThreeDimensions,runwayThreeSurface,runwayFourDimensions,runwayFourSurface,weatherLink
+0,VU,NVSP,Norsup Airport,S16.4.67',E167.23.97',-16.066666666666666,167.38333333333333, Public,,,,,,,,,https://www.getmetar.com/NVSP
+1,VU,NVSF,Craig Cove Airport,S16.15.80',E167.55.38',-16.25,167.91666666666666, Public,,,,,,,,,https://www.getmetar.com/NVSF
+2,VU,NVSO,Lonorore Airport,S15.51.93',E168.10.30',-15.85,168.16666666666666, Public,,,,,,,,,https://www.getmetar.com/NVSO
+3,VU,NVSG,Longana Airport,S15.18.28',E167.58.13',-15.3,167.96666666666667, Public,,,,,,,,,https://www.getmetar.com/NVSG
+4,VU,NVSS,Santo Airport,S15.30.35',E167.13.28',-15.5,167.21666666666667, Public,6562 x 98feet,Hard,,,,,,,https://www.getmetar.com/NVSS
+5,VU,NVVV,Port Vila Airport,S17.41.96',E168.19.19',-17.683333333333334,168.31666666666666, Public,8530 x 148feet,Hard,,,,,,,https://www.getmetar.com/NVVV
+6,VU,NVVW,Tanna Airport,S19.27.30',E169.13.40',-19.45,169.21666666666667, Public,4035 x 98feet,Hard,,,,,,,https://www.getmetar.com/NVVW
+7,VU,NVVF,Futuna Airport,S19.30.90',E170.13.87',-19.5,170.21666666666667, Public,,,,,,,,,https://www.getmetar.com/NVVF
+8,VU,NVSC,Sola Airport,S13.51.33',E167.32.32',-13.85,167.53333333333333, Public,,,,,,,,,https://www.getmetar.com/NVSC
+9,VU,NVSA,Mota Lava Airport,S13.40.12',E167.42.77',-13.666666666666666,167.7, Public,,,,,,,,,https://www.getmetar.com/NVSA

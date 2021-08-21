@@ -1,53 +1,53 @@
-,Unnamed: 0.1,country,icaoCodes,airFieldName,latitude,longitude,ddLatitude,ddLongitude,airportUse,runwayOneDimensions,runwayOneSurface,runwayTwoDimensions,runwayTwoSurface,runwayThreeDimensions,runwayThreeSurface,runwayFourDimensions,runwayFourSurface,capableCOneThirtyCSeventeen,weatherLink
-0,0,TH,VTBD,Bangkok Don Mueang International Airport,N13.54.86',E100.36.34',13.9,100.6, Public,12139 x 197feet,Hard,11483 x 148feet,Unknown,,,,,Yes,https://www.getmetar.com/VTBD
-1,1,TH,VTUO,Buri Ram Airport,N15.13.61',E103.15.07',15.216666666666667,103.25, Public,6890 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTUO
-2,2,TH,VTCC,Chiang Mai International Airport,N18.46.28',E98.57.77',18.766666666666666,98.95, Public,11155 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTCC
-3,3,TH,VTCR,Chiang Rai Airport,N19.53.09',E99.49.58',19.883333333333333,99.81666666666666,Military,5065 x 103feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTCR
-4,4,TH,VTCT,Chiang Rai International Airport,N19.57.13',E99.52.98',19.95,99.86666666666666, Public,9843 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTCT
-5,5,TH,VTCB,Chiangkham Airport,N19.30.00',E100.17.00',19.5,100.28333333333332, Public,,,,,,,,,No,https://www.getmetar.com/VTCB
-6,6,TH,VTSE,Chumphon Airport,N10.42.67',E99.21.70',10.7,99.35, Public,6890 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTSE
-7,7,TH,VTSS,Hat Yai International Airport,N6.55.97',E100.23.70',6.916666666666668,100.38333333333334, Public,10006 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTSS
-8,8,TH,VTPH,Hua Hin Airport,N12.37.82',E99.57.21',12.616666666666667,99.95, Public,6890 x 115feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTPH
-9,9,TH,VTBK,Kamphaeng Saen Airport,N14.6.12',E99.55.04',14.1,99.91666666666669,Military,9000 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTBK
-10,10,TH,VTBL,Khok Kathiam Airport,N14.52.48',E100.39.80',14.866666666666667,100.65,Military,7252 x 148feet,Hard,4435 x 148feet,Unknown,,,,,Yes,https://www.getmetar.com/VTBL
-11,11,TH,VTUK,Khon Kaen Airport,N16.27.87',E102.46.94',16.45,102.76666666666668, Public,10007 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTUK
-12,12,TH,VTSG,Krabi Airport,N8.6.01',E98.59.12',8.1,98.98333333333332, Public,9842 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTSG
-13,13,TH,VTCL,Lampang Airport,N18.16.33',E99.30.24',18.266666666666666,99.5, Public,6480 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTCL
-14,14,TH,VTUL,Loei Airport,N17.26.35',E101.43.32',17.433333333333334,101.71666666666668, Public,6890 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTUL
-15,15,TH,VTCH,Mae Hong Son Airport,N19.18.10',E97.58.50',19.3,97.96666666666668, Public,6562 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTCH
-16,16,TH,VTCI,Mae Hong Son Pai Airport,N19.22.32',E98.26.15',19.366666666666667,98.43333333333334, Public,2329 x 59feet,Hard,,,,,,,No,https://www.getmetar.com/VTCI
-17,17,TH,VTPM,Mae Sot Airport,N16.41.99',E98.32.61',16.683333333333334,98.53333333333332, Public,4921 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTPM
-18,18,TH,VTUW,Nakhon Phanom Airport,N17.23.12',E104.38.51',17.383333333333333,104.63333333333334, Public,8202 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTUW
-19,19,TH,VTUQ,Nakhon Ratchasima Airport,N14.56.97',E102.18.76',14.933333333333335,102.3, Public,6890 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTUQ
-20,20,TH,VTUN,Nakhon Ratchasima Khorat Airport,N14.56.00',E102.5.00',14.933333333333335,102.08333333333331,Military,9843 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTUN
-21,21,TH,VTPN,Nakhon Sawan Airport,N15.40.35',E100.8.16',15.666666666666664,100.13333333333334, Public,4481 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTPN
-22,22,TH,VTSF,Nakhon Si Thammarat Airport,N8.32.38',E99.56.68',8.533333333333333,99.93333333333334, Public,6890 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTSF
-23,23,TH,VTSN,Nakhon Si Thammarat Cha Ian Airport,N8.27.83',E99.57.50',8.45,99.95, Public,7546 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTSN
-24,24,TH,VTCN,Nan Nan Nakhon Airport,N18.48.47',E100.47.01',18.8,100.78333333333332, Public,6562 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTCN
-25,25,TH,VTSC,Narathiwat Airport,N6.31.39',E101.44.69',6.5166666666666675,101.73333333333332, Public,8202 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTSC
-26,26,TH,VTSK,Pattani Airport,N6.47.14',E101.9.22',6.783333333333332,101.15, Public,4593 x 131feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTSK
-27,27,TH,VTPB,Phetchabun Airport,N16.40.56',E101.11.71',16.666666666666668,101.18333333333334, Public,6890 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTPB
-28,28,TH,VTPP,Phitsanulok Airport,N16.46.98',E100.16.75',16.766666666666666,100.26666666666668, Public,9842 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTPP
-29,29,TH,VTCP,Phrae Airport,N18.7.90',E100.9.88',18.116666666666667,100.15, Public,4921 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTCP
-30,30,TH,VTSP,Phuket International Airport,N8.6.75',E98.18.55',8.1,98.3, Public,9843 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTSP
-31,31,TH,VTBP,Prachuap Airport,N11.47.31',E99.48.28',11.783333333333333,99.8,Military,6562 x 131feet,Hard,3281 x 131feet,Unknown,,,,,Yes,https://www.getmetar.com/VTBP
-32,32,TH,VTSR,Ranong Airport,N9.46.66',E98.35.13',9.766666666666667,98.58333333333331, Public,6562 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTSR
-33,33,TH,VTBU,Rayong U Tapao Rayong Pattaya Airport,N12.40.78',E101.0.30',12.666666666666664,101.0, Public,11500 x 197feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTBU
-34,34,TH,VTUV,Roi Et Airport,N16.7.01',E103.46.43',16.116666666666667,103.76666666666668, Public,6890 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTUV
-35,35,TH,VTUI,Sakon Nakhon Airport,N17.11.71',E104.7.12',17.183333333333334,104.11666666666666, Public,8530 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTUI
-36,36,TH,VTSH,Songkhla Airport,N7.11.14',E100.36.53',7.183333333333334,100.6, Public,4954 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTSH
-37,37,TH,VTPO,Sukhothai Airport,N17.14.27',E99.49.10',17.233333333333334,99.81666666666666, Public,6890 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTPO
-38,39,TH,VTSM,Surat Thani Airport,N9.32.93',E100.3.75',9.533333333333333,100.05, Public,6824 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTSM
-39,38,TH,VTSB,Surat Thani Airport,N9.8.17',E99.8.34',9.133333333333333,99.13333333333334, Public,9842 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTSB
-40,40,TH,VTUJ,Surin Airport,N14.52.16',E103.29.33',14.866666666666667,103.48333333333332, Public,5053 x 115feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTUJ
-41,41,TH,VTBS,Suvarnabhumi International Airport,N13.41.15',E100.44.93',13.683333333333335,100.73333333333332, Public,13123 x 197feet,Hard,12139 x 197feet,Unknown,,,,,Yes,https://www.getmetar.com/VTBS
-42,42,TH,VTPT,Tak Airport,N16.53.76',E99.15.22',16.883333333333333,99.25, Public,4921 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTPT
-43,43,TH,VTPY,Tak Khuan Phumiphon Airport,N17.14.00',E99.3.00',17.233333333333334,99.05, Public,4899 x 98feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTPY
-44,44,TH,VTPI,Takhli Airport,N15.16.64',E100.17.75',15.266666666666667,100.28333333333332,Military,9843 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTPI
-45,45,TH,VTST,Trang Airport,N7.30.52',E99.36.95',7.5,99.6, Public,6890 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTST
-46,46,TH,VTBO,Trat Airport,N12.16.52',E102.19.20',12.266666666666667,102.31666666666666, Public,5899 x 150feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTBO
-47,47,TH,VTUU,Ubon Ratchathani Airport,N15.15.08',E104.52.21',15.25,104.86666666666666, Public,9842 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTUU
-48,48,TH,VTUD,Udon Thani Airport,N17.23.19',E102.47.29',17.383333333333333,102.78333333333332, Public,10006 x 148feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTUD
-49,49,TH,VTPU,Uttaradit Airport,N17.40.30',E100.14.28',17.666666666666668,100.23333333333332, Public,,,,,,,,,No,https://www.getmetar.com/VTPU
-50,50,TH,VTBW,Watthana Nakhon Airport,N13.46.13',E102.18.93',13.766666666666667,102.3,Military,4922 x 115feet,Hard,,,,,,,Yes,https://www.getmetar.com/VTBW
-51,51,TH,VTSY,Yala Betong Airport,N5.47.33',E101.8.83',5.783333333333332,101.13333333333334, Public,,,,,,,,,No,https://www.getmetar.com/VTSY
+,country,icaoCodes,airFieldName,latitude,longitude,ddLatitude,ddLongitude,airportUse,runwayOneDimensions,runwayOneSurface,runwayTwoDimensions,runwayTwoSurface,runwayThreeDimensions,runwayThreeSurface,runwayFourDimensions,runwayFourSurface,weatherLink
+0,TH,VTBD,Bangkok Don Mueang International Airport,N13.54.86',E100.36.34',13.9,100.6, Public,12139 x 197feet,Hard,11483 x 148feet,Unknown,,,,,https://www.getmetar.com/VTBD
+1,TH,VTUO,Buri Ram Airport,N15.13.61',E103.15.07',15.216666666666667,103.25, Public,6890 x 148feet,Hard,,,,,,,https://www.getmetar.com/VTUO
+2,TH,VTCC,Chiang Mai International Airport,N18.46.28',E98.57.77',18.766666666666666,98.95, Public,11155 x 148feet,Hard,,,,,,,https://www.getmetar.com/VTCC
+3,TH,VTCT,Chiang Rai International Airport,N19.57.13',E99.52.98',19.95,99.86666666666666, Public,9843 x 148feet,Hard,,,,,,,https://www.getmetar.com/VTCT
+4,TH,VTCR,Chiang Rai Airport,N19.53.09',E99.49.58',19.883333333333333,99.81666666666666,Military,5065 x 103feet,Hard,,,,,,,https://www.getmetar.com/VTCR
+5,TH,VTSE,Chumphon Airport,N10.42.67',E99.21.70',10.7,99.35, Public,6890 x 148feet,Hard,,,,,,,https://www.getmetar.com/VTSE
+6,TH,VTUK,Khon Kaen Airport,N16.27.87',E102.46.94',16.45,102.76666666666667, Public,10007 x 148feet,Hard,,,,,,,https://www.getmetar.com/VTUK
+7,TH,VTSG,Krabi Airport,N8.6.01',E98.59.12',8.1,98.98333333333333, Public,9842 x 148feet,Hard,,,,,,,https://www.getmetar.com/VTSG
+8,TH,VTCL,Lampang Airport,N18.16.33',E99.30.24',18.266666666666666,99.5, Public,6480 x 98feet,Hard,,,,,,,https://www.getmetar.com/VTCL
+9,TH,VTUL,Loei Airport,N17.26.35',E101.43.32',17.433333333333334,101.71666666666667, Public,6890 x 148feet,Hard,,,,,,,https://www.getmetar.com/VTUL
+10,TH,VTBL,Khok Kathiam Airport,N14.52.48',E100.39.80',14.866666666666667,100.65,Military,7252 x 148feet,Hard,4435 x 148feet,Unknown,,,,,https://www.getmetar.com/VTBL
+11,TH,VTCI,Mae Hong Son Pai Airport,N19.22.32',E98.26.15',19.366666666666667,98.43333333333334, Public,2329 x 59feet,Hard,,,,,,,https://www.getmetar.com/VTCI
+12,TH,VTCH,Mae Hong Son Airport,N19.18.10',E97.58.50',19.3,97.96666666666667, Public,6562 x 98feet,Hard,,,,,,,https://www.getmetar.com/VTCH
+13,TH,VTBK,Kamphaeng Saen Airport,N14.6.12',E99.55.04',14.1,99.91666666666667,Military,9000 x 150feet,Hard,,,,,,,https://www.getmetar.com/VTBK
+14,TH,VTUW,Nakhon Phanom Airport,N17.23.12',E104.38.51',17.383333333333333,104.63333333333334, Public,8202 x 148feet,Hard,,,,,,,https://www.getmetar.com/VTUW
+15,TH,VTUQ,Nakhon Ratchasima Airport,N14.56.97',E102.18.76',14.933333333333334,102.3, Public,6890 x 148feet,Hard,,,,,,,https://www.getmetar.com/VTUQ
+16,TH,VTUN,Nakhon Ratchasima Khorat Airport,N14.56.00',E102.5.00',14.933333333333334,102.08333333333333,Military,9843 x 148feet,Hard,,,,,,,https://www.getmetar.com/VTUN
+17,TH,VTPN,Nakhon Sawan Airport,N15.40.35',E100.8.16',15.666666666666666,100.13333333333334, Public,4481 x 98feet,Hard,,,,,,,https://www.getmetar.com/VTPN
+18,TH,VTPI,Takhli Airport,N15.16.64',E100.17.75',15.266666666666667,100.28333333333333,Military,9843 x 148feet,Hard,,,,,,,https://www.getmetar.com/VTPI
+19,TH,VTSN,Nakhon Si Thammarat Cha Ian Airport,N8.27.83',E99.57.50',8.45,99.95, Public,7546 x 148feet,Hard,,,,,,,https://www.getmetar.com/VTSN
+20,TH,VTSF,Nakhon Si Thammarat Airport,N8.32.38',E99.56.68',8.533333333333333,99.93333333333334, Public,6890 x 148feet,Hard,,,,,,,https://www.getmetar.com/VTSF
+21,TH,VTCN,Nan Nan Nakhon Airport,N18.48.47',E100.47.01',18.8,100.78333333333333, Public,6562 x 148feet,Hard,,,,,,,https://www.getmetar.com/VTCN
+22,TH,VTSC,Narathiwat Airport,N6.31.39',E101.44.69',6.516666666666667,101.73333333333333, Public,8202 x 148feet,Hard,,,,,,,https://www.getmetar.com/VTSC
+23,TH,VTSK,Pattani Airport,N6.47.14',E101.9.22',6.783333333333333,101.15, Public,4593 x 131feet,Hard,,,,,,,https://www.getmetar.com/VTSK
+24,TH,VTCB,Chiangkham Airport,N19.30.00',E100.17.00',19.5,100.28333333333333, Public,,,,,,,,,https://www.getmetar.com/VTCB
+25,TH,VTPB,Phetchabun Airport,N16.40.56',E101.11.71',16.666666666666668,101.18333333333334, Public,6890 x 148feet,Hard,,,,,,,https://www.getmetar.com/VTPB
+26,TH,VTPP,Phitsanulok Airport,N16.46.98',E100.16.75',16.766666666666666,100.26666666666667, Public,9842 x 148feet,Hard,,,,,,,https://www.getmetar.com/VTPP
+27,TH,VTCP,Phrae Airport,N18.7.90',E100.9.88',18.116666666666667,100.15, Public,4921 x 98feet,Hard,,,,,,,https://www.getmetar.com/VTCP
+28,TH,VTSP,Phuket International Airport,N8.6.75',E98.18.55',8.1,98.3, Public,9843 x 148feet,Hard,,,,,,,https://www.getmetar.com/VTSP
+29,TH,VTPH,Hua Hin Airport,N12.37.82',E99.57.21',12.616666666666667,99.95, Public,6890 x 115feet,Hard,,,,,,,https://www.getmetar.com/VTPH
+30,TH,VTBP,Prachuap Airport,N11.47.31',E99.48.28',11.783333333333333,99.8,Military,6562 x 131feet,Hard,3281 x 131feet,Unknown,,,,,https://www.getmetar.com/VTBP
+31,TH,VTSR,Ranong Airport,N9.46.66',E98.35.13',9.766666666666667,98.58333333333333, Public,6562 x 148feet,Hard,,,,,,,https://www.getmetar.com/VTSR
+32,TH,VTBU,Rayong U Tapao Rayong Pattaya Airport,N12.40.78',E101.0.30',12.666666666666666,101.0, Public,11500 x 197feet,Hard,,,,,,,https://www.getmetar.com/VTBU
+33,TH,VTUV,Roi Et Airport,N16.7.01',E103.46.43',16.116666666666667,103.76666666666667, Public,6890 x 148feet,Hard,,,,,,,https://www.getmetar.com/VTUV
+34,TH,VTBW,Watthana Nakhon Airport,N13.46.13',E102.18.93',13.766666666666667,102.3,Military,4922 x 115feet,Hard,,,,,,,https://www.getmetar.com/VTBW
+35,TH,VTUI,Sakon Nakhon Airport,N17.11.71',E104.7.12',17.183333333333334,104.11666666666666, Public,8530 x 148feet,Hard,,,,,,,https://www.getmetar.com/VTUI
+36,TH,VTBS,Suvarnabhumi International Airport,N13.41.15',E100.44.93',13.683333333333334,100.73333333333333, Public,13123 x 197feet,Hard,12139 x 197feet,Unknown,,,,,https://www.getmetar.com/VTBS
+37,TH,VTSS,Hat Yai International Airport,N6.55.97',E100.23.70',6.916666666666667,100.38333333333334, Public,10006 x 148feet,Hard,,,,,,,https://www.getmetar.com/VTSS
+38,TH,VTSH,Songkhla Airport,N7.11.14',E100.36.53',7.183333333333334,100.6, Public,4954 x 148feet,Hard,,,,,,,https://www.getmetar.com/VTSH
+39,TH,VTPO,Sukhothai Airport,N17.14.27',E99.49.10',17.233333333333334,99.81666666666666, Public,6890 x 148feet,Hard,,,,,,,https://www.getmetar.com/VTPO
+40,TH,VTSM,Surat Thani Airport,N9.32.93',E100.3.75',9.533333333333333,100.05, Public,6824 x 148feet,Hard,,,,,,,https://www.getmetar.com/VTSM
+41,TH,VTSB,Surat Thani Airport,N9.8.17',E99.8.34',9.133333333333333,99.13333333333334, Public,9842 x 148feet,Hard,,,,,,,https://www.getmetar.com/VTSB
+42,TH,VTUJ,Surin Airport,N14.52.16',E103.29.33',14.866666666666667,103.48333333333333, Public,5053 x 115feet,Hard,,,,,,,https://www.getmetar.com/VTUJ
+43,TH,VTPY,Tak Khuan Phumiphon Airport,N17.14.00',E99.3.00',17.233333333333334,99.05, Public,4899 x 98feet,Hard,,,,,,,https://www.getmetar.com/VTPY
+44,TH,VTPT,Tak Airport,N16.53.76',E99.15.22',16.883333333333333,99.25, Public,4921 x 98feet,Hard,,,,,,,https://www.getmetar.com/VTPT
+45,TH,VTPM,Mae Sot Airport,N16.41.99',E98.32.61',16.683333333333334,98.53333333333333, Public,4921 x 98feet,Hard,,,,,,,https://www.getmetar.com/VTPM
+46,TH,VTST,Trang Airport,N7.30.52',E99.36.95',7.5,99.6, Public,6890 x 148feet,Hard,,,,,,,https://www.getmetar.com/VTST
+47,TH,VTBO,Trat Airport,N12.16.52',E102.19.20',12.266666666666667,102.31666666666666, Public,5899 x 150feet,Hard,,,,,,,https://www.getmetar.com/VTBO
+48,TH,VTUU,Ubon Ratchathani Airport,N15.15.08',E104.52.21',15.25,104.86666666666666, Public,9842 x 148feet,Hard,,,,,,,https://www.getmetar.com/VTUU
+49,TH,VTUD,Udon Thani Airport,N17.23.19',E102.47.29',17.383333333333333,102.78333333333333, Public,10006 x 148feet,Hard,,,,,,,https://www.getmetar.com/VTUD
+50,TH,VTPU,Uttaradit Airport,N17.40.30',E100.14.28',17.666666666666668,100.23333333333333, Public,,,,,,,,,https://www.getmetar.com/VTPU
+51,TH,VTSY,Yala Betong Airport,N5.47.33',E101.8.83',5.783333333333333,101.13333333333334, Public,,,,,,,,,https://www.getmetar.com/VTSY
