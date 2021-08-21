@@ -67,7 +67,7 @@ class Documentation extends React.Component {
                 </Accordion.Title>
                 <Accordion.Content className="docs-text" active={activeIndex === 4}>
                 <p>If you are a Javascript or Python developer, consider looking at our open issues on
-                   <a href="https://github.com/josephpalma/manda-dashboard">github.</a></p>
+                   <a href="https://github.com/josephpalma/manda-dash">github.</a></p>
                 <p>We are always looking for contributions to the dataset, for more information on how to add to the database, check out the README.</p>
                 </Accordion.Content>
               </Accordion>

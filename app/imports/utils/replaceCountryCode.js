@@ -9,11 +9,13 @@ export function replaceCountryCode(country) {
   if(country === "CN") { return "China"; }
   if(country === "CX") { return "Christmas Islands"; }
   if(country === "CK") { return "Cook Islands"; }
+  if(country === "DE") { return "Germany"; }
   if(country === "FJ") { return "Fiji"; }
   if(country === "PF") { return "French Polynesia"; }
   if(country === "GU") { return "Guam"; }
   if(country === "HK") { return "Hong Kong"; }
   if(country === "IN") { return "India"; }
+  if(country === "IT") { return "Italy"; }
   if(country === "ID") { return "Indonesia"; }
   if(country === "JP") { return "Japan"; }
   if(country === "KI") { return "Kiribati"; }
@@ -38,6 +40,7 @@ export function replaceCountryCode(country) {
   if(country === "TH") { return "Thailand"; }
   if(country === "TO") { return "Tonga"; }
   if(country === "TV") { return "Tuvalu"; }
+  if(country === "GB") { return "United Kingdom"; }
   if(country === "VU") { return "Vanuatu"; }
   if(country === "VN") { return "Vietnam"; }
   else { throw "Country code Not Found in utils/replaceCountryCode.js"; }
@@ -52,11 +55,13 @@ export function replaceCountryName(country) {
   if(country === "China") { return "CN"; }
   if(country === "Christmas Islands") { return "CX"; }
   if(country === "Cook Islands") { return "CK"; }
+  if(country === "Germany") { return "DE"; }
   if(country === "Fiji") { return "FJ"; }
   if(country === "French Polynesia") { return "PF"; }
   if(country === "Guam") { return "GU"; }
   if(country === "Hong Kong") { return "HK"; }
   if(country === "India") { return "IN"; }
+  if(country === "Italy") { return "IT"; }
   if(country === "Indonesia") { return "ID"; }
   if(country === "Japan") { return "JP"; }
   if(country === "Kiribati") { return "KI"; }
@@ -81,6 +86,7 @@ export function replaceCountryName(country) {
   if(country === "Thailand") { return "TH"; }
   if(country === "Tonga") { return "TO"; }
   if(country === "Tuvalu") { return "TV"; }
+  if(country === "United Kingdom") { return "GB"; }
   if(country === "Vanuatu") { return "VU"; }
   if(country === "Vietnam") { return "VN"; }
   else { throw "Country not found in utils/replaceCountryCode.js"; }

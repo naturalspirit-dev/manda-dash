@@ -46,7 +46,7 @@ class NavBar extends React.Component {
           <h4>FAQ</h4>
         </Menu.Item>
         <Menu.Item>
-          <a className="nav-icon" href="https://github.com/josephpalma/manda-dashboard" target="_blank">
+          <a className="nav-icon" href="https://github.com/josephpalma/manda-dash" target="_blank">
             <Icon className="icon-glow" name="github"/>
           </a>
         </Menu.Item>
@@ -64,7 +64,7 @@ class NavBar extends React.Component {
             </Header>
             <Modal.Content className="warning-modal">
               <p>This could take up to 6 hours to complete. Do you still wish to continue?
-              <div onClick={this.setOpen}><a href='#/docs'>Why?</a></div></p>
+              <span onClick={this.setOpen}><a href='#/docs'> Why?</a></span></p>
             </Modal.Content>
             <Modal.Actions className="warning-modal">
               <Button color='red' inverted onClick={this.setOpen}>

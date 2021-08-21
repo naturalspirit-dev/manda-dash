@@ -8,16 +8,16 @@ These two files are called from the run.py file. After these two files have fini
 To update the PUB150 database you will need to go to the [Pub 150 index](https://msi.nga.mil/Publications/WPI) and download the World Port Index Database (MS Access file). you will then need to export it to a csv file with the name "WPI_complete.csv". Once you have the csv file (WPI_complete.csv) you will place it within the scraper folder to replace the WPI_complete file already in there. The reason for using this dataset is to make the addition of countries easier.
 
 ### How do I add countries?
-To add more ports countries, you will need to open the ports.py file. Once in the file go to the run_ports() function. There is a list of countries currently there. To add a country simply add a county to that list following the same format. To add more airfields, you will first need to check if the countries airfields are available on skyvector.com. Once that you have established that the country data is on skyvector.com you can add the country to the list in the run_airports() function, again following the same format of the list.
+To add more ports countries, you will need to open the ports.py file. Once in the file go to the run_ports() function. There is a list of countries currently there. To add a country simply add a county to that list following the same format. Then, you must add a line in app/imports/utils/replaceCountryCode.js for  any newly added countries, if you miss this step newly added fields may not appear on the front end. To add more airfields, you will first need to check if the countries airfields are available on skyvector.com. Once that you have established that the country data is on skyvector.com you can add the country to the list in the run_airports() function, again following the same format of the list.
 
 ### Why isnt my newly added data being displayed in the app?
-Quit the app. Run 'meteor reset'. Restart the app. Your data is now in the front end. If teh problem persists this means you formatted the data incorrectly. 
+Quit the app. Run 'meteor reset'. Restart the app. Your data is now in the front end. If teh problem persists this means you formatted the data incorrectly.
 
 ### Is there a way to speed up the scraper?
 Currently there are time.sleep() functions that use a float generator to simulate randomness in how often a webpage is visited to avoid anti-crawling systems. The float is to make the visits appear more human because a sleep of an exact interval will still be picked up by certain systems.
 
 ### Can I add any data that I want?
-Yes. However, this data will need to be in the exact same schema of the other data in this file to work with the database and the front end. So, if you are going to add port data for example, you will need to make sure that you are following the same schema as all other ports, the data field do not need to be filled in but the certain criteria such as country code, port name and latitude and longitude should be filled out at minimum.   
+Yes. However, this data will need to be in the exact same schema of the other data in this file to work with the database and the front end. So, if you are going to add port data for example, you will need to make sure that you are following the same schema as all other ports, the data field do not need to be filled in but the certain criteria such as country code, port name and latitude and longitude should be filled out at minimum. You must also add a line in app/imports/utils/replaceCountryCode.js for any newly added countries, if you miss this step newly added fields may not appear on the front end.
 
 ### Is the error logging?
 Yes. Error logs can be found within /scraper/data. Once there you will see text files with the name port_errors and airfield_errors. These two files will write any errors that occurred during the most recent scrape. If they are blank then you are go to go!
