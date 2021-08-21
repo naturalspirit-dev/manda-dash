@@ -115,6 +115,14 @@
 		{
 			"name": "Decimal Degree Coordinates",
 			"description": "Decimal degrees (DD) express latitude and longitude geographic coordinates as decimal fractions of a degree. DD are used in many geographic information systems (GIS), web mapping applications such as OpenStreetMap, and GPS devices. Decimal degrees are an alternative to using sexagesimal degrees."
+		},
+		{
+			"name": "Mediterranean Mooring",
+			"description": "Mediterranean mooring, often called 'Med mooring' for short, is a technique that got its name from the region where it's common practice. Rather than coming alongside a slip or pier beam-to, boats tie stern-to, at a right angle to the quay or dock. This is default in Mediterranean harbours, as it is in most places with no appreciable range of tide. The availability of such conditions are listed."
+		},
+		{
+			"name": "Rail",
+			"description": "The availablility of an on-dock cargo rail yard is listed."
 		}
 	]
 }

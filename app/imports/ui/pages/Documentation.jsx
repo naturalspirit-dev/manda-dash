@@ -58,7 +58,7 @@ class Documentation extends React.Component {
                      route estimates can take three planners up to four days to develop per key terrain location. Because of
                      this valuable time is often lost. </p>
                   <p>In comes the X-Force team, hired by NSIN, and contracted by MARFORPAC to implement an open source
-                     solution that brings crucial, hard to find data to the browser. with the goal of enabling quicker
+                     solution that brings crucial, hard to find data to the browser. With the goal of enabling quicker
                      descions and improving agility for the user and their team.</p>
                 </Accordion.Content>
                 <Accordion.Title className="docs-title" active={activeIndex === 4} index={4} onClick={this.handleClick}>
@@ -67,7 +67,7 @@ class Documentation extends React.Component {
                 </Accordion.Title>
                 <Accordion.Content className="docs-text" active={activeIndex === 4}>
                 <p>If you are a Javascript or Python developer, consider looking at our open issues on
-                   <a href="https://github.com/josephpalma/manda-dash">github.</a></p>
+                   <a href="https://github.com/josephpalma/manda-dash"> github.</a></p>
                 <p>We are always looking for contributions to the dataset, for more information on how to add to the database, check out the README.</p>
                 </Accordion.Content>
               </Accordion>
@@ -79,8 +79,8 @@ class Documentation extends React.Component {
                 </Accordion.Title>
                 <Accordion.Content className="docs-text" active={activeIndex === 5}>
                   <p>We recommend the bot be run once every month. Much of the data presented is static and unlikely to change over short periods of time.</p>
-                  <p>This app comes loaded with all the data needed to use it. The initial data set was collected in August, 2021. You can see the data and
-                     time of the last scrape in the top right of the menu bar.</p>
+                  <p>This app comes loaded with all the data needed to use it. The initial data set was collected in August, 2021. You can see the
+                     time of your last scrape in the top right of the menu bar.</p>
                 </Accordion.Content>
                 <Accordion.Title className="docs-title" active={activeIndex === 6} index={6} onClick={this.handleClick}>
                   <Icon name='dropdown' />
@@ -110,9 +110,9 @@ class Documentation extends React.Component {
                   Why is the Google Maps Satellite view displaying unexpected results?
                 </Accordion.Title>
                 <Accordion.Content className="docs-text" active={activeIndex === 9}>
-                  <p>If the map card isnt display anything at all, it's probably because you havent added an API key yet, please refer to README.md for how to do this</p>
+                  <p>If the map card is displaying nothing at all, it's probably because you havent added an API key yet. Please refer to README for how to do this.</p>
                   <p>Otherwise the map card is displaying somewhere unexpected, this is because the map card searches for the port or airfield by name, and sometimes the records Google
-                     has associated with them return unexpected results, like the port authority's address, or the citys center, or anything else Google Maps may return to it.</p>
+                     has associated with them return unexpected results, like the port authority's address, the closest airport, the citys center or anything else Google Maps may return to it.</p>
                   <p>The best way to use the map card is to zoom in or out using ctrl + scroll to find the location in question. You can also click 'View Larger Map' to open the full screen Google Map in a new tab.</p>
                 </Accordion.Content>
               </Accordion>

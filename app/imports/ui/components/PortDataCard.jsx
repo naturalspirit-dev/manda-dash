@@ -587,16 +587,23 @@ class PortDataCard extends React.Component {
         <Table.Cell>{this.props.port.tugSalvage}</Table.Cell></Table.Row>
     } else { return <Table.Row></Table.Row>; }}
 
+  renderMedMoor = () => {
+    if(this.props.port.medMoor) {
+      let array = this.props.descriptions.filter(item => item.name === "Mediterranean Mooring" );
+      if(array) { return <Popup className="card-popup-box" on="click" content={array[0].description} trigger={
+          <Table.Row className="card-column-popup">
+            <Table.Cell>Mediterranean Mooring</Table.Cell>
+            <Table.Cell>{this.props.port.medMoor}</Table.Cell>
+          </Table.Row>} />}
+      return <Table.Row>
+        <Table.Cell>Mediterranean Mooring</Table.Cell>
+        <Table.Cell>{this.props.port.medMoor}</Table.Cell></Table.Row>
+    } else { return <Table.Row></Table.Row>; }}
+
   renderWharves = () => {
     if(this.props.port.wharves) { return <Table.Row>
         <Table.Cell>Wharves</Table.Cell>
         <Table.Cell>{this.props.port.wharves}</Table.Cell></Table.Row>
-    } else { return <Table.Row></Table.Row>; }}
-
-  renderMedMoor = () => {
-    if(this.props.port.medMoor) { return <Table.Row>
-        <Table.Cell>Mediterranean Mooring</Table.Cell>
-        <Table.Cell>{this.props.port.medMoor}</Table.Cell></Table.Row>
     } else { return <Table.Row></Table.Row>; }}
 
   renderHundredTonLifts = () => {
@@ -662,6 +669,19 @@ class PortDataCard extends React.Component {
 
   renderRail = () => {
     if(this.props.port.rail) { return <Table.Row>
+        <Table.Cell>Rail</Table.Cell>
+        <Table.Cell>{this.props.port.rail}</Table.Cell></Table.Row>
+    } else { return <Table.Row></Table.Row>; }}
+
+  renderRail = () => {
+    if(this.props.port.rail) {
+      let array = this.props.descriptions.filter(item => item.name === "Rail" );
+      if(array) { return <Popup className="card-popup-box" on="click" content={array[0].description} trigger={
+          <Table.Row className="card-column-popup">
+            <Table.Cell>Rail</Table.Cell>
+            <Table.Cell>{this.props.port.rail}</Table.Cell>
+          </Table.Row>} />}
+      return <Table.Row>
         <Table.Cell>Rail</Table.Cell>
         <Table.Cell>{this.props.port.rail}</Table.Cell></Table.Row>
     } else { return <Table.Row></Table.Row>; }}

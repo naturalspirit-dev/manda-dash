@@ -14,7 +14,7 @@ class DescriptionCard extends React.Component {
         <Card color="blue" className="card">
           <Card.Content className="card-content">
             <Card.Header>First Hand Description</Card.Header>
-            <Card.Meta>Pulled from World Port Index</Card.Meta>
+            <Card.Meta>Pulled from the World Port Index</Card.Meta>
             <Card.Description className="card-description">{array[0].description}</Card.Description>
           </Card.Content>
         </Card>);

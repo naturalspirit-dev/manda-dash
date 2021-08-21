@@ -32,9 +32,12 @@ Meteor.methods({
   //builds src code for Google Maps iframe
   buildSrc: function(name, type, country) {
     return new Promise((resolve, reject) => {
-      let itemType;
+      let itemType = "";
       let string = "https://www.google.com/maps/embed/v1/place?key=";
-      type === "Port" ? itemType = "Port+" : itemType = "Airfield+";
+      if(type === "Port") {
+        itemType = "Port+";
+        name = capitalizeWords(name.toLowerCase());  
+      }
       let src = string.concat(
         Meteor.settings.GoogleMaps.key,
         "&q=",
