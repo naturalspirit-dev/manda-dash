@@ -110,8 +110,9 @@ class Documentation extends React.Component {
                   Why is the Google Maps Satellite view displaying unexpected results?
                 </Accordion.Title>
                 <Accordion.Content className="docs-text" active={activeIndex === 9}>
-                  <p>The map card searches for the port or airfield by name, and sometimes the records Google has associated with them return unexpected results, like the port authority's address, or the citys
-                     center, or anything else Google Maps may return to it.</p>
+                  <p>If the map card isnt display anything at all, it's probably because you havent added an API key yet, please refer to README.md for how to do this</p>
+                  <p>Otherwise the map card is displaying somewhere unexpected, this is because the map card searches for the port or airfield by name, and sometimes the records Google
+                     has associated with them return unexpected results, like the port authority's address, or the citys center, or anything else Google Maps may return to it.</p>
                   <p>The best way to use the map card is to zoom in or out using ctrl + scroll to find the location in question. You can also click 'View Larger Map' to open the full screen Google Map in a new tab.</p>
                 </Accordion.Content>
               </Accordion>

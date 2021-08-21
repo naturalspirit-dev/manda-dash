@@ -43,6 +43,22 @@ After running the start script for the first time, it will initialize the Mongo 
 
 If all goes well, the application will appear at http://localhost:3000.
 
+## Adding your API key (required for satellite map card)
+In order for the map card to work, you need to provide it with a Google Maps Embed API key. Follow [this guide](https://developers.google.com/maps/documentation/embed/get-api-key) to create, and restrict your key.
+Then, in the main directory manda-dash/, you must create a folder named /config with one file: settings.json. Copy and paste this into settings.json, providing your API key (its recommended you provide http-refferers, and Google Maps embed API restrictions):
+```
+{
+    "GoogleMaps": {
+    "appId": "Google Maps Card",
+    "key": "YOUR API KEY",
+    "restrictions": {
+      "source": "http-refferers",
+      "api": "Google Maps Embed API"
+    }
+  }
+}
+```
+
 ## Python Web Scraper Bot
 Scrapes data from open sources like searates.com and skyvector.com. Maritime data is collected from the PUB150 database.
 
