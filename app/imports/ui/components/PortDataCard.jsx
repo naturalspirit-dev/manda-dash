@@ -4,7 +4,6 @@ import PropTypes from 'prop-types';
 import { Link, withRouter } from 'react-router-dom';
 import { withTracker, useTracker } from 'meteor/react-meteor-data';
 import DescriptionCard from './DescriptionCard';
-import C130Card from './C130Card';
 import MapCard from './MapCard';
 import PortsDescriptions from '../../api/ports/portdescriptions.json';
 import capitalizeWords from '../../utils/stringFormatting.js';
@@ -37,10 +36,6 @@ class PortDataCard extends React.Component {
                 <Card.Description className="card-description"><Icon name='globe'/>{this.getLink()}</Card.Description>
               </Card.Content>
             </Card>
-          </Grid.Row>
-
-          <Grid.Row className="card-grid-row">
-            <C130Card location={this.props.port} type="Port" />
           </Grid.Row>
 
           <Grid.Row className="card-grid-row">

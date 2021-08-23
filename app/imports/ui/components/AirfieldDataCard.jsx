@@ -4,7 +4,6 @@ import PropTypes from 'prop-types';
 import { Link, Redirect, withRouter } from 'react-router-dom';
 import { withTracker, useTracker } from 'meteor/react-meteor-data';
 import DescriptionCard from './DescriptionCard';
-import C130Card from './C130Card';
 import MapCard from './MapCard';
 import capitalizeWords from '../../utils/stringFormatting.js';
 import {replaceCountryCode, replaceCountryName} from '../../utils/replaceCountryCode.js';
@@ -39,10 +38,6 @@ class AirfieldDataCard extends React.Component {
                 <Card.Description className="card-description"><Icon name='globe'/>{this.getLink()}</Card.Description>
               </Card.Content>
             </Card>
-          </Grid.Row>
-
-          <Grid.Row className="card-grid-row">
-            <C130Card location={this.props.airfield} type="Airfield" />
           </Grid.Row>
 
           <Grid.Row className="card-grid-row">

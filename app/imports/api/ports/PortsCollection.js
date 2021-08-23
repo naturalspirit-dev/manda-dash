@@ -70,7 +70,6 @@ class PortsCollection {
       shipRepairs: String,
       marineRailroadSize: String,
       drydockSize: String,
-      closestCOneThirtyCSeventeen: String,
     }, {
       tracker: Tracker,
       requiredByDefault: false,

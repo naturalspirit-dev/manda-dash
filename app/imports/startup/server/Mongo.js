@@ -36,7 +36,7 @@ Meteor.methods({
       let string = "https://www.google.com/maps/embed/v1/place?key=";
       if(type === "Port") {
         itemType = "Port+";
-        name = capitalizeWords(name.toLowerCase());  
+        name = capitalizeWords(name.toLowerCase());
       }
       let src = string.concat(
         Meteor.settings.GoogleMaps.key,
@@ -203,7 +203,6 @@ Meteor.methods({
                 shipRepairs: port.shipRepairs,
                 marineRailroadSize: port.marineRailroadSize,
                 drydockSize: port.drydockSize,
-                capableCOneThirtyCSeventeen: port.capableCOneThirtyCSeventeen,
               }
       });
     } else {
@@ -235,7 +234,6 @@ Meteor.methods({
           runwayThreeSurface: airfield.runwayThreeSurface,
           runwayFourDimensions: airfield.runwayFourDimensions,
           runwayFourSurface: airfield.runwayFourSurface,
-          closestCOneThirtyCSeventeen: airfield.closestCOneThirtyCSeventeen,
         }
       });
     } else {

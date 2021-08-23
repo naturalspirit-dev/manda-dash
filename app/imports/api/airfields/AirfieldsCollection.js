@@ -31,7 +31,6 @@ class AirfieldsCollection {
       runwayThreeSurface: { type: String, optional: true },
       runwayFourDimensions: { type: String, optional: true },
       runwayFourSurface: { type: String, optional: true },
-      capableCOneThirtyCSeventeen: { type: String, optional: true },
     }, { tracker: Tracker });
     // Attach the schema to the collection, so all attempts to insert a document are checked against schema.
     this.collection.attachSchema(this.schema);
