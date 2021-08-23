@@ -11,6 +11,7 @@ import { Ports } from '../../api/ports/PortsCollection.js';
 import { Airfields } from '../../api/airfields/AirfieldsCollection.js';
 import capitalizeWords from '../../utils/stringFormatting.js';
 import {replaceCountryCode, replaceCountryName} from '../../utils/replaceCountryCode.js';
+import * as sorter from '../../utils/sort.js';
 
 /* Renders a tabular list of countrys with corresponding DataCards */
 class DataList extends React.Component {
@@ -28,6 +29,7 @@ class DataList extends React.Component {
   componentDidMount() {
     let n = 0;
     this.setDescriptions();
+    /* Divide data list for rendering */
     if(this.props.location.location === "Port") {
       let arr = Ports.collection.find({ country: this.props.location.country }).fetch();
       while(arr.length) {
@@ -51,7 +53,7 @@ class DataList extends React.Component {
       this.state.descriptions.push({ name: item.name, description: item.description }));
   }
 
-  //sets tabPanes based on selected country
+  /* sets tabPanes based on selected country */
   validNames = (type, country, curr) => {
     let n = 0;  // port iterator
     let j = 0; // airfield itator
@@ -85,7 +87,7 @@ class DataList extends React.Component {
         j++;
       });
     }
-    this.setState({ tabPanes: newTabPanes });
+    this.setState({ tabPanes: sorter.sortTabs(newTabPanes) });
   }
 
   handleInputChange = (e, {activePage}) => {

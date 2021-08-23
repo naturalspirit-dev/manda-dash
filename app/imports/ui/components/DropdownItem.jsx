@@ -7,6 +7,7 @@ import { Ports } from '../../api/ports/PortsCollection.js';
 import { Airfields } from '../../api/airfields/AirfieldsCollection.js';
 import {replaceCountryCode, replaceCountryName} from '../../utils/replaceCountryCode.js';
 import capitalizeWords from '../../utils/stringFormatting.js';
+import * as sorter from '../../utils/sort.js';
 
 /* Responsive dropdown component using hooks */
 DropdownItem = (props) => {
@@ -52,7 +53,7 @@ DropdownItem = (props) => {
         value: n + 1
       });
     }
-    return valid;
+    return sorter.sortItems(valid);
   }
 
   //returns array of valid countries based on type of port/airfield
@@ -94,7 +95,7 @@ DropdownItem = (props) => {
         value: n + 1
       });
     }
-    return valid;
+    return sorter.sortItems(valid);
   }
 
   link = () => { return (<Redirect to='#/docs' />); }
