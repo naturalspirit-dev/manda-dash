@@ -633,7 +633,6 @@ def run_ports():
         ['thailand',	'th'],
         ['tonga',	'to'],
         ['tuvalu',	'tv'],
-        ['united_kingdom', 'gb'],
         ['vanuatu',	'vu'],
         ['vietnam',	'vn']
         ]

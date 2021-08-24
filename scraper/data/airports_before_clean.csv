@@ -1,4 +1,4 @@
-,country,iotaCodes,airFieldName,latitude,longitude,airportUse,runwayOneDimensions,runwayOneSurface,runwayTwoDimensions,runwayTwoSurface,runwayThreeDimensions,runwayThreeSurface,runwayFourDimensions,runwayFourSurface
+,country,icaoCodes,airFieldName,latitude,longitude,airportUse,runwayOneDimensions,runwayOneSurface,runwayTwoDimensions,runwayTwoSurface,runwayThreeDimensions,runwayThreeSurface,runwayFourDimensions,runwayFourSurface
 0,VN,VVVH,Vinh Airport,N18.43.80',E105.40.30', Public,,,,,,,,
 1,VN,VVTX,Tho Xuan Airport,N19.54.15',E105.28.15', Public,,,,,,,,
 2,VN,VVPB,Phubai Airport,N16.24.04',E107.42.15', Public,8858 x 131feet,Hard,,,,,,

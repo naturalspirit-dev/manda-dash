@@ -1,2 +1,17 @@
 ,Index No.,Region,Country ,Port Name,Field4,Field5,Combo353,Field7,Field8,Combo214,Publication,Chart,Harbor Size,Harbor Type,Shelter,Tide,Swell,Ice,Other,Overhead Limits,Channel,Anchorage,Cargo Pier,Oil Terminal,Tide.1,Maximum Size Vessel,Good Holding Ground,Turning Area,1st Port of Entry,U.S. Representative,ETA Message,Compulsory,Available,Local Assistance,Advisable,Tug Salvage,Tug Assistance,Pratique,SSCC Cert,Other.1,Telephone,Telefax,Radio,Radio Telephone,Air,Rail,Wharves,Anchor,Med. Moor,Beach Moor,Ice Moor,Medical Facilities,Garbage Disposal,Degauss,Dirty Ballast,Fixed,Mobile,Floating,100 Tons Plus,50-100 Tons,25-49 Tons,0-24 Tons,Longshore,Electrical,Steam,Nav Equipment,Electric Repair,Provisions,Water,Fuel Oil,Diesel Oil,Deck,Engine,Repair,Drydock,Railway
-3124,55680,55675,AS,PAGO PAGO HARBOR,14,17,S,170,40,W,CP07,83484,S,CN,G,N,Y,N,N,N,A,J,F,J,3,M,Y,Y,Y,Y,Y,N,Y,,Y,,Y,Y,,,Y,,Y,,Y,,Y,,,,,,Y,,Y,,,Y,,,,Y,Y,,,,,,Y,Y,Y,,,C,,S
+3223,57520,57510,VN,DUONG DONG,10,13,N,103,58,E,161,93301,V,RN,F,Y,Y,N,Y,,H,J,,K,0,L,,,Y,N,N,,,,,,,,,,,,Y,,Y,,,Y,,,,,,,N,,,,,,,,,,,,,Y,,,,,,D,,
+3224,57570,57510,VN,VUNG TAU,10,21,N,107,4,E,161,93404,S,RN,F,N,N,N,N,Y,L,H,L,G,1,L,Y,Y,Y,,N,Y,Y,,,,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,,,,Y,Y,,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,N,,Y,Y,Y,Y,Y,Y,C,S,
+3225,57572,57510,VN,PHU MY,10,35,N,107,2,E,161,93030,V,RN,F,,,,Y,Y,A,,M,G,4,M,,,Y,,Y,Y,Y,,,,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,,,,,,,,Y,Y,,Y,Y,Y,Y,,,,,Y,Y,Y,,,,,,
+3226,57575,57510,VN,CAT LAI,10,45,N,106,47,E,161,93406,V,CN,F,,,,Y,,L,N,K,K,3,M,,,,,Y,,Y,,,,,Y,Y,Y,Y,Y,Y,,,,,,,,,,Y,,,,Y,Y,,Y,Y,,Y,,,,,,,,,,,,,
+3227,57580,57510,VN,THANH HO CHI MINH,10,46,N,106,43,E,161,93385,M,RN,E,Y,N,N,Y,Y,K,D,G,G,4,L,Y,Y,Y,Y,Y,Y,Y,,,,Y,Y,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,C,S,M
+3228,57610,57510,VN,VINH CAM RANH,11,53,N,109,10,E,161,93446,S,CN,G,N,N,N,Y,,L,E,N,H,2,L,,,Y,N,Y,Y,Y,,Y,,Y,,,,Y,Y,,,Y,,Y,Y,,,,Y,,,N,,,Y,,Y,,,,,,,,,Y,,,,,,,
+3229,57620,57510,VN,NHA TRANG,12,15,N,109,14,E,161,93442,S,OR,F,Y,Y,N,Y,N,J,G,J,K,2,M,Y,Y,Y,N,Y,Y,Y,,Y,,Y,Y,Y,Y,Y,Y,Y,,Y,,Y,Y,,,,Y,Y,,N,Y,Y,N,Y,Y,Y,Y,Y,N,N,N,Y,Y,Y,Y,,N,N,C,L,
+3230,57640,57510,VN,QUI NHON,13,46,N,109,14,E,161,,V,CN,F,Y,Y,N,Y,N,J,J,M,L,2,M,Y,Y,Y,N,Y,Y,Y,,Y,,Y,Y,Y,Y,,,Y,Y,Y,Y,Y,,,,,Y,,,N,Y,Y,,,Y,Y,Y,Y,Y,N,N,N,Y,Y,Y,Y,N,N,C,M,S
+3231,57642,57510,VN,DAI HANG,8,29,N,108,41,E,161,93020,V,OR,P,Y,Y,,Y,Y,,,,A,2,M,,,Y,,Y,Y,Y,,Y,,,,,,Y,Y,Y,Y,,,,,Y,,,,,,N,,,,,,,,,Y,,,Y,,Y,Y,,,,C,,
+3232,57650,57510,VN,DA NANG,16,6,N,108,13,E,161,93512,S,RN,F,Y,Y,N,N,Y,H,F,J,H,1,M,Y,Y,Y,N,Y,Y,,,,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,,,Y,Y,,Y,,Y,,,Y,Y,Y,Y,N,N,Y,Y,,Y,Y,Y,,,C,,S
+3233,57655,57510,VN,MUI VUNG TAU,10,19,N,107,4,E,161,93360,V,CN,F,,,,,,,,N,,0,M,,,Y,,Y,Y,,,,,Y,Y,Y,Y,,,Y,Y,Y,,,,,,,,,,,,,,,,,,,,,,,Y,Y,Y,Y,,,,,
+3234,57657,57510,VN,THANH HOA,10,49,N,106,46,E,161,93600,V,CN,F,,,,Y,,O,M,,,2,,,,Y,,Y,Y,Y,,,,Y,Y,Y,Y,,,Y,Y,,,,,,,,,,,,,,,,,,Y,,,,,,Y,Y,Y,Y,,,,,
+3235,57660,57510,VN,NGHE TINH,18,46,N,105,46,E,161,93580,S,RN,F,Y,Y,N,Y,N,O,L,O,,2,,,,Y,N,Y,Y,Y,Y,Y,,Y,Y,Y,Y,,Y,Y,,,,Y,,,,,Y,,,N,,,,Y,,Y,,,,,,,,Y,Y,,,,C,S,
+3236,57680,57510,VN,HAI PHONG,20,55,N,106,41,E,161,93032,S,RN,G,Y,Y,N,Y,Y,M,J,K,O,4,M,Y,Y,Y,N,Y,Y,Y,,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,,Y,Y,Y,Y,,Y,Y,Y,Y,,,,,,Y,Y,Y,Y,Y,B,M,S
+3237,57700,57510,VN,HON GAI,20,57,N,107,4,E,161,,V,OR,F,Y,N,N,Y,,L,F,J,K,2,M,,Y,Y,N,Y,Y,Y,,Y,,Y,Y,Y,Y,Y,Y,Y,,,Y,Y,,,,,Y,Y,,N,,Y,Y,,Y,Y,Y,Y,,,,,Y,Y,Y,Y,,,C,,S
+3238,57710,57510,VN,CAM PHA,21,2,N,107,22,E,161,93647,V,OR,F,Y,N,N,Y,Y,M,K,K,,4,M,Y,Y,Y,N,Y,Y,Y,,Y,,Y,Y,Y,Y,,,Y,Y,N,,Y,Y,,,,Y,,,Y,Y,Y,,Y,,,Y,Y,Y,,,,,Y,Y,Y,,,C,S,

@@ -253,7 +253,6 @@ def run_airports():
         ['Thailand','TH'],
         ['Tonga','TO'],
         ['Tuvalu','TV'],
-        ['United_Kingdom', 'GB'],
         ['Vanuatu','VU'],
         ['Vietnam','VN']
     ]

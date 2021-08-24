@@ -1,116 +1,116 @@
 ,country,icaoCodes,airFieldName,latitude,longitude,ddLatitude,ddLongitude,airportUse,runwayOneDimensions,runwayOneSurface,runwayTwoDimensions,runwayTwoSurface,runwayThreeDimensions,runwayThreeSurface,runwayFourDimensions,runwayFourSurface,weatherLink
-0,IT,LIBP,Pescara Airport,N42.26.23',E14.11.23',42.43333333333333,14.183333333333334, Public,7936 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIBP
-1,IT,LIAP,LAquila Parchi Airport,N42.22.77',E13.18.57',42.36666666666667,13.3,Private,4623 x 85feet,Hard,,,,,,,https://www.getmetar.com/LIAP
-2,IT,LINL,Lecce Lepore Airport,N40.21.35',E18.17.85',40.35,18.283333333333335, Public,,,,,,,,,https://www.getmetar.com/LINL
-3,IT,LIBV,Gioia Del Colle Airport,N40.46.18',E16.55.98',40.766666666666666,16.916666666666668,Military,9846 x 148feet,Hard,9823 x 98feet,Unknown,,,,,https://www.getmetar.com/LIBV
-4,IT,LIBR,Brindisi Casale Airport,N40.39.64',E17.56.89',40.65,17.933333333333334, Public,10000 x 148feet,Hard,5892 x 148feet,Unknown,,,,,https://www.getmetar.com/LIBR
-5,IT,LIBN,Lecce Galatina Airport,N40.14.35',E18.8.00',40.233333333333334,18.133333333333333,Military,6634 x 187feet,Hard,,,,,,,https://www.getmetar.com/LIBN
-6,IT,LIBG,Taranto Grottaglie Airport,N40.31.03',E17.23.98',40.516666666666666,17.383333333333333, Public,10499 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIBG
-7,IT,LIBF,Foggia Gina Lisa Airport,N41.26.00',E15.32.08',41.43333333333333,15.533333333333333, Public,4718 x 154feet,Hard,,,,,,,https://www.getmetar.com/LIBF
-8,IT,LIBD,Bari Palese Airport,N41.8.28',E16.45.90',41.13333333333333,16.75, Public,9252 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIBD
-9,IT,LIBA,Amendola Airport,N41.32.37',E15.42.83',41.53333333333333,15.7,Military,8727 x 144feet,Hard,,,,,,,https://www.getmetar.com/LIBA
-10,IT,LICR,Reggio Calabria Airport,N38.4.32',E15.39.22',38.06666666666667,15.65, Public,6555 x 148feet,Hard,5574 x 148feet,Unknown,,,,,https://www.getmetar.com/LICR
-11,IT,LICA,Lamezia Terme Airport,N38.54.50',E16.14.50',38.9,16.233333333333334, Public,7927 x 148feet,Hard,,,,,,,https://www.getmetar.com/LICA
-12,IT,LIBC,Crotone Airport,N38.59.80',E17.4.75',38.983333333333334,17.066666666666666,Military,6562 x 147feet,Hard,,,,,,,https://www.getmetar.com/LIBC
-13,IT,LIRN,Napoli Capodichino Airport,N40.53.07',E14.17.45',40.88333333333333,14.283333333333333, Public,8622 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIRN
-14,IT,LIRM,Grazzanise Airport,N41.3.72',E14.4.96',41.05,14.066666666666666,Military,9806 x 98feet,Hard,,,,,,,https://www.getmetar.com/LIRM
-15,IT,LIRI,Salerno Pontecagnano Airport,N40.37.20',E14.54.75',40.61666666666667,14.9, Public,5430 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIRI
-16,IT,LIAU,Capua Airport,N41.6.95',E14.10.68',41.1,14.166666666666666, Public,,,,,,,,,https://www.getmetar.com/LIAU
-17,IT,LIPR,Rimini Airport,N44.1.17',E12.36.57',44.016666666666666,12.6, Public,9721 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIPR
-18,IT,LIPM,Modena Marzaglia Airport,N44.38.08',E10.48.62',44.63333333333333,10.8, Public,,,,,,,,,https://www.getmetar.com/LIPM
-19,IT,LIPK,Forli Airport,N44.11.73',E12.4.18',44.18333333333333,12.066666666666666, Public,7910 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIPK
-20,IT,LIPF,Ferrara Airport,N44.48.95',E11.36.80',44.8,11.6, Public,,,,,,,,,https://www.getmetar.com/LIPF
-21,IT,LIPE,Bologna Borgo Panigale Airport,N44.31.85',E11.17.82',44.516666666666666,11.283333333333333, Public,9196 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIPE
-22,IT,LIPC,Cervia Airport,N44.13.31',E12.19.05',44.21666666666667,12.316666666666666,Military,10006 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIPC
-23,IT,LIMS,Piacenza Airport,N44.54.83',E9.43.24',44.9,9.716666666666667,Military,9495 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIMS
-24,IT,LIMP,Parma Airport,N44.49.33',E10.17.72',44.81666666666667,10.283333333333333, Public,6962 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIMP
-25,IT,LIDV,Prati Vecchi Di Aguscello Airport,N44.47.42',E11.40.15',44.78333333333333,11.666666666666666, Public,,,,,,,,,https://www.getmetar.com/LIDV
-26,IT,LIDU,Carpi Budrione Airport,N44.50.10',E10.52.30',44.833333333333336,10.866666666666667, Public,,,,,,,,,https://www.getmetar.com/LIDU
-27,IT,LIDR,Ravenna Airport,N44.21.87',E12.13.48',44.35,12.216666666666667, Public,3937 x 98feet,Hard,,,,,,,https://www.getmetar.com/LIDR
-28,IT,LIDP,Pavullo Airport,N44.19.33',E10.49.90',44.31666666666667,10.816666666666666, Public,,,,,,,,,https://www.getmetar.com/LIDP
-29,IT,LIDG,Lugo Di Romagna Airport,N44.23.88',E11.51.28',44.38333333333333,11.85, Public,,,,,,,,,https://www.getmetar.com/LIDG
-30,IT,LIDE,Reggio Emilia Airport,N44.41.93',E10.39.75',44.68333333333333,10.65, Public,3976 x 98feet,Hard,,,,,,,https://www.getmetar.com/LIDE
-31,IT,LIPQ,Trieste Ronchi Dei Legionari Airport,N45.49.65',E13.28.33',45.81666666666667,13.466666666666667, Public,9842 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIPQ
-32,IT,LIPI,Rivolto Airport,N45.58.84',E13.2.99',45.96666666666667,13.033333333333333,Military,8365 x 144feet,Hard,,,,,,,https://www.getmetar.com/LIPI
-33,IT,LIPG,Gorizia Airport,N45.54.40',E13.35.95',45.9,13.583333333333334, Public,,,,,,,,,https://www.getmetar.com/LIPG
-34,IT,LIPD,Udine Campoformido Airport,N46.1.92',E13.11.20',46.016666666666666,13.183333333333334,Military,,,,,,,,,https://www.getmetar.com/LIPD
-35,IT,LIPA,Aviano Airport,N46.1.80',E12.35.93',46.016666666666666,12.583333333333334,Military,8583 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIPA
-36,IT,LIDK,Casarsa Della Delizia Airport,N45.57.27',E12.49.18',45.95,12.816666666666666,Military,,,,,,,,,https://www.getmetar.com/LIDK
-37,IT,LIRV,Viterbo Airport,N42.25.81',E12.3.85',42.416666666666664,12.05,Military,4921 x 98feet,Hard,3018 x 79feet,Unknown,1936 x 112feet,Unknown,,,https://www.getmetar.com/LIRV
-38,IT,LIRU,Rome Urbe Airport,N41.57.12',E12.30.05',41.95,12.5, Public,3556 x 98feet,Hard,,,,,,,https://www.getmetar.com/LIRU
-39,IT,LIRL,Latina Airport,N41.32.81',E12.54.50',41.53333333333333,12.9,Military,5617 x 131feet,Hard,,,,,,,https://www.getmetar.com/LIRL
-40,IT,LIRH,Frosinone Airport,N41.38.70',E13.17.94',41.63333333333333,13.283333333333333,Military,4695 x 131feet,Soft,,,,,,,https://www.getmetar.com/LIRH
-41,IT,LIRG,Guidonia Airport,N41.59.77',E12.44.08',41.983333333333334,12.733333333333333,Military,4741 x 98feet,Hard,3520 x 194feet,Unknown,,,,,https://www.getmetar.com/LIRG
-42,IT,LIRF,Roma Fiumicino Airport,N41.48.02',E12.14.33',41.8,12.233333333333333, Public,12802 x 197feet,Hard,12802 x 197feet,Unknown,11818 x 148feet,Unknown,10849 x 148feet,Unknown,https://www.getmetar.com/LIRF
-43,IT,LIRE,Pratica Di Mare Airport,N41.39.56',E12.26.71',41.65,12.433333333333334,Military,8953 x 154feet,Hard,,,,,,,https://www.getmetar.com/LIRE
-44,IT,LIRA,Roma Ciampino Airport,N41.47.97',E12.35.83',41.78333333333333,12.583333333333334, Public,7242 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIRA
-45,IT,LIQN,Rieti Airport,N42.25.60',E12.51.00',42.416666666666664,12.85,Military,2654 x 164feet,Soft,2654 x 131feet,Unknown,,,,,https://www.getmetar.com/LIQN
-46,IT,LIAQ,Aquino Airport,N41.29.17',E13.43.12',41.483333333333334,13.716666666666667, Public,,,,,,,,,https://www.getmetar.com/LIAQ
-47,IT,LIQW,Luni Airport,N44.5.33',E9.59.33',44.083333333333336,9.983333333333333, Public,2969 x 75feet,Hard,,,,,,,https://www.getmetar.com/LIQW
-48,IT,LIMJ,Genoa Airport,N44.24.80',E8.50.25',44.4,8.833333333333334, Public,9567 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIMJ
-49,IT,LIMG,Riviera Airport Airport,N44.2.75',E8.7.53',44.03333333333333,8.116666666666667, Public,4688 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIMG
-50,IT,LIPO,Brescia Montichiari Airport,N45.25.73',E10.19.83',45.416666666666664,10.316666666666666, Public,9810 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIPO
-51,IT,LIPL,Ghedi Airport,N45.26.14',E10.16.22',45.43333333333333,10.266666666666667,Military,9813 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIPL
-52,IT,LIML,Linate Airport,N45.26.97',E9.16.70',45.43333333333333,9.266666666666667, Public,8012 x 197feet,Hard,1972 x 72feet,Unknown,,,,,https://www.getmetar.com/LIML
-53,IT,LIME,Bergamo Orio Al Serio Airport,N45.40.13',E9.42.02',45.666666666666664,9.7, Public,9636 x 148feet,Hard,2552 x 59feet,Unknown,,,,,https://www.getmetar.com/LIME
-54,IT,LIMC,Milano Malpensa Airport,N45.37.80',E8.43.38',45.61666666666667,8.716666666666667, Public,12861 x 197feet,Hard,12861 x 197feet,Unknown,,,,,https://www.getmetar.com/LIMC
-55,IT,LIMB,Milan Bresso Airport,N45.32.48',E9.12.13',45.53333333333333,9.2, Public,3543 x 98feet,Hard,,,,,,,https://www.getmetar.com/LIMB
-56,IT,LILY,Como Airport,N45.48.88',E9.4.18',45.8,9.066666666666666, Public,,,,,,,,,https://www.getmetar.com/LILY
-57,IT,LILV,Valbrembo Airport,N45.43.23',E9.35.62',45.71666666666667,9.583333333333334, Public,,,,,,,,,https://www.getmetar.com/LILV
-58,IT,LILS,Bergamo Clusone Airport,N45.53.03',E9.57.98',45.88333333333333,9.95, Public,,,,,,,,,https://www.getmetar.com/LILS
-59,IT,LILR,Cremona Migliaro Airport,N45.10.03',E10.0.12',45.166666666666664,10.0, Public,,,,,,,,,https://www.getmetar.com/LILR
-60,IT,LILN,Varese Venegono Airport,N45.44.53',E8.53.28',45.733333333333334,8.883333333333333,Military,4659 x 131feet,Hard,,,,,,,https://www.getmetar.com/LILN
-61,IT,LILH,Voghera Rivanazzano Airport,N44.57.12',E9.0.99',44.95,9.0, Public,3281 x 98feet,Hard,,,,,,,https://www.getmetar.com/LILH
-62,IT,LILG,Vergiate Airport,N45.42.87',E8.41.98',45.7,8.683333333333334, Public,2612 x 164feet,Hard,,,,,,,https://www.getmetar.com/LILG
-63,IT,LILC,Calcinate Del Pesce Airport,N45.48.58',E8.46.08',45.8,8.766666666666667, Public,,,,,,,,,https://www.getmetar.com/LILC
-64,IT,LILB,Alzate Brianza Airport,N45.46.20',E9.9.65',45.766666666666666,9.15, Public,,,,,,,,,https://www.getmetar.com/LILB
-65,IT,LIPY,Ancona Falconara Airport,N43.37.00',E13.21.62',43.61666666666667,13.35, Public,9728 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIPY
-66,IT,LIDF,Fano Airport,N43.49.55',E13.1.65',43.81666666666667,13.016666666666667, Public,,,,,,,,,https://www.getmetar.com/LIDF
-67,IT,LIMZ,Levaldigi Airport,N44.32.85',E7.37.38',44.53333333333333,7.616666666666667, Public,6890 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIMZ
-68,IT,LIMR,Novi Ligure Airport,N44.46.80',E8.47.18',44.766666666666666,8.783333333333333, Public,,,,,,,,,https://www.getmetar.com/LIMR
-69,IT,LIMN,Cameri Airport,N45.31.87',E8.39.92',45.516666666666666,8.65,Military,9554 x 102feet,Hard,,,,,,,https://www.getmetar.com/LIMN
-70,IT,LIMF,Torino Caselle Airport,N45.12.15',E7.38.97',45.2,7.633333333333333, Public,10827 x 197feet,Hard,,,,,,,https://www.getmetar.com/LIMF
-71,IT,LIMA,Torino Aeritalia Airport,N45.5.07',E7.36.18',45.083333333333336,7.6, Public,3524 x 98feet,Hard,2461 x 131feet,Unknown,,,,,https://www.getmetar.com/LIMA
-72,IT,LILW,Venaria Reale Airport,N45.7.83',E7.37.00',45.11666666666667,7.616666666666667,Military,,,,,,,,,https://www.getmetar.com/LILW
-73,IT,LILM,Casale Monferrato Airport,N45.6.67',E8.27.37',45.1,8.45, Public,,,,,,,,,https://www.getmetar.com/LILM
-74,IT,LILI,Vercelli Airport,N45.18.68',E8.25.05',45.3,8.416666666666666, Public,,,,,,,,,https://www.getmetar.com/LILI
-75,IT,LILE,Biella Cerrione Airport,N45.29.75',E8.6.15',45.483333333333334,8.1,Private,4331 x 98feet,Hard,,,,,,,https://www.getmetar.com/LILE
-76,IT,LILA,Alessandria Airport,N44.55.50',E8.37.52',44.916666666666664,8.616666666666667, Public,,,,,,,,,https://www.getmetar.com/LILA
-77,IT,LIER,Oristano Fenosu Airport,N39.53.70',E8.38.58',39.88333333333333,8.633333333333333, Public,3934 x 98feet,Hard,,,,,,,https://www.getmetar.com/LIER
-78,IT,LIEO,Olbia Costa Smeralda Airport,N40.53.92',E9.31.07',40.88333333333333,9.516666666666667, Public,8025 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIEO
-79,IT,LIEE,Cagliari Elmas Airport,N39.14.83',E9.3.37',39.233333333333334,9.05, Public,9199 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIEE
-80,IT,LIED,Decimomannu Airport,N39.21.23',E8.58.30',39.35,8.966666666666667,Military,9810 x 148feet,Hard,8501 x 75feet,Unknown,,,,,https://www.getmetar.com/LIED
-81,IT,LIEA,Alghero Fertilia Airport,N40.37.87',E8.17.32',40.61666666666667,8.283333333333333, Public,9843 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIEA
-82,IT,LICZ,Sigonella Airport,N37.24.35',E14.55.43',37.4,14.916666666666666,Military,8077 x 148feet,Hard,8012 x 92feet,Unknown,,,,,https://www.getmetar.com/LICZ
-83,IT,LICT,Trapani Birgi Airport,N37.54.72',E12.29.60',37.9,12.483333333333333, Public,8842 x 144feet,Hard,8461 x 98feet,Unknown,,,,,https://www.getmetar.com/LICT
-84,IT,LICP,Palermo Boccadifalco Airport,N38.6.65',E13.18.80',38.1,13.3, Public,4016 x 148feet,Hard,,,,,,,https://www.getmetar.com/LICP
-85,IT,LICJ,Palermo Punta Raisi Airport,N38.10.92',E13.5.97',38.166666666666664,13.083333333333334, Public,10912 x 197feet,Hard,6804 x 148feet,Unknown,,,,,https://www.getmetar.com/LICJ
-86,IT,LICG,Pantelleria Airport,N36.48.78',E11.57.65',36.8,11.95,Military,5495 x 148feet,Hard,3612 x 98feet,Unknown,,,,,https://www.getmetar.com/LICG
-87,IT,LICD,Lampedusa Airport,N35.29.88',E12.37.10',35.483333333333334,12.616666666666667, Public,5889 x 148feet,Hard,,,,,,,https://www.getmetar.com/LICD
-88,IT,LICC,Catania Fontanarrosa Airport,N37.28.00',E15.3.83',37.46666666666667,15.05, Public,7992 x 148feet,Hard,,,,,,,https://www.getmetar.com/LICC
-89,IT,LICB,Comiso Airport,N36.59.75',E14.36.53',36.983333333333334,14.6, Public,,,,,,,,,https://www.getmetar.com/LICB
-90,IT,LIRS,Grosseto Airport,N42.45.58',E11.4.32',42.75,11.066666666666666, Public,9823 x 144feet,Hard,,,,,,,https://www.getmetar.com/LIRS
-91,IT,LIRQ,Firenze Peretola Airport,N43.48.52',E11.12.17',43.8,11.2, Public,5741 x 98feet,Hard,,,,,,,https://www.getmetar.com/LIRQ
-92,IT,LIRP,,,,0,0,,,,,,,,,,https://www.getmetar.com/LIRP
-93,IT,LIRJ,Marina Di Campo Airport,N42.45.67',E10.14.38',42.75,10.233333333333333, Public,3658 x 75feet,Hard,,,,,,,https://www.getmetar.com/LIRJ
-94,IT,LIQS,Siena Airport,N43.15.52',E11.15.30',43.25,11.25, Public,4570 x 98feet,Hard,,,,,,,https://www.getmetar.com/LIQS
-95,IT,LIQL,Lucca Airport,N43.49.53',E10.34.68',43.81666666666667,10.566666666666666, Public,2986 x 59feet,Hard,,,,,,,https://www.getmetar.com/LIQL
-96,IT,LIQB,Arezzo Airport,N43.27.35',E11.50.82',43.45,11.833333333333334, Public,,,,,,,,,https://www.getmetar.com/LIQB
-97,IT,LILQ,Massa Cinquale Airport,N43.59.17',E10.8.63',43.983333333333334,10.133333333333333, Public,,,,,,,,,https://www.getmetar.com/LILQ
-98,IT,LIPB,Bolzano Airport,N46.27.62',E11.19.58',46.45,11.316666666666666, Public,4245 x 98feet,Hard,,,,,,,https://www.getmetar.com/LIPB
-99,IT,LIDT,Trento Mattarello Airport,N46.1.40',E11.7.50',46.016666666666666,11.116666666666667, Public,3215 x 98feet,Hard,,,,,,,https://www.getmetar.com/LIDT
-100,IT,LIRZ,Perugia S Francesco Airport,N43.5.83',E12.30.62',43.083333333333336,12.5, Public,7215 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIRZ
-101,IT,LIAF,Foligno Airport,N42.55.97',E12.42.60',42.916666666666664,12.7, Public,4593 x 98feet,Hard,3609 x 98feet,Unknown,,,,,https://www.getmetar.com/LIAF
-102,IT,LIMW,Aosta Airport,N45.44.30',E7.22.05',45.733333333333334,7.366666666666666, Public,4913 x 98feet,Hard,,,,,,,https://www.getmetar.com/LIMW
-103,IT,LIPZ,Venezia Tessera Airport,N45.30.32',E12.21.12',45.5,12.35, Public,10827 x 148feet,Hard,9121 x 148feet,Unknown,,,,,https://www.getmetar.com/LIPZ
-104,IT,LIPX,Verona Villafranca Airport,N45.23.78',E10.53.27',45.38333333333333,10.883333333333333, Public,10066 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIPX
-105,IT,LIPV,Venezia Lido Airport,N45.25.73',E12.23.27',45.416666666666664,12.383333333333333, Public,3261 x 148feet,Soft,,,,,,,https://www.getmetar.com/LIPV
-106,IT,LIPU,Padova Airport,N45.23.77',E11.50.88',45.38333333333333,11.833333333333334, Public,3681 x 98feet,Hard,,,,,,,https://www.getmetar.com/LIPU
-107,IT,LIPT,Vicenza Airport,N45.34.30',E11.31.62',45.56666666666667,11.516666666666667,Military,,,,,,,,,https://www.getmetar.com/LIPT
-108,IT,LIPS,Treviso Istrana Airport,N45.41.07',E12.5.23',45.68333333333333,12.083333333333334,Military,9816 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIPS
-109,IT,LIPN,Verona Boscomantio Airport,N45.28.38',E10.55.62',45.46666666666667,10.916666666666666, Public,3327 x 72feet,Hard,,,,,,,https://www.getmetar.com/LIPN
-110,IT,LIPH,,,,0,0,,,,,,,,,,https://www.getmetar.com/LIPH
-111,IT,LIDL,Legnago Airport,N45.7.98',E11.17.53',45.11666666666667,11.283333333333333, Public,,,,,,,,,https://www.getmetar.com/LIDL
-112,IT,LIDH,Thiene Airport,N45.40.53',E11.29.78',45.666666666666664,11.483333333333333,Private,,,,,,,,,https://www.getmetar.com/LIDH
-113,IT,LIDB,Belluno Airport,N46.10.03',E12.14.87',46.166666666666664,12.233333333333333, Public,,,,,,,,,https://www.getmetar.com/LIDB
-114,IT,LIDA,Asiago Airport,N45.53.27',E11.31.00',45.88333333333333,11.516666666666667, Public,3675 x 75feet,Hard,,,,,,,https://www.getmetar.com/LIDA
+0,IT,LILA,Alessandria Airport,N44.55.50',E8.37.52',44.91666666666666,8.616666666666667, Public,,,,,,,,,https://www.getmetar.com/LILA
+1,IT,LIEA,Alghero Fertilia Airport,N40.37.87',E8.17.32',40.61666666666667,8.283333333333333, Public,9843 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIEA
+2,IT,LILB,Alzate Brianza Airport,N45.46.20',E9.9.65',45.76666666666666,9.15, Public,,,,,,,,,https://www.getmetar.com/LILB
+3,IT,LIBA,Amendola Airport,N41.32.37',E15.42.83',41.53333333333333,15.7,Military,8727 x 144feet,Hard,,,,,,,https://www.getmetar.com/LIBA
+4,IT,LIPY,Ancona Falconara Airport,N43.37.00',E13.21.62',43.61666666666667,13.35, Public,9728 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIPY
+5,IT,LIMW,Aosta Airport,N45.44.30',E7.22.05',45.73333333333333,7.366666666666666, Public,4913 x 98feet,Hard,,,,,,,https://www.getmetar.com/LIMW
+6,IT,LIAQ,Aquino Airport,N41.29.17',E13.43.12',41.48333333333333,13.716666666666667, Public,,,,,,,,,https://www.getmetar.com/LIAQ
+7,IT,LIQB,Arezzo Airport,N43.27.35',E11.50.82',43.45,11.833333333333336, Public,,,,,,,,,https://www.getmetar.com/LIQB
+8,IT,LIDA,Asiago Airport,N45.53.27',E11.31.00',45.88333333333333,11.516666666666667, Public,3675 x 75feet,Hard,,,,,,,https://www.getmetar.com/LIDA
+9,IT,LIPA,Aviano Airport,N46.1.80',E12.35.93',46.01666666666666,12.583333333333336,Military,8583 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIPA
+10,IT,LIBD,Bari Palese Airport,N41.8.28',E16.45.90',41.13333333333333,16.75, Public,9252 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIBD
+11,IT,LIDB,Belluno Airport,N46.10.03',E12.14.87',46.16666666666666,12.233333333333333, Public,,,,,,,,,https://www.getmetar.com/LIDB
+12,IT,LILS,Bergamo Clusone Airport,N45.53.03',E9.57.98',45.88333333333333,9.95, Public,,,,,,,,,https://www.getmetar.com/LILS
+13,IT,LIME,Bergamo Orio Al Serio Airport,N45.40.13',E9.42.02',45.66666666666666,9.7, Public,9636 x 148feet,Hard,2552 x 59feet,Unknown,,,,,https://www.getmetar.com/LIME
+14,IT,LILE,Biella Cerrione Airport,N45.29.75',E8.6.15',45.48333333333333,8.1,Private,4331 x 98feet,Hard,,,,,,,https://www.getmetar.com/LILE
+15,IT,LIPE,Bologna Borgo Panigale Airport,N44.31.85',E11.17.82',44.51666666666666,11.283333333333333, Public,9196 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIPE
+16,IT,LIPB,Bolzano Airport,N46.27.62',E11.19.58',46.45,11.316666666666665, Public,4245 x 98feet,Hard,,,,,,,https://www.getmetar.com/LIPB
+17,IT,LIPO,Brescia Montichiari Airport,N45.25.73',E10.19.83',45.41666666666666,10.316666666666666, Public,9810 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIPO
+18,IT,LIBR,Brindisi Casale Airport,N40.39.64',E17.56.89',40.65,17.933333333333334, Public,10000 x 148feet,Hard,5892 x 148feet,Unknown,,,,,https://www.getmetar.com/LIBR
+19,IT,LIEE,Cagliari Elmas Airport,N39.14.83',E9.3.37',39.23333333333333,9.05, Public,9199 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIEE
+20,IT,LILC,Calcinate Del Pesce Airport,N45.48.58',E8.46.08',45.8,8.766666666666667, Public,,,,,,,,,https://www.getmetar.com/LILC
+21,IT,LIMN,Cameri Airport,N45.31.87',E8.39.92',45.51666666666666,8.65,Military,9554 x 102feet,Hard,,,,,,,https://www.getmetar.com/LIMN
+22,IT,LIAU,Capua Airport,N41.6.95',E14.10.68',41.1,14.166666666666664, Public,,,,,,,,,https://www.getmetar.com/LIAU
+23,IT,LIDU,Carpi Budrione Airport,N44.50.10',E10.52.30',44.83333333333334,10.866666666666667, Public,,,,,,,,,https://www.getmetar.com/LIDU
+24,IT,LILM,Casale Monferrato Airport,N45.6.67',E8.27.37',45.1,8.45, Public,,,,,,,,,https://www.getmetar.com/LILM
+25,IT,LIDK,Casarsa Della Delizia Airport,N45.57.27',E12.49.18',45.95,12.816666666666665,Military,,,,,,,,,https://www.getmetar.com/LIDK
+26,IT,LICC,Catania Fontanarrosa Airport,N37.28.00',E15.3.83',37.46666666666667,15.05, Public,7992 x 148feet,Hard,,,,,,,https://www.getmetar.com/LICC
+27,IT,LIPC,Cervia Airport,N44.13.31',E12.19.05',44.21666666666667,12.316666666666665,Military,10006 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIPC
+28,IT,LICB,Comiso Airport,N36.59.75',E14.36.53',36.98333333333333,14.6, Public,,,,,,,,,https://www.getmetar.com/LICB
+29,IT,LILY,Como Airport,N45.48.88',E9.4.18',45.8,9.066666666666666, Public,,,,,,,,,https://www.getmetar.com/LILY
+30,IT,LILR,Cremona Migliaro Airport,N45.10.03',E10.0.12',45.16666666666666,10.0, Public,,,,,,,,,https://www.getmetar.com/LILR
+31,IT,LIBC,Crotone Airport,N38.59.80',E17.4.75',38.98333333333333,17.066666666666666,Military,6562 x 147feet,Hard,,,,,,,https://www.getmetar.com/LIBC
+32,IT,LIED,Decimomannu Airport,N39.21.23',E8.58.30',39.35,8.966666666666667,Military,9810 x 148feet,Hard,8501 x 75feet,Unknown,,,,,https://www.getmetar.com/LIED
+33,IT,LIDF,Fano Airport,N43.49.55',E13.1.65',43.81666666666667,13.016666666666667, Public,,,,,,,,,https://www.getmetar.com/LIDF
+34,IT,LIPF,Ferrara Airport,N44.48.95',E11.36.80',44.8,11.6, Public,,,,,,,,,https://www.getmetar.com/LIPF
+35,IT,LIRQ,Firenze Peretola Airport,N43.48.52',E11.12.17',43.8,11.2, Public,5741 x 98feet,Hard,,,,,,,https://www.getmetar.com/LIRQ
+36,IT,LIBF,Foggia Gina Lisa Airport,N41.26.00',E15.32.08',41.43333333333333,15.533333333333333, Public,4718 x 154feet,Hard,,,,,,,https://www.getmetar.com/LIBF
+37,IT,LIAF,Foligno Airport,N42.55.97',E12.42.60',42.91666666666666,12.7, Public,4593 x 98feet,Hard,3609 x 98feet,Unknown,,,,,https://www.getmetar.com/LIAF
+38,IT,LIPK,Forli Airport,N44.11.73',E12.4.18',44.18333333333333,12.066666666666665, Public,7910 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIPK
+39,IT,LIRH,Frosinone Airport,N41.38.70',E13.17.94',41.63333333333333,13.283333333333333,Military,4695 x 131feet,Soft,,,,,,,https://www.getmetar.com/LIRH
+40,IT,LIMJ,Genoa Airport,N44.24.80',E8.50.25',44.4,8.833333333333334, Public,9567 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIMJ
+41,IT,LIPL,Ghedi Airport,N45.26.14',E10.16.22',45.43333333333333,10.266666666666667,Military,9813 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIPL
+42,IT,LIBV,Gioia Del Colle Airport,N40.46.18',E16.55.98',40.766666666666666,16.916666666666668,Military,9846 x 148feet,Hard,9823 x 98feet,Unknown,,,,,https://www.getmetar.com/LIBV
+43,IT,LIPG,Gorizia Airport,N45.54.40',E13.35.95',45.9,13.583333333333336, Public,,,,,,,,,https://www.getmetar.com/LIPG
+44,IT,LIRM,Grazzanise Airport,N41.3.72',E14.4.96',41.05,14.066666666666665,Military,9806 x 98feet,Hard,,,,,,,https://www.getmetar.com/LIRM
+45,IT,LIRS,Grosseto Airport,N42.45.58',E11.4.32',42.75,11.066666666666665, Public,9823 x 144feet,Hard,,,,,,,https://www.getmetar.com/LIRS
+46,IT,LIRG,Guidonia Airport,N41.59.77',E12.44.08',41.98333333333333,12.733333333333333,Military,4741 x 98feet,Hard,3520 x 194feet,Unknown,,,,,https://www.getmetar.com/LIRG
+47,IT,LIAP,LAquila Parchi Airport,N42.22.77',E13.18.57',42.36666666666667,13.3,Private,4623 x 85feet,Hard,,,,,,,https://www.getmetar.com/LIAP
+48,IT,LICA,Lamezia Terme Airport,N38.54.50',E16.14.50',38.9,16.233333333333334, Public,7927 x 148feet,Hard,,,,,,,https://www.getmetar.com/LICA
+49,IT,LICD,Lampedusa Airport,N35.29.88',E12.37.10',35.48333333333333,12.616666666666667, Public,5889 x 148feet,Hard,,,,,,,https://www.getmetar.com/LICD
+50,IT,LIRL,Latina Airport,N41.32.81',E12.54.50',41.53333333333333,12.9,Military,5617 x 131feet,Hard,,,,,,,https://www.getmetar.com/LIRL
+51,IT,LIBN,Lecce Galatina Airport,N40.14.35',E18.8.00',40.23333333333333,18.133333333333333,Military,6634 x 187feet,Hard,,,,,,,https://www.getmetar.com/LIBN
+52,IT,LINL,Lecce Lepore Airport,N40.21.35',E18.17.85',40.35,18.28333333333333, Public,,,,,,,,,https://www.getmetar.com/LINL
+53,IT,LIDL,Legnago Airport,N45.7.98',E11.17.53',45.11666666666667,11.283333333333333, Public,,,,,,,,,https://www.getmetar.com/LIDL
+54,IT,LIMZ,Levaldigi Airport,N44.32.85',E7.37.38',44.53333333333333,7.616666666666667, Public,6890 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIMZ
+55,IT,LIML,Linate Airport,N45.26.97',E9.16.70',45.43333333333333,9.266666666666667, Public,8012 x 197feet,Hard,1972 x 72feet,Unknown,,,,,https://www.getmetar.com/LIML
+56,IT,LIQL,Lucca Airport,N43.49.53',E10.34.68',43.81666666666667,10.566666666666666, Public,2986 x 59feet,Hard,,,,,,,https://www.getmetar.com/LIQL
+57,IT,LIDG,Lugo Di Romagna Airport,N44.23.88',E11.51.28',44.38333333333333,11.85, Public,,,,,,,,,https://www.getmetar.com/LIDG
+58,IT,LIQW,Luni Airport,N44.5.33',E9.59.33',44.08333333333334,9.983333333333333, Public,2969 x 75feet,Hard,,,,,,,https://www.getmetar.com/LIQW
+59,IT,LIRJ,Marina Di Campo Airport,N42.45.67',E10.14.38',42.75,10.233333333333333, Public,3658 x 75feet,Hard,,,,,,,https://www.getmetar.com/LIRJ
+60,IT,LILQ,Massa Cinquale Airport,N43.59.17',E10.8.63',43.98333333333333,10.133333333333333, Public,,,,,,,,,https://www.getmetar.com/LILQ
+61,IT,LIMB,Milan Bresso Airport,N45.32.48',E9.12.13',45.53333333333333,9.2, Public,3543 x 98feet,Hard,,,,,,,https://www.getmetar.com/LIMB
+62,IT,LIMC,Milano Malpensa Airport,N45.37.80',E8.43.38',45.61666666666667,8.716666666666667, Public,12861 x 197feet,Hard,12861 x 197feet,Unknown,,,,,https://www.getmetar.com/LIMC
+63,IT,LIPM,Modena Marzaglia Airport,N44.38.08',E10.48.62',44.63333333333333,10.8, Public,,,,,,,,,https://www.getmetar.com/LIPM
+64,IT,LIRN,Napoli Capodichino Airport,N40.53.07',E14.17.45',40.88333333333333,14.283333333333333, Public,8622 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIRN
+65,IT,LIMR,Novi Ligure Airport,N44.46.80',E8.47.18',44.76666666666666,8.783333333333333, Public,,,,,,,,,https://www.getmetar.com/LIMR
+66,IT,LIEO,Olbia Costa Smeralda Airport,N40.53.92',E9.31.07',40.88333333333333,9.516666666666667, Public,8025 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIEO
+67,IT,LIER,Oristano Fenosu Airport,N39.53.70',E8.38.58',39.88333333333333,8.633333333333333, Public,3934 x 98feet,Hard,,,,,,,https://www.getmetar.com/LIER
+68,IT,LIPU,Padova Airport,N45.23.77',E11.50.88',45.38333333333333,11.833333333333336, Public,3681 x 98feet,Hard,,,,,,,https://www.getmetar.com/LIPU
+69,IT,LICP,Palermo Boccadifalco Airport,N38.6.65',E13.18.80',38.1,13.3, Public,4016 x 148feet,Hard,,,,,,,https://www.getmetar.com/LICP
+70,IT,LICJ,Palermo Punta Raisi Airport,N38.10.92',E13.5.97',38.16666666666666,13.083333333333336, Public,10912 x 197feet,Hard,6804 x 148feet,Unknown,,,,,https://www.getmetar.com/LICJ
+71,IT,LICG,Pantelleria Airport,N36.48.78',E11.57.65',36.8,11.95,Military,5495 x 148feet,Hard,3612 x 98feet,Unknown,,,,,https://www.getmetar.com/LICG
+72,IT,LIMP,Parma Airport,N44.49.33',E10.17.72',44.81666666666667,10.283333333333333, Public,6962 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIMP
+73,IT,LIDP,Pavullo Airport,N44.19.33',E10.49.90',44.31666666666667,10.816666666666665, Public,,,,,,,,,https://www.getmetar.com/LIDP
+74,IT,LIRZ,Perugia S Francesco Airport,N43.5.83',E12.30.62',43.08333333333334,12.5, Public,7215 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIRZ
+75,IT,LIBP,Pescara Airport,N42.26.23',E14.11.23',42.43333333333333,14.183333333333335, Public,7936 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIBP
+76,IT,LIMS,Piacenza Airport,N44.54.83',E9.43.24',44.9,9.716666666666667,Military,9495 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIMS
+77,IT,LIDV,Prati Vecchi Di Aguscello Airport,N44.47.42',E11.40.15',44.78333333333333,11.666666666666664, Public,,,,,,,,,https://www.getmetar.com/LIDV
+78,IT,LIRE,Pratica Di Mare Airport,N41.39.56',E12.26.71',41.65,12.433333333333335,Military,8953 x 154feet,Hard,,,,,,,https://www.getmetar.com/LIRE
+79,IT,LIDR,Ravenna Airport,N44.21.87',E12.13.48',44.35,12.216666666666667, Public,3937 x 98feet,Hard,,,,,,,https://www.getmetar.com/LIDR
+80,IT,LICR,Reggio Calabria Airport,N38.4.32',E15.39.22',38.06666666666667,15.65, Public,6555 x 148feet,Hard,5574 x 148feet,Unknown,,,,,https://www.getmetar.com/LICR
+81,IT,LIDE,Reggio Emilia Airport,N44.41.93',E10.39.75',44.68333333333333,10.65, Public,3976 x 98feet,Hard,,,,,,,https://www.getmetar.com/LIDE
+82,IT,LIQN,Rieti Airport,N42.25.60',E12.51.00',42.41666666666666,12.85,Military,2654 x 164feet,Soft,2654 x 131feet,Unknown,,,,,https://www.getmetar.com/LIQN
+83,IT,LIPR,Rimini Airport,N44.1.17',E12.36.57',44.01666666666666,12.6, Public,9721 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIPR
+84,IT,LIMG,Riviera Airport Airport,N44.2.75',E8.7.53',44.03333333333333,8.116666666666667, Public,4688 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIMG
+85,IT,LIPI,Rivolto Airport,N45.58.84',E13.2.99',45.96666666666667,13.033333333333333,Military,8365 x 144feet,Hard,,,,,,,https://www.getmetar.com/LIPI
+86,IT,LIRA,Roma Ciampino Airport,N41.47.97',E12.35.83',41.78333333333333,12.583333333333336, Public,7242 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIRA
+87,IT,LIRF,Roma Fiumicino Airport,N41.48.02',E12.14.33',41.8,12.233333333333333, Public,12802 x 197feet,Hard,12802 x 197feet,Unknown,11818 x 148feet,Unknown,10849 x 148feet,Unknown,https://www.getmetar.com/LIRF
+88,IT,LIRU,Rome Urbe Airport,N41.57.12',E12.30.05',41.95,12.5, Public,3556 x 98feet,Hard,,,,,,,https://www.getmetar.com/LIRU
+89,IT,LIRI,Salerno Pontecagnano Airport,N40.37.20',E14.54.75',40.61666666666667,14.9, Public,5430 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIRI
+90,IT,LIQS,Siena Airport,N43.15.52',E11.15.30',43.25,11.25, Public,4570 x 98feet,Hard,,,,,,,https://www.getmetar.com/LIQS
+91,IT,LICZ,Sigonella Airport,N37.24.35',E14.55.43',37.4,14.916666666666664,Military,8077 x 148feet,Hard,8012 x 92feet,Unknown,,,,,https://www.getmetar.com/LICZ
+92,IT,LIBG,Taranto Grottaglie Airport,N40.31.03',E17.23.98',40.516666666666666,17.383333333333333, Public,10499 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIBG
+93,IT,LIDH,Thiene Airport,N45.40.53',E11.29.78',45.66666666666666,11.483333333333333,Private,,,,,,,,,https://www.getmetar.com/LIDH
+94,IT,LIMA,Torino Aeritalia Airport,N45.5.07',E7.36.18',45.08333333333334,7.6, Public,3524 x 98feet,Hard,2461 x 131feet,Unknown,,,,,https://www.getmetar.com/LIMA
+95,IT,LIMF,Torino Caselle Airport,N45.12.15',E7.38.97',45.2,7.633333333333333, Public,10827 x 197feet,Hard,,,,,,,https://www.getmetar.com/LIMF
+96,IT,LICT,Trapani Birgi Airport,N37.54.72',E12.29.60',37.9,12.483333333333333, Public,8842 x 144feet,Hard,8461 x 98feet,Unknown,,,,,https://www.getmetar.com/LICT
+97,IT,LIDT,Trento Mattarello Airport,N46.1.40',E11.7.50',46.01666666666666,11.116666666666667, Public,3215 x 98feet,Hard,,,,,,,https://www.getmetar.com/LIDT
+98,IT,LIPS,Treviso Istrana Airport,N45.41.07',E12.5.23',45.68333333333333,12.083333333333336,Military,9816 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIPS
+99,IT,LIPQ,Trieste Ronchi Dei Legionari Airport,N45.49.65',E13.28.33',45.81666666666667,13.466666666666667, Public,9842 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIPQ
+100,IT,LIPD,Udine Campoformido Airport,N46.1.92',E13.11.20',46.01666666666666,13.183333333333335,Military,,,,,,,,,https://www.getmetar.com/LIPD
+101,IT,LILV,Valbrembo Airport,N45.43.23',E9.35.62',45.71666666666667,9.583333333333334, Public,,,,,,,,,https://www.getmetar.com/LILV
+102,IT,LILN,Varese Venegono Airport,N45.44.53',E8.53.28',45.73333333333333,8.883333333333333,Military,4659 x 131feet,Hard,,,,,,,https://www.getmetar.com/LILN
+103,IT,LILW,Venaria Reale Airport,N45.7.83',E7.37.00',45.11666666666667,7.616666666666667,Military,,,,,,,,,https://www.getmetar.com/LILW
+104,IT,LIPV,Venezia Lido Airport,N45.25.73',E12.23.27',45.41666666666666,12.383333333333333, Public,3261 x 148feet,Soft,,,,,,,https://www.getmetar.com/LIPV
+105,IT,LIPZ,Venezia Tessera Airport,N45.30.32',E12.21.12',45.5,12.35, Public,10827 x 148feet,Hard,9121 x 148feet,Unknown,,,,,https://www.getmetar.com/LIPZ
+106,IT,LILI,Vercelli Airport,N45.18.68',E8.25.05',45.3,8.416666666666666, Public,,,,,,,,,https://www.getmetar.com/LILI
+107,IT,LILG,Vergiate Airport,N45.42.87',E8.41.98',45.7,8.683333333333334, Public,2612 x 164feet,Hard,,,,,,,https://www.getmetar.com/LILG
+108,IT,LIPN,Verona Boscomantio Airport,N45.28.38',E10.55.62',45.46666666666667,10.916666666666664, Public,3327 x 72feet,Hard,,,,,,,https://www.getmetar.com/LIPN
+109,IT,LIPX,Verona Villafranca Airport,N45.23.78',E10.53.27',45.38333333333333,10.883333333333333, Public,10066 x 148feet,Hard,,,,,,,https://www.getmetar.com/LIPX
+110,IT,LIPT,Vicenza Airport,N45.34.30',E11.31.62',45.56666666666667,11.516666666666667,Military,,,,,,,,,https://www.getmetar.com/LIPT
+111,IT,LIRV,Viterbo Airport,N42.25.81',E12.3.85',42.41666666666666,12.05,Military,4921 x 98feet,Hard,3018 x 79feet,Unknown,1936 x 112feet,Unknown,,,https://www.getmetar.com/LIRV
+112,IT,LILH,Voghera Rivanazzano Airport,N44.57.12',E9.0.99',44.95,9.0, Public,3281 x 98feet,Hard,,,,,,,https://www.getmetar.com/LILH
+113,IT,LIRP,,,,0.0,0.0,,,,,,,,,,https://www.getmetar.com/LIRP
+114,IT,LIPH,,,,0.0,0.0,,,,,,,,,,https://www.getmetar.com/LIPH

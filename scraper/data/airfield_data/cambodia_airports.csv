@@ -1,10 +1,10 @@
 ,country,icaoCodes,airFieldName,latitude,longitude,ddLatitude,ddLongitude,airportUse,runwayOneDimensions,runwayOneSurface,runwayTwoDimensions,runwayTwoSurface,runwayThreeDimensions,runwayThreeSurface,runwayFourDimensions,runwayFourSurface,weatherLink
-0,KH,VDBG,Battambang Airport,N13.5.73',E103.13.46',13.083333333333334,103.21666666666667, Public,5165 x 112feet,Hard,,,,,,,https://www.getmetar.com/VDBG
+0,KH,VDBG,Battambang Airport,N13.5.73',E103.13.46',13.083333333333336,103.21666666666668, Public,5165 x 112feet,Hard,,,,,,,https://www.getmetar.com/VDBG
 1,KH,VDKH,Kampong Chhnang Airport,N12.15.27',E104.33.87',12.25,104.55, Public,7874 x 164feet,Hard,,,,,,,https://www.getmetar.com/VDKH
-2,KH,VDKK,Koh Kong Airport,N11.36.78',E102.59.85',11.6,102.98333333333333, Public,4265 x 98feet,Soft,,,,,,,https://www.getmetar.com/VDKK
-3,KH,VDSV,Sihanouk International Airport,N10.34.48',E103.38.05',10.566666666666666,103.63333333333334, Public,8202 x 112feet,Hard,,,,,,,https://www.getmetar.com/VDSV
-4,KH,VDMK,Mondulkiri Airport,N12.27.77',E107.11.20',12.45,107.18333333333334, Public,3281 x 75feet,Soft,,,,,,,https://www.getmetar.com/VDMK
-5,KH,VDPP,Phnom Penh International Airport,N11.32.80',E104.50.65',11.533333333333333,104.83333333333333, Public,9842 x 131feet,Hard,,,,,,,https://www.getmetar.com/VDPP
-6,KH,VDRK,Ratanakiri Airport,N13.43.87',E106.59.02',13.716666666666667,106.98333333333333, Public,4262 x 98feet,Unknown,,,,,,,https://www.getmetar.com/VDRK
-7,KH,VDSR,Siem Reap International Airport,N13.24.65',E103.48.73',13.4,103.8, Public,8366 x 148feet,Hard,,,,,,,https://www.getmetar.com/VDSR
+2,KH,VDKK,Koh Kong Airport,N11.36.78',E102.59.85',11.6,102.98333333333332, Public,4265 x 98feet,Soft,,,,,,,https://www.getmetar.com/VDKK
+3,KH,VDMK,Mondulkiri Airport,N12.27.77',E107.11.20',12.45,107.18333333333334, Public,3281 x 75feet,Soft,,,,,,,https://www.getmetar.com/VDMK
+4,KH,VDPP,Phnom Penh International Airport,N11.32.80',E104.50.65',11.533333333333333,104.83333333333331, Public,9842 x 131feet,Hard,,,,,,,https://www.getmetar.com/VDPP
+5,KH,VDRK,Ratanakiri Airport,N13.43.87',E106.59.02',13.716666666666667,106.98333333333332, Public,4262 x 98feet,Unknown,,,,,,,https://www.getmetar.com/VDRK
+6,KH,VDSR,Siem Reap International Airport,N13.24.65',E103.48.73',13.4,103.8, Public,8366 x 148feet,Hard,,,,,,,https://www.getmetar.com/VDSR
+7,KH,VDSV,Sihanouk International Airport,N10.34.48',E103.38.05',10.566666666666666,103.63333333333334, Public,8202 x 112feet,Hard,,,,,,,https://www.getmetar.com/VDSV
 8,KH,VDST,Stung Treng Airport,N13.31.88',E106.0.85',13.516666666666667,106.0, Public,4265 x 95feet,Hard,,,,,,,https://www.getmetar.com/VDST

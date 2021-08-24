@@ -1,1 +1,3 @@
 Encountered errors with the following countries please run again with only the following countries. 
+Failed to update Australia because of ('Connection aborted.', OSError("(10060, 'WSAETIMEDOUT')",))
+Failed to update United_Kingdom because of Length mismatch: Expected axis has 14 elements, new values have 12 elements

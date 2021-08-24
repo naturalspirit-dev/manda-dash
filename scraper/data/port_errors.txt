@@ -1,1 +1,2 @@
 Encountered errors with the following countries please run again with only the following countries. 
+Failed to update germany because of ('Connection aborted.', OSError("(10060, 'WSAETIMEDOUT')",))

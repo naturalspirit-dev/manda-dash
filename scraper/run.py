@@ -40,7 +40,6 @@ def main():
         'Thailand',
         'Tonga',
         'Tuvalu',
-        'United_Kingdom',
         'Vanuatu',
         'Vietnam'
     ]

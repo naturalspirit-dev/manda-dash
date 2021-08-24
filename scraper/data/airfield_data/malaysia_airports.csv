@@ -1,57 +1,57 @@
 ,country,icaoCodes,airFieldName,latitude,longitude,ddLatitude,ddLongitude,airportUse,runwayOneDimensions,runwayOneSurface,runwayTwoDimensions,runwayTwoSurface,runwayThreeDimensions,runwayThreeSurface,runwayFourDimensions,runwayFourSurface,weatherLink
-0,MY,WSSS,Singapore Changi International Airport,N1.21.55',E103.59.36',1.35,103.98333333333333, Public,13124 x 197feet,Hard,13123 x 197feet,Unknown,9022 x 197feet,Unknown,,,https://www.getmetar.com/WSSS
-1,MY,WMKJ,Johor Bahru Senai International Airport,N1.38.43',E103.40.22',1.6333333333333333,103.66666666666667, Public,12467 x 148feet,Hard,,,,,,,https://www.getmetar.com/WMKJ
-2,MY,WMBT,Pulau Tioman Airport,N2.49.15',E104.9.60',2.8166666666666664,104.15, Public,3255 x 100feet,Hard,,,,,,,https://www.getmetar.com/WMBT
-3,MY,WMAZ,Segamat Airport,N2.30.00',E102.49.90',2.5,102.81666666666666, Public,,,,,,,,,https://www.getmetar.com/WMAZ
-4,MY,WMAP,Kluang Airport,N2.2.63',E103.18.45',2.033333333333333,103.3, Public,4101 x 121feet,Soft,,,,,,,https://www.getmetar.com/WMAP
-5,MY,WMKL,Langkawi International Airport,N6.20.37',E99.44.02',6.333333333333333,99.73333333333333, Public,12500 x 148feet,Hard,,,,,,,https://www.getmetar.com/WMKL
-6,MY,WMKA,Alor Setar Sultan Abdul Halim Airport,N6.11.67',E100.24.05',6.183333333333334,100.4, Public,9369 x 151feet,Hard,,,,,,,https://www.getmetar.com/WMKA
-7,MY,WMKC,Kota Bharu Sultan Ismail Petra Airport,N6.10.07',E102.17.45',6.166666666666667,102.28333333333333, Public,7874 x 148feet,Hard,,,,,,,https://www.getmetar.com/WMKC
-8,MY,WMGK,Gong Kedak Airport,N5.47.93',E102.29.42',5.783333333333333,102.48333333333333, Public,6601 x 150feet,Hard,,,,,,,https://www.getmetar.com/WMGK
-9,MY,WMKM,Malacca Airport,N2.15.78',E102.15.15',2.25,102.25, Public,7005 x 148feet,Hard,,,,,,,https://www.getmetar.com/WMKM
-10,MY,WMKD,Kuantan Airport,N3.46.18',E103.12.56',3.7666666666666666,103.2,Military,9200 x 148feet,Hard,,,,,,,https://www.getmetar.com/WMKD
-11,MY,WMPA,Pulau Pangkor Airport,N4.14.68',E100.33.20',4.233333333333333,100.55, Public,,,,,,,,,https://www.getmetar.com/WMPA
-12,MY,WMKI,Ipoh Sultan Azlan Shah Airport,N4.34.15',E101.5.58',4.566666666666666,101.08333333333333, Public,6562 x 148feet,Hard,,,,,,,https://www.getmetar.com/WMKI
-13,MY,WMBI,Taiping Airport,N4.52.02',E100.43.02',4.866666666666667,100.71666666666667,Military,,,,,,,,,https://www.getmetar.com/WMBI
-14,MY,WMAH,Grik Airport,N5.26.00',E101.7.00',5.433333333333334,101.11666666666666, Public,,,,,,,,,https://www.getmetar.com/WMAH
-15,MY,WMKP,Penang International Airport,N5.17.73',E100.16.33',5.283333333333333,100.26666666666667, Public,10997 x 151feet,Hard,,,,,,,https://www.getmetar.com/WMKP
-16,MY,WMKB,Butterworth Airport,N5.28.05',E100.23.50',5.466666666666667,100.38333333333334,Military,8000 x 150feet,Hard,,,,,,,https://www.getmetar.com/WMKB
-17,MY,WBKW,Tawau Airport,N4.18.65',E118.6.98',4.3,118.1, Public,8809 x 154feet,Hard,,,,,,,https://www.getmetar.com/WBKW
-18,MY,WBKU,Kuala Penyu Airport,N5.35.98',E115.34.47',5.583333333333333,115.56666666666666, Public,,,,,,,,,https://www.getmetar.com/WBKU
-19,MY,WBKT,Kudat Airport,N6.55.42',E116.50.27',6.916666666666667,116.83333333333333, Public,,,,,,,,,https://www.getmetar.com/WBKT
-20,MY,WBKS,Sandakan Airport,N5.54.05',E118.3.68',5.9,118.05, Public,6998 x 148feet,Hard,,,,,,,https://www.getmetar.com/WBKS
-21,MY,WBKR,Ranau Airport,N5.57.48',E116.40.42',5.95,116.66666666666667, Public,,,,,,,,,https://www.getmetar.com/WBKR
-22,MY,WBKP,Pamol Airport,N5.59.57',E117.23.78',5.983333333333333,117.38333333333334, Public,,,,,,,,,https://www.getmetar.com/WBKP
-23,MY,WBKO,Sepulot Airport,N4.42.73',E116.27.22',4.7,116.45, Public,,,,,,,,,https://www.getmetar.com/WBKO
-24,MY,WBKN,Long Pasia Airport,N4.24.57',E115.43.13',4.4,115.71666666666667, Public,,,,,,,,,https://www.getmetar.com/WBKN
-25,MY,WBKM,Tommanggong Airport,N5.23.98',E118.38.78',5.383333333333334,118.63333333333334, Public,,,,,,,,,https://www.getmetar.com/WBKM
-26,MY,WBKL,Labuan Airport,N5.17.78',E115.15.13',5.283333333333333,115.25,Military,9006 x 148feet,Hard,,,,,,,https://www.getmetar.com/WBKL
-27,MY,WBKK,Kota Kinabalu Airport,N5.55.92',E116.3.02',5.916666666666667,116.05, Public,12402 x 148feet,Hard,,,,,,,https://www.getmetar.com/WBKK
-28,MY,WBKG,Keningau Airport,N5.21.43',E116.9.55',5.35,116.15,Private,,,,,,,,,https://www.getmetar.com/WBKG
-29,MY,WBKD,Lahad Datu Airport,N5.1.77',E118.19.75',5.016666666666667,118.31666666666666, Public,4498 x 98feet,Hard,,,,,,,https://www.getmetar.com/WBKD
-30,MY,WBKB,Kota Belud Airport,N6.21.98',E116.27.80',6.35,116.45,Military,,,,,,,,,https://www.getmetar.com/WBKB
-31,MY,WBKA,Semporna Airport,N4.26.98',E118.35.78',4.433333333333334,118.58333333333333, Public,,,,,,,,,https://www.getmetar.com/WBKA
-32,MY,WBTM,Tanjung Manis Airport,N2.10.60',E111.12.13',2.1666666666666665,111.2, Public,4912 x 98feet,Hard,,,,,,,https://www.getmetar.com/WBTM
-33,MY,WBMU,Mulu Airport,N4.2.97',E114.48.57',4.033333333333333,114.8, Public,4921 x 98feet,Hard,,,,,,,https://www.getmetar.com/WBMU
-34,MY,WBGZ,Bario Airport,N3.44.11',E115.28.67',3.7333333333333334,115.46666666666667, Public,,,,,,,,,https://www.getmetar.com/WBGZ
-35,MY,WBGW,Lawas Airport,N4.50.78',E115.24.43',4.833333333333333,115.4, Public,,,,,,,,,https://www.getmetar.com/WBGW
-36,MY,WBGS,Sibu Airport,N2.15.85',E111.58.95',2.25,111.96666666666667, Public,9006 x 148feet,Hard,,,,,,,https://www.getmetar.com/WBGS
-37,MY,WBGR,Miri Airport,N4.19.35',E113.59.23',4.316666666666666,113.98333333333333, Public,9006 x 197feet,Hard,,,,,,,https://www.getmetar.com/WBGR
-38,MY,WBGQ,Bakelalan Airport,N3.58.48',E115.37.13',3.966666666666667,115.61666666666666, Public,,,,,,,,,https://www.getmetar.com/WBGQ
-39,MY,WBGP,Kapit Airport,N2.0.58',E112.55.92',2.0,112.91666666666667, Public,,,,,,,,,https://www.getmetar.com/WBGP
-40,MY,WBGM,Marudi Airport,N4.10.74',E114.19.66',4.166666666666667,114.31666666666666, Public,3426 x 81feet,Hard,,,,,,,https://www.getmetar.com/WBGM
-41,MY,WBGL,Long Banga Airport,N3.12.08',E115.24.10',3.2,115.4, Public,,,,,,,,,https://www.getmetar.com/WBGL
-42,MY,WBGK,Mukah Airport,N2.52.92',E112.2.61',2.8666666666666667,112.03333333333333, Public,,,,,,,,,https://www.getmetar.com/WBGK
-43,MY,WBGJ,Limbang Airport,N4.48.50',E115.0.57',4.8,115.0, Public,4921 x 98feet,Hard,,,,,,,https://www.getmetar.com/WBGJ
-44,MY,WBGI,Long Seridan Airport,N3.58.62',E115.4.12',3.966666666666667,115.06666666666666, Public,,,,,,,,,https://www.getmetar.com/WBGI
-45,MY,WBGG,Kuching International Airport,N1.29.12',E110.20.70',1.4833333333333334,110.33333333333333, Public,12402 x 151feet,Hard,,,,,,,https://www.getmetar.com/WBGG
-46,MY,WBGF,Long Lellang Airport,N3.25.28',E115.9.20',3.4166666666666665,115.15, Public,,,,,,,,,https://www.getmetar.com/WBGF
-47,MY,WBGD,Long Semado Airport,N4.12.98',E115.34.97',4.2,115.56666666666666, Public,,,,,,,,,https://www.getmetar.com/WBGD
-48,MY,WBGC,Belaga Airport,N2.38.17',E113.45.63',2.6333333333333333,113.75,Private,,,,,,,,,https://www.getmetar.com/WBGC
-49,MY,WBGB,Bintulu Airport,N3.7.45',E113.1.18',3.1166666666666667,113.01666666666667, Public,9006 x 148feet,Hard,,,,,,,https://www.getmetar.com/WBGB
-50,MY,WBGA,Long Akah Airport,N3.18.77',E114.47.18',3.3,114.78333333333333, Public,,,,,,,,,https://www.getmetar.com/WBGA
+0,MY,WMKA,Alor Setar Sultan Abdul Halim Airport,N6.11.67',E100.24.05',6.183333333333334,100.4, Public,9369 x 151feet,Hard,,,,,,,https://www.getmetar.com/WMKA
+1,MY,WBGQ,Bakelalan Airport,N3.58.48',E115.37.13',3.966666666666667,115.61666666666666, Public,,,,,,,,,https://www.getmetar.com/WBGQ
+2,MY,WBGZ,Bario Airport,N3.44.11',E115.28.67',3.733333333333333,115.46666666666668, Public,,,,,,,,,https://www.getmetar.com/WBGZ
+3,MY,WBGC,Belaga Airport,N2.38.17',E113.45.63',2.6333333333333333,113.75,Private,,,,,,,,,https://www.getmetar.com/WBGC
+4,MY,WBGB,Bintulu Airport,N3.7.45',E113.1.18',3.1166666666666667,113.01666666666668, Public,9006 x 148feet,Hard,,,,,,,https://www.getmetar.com/WBGB
+5,MY,WMKB,Butterworth Airport,N5.28.05',E100.23.50',5.466666666666668,100.38333333333334,Military,8000 x 150feet,Hard,,,,,,,https://www.getmetar.com/WMKB
+6,MY,WMGK,Gong Kedak Airport,N5.47.93',E102.29.42',5.783333333333332,102.48333333333332, Public,6601 x 150feet,Hard,,,,,,,https://www.getmetar.com/WMGK
+7,MY,WMAH,Grik Airport,N5.26.00',E101.7.00',5.433333333333334,101.11666666666666, Public,,,,,,,,,https://www.getmetar.com/WMAH
+8,MY,WMKI,Ipoh Sultan Azlan Shah Airport,N4.34.15',E101.5.58',4.566666666666666,101.08333333333331, Public,6562 x 148feet,Hard,,,,,,,https://www.getmetar.com/WMKI
+9,MY,WMKJ,Johor Bahru Senai International Airport,N1.38.43',E103.40.22',1.6333333333333333,103.66666666666669, Public,12467 x 148feet,Hard,,,,,,,https://www.getmetar.com/WMKJ
+10,MY,WBGP,Kapit Airport,N2.0.58',E112.55.92',2.0,112.91666666666669, Public,,,,,,,,,https://www.getmetar.com/WBGP
+11,MY,WBKG,Keningau Airport,N5.21.43',E116.9.55',5.35,116.15,Private,,,,,,,,,https://www.getmetar.com/WBKG
+12,MY,WMKE,Kerteh Airport,N4.32.30',E103.25.60',4.533333333333333,103.41666666666669, Public,4469 x 98feet,Hard,,,,,,,https://www.getmetar.com/WMKE
+13,MY,WMKK,Kl International Sepang Airport,N2.44.60',E101.41.88',2.7333333333333334,101.68333333333334, Public,13186 x 197feet,Hard,13123 x 197feet,Unknown,,,,,https://www.getmetar.com/WMKK
+14,MY,WMAP,Kluang Airport,N2.2.63',E103.18.45',2.033333333333333,103.3, Public,4101 x 121feet,Soft,,,,,,,https://www.getmetar.com/WMAP
+15,MY,WBKB,Kota Belud Airport,N6.21.98',E116.27.80',6.35,116.45,Military,,,,,,,,,https://www.getmetar.com/WBKB
+16,MY,WMKC,Kota Bharu Sultan Ismail Petra Airport,N6.10.07',E102.17.45',6.166666666666668,102.28333333333332, Public,7874 x 148feet,Hard,,,,,,,https://www.getmetar.com/WMKC
+17,MY,WBKK,Kota Kinabalu Airport,N5.55.92',E116.3.02',5.916666666666668,116.05, Public,12402 x 148feet,Hard,,,,,,,https://www.getmetar.com/WBKK
+18,MY,WBKU,Kuala Penyu Airport,N5.35.98',E115.34.47',5.583333333333332,115.56666666666666, Public,,,,,,,,,https://www.getmetar.com/WBKU
+19,MY,WMKN,Kuala Terengganu Sultan Mahmud Airport,N5.22.87',E103.6.18',5.366666666666666,103.1, Public,11417 x 148feet,Hard,,,,,,,https://www.getmetar.com/WMKN
+20,MY,WMKD,Kuantan Airport,N3.46.18',E103.12.56',3.7666666666666666,103.2,Military,9200 x 148feet,Hard,,,,,,,https://www.getmetar.com/WMKD
+21,MY,WBGG,Kuching International Airport,N1.29.12',E110.20.70',1.4833333333333334,110.33333333333331, Public,12402 x 151feet,Hard,,,,,,,https://www.getmetar.com/WBGG
+22,MY,WBKT,Kudat Airport,N6.55.42',E116.50.27',6.916666666666668,116.83333333333331, Public,,,,,,,,,https://www.getmetar.com/WBKT
+23,MY,WBKL,Labuan Airport,N5.17.78',E115.15.13',5.283333333333333,115.25,Military,9006 x 148feet,Hard,,,,,,,https://www.getmetar.com/WBKL
+24,MY,WBKD,Lahad Datu Airport,N5.1.77',E118.19.75',5.016666666666667,118.31666666666666, Public,4498 x 98feet,Hard,,,,,,,https://www.getmetar.com/WBKD
+25,MY,WMKL,Langkawi International Airport,N6.20.37',E99.44.02',6.333333333333332,99.73333333333332, Public,12500 x 148feet,Hard,,,,,,,https://www.getmetar.com/WMKL
+26,MY,WBGW,Lawas Airport,N4.50.78',E115.24.43',4.833333333333333,115.4, Public,,,,,,,,,https://www.getmetar.com/WBGW
+27,MY,WBGJ,Limbang Airport,N4.48.50',E115.0.57',4.8,115.0, Public,4921 x 98feet,Hard,,,,,,,https://www.getmetar.com/WBGJ
+28,MY,WBGA,Long Akah Airport,N3.18.77',E114.47.18',3.3,114.78333333333332, Public,,,,,,,,,https://www.getmetar.com/WBGA
+29,MY,WBGL,Long Banga Airport,N3.12.08',E115.24.10',3.2,115.4, Public,,,,,,,,,https://www.getmetar.com/WBGL
+30,MY,WBGF,Long Lellang Airport,N3.25.28',E115.9.20',3.4166666666666665,115.15, Public,,,,,,,,,https://www.getmetar.com/WBGF
+31,MY,WBKN,Long Pasia Airport,N4.24.57',E115.43.13',4.4,115.71666666666668, Public,,,,,,,,,https://www.getmetar.com/WBKN
+32,MY,WBGD,Long Semado Airport,N4.12.98',E115.34.97',4.2,115.56666666666666, Public,,,,,,,,,https://www.getmetar.com/WBGD
+33,MY,WBGI,Long Seridan Airport,N3.58.62',E115.4.12',3.966666666666667,115.06666666666666, Public,,,,,,,,,https://www.getmetar.com/WBGI
+34,MY,WMKM,Malacca Airport,N2.15.78',E102.15.15',2.25,102.25, Public,7005 x 148feet,Hard,,,,,,,https://www.getmetar.com/WMKM
+35,MY,WBGM,Marudi Airport,N4.10.74',E114.19.66',4.166666666666667,114.31666666666666, Public,3426 x 81feet,Hard,,,,,,,https://www.getmetar.com/WBGM
+36,MY,WBGR,Miri Airport,N4.19.35',E113.59.23',4.316666666666666,113.98333333333332, Public,9006 x 197feet,Hard,,,,,,,https://www.getmetar.com/WBGR
+37,MY,WBGK,Mukah Airport,N2.52.92',E112.2.61',2.8666666666666667,112.03333333333332, Public,,,,,,,,,https://www.getmetar.com/WBGK
+38,MY,WBMU,Mulu Airport,N4.2.97',E114.48.57',4.033333333333333,114.8, Public,4921 x 98feet,Hard,,,,,,,https://www.getmetar.com/WBMU
+39,MY,WBKP,Pamol Airport,N5.59.57',E117.23.78',5.9833333333333325,117.38333333333334, Public,,,,,,,,,https://www.getmetar.com/WBKP
+40,MY,WMKP,Penang International Airport,N5.17.73',E100.16.33',5.283333333333333,100.26666666666668, Public,10997 x 151feet,Hard,,,,,,,https://www.getmetar.com/WMKP
+41,MY,WMPA,Pulau Pangkor Airport,N4.14.68',E100.33.20',4.233333333333333,100.55, Public,,,,,,,,,https://www.getmetar.com/WMPA
+42,MY,WMPR,Pulau Redang Airport,N5.46.10',E103.0.35',5.7666666666666675,103.0, Public,,,,,,,,,https://www.getmetar.com/WMPR
+43,MY,WMBT,Pulau Tioman Airport,N2.49.15',E104.9.60',2.8166666666666664,104.15, Public,3255 x 100feet,Hard,,,,,,,https://www.getmetar.com/WMBT
+44,MY,WBKR,Ranau Airport,N5.57.48',E116.40.42',5.95,116.66666666666669, Public,,,,,,,,,https://www.getmetar.com/WBKR
+45,MY,WBKS,Sandakan Airport,N5.54.05',E118.3.68',5.9,118.05, Public,6998 x 148feet,Hard,,,,,,,https://www.getmetar.com/WBKS
+46,MY,WMAZ,Segamat Airport,N2.30.00',E102.49.90',2.5,102.81666666666666, Public,,,,,,,,,https://www.getmetar.com/WMAZ
+47,MY,WBKA,Semporna Airport,N4.26.98',E118.35.78',4.433333333333334,118.58333333333331, Public,,,,,,,,,https://www.getmetar.com/WBKA
+48,MY,WBKO,Sepulot Airport,N4.42.73',E116.27.22',4.7,116.45, Public,,,,,,,,,https://www.getmetar.com/WBKO
+49,MY,WBGS,Sibu Airport,N2.15.85',E111.58.95',2.25,111.96666666666668, Public,9006 x 148feet,Hard,,,,,,,https://www.getmetar.com/WBGS
+50,MY,WSSS,Singapore Changi International Airport,N1.21.55',E103.59.36',1.35,103.98333333333332, Public,13124 x 197feet,Hard,13123 x 197feet,Unknown,9022 x 197feet,Unknown,,,https://www.getmetar.com/WSSS
 51,MY,WMSA,Sultan Abdul Aziz Shah Airport,N3.7.93',E101.33.02',3.1166666666666667,101.55, Public,12401 x 148feet,Hard,,,,,,,https://www.getmetar.com/WMSA
-52,MY,WMKK,Kl International Sepang Airport,N2.44.60',E101.41.88',2.7333333333333334,101.68333333333334, Public,13186 x 197feet,Hard,13123 x 197feet,Unknown,,,,,https://www.getmetar.com/WMKK
-53,MY,WMPR,Pulau Redang Airport,N5.46.10',E103.0.35',5.766666666666667,103.0, Public,,,,,,,,,https://www.getmetar.com/WMPR
-54,MY,WMKN,Kuala Terengganu Sultan Mahmud Airport,N5.22.87',E103.6.18',5.366666666666666,103.1, Public,11417 x 148feet,Hard,,,,,,,https://www.getmetar.com/WMKN
-55,MY,WMKE,Kerteh Airport,N4.32.30',E103.25.60',4.533333333333333,103.41666666666667, Public,4469 x 98feet,Hard,,,,,,,https://www.getmetar.com/WMKE
+52,MY,WMBI,Taiping Airport,N4.52.02',E100.43.02',4.866666666666667,100.71666666666668,Military,,,,,,,,,https://www.getmetar.com/WMBI
+53,MY,WBTM,Tanjung Manis Airport,N2.10.60',E111.12.13',2.1666666666666665,111.2, Public,4912 x 98feet,Hard,,,,,,,https://www.getmetar.com/WBTM
+54,MY,WBKW,Tawau Airport,N4.18.65',E118.6.98',4.3,118.1, Public,8809 x 154feet,Hard,,,,,,,https://www.getmetar.com/WBKW
+55,MY,WBKM,Tommanggong Airport,N5.23.98',E118.38.78',5.383333333333334,118.63333333333334, Public,,,,,,,,,https://www.getmetar.com/WBKM

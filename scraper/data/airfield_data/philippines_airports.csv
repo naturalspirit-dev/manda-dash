@@ -1,96 +1,96 @@
 ,country,icaoCodes,airFieldName,latitude,longitude,ddLatitude,ddLongitude,airportUse,runwayOneDimensions,runwayOneSurface,runwayTwoDimensions,runwayTwoSurface,runwayThreeDimensions,runwayThreeSurface,runwayFourDimensions,runwayFourSurface,weatherLink
-0,PH,RPME,Butuan Principal Airport,N8.57.11',E125.28.69',8.95,125.46666666666667, Public,6450 x 150feet,Hard,,,,,,,https://www.getmetar.com/RPME
-1,PH,RPVK,Kalibo Airport,N11.40.77',E122.22.52',11.666666666666666,122.36666666666666, Public,7175 x 148feet,Hard,,,,,,,https://www.getmetar.com/RPVK
-2,PH,RPVE,Caticlan Airport,N11.55.58',E121.57.44',11.916666666666666,121.95, Public,3117 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPVE
-3,PH,RPLP,Legazpi Principal Class 1 Airport,N13.9.43',E123.44.06',13.15,123.73333333333333, Public,7480 x 118feet,Hard,,,,,,,https://www.getmetar.com/RPLP
-4,PH,RPVS,Antique Airport,N10.45.98',E121.55.94',10.75,121.91666666666667, Public,3937 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPVS
-5,PH,RPUR,Baler Community Airport Airport,N15.43.77',E121.30.22',15.716666666666667,121.5, Public,3776 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPUR
-6,PH,RPLB,Subic Bay Airport,N14.47.67',E120.16.28',14.783333333333333,120.26666666666667, Public,9003 x 148feet,Hard,,,,,,,https://www.getmetar.com/RPLB
-7,PH,RPUO,Basco Principal Airport,N20.27.09',E121.58.81',20.45,121.96666666666667, Public,3820 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPUO
-8,PH,RPLT,Itbayat Airport,N20.43.24',E121.49.59',20.716666666666665,121.81666666666666, Public,,,,,,,,,https://www.getmetar.com/RPLT
-9,PH,RPUL,Fernando Airport,N13.57.00',E121.7.00',13.95,121.11666666666666,Military,4953 x 148feet,Hard,,,,,,,https://www.getmetar.com/RPUL
-10,PH,RPUB,Baguio Airport,N16.22.51',E120.37.14',16.366666666666667,120.61666666666666, Public,5512 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPUB
-11,PH,RPVQ,Biliran Community Airport Airport,N11.33.77',E124.24.84',11.55,124.4, Public,,,,,,,,,https://www.getmetar.com/RPVQ
-12,PH,RPVT,Tagbilaran Principal Airport,N9.39.93',E123.51.21',9.65,123.85, Public,5836 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPVT
-13,PH,RPSP,Bohol Panglao Airport,N9.34.44',E123.46.24',9.566666666666666,123.76666666666667, Public,,,,,,,,,https://www.getmetar.com/RPSP
-14,PH,RPSN,Ubay Community Airport Airport,N10.2.93',E124.28.08',10.033333333333333,124.46666666666667, Public,,,,,,,,,https://www.getmetar.com/RPSN
-15,PH,RPUX,Plaridel Community Airport Airport,N14.53.49',E120.51.19',14.883333333333333,120.85, Public,,,,,,,,,https://www.getmetar.com/RPUX
-16,PH,RPUT,Tuguegarao Airport,N17.38.61',E121.43.99',17.633333333333333,121.71666666666667, Public,6455 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPUT
-17,PH,RPLH,Lallo Airport,N18.10.93',E121.44.77',18.166666666666668,121.73333333333333, Public,,,,,,,,,https://www.getmetar.com/RPLH
-18,PH,RPUN,Naga Principal Airport,N13.35.09',E123.16.23',13.583333333333334,123.26666666666667, Public,4600 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPUN
-19,PH,RPUD,Daet Community Airport Airport,N14.7.91',E122.59.25',14.116666666666667,122.98333333333333, Public,3773 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPUD
+0,PH,RPLY,Alabat Community Airport Airport,N14.13.98',E121.55.72',14.216666666666667,121.91666666666669, Public,,,,,,,,,https://www.getmetar.com/RPLY
+1,PH,RPMA,Allah Valley Community Airport,N6.20.02',E124.45.08',6.333333333333332,124.75, Public,4423 x 59feet,Hard,,,,,,,https://www.getmetar.com/RPMA
+2,PH,RPVS,Antique Airport,N10.45.98',E121.55.94',10.75,121.91666666666669, Public,3937 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPVS
+3,PH,RPVB,Bacolod Principal Airport,N10.46.60',E123.1.15',10.766666666666667,123.01666666666668, Public,6569 x 148feet,Hard,,,,,,,https://www.getmetar.com/RPVB
+4,PH,RPLZ,Bacon Community Airport Airport,N12.59.92',E124.1.08',12.983333333333333,124.01666666666668, Public,,,,,,,,,https://www.getmetar.com/RPLZ
+5,PH,RPUZ,Bagabag Community Airport,N16.37.15',E121.15.13',16.616666666666667,121.25, Public,3937 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPUZ
+6,PH,RPUB,Baguio Airport,N16.22.51',E120.37.14',16.366666666666667,120.61666666666666, Public,5512 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPUB
+7,PH,RPUR,Baler Community Airport Airport,N15.43.77',E121.30.22',15.716666666666667,121.5, Public,3776 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPUR
+8,PH,RPSB,Bantayan Community Airport,N11.9.73',E123.47.08',11.15,123.78333333333332, Public,2953 x 140feet,Hard,,,,,,,https://www.getmetar.com/RPSB
+9,PH,RPUO,Basco Principal Airport,N20.27.09',E121.58.81',20.45,121.96666666666668, Public,3820 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPUO
+10,PH,RPVQ,Biliran Community Airport Airport,N11.33.77',E124.24.84',11.55,124.4, Public,,,,,,,,,https://www.getmetar.com/RPVQ
+11,PH,RPMF,Bislig Community Airport,N8.11.30',E126.19.62',8.183333333333334,126.31666666666666, Public,3937 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPMF
+12,PH,RPSP,Bohol Panglao Airport,N9.34.44',E123.46.24',9.566666666666666,123.76666666666668, Public,,,,,,,,,https://www.getmetar.com/RPSP
+13,PH,RPVW,Borongan Community Airport,N11.40.47',E125.28.76',11.666666666666664,125.46666666666668, Public,3937 x 95feet,Hard,,,,,,,https://www.getmetar.com/RPVW
+14,PH,RPUU,Bulan Community Airport Airport,N12.41.08',E123.51.70',12.683333333333335,123.85, Public,,,,,,,,,https://www.getmetar.com/RPUU
+15,PH,RPME,Butuan Principal Airport,N8.57.11',E125.28.69',8.95,125.46666666666668, Public,6450 x 150feet,Hard,,,,,,,https://www.getmetar.com/RPME
+16,PH,RPML,Cagayan De Oro Airport,N8.24.97',E124.36.68',8.4,124.6,Military,7611 x 118feet,Hard,,,,,,,https://www.getmetar.com/RPML
+17,PH,RPMU,Cagayan De Sulu Community Airport,N7.0.76',E118.29.72',7.0,118.48333333333332, Public,4265 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPMU
+18,PH,RPUK,Calapan Community Airport,N13.25.00',E121.12.10',13.416666666666664,121.2, Public,,,,,,,,,https://www.getmetar.com/RPUK
+19,PH,RPVC,Calbayog Principal Class 2 Airport,N12.4.62',E124.32.87',12.066666666666665,124.53333333333332, Public,4843 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPVC
 20,PH,RPMH,Camiguin Airport,N9.15.23',E124.42.51',9.25,124.7, Public,4400 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPMH
-21,PH,RPVR,Roxas Principal Airport,N11.35.86',E122.45.18',11.583333333333334,122.75, Public,6211 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPVR
-22,PH,RPUV,Virac Airport,N13.34.62',E124.12.30',13.566666666666666,124.2, Public,,,,,,,,,https://www.getmetar.com/RPUV
-23,PH,RPLS,Sangley Airport,N14.29.71',E120.54.23',14.483333333333333,120.9, Public,9840 x 150feet,Hard,,,,,,,https://www.getmetar.com/RPLS
-24,PH,RPVM,Mactan Cebu International Airport,N10.18.45',E123.58.77',10.3,123.96666666666667, Public,10827 x 148feet,Hard,,,,,,,https://www.getmetar.com/RPVM
-25,PH,RPSB,Bantayan Community Airport,N11.9.73',E123.47.08',11.15,123.78333333333333, Public,2953 x 140feet,Hard,,,,,,,https://www.getmetar.com/RPSB
-26,PH,RPMD,Francisco Bangoy International Airport,N7.7.53',E125.38.75',7.116666666666666,125.63333333333334, Public,9843 x 148feet,Hard,,,,,,,https://www.getmetar.com/RPMD
-27,PH,RPMQ,Mati Community Airport Airport,N6.56.96',E126.16.38',6.933333333333334,126.26666666666667, Public,5330 x 105feet,Hard,,,,,,,https://www.getmetar.com/RPMQ
-28,PH,RPVW,Borongan Community Airport,N11.40.47',E125.28.76',11.666666666666666,125.46666666666667, Public,3937 x 95feet,Hard,,,,,,,https://www.getmetar.com/RPVW
-29,PH,RPVG,Guiuan Community Airport Airport,N11.2.20',E125.44.57',11.033333333333333,125.73333333333333, Public,6870 x 148feet,Hard,,,,,,,https://www.getmetar.com/RPVG
-30,PH,RPLI,Laoag International Airport,N18.10.57',E120.31.87',18.166666666666668,120.51666666666667, Public,9121 x 148feet,Hard,,,,,,,https://www.getmetar.com/RPLI
-31,PH,RPUQ,Vigan Community Airport,N17.33.23',E120.21.08',17.55,120.35, Public,3429 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPUQ
-32,PH,RPVI,Iloilo International Airport,N10.49.98',E122.29.60',10.816666666666666,122.48333333333333, Public,8202 x 140feet,Hard,,,,,,,https://www.getmetar.com/RPVI
-33,PH,RPUY,Cauayan Airport,N16.55.79',E121.45.20',16.916666666666668,121.75, Public,6883 x 118feet,Hard,,,,,,,https://www.getmetar.com/RPUY
-34,PH,RPLN,Palanan Community Airport,N17.3.80',E122.25.93',17.05,122.41666666666667, Public,,,,,,,,,https://www.getmetar.com/RPLN
-35,PH,RPMI,Iligan Community Airport Airport,N8.8.92',E124.12.58',8.133333333333333,124.2, Public,4593 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPMI
-36,PH,RPMM,Malabang Community Airport Airport,N7.37.03',E124.3.34',7.616666666666667,124.05, Public,,,,,,,,,https://www.getmetar.com/RPMM
-37,PH,RPUS,San Fernando Airport,N16.35.67',E120.18.19',16.583333333333332,120.3, Public,6955 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPUS
-38,PH,RPVO,Ormoc Principal Class 2 Airport,N11.3.39',E124.33.93',11.05,124.55, Public,6120 x 118feet,Hard,,,,,,,https://www.getmetar.com/RPVO
+21,PH,RPLM,Camp Capinpin Airport,N14.30.18',E121.21.78',14.5,121.35,Military,,,,,,,,,https://www.getmetar.com/RPLM
+22,PH,RPVF,Catarman Airport,N12.30.13',E124.38.15',12.5,124.63333333333334, Public,5161 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPVF
+23,PH,RPVY,Catbalogan Community Airport Airport,N11.48.29',E124.49.85',11.8,124.81666666666666, Public,,,,,,,,,https://www.getmetar.com/RPVY
+24,PH,RPVE,Caticlan Airport,N11.55.58',E121.57.44',11.916666666666664,121.95, Public,3117 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPVE
+25,PH,RPUY,Cauayan Airport,N16.55.79',E121.45.20',16.916666666666668,121.75, Public,6883 x 118feet,Hard,,,,,,,https://www.getmetar.com/RPUY
+26,PH,RPMC,Cotabato Airport,N7.9.89',E124.12.61',7.15,124.2, Public,6276 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPMC
+27,PH,RPLO,Cuyo Principal Class 2 Airport,N10.51.68',E121.4.08',10.85,121.06666666666666, Public,,,,,,,,,https://www.getmetar.com/RPLO
+28,PH,RPUD,Daet Community Airport Airport,N14.7.91',E122.59.25',14.116666666666667,122.98333333333332, Public,3773 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPUD
+29,PH,RPVA,Daniel Z Romualdez Airport,N11.13.66',E125.1.66',11.216666666666667,125.01666666666668, Public,7015 x 148feet,Hard,,,,,,,https://www.getmetar.com/RPVA
+30,PH,RPLC,Diosdado Macapagal International Airport,N15.11.17',E120.33.62',15.183333333333335,120.55, Public,10499 x 197feet,Hard,10499 x 148feet,Unknown,,,,,https://www.getmetar.com/RPLC
+31,PH,RPMG,Dipolog Principal Class 1 Airport,N8.36.09',E123.20.51',8.6,123.33333333333331, Public,6273 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPMG
+32,PH,RPUL,Fernando Airport,N13.57.00',E121.7.00',13.95,121.11666666666666,Military,4953 x 148feet,Hard,,,,,,,https://www.getmetar.com/RPUL
+33,PH,RPUF,Floridablanca Basa AB Airport,N14.59.20',E120.29.50',14.983333333333333,120.48333333333332,Military,8360 x 151feet,Hard,,,,,,,https://www.getmetar.com/RPUF
+34,PH,RPLV,Fort Magsaysay Airport,N15.26.08',E121.5.46',15.433333333333335,121.08333333333331,Military,5100 x 45feet,Hard,,,,,,,https://www.getmetar.com/RPLV
+35,PH,RPVV,Francisco B Reyes Airport,N12.7.32',E120.6.04',12.116666666666667,120.1, Public,3010 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPVV
+36,PH,RPMD,Francisco Bangoy International Airport,N7.7.53',E125.38.75',7.116666666666666,125.63333333333334, Public,9843 x 148feet,Hard,,,,,,,https://www.getmetar.com/RPMD
+37,PH,RPMB,General Santos Airport,N6.6.39',E125.14.12',6.1,125.23333333333332, Public,5577 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPMB
+38,PH,RPVG,Guiuan Community Airport Airport,N11.2.20',E125.44.57',11.033333333333333,125.73333333333332, Public,6870 x 148feet,Hard,,,,,,,https://www.getmetar.com/RPVG
 39,PH,RPVH,Hilongos Community Airport,N10.22.58',E124.45.67',10.366666666666667,124.75, Public,,,,,,,,,https://www.getmetar.com/RPVH
-40,PH,RPVA,Daniel Z Romualdez Airport,N11.13.66',E125.1.66',11.216666666666667,125.01666666666667, Public,7015 x 148feet,Hard,,,,,,,https://www.getmetar.com/RPVA
-41,PH,RPUW,Marinduque Airport,N13.21.67',E121.49.53',13.35,121.81666666666666, Public,3163 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPUW
-42,PH,RPVJ,Masbate Airport,N12.22.16',E123.37.79',12.366666666666667,123.61666666666666, Public,4199 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPVJ
-43,PH,RPUU,Bulan Community Airport Airport,N12.41.08',E123.51.70',12.683333333333334,123.85, Public,,,,,,,,,https://www.getmetar.com/RPUU
-44,PH,RPLL,Ninoy Aquino International Airport,N14.30.60',E121.0.82',14.5,121.0, Public,11188 x 197feet,Hard,6555 x 148feet,Unknown,,,,,https://www.getmetar.com/RPLL
-45,PH,RPMO,Ozamis Community Airport,N8.10.77',E123.50.52',8.166666666666666,123.83333333333333, Public,5725 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPMO
-46,PH,RPMY,Laguindingan Airport,N8.36.73',E124.27.39',8.6,124.45, Public,,,,,,,,,https://www.getmetar.com/RPMY
-47,PH,RPML,Cagayan De Oro Airport,N8.24.97',E124.36.68',8.4,124.6,Military,7611 x 118feet,Hard,,,,,,,https://www.getmetar.com/RPML
-48,PH,RPVB,Bacolod Principal Airport,N10.46.60',E123.1.15',10.766666666666667,123.01666666666667, Public,6569 x 148feet,Hard,,,,,,,https://www.getmetar.com/RPVB
-49,PH,RPVD,Negros Oriental Dumaguete Airport,N9.20.05',E123.18.12',9.333333333333334,123.3, Public,6053 x 118feet,Hard,,,,,,,https://www.getmetar.com/RPVD
-50,PH,RPVF,Catarman Airport,N12.30.13',E124.38.15',12.5,124.63333333333334, Public,5161 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPVF
-51,PH,RPLV,Fort Magsaysay Airport,N15.26.08',E121.5.46',15.433333333333334,121.08333333333333,Military,5100 x 45feet,Hard,,,,,,,https://www.getmetar.com/RPLV
-52,PH,RPUZ,Bagabag Community Airport,N16.37.15',E121.15.13',16.616666666666667,121.25, Public,3937 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPUZ
-53,PH,RPUM,Mamburao Community Airport,N13.12.25',E120.36.47',13.2,120.6, Public,4256 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPUM
-54,PH,RPUH,San Jose Airport,N12.21.69',E121.2.79',12.35,121.03333333333333, Public,6024 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPUH
-55,PH,RPLU,Lubang Community Airport,N13.51.52',E120.6.38',13.85,120.1, Public,4135 x 100feet,Hard,,,,,,,https://www.getmetar.com/RPLU
-56,PH,RPUK,Calapan Community Airport,N13.25.00',E121.12.10',13.416666666666666,121.2, Public,,,,,,,,,https://www.getmetar.com/RPUK
-57,PH,RPLG,Wasig Community Airport Airport,N12.32.08',E121.28.97',12.533333333333333,121.46666666666667, Public,,,,,,,,,https://www.getmetar.com/RPLG
-58,PH,RPLA,Pinamalayan Community Airport Airport,N12.59.15',E121.25.56',12.983333333333333,121.41666666666667, Public,3937 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPLA
-59,PH,RPVV,Francisco B Reyes Airport,N12.7.32',E120.6.04',12.116666666666667,120.1, Public,3010 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPVV
-60,PH,RPVP,Puerto Princesa International Airport,N9.44.52',E118.45.58',9.733333333333333,118.75, Public,8530 x 148feet,Hard,,,,,,,https://www.getmetar.com/RPVP
-61,PH,RPSV,San Vicente Principal Airport,N10.31.55',E119.16.45',10.516666666666667,119.26666666666667, Public,,,,,,,,,https://www.getmetar.com/RPSV
-62,PH,RPLO,Cuyo Principal Class 2 Airport,N10.51.68',E121.4.08',10.85,121.06666666666666, Public,,,,,,,,,https://www.getmetar.com/RPLO
-63,PH,RPUF,Floridablanca Basa AB Airport,N14.59.20',E120.29.50',14.983333333333333,120.48333333333333,Military,8360 x 151feet,Hard,,,,,,,https://www.getmetar.com/RPUF
-64,PH,RPLC,Diosdado Macapagal International Airport,N15.11.17',E120.33.62',15.183333333333334,120.55, Public,10499 x 197feet,Hard,10499 x 148feet,Unknown,,,,,https://www.getmetar.com/RPLC
-65,PH,RPUG,Lingayen Airport,N16.2.07',E120.14.80',16.033333333333335,120.23333333333333, Public,3422 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPUG
-66,PH,RPLR,Rosales Community Airport Airport,N15.52.91',E120.37.09',15.866666666666667,120.61666666666666, Public,,,,,,,,,https://www.getmetar.com/RPLR
-67,PH,RPUE,Lucena Airport,N13.56.86',E121.36.07',13.933333333333334,121.6, Public,,,,,,,,,https://www.getmetar.com/RPUE
-68,PH,RPLY,Alabat Community Airport Airport,N14.13.98',E121.55.72',14.216666666666667,121.91666666666667, Public,,,,,,,,,https://www.getmetar.com/RPLY
-69,PH,RPLJ,Jomalig Community Airport Airport,N14.43.41',E122.24.09',14.716666666666667,122.4, Public,,,,,,,,,https://www.getmetar.com/RPLJ
-70,PH,RPLM,Camp Capinpin Airport,N14.30.18',E121.21.78',14.5,121.35,Military,,,,,,,,,https://www.getmetar.com/RPLM
-71,PH,RPVU,Romblon Airport,N12.18.55',E122.4.57',12.3,122.06666666666666, Public,4560 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPVU
-72,PH,RPVY,Catbalogan Community Airport Airport,N11.48.29',E124.49.85',11.8,124.81666666666666, Public,,,,,,,,,https://www.getmetar.com/RPVY
-73,PH,RPVC,Calbayog Principal Class 2 Airport,N12.4.62',E124.32.87',12.066666666666666,124.53333333333333, Public,4843 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPVC
-74,PH,RPMC,Cotabato Airport,N7.9.89',E124.12.61',7.15,124.2, Public,6276 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPMC
-75,PH,RPVZ,Siquijor Community Airport Airport,N9.12.70',E123.28.27',9.2,123.46666666666667, Public,,,,,,,,,https://www.getmetar.com/RPVZ
-76,PH,RPLZ,Bacon Community Airport Airport,N12.59.92',E124.1.08',12.983333333333333,124.01666666666667, Public,,,,,,,,,https://www.getmetar.com/RPLZ
-77,PH,RPMR,Tambler Prinipal Airport,N6.3.48',E125.5.77',6.05,125.08333333333333, Public,10587 x 148feet,Hard,,,,,,,https://www.getmetar.com/RPMR
-78,PH,RPMB,General Santos Airport,N6.6.39',E125.14.12',6.1,125.23333333333333, Public,5577 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPMB
-79,PH,RPMA,Allah Valley Community Airport,N6.20.02',E124.45.08',6.333333333333333,124.75, Public,4423 x 59feet,Hard,,,,,,,https://www.getmetar.com/RPMA
-80,PH,RPSM,Maasin Community Airport,N10.11.23',E124.46.97',10.183333333333334,124.76666666666667, Public,3642 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPSM
-81,PH,RPMJ,Jolo Airport,N6.3.18',E121.0.58',6.05,121.0, Public,3935 x 60feet,Hard,,,,,,,https://www.getmetar.com/RPMJ
-82,PH,RPNS,Siargao Principal Class 2 Airport,N9.51.51',E126.0.91',9.85,126.0, Public,,,,,,,,,https://www.getmetar.com/RPNS
-83,PH,RPMS,Surigao Airport,N9.45.46',E125.28.86',9.75,125.46666666666667, Public,5040 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPMS
-84,PH,RPMW,Tandag Airport,N9.3.92',E126.10.08',9.05,126.16666666666667, Public,4765 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPMW
-85,PH,RPMF,Bislig Community Airport,N8.11.30',E126.19.62',8.183333333333334,126.31666666666666, Public,3937 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPMF
-86,PH,RPMU,Cagayan De Sulu Community Airport,N7.0.76',E118.29.72',7.0,118.48333333333333, Public,4265 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPMU
-87,PH,RPMN,Sanga Sanga Airport,N5.2.92',E119.44.62',5.033333333333333,119.73333333333333, Public,6299 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPMN
-88,PH,RPUI,Iba Airport,N15.19.90',E119.58.09',15.316666666666666,119.96666666666667, Public,,,,,,,,,https://www.getmetar.com/RPUI
-89,PH,RPNO,Siocon Community Airport Airport,N7.42.43',E122.9.88',7.7,122.15, Public,,,,,,,,,https://www.getmetar.com/RPNO
-90,PH,RPMX,Liloy Community Airport Airport,N8.8.92',E122.40.08',8.133333333333333,122.66666666666667, Public,,,,,,,,,https://www.getmetar.com/RPMX
-91,PH,RPMG,Dipolog Principal Class 1 Airport,N8.36.09',E123.20.51',8.6,123.33333333333333, Public,6273 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPMG
-92,PH,RPMZ,Zamboanga Principal Airport,N6.55.35',E122.3.58',6.916666666666667,122.05, Public,8560 x 148feet,Hard,,,,,,,https://www.getmetar.com/RPMZ
-93,PH,RPMP,Pagadian Airport,N7.49.60',E123.27.60',7.816666666666666,123.45, Public,5512 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPMP
-94,PH,RPMV,Ipil Community Airport Airport,N7.47.59',E122.36.42',7.783333333333333,122.6, Public,,,,,,,,,https://www.getmetar.com/RPMV
+40,PH,RPUI,Iba Airport,N15.19.90',E119.58.09',15.316666666666665,119.96666666666668, Public,,,,,,,,,https://www.getmetar.com/RPUI
+41,PH,RPMI,Iligan Community Airport Airport,N8.8.92',E124.12.58',8.133333333333333,124.2, Public,4593 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPMI
+42,PH,RPVI,Iloilo International Airport,N10.49.98',E122.29.60',10.816666666666665,122.48333333333332, Public,8202 x 140feet,Hard,,,,,,,https://www.getmetar.com/RPVI
+43,PH,RPMV,Ipil Community Airport Airport,N7.47.59',E122.36.42',7.783333333333332,122.6, Public,,,,,,,,,https://www.getmetar.com/RPMV
+44,PH,RPLT,Itbayat Airport,N20.43.24',E121.49.59',20.716666666666665,121.81666666666666, Public,,,,,,,,,https://www.getmetar.com/RPLT
+45,PH,RPMJ,Jolo Airport,N6.3.18',E121.0.58',6.05,121.0, Public,3935 x 60feet,Hard,,,,,,,https://www.getmetar.com/RPMJ
+46,PH,RPLJ,Jomalig Community Airport Airport,N14.43.41',E122.24.09',14.716666666666667,122.4, Public,,,,,,,,,https://www.getmetar.com/RPLJ
+47,PH,RPVK,Kalibo Airport,N11.40.77',E122.22.52',11.666666666666664,122.36666666666666, Public,7175 x 148feet,Hard,,,,,,,https://www.getmetar.com/RPVK
+48,PH,RPMY,Laguindingan Airport,N8.36.73',E124.27.39',8.6,124.45, Public,,,,,,,,,https://www.getmetar.com/RPMY
+49,PH,RPLH,Lallo Airport,N18.10.93',E121.44.77',18.166666666666668,121.73333333333332, Public,,,,,,,,,https://www.getmetar.com/RPLH
+50,PH,RPLI,Laoag International Airport,N18.10.57',E120.31.87',18.166666666666668,120.51666666666668, Public,9121 x 148feet,Hard,,,,,,,https://www.getmetar.com/RPLI
+51,PH,RPLP,Legazpi Principal Class 1 Airport,N13.9.43',E123.44.06',13.15,123.73333333333332, Public,7480 x 118feet,Hard,,,,,,,https://www.getmetar.com/RPLP
+52,PH,RPMX,Liloy Community Airport Airport,N8.8.92',E122.40.08',8.133333333333333,122.66666666666669, Public,,,,,,,,,https://www.getmetar.com/RPMX
+53,PH,RPUG,Lingayen Airport,N16.2.07',E120.14.80',16.033333333333335,120.23333333333332, Public,3422 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPUG
+54,PH,RPLU,Lubang Community Airport,N13.51.52',E120.6.38',13.85,120.1, Public,4135 x 100feet,Hard,,,,,,,https://www.getmetar.com/RPLU
+55,PH,RPUE,Lucena Airport,N13.56.86',E121.36.07',13.933333333333335,121.6, Public,,,,,,,,,https://www.getmetar.com/RPUE
+56,PH,RPSM,Maasin Community Airport,N10.11.23',E124.46.97',10.183333333333334,124.76666666666668, Public,3642 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPSM
+57,PH,RPVM,Mactan Cebu International Airport,N10.18.45',E123.58.77',10.3,123.96666666666668, Public,10827 x 148feet,Hard,,,,,,,https://www.getmetar.com/RPVM
+58,PH,RPMM,Malabang Community Airport Airport,N7.37.03',E124.3.34',7.616666666666667,124.05, Public,,,,,,,,,https://www.getmetar.com/RPMM
+59,PH,RPUM,Mamburao Community Airport,N13.12.25',E120.36.47',13.2,120.6, Public,4256 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPUM
+60,PH,RPUW,Marinduque Airport,N13.21.67',E121.49.53',13.35,121.81666666666666, Public,3163 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPUW
+61,PH,RPVJ,Masbate Airport,N12.22.16',E123.37.79',12.366666666666667,123.61666666666666, Public,4199 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPVJ
+62,PH,RPMQ,Mati Community Airport Airport,N6.56.96',E126.16.38',6.933333333333334,126.26666666666668, Public,5330 x 105feet,Hard,,,,,,,https://www.getmetar.com/RPMQ
+63,PH,RPUN,Naga Principal Airport,N13.35.09',E123.16.23',13.583333333333336,123.26666666666668, Public,4600 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPUN
+64,PH,RPVD,Negros Oriental Dumaguete Airport,N9.20.05',E123.18.12',9.333333333333334,123.3, Public,6053 x 118feet,Hard,,,,,,,https://www.getmetar.com/RPVD
+65,PH,RPLL,Ninoy Aquino International Airport,N14.30.60',E121.0.82',14.5,121.0, Public,11188 x 197feet,Hard,6555 x 148feet,Unknown,,,,,https://www.getmetar.com/RPLL
+66,PH,RPVO,Ormoc Principal Class 2 Airport,N11.3.39',E124.33.93',11.05,124.55, Public,6120 x 118feet,Hard,,,,,,,https://www.getmetar.com/RPVO
+67,PH,RPMO,Ozamis Community Airport,N8.10.77',E123.50.52',8.166666666666666,123.83333333333331, Public,5725 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPMO
+68,PH,RPMP,Pagadian Airport,N7.49.60',E123.27.60',7.816666666666666,123.45, Public,5512 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPMP
+69,PH,RPLN,Palanan Community Airport,N17.3.80',E122.25.93',17.05,122.41666666666669, Public,,,,,,,,,https://www.getmetar.com/RPLN
+70,PH,RPLA,Pinamalayan Community Airport Airport,N12.59.15',E121.25.56',12.983333333333333,121.41666666666669, Public,3937 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPLA
+71,PH,RPUX,Plaridel Community Airport Airport,N14.53.49',E120.51.19',14.883333333333333,120.85, Public,,,,,,,,,https://www.getmetar.com/RPUX
+72,PH,RPVP,Puerto Princesa International Airport,N9.44.52',E118.45.58',9.733333333333333,118.75, Public,8530 x 148feet,Hard,,,,,,,https://www.getmetar.com/RPVP
+73,PH,RPVU,Romblon Airport,N12.18.55',E122.4.57',12.3,122.06666666666666, Public,4560 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPVU
+74,PH,RPLR,Rosales Community Airport Airport,N15.52.91',E120.37.09',15.866666666666667,120.61666666666666, Public,,,,,,,,,https://www.getmetar.com/RPLR
+75,PH,RPVR,Roxas Principal Airport,N11.35.86',E122.45.18',11.583333333333336,122.75, Public,6211 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPVR
+76,PH,RPUS,San Fernando Airport,N16.35.67',E120.18.19',16.583333333333332,120.3, Public,6955 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPUS
+77,PH,RPUH,San Jose Airport,N12.21.69',E121.2.79',12.35,121.03333333333332, Public,6024 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPUH
+78,PH,RPSV,San Vicente Principal Airport,N10.31.55',E119.16.45',10.516666666666667,119.26666666666668, Public,,,,,,,,,https://www.getmetar.com/RPSV
+79,PH,RPMN,Sanga Sanga Airport,N5.2.92',E119.44.62',5.033333333333333,119.73333333333332, Public,6299 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPMN
+80,PH,RPLS,Sangley Airport,N14.29.71',E120.54.23',14.483333333333333,120.9, Public,9840 x 150feet,Hard,,,,,,,https://www.getmetar.com/RPLS
+81,PH,RPNS,Siargao Principal Class 2 Airport,N9.51.51',E126.0.91',9.85,126.0, Public,,,,,,,,,https://www.getmetar.com/RPNS
+82,PH,RPNO,Siocon Community Airport Airport,N7.42.43',E122.9.88',7.7,122.15, Public,,,,,,,,,https://www.getmetar.com/RPNO
+83,PH,RPVZ,Siquijor Community Airport Airport,N9.12.70',E123.28.27',9.2,123.46666666666668, Public,,,,,,,,,https://www.getmetar.com/RPVZ
+84,PH,RPLB,Subic Bay Airport,N14.47.67',E120.16.28',14.783333333333333,120.26666666666668, Public,9003 x 148feet,Hard,,,,,,,https://www.getmetar.com/RPLB
+85,PH,RPMS,Surigao Airport,N9.45.46',E125.28.86',9.75,125.46666666666668, Public,5040 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPMS
+86,PH,RPVT,Tagbilaran Principal Airport,N9.39.93',E123.51.21',9.65,123.85, Public,5836 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPVT
+87,PH,RPMR,Tambler Prinipal Airport,N6.3.48',E125.5.77',6.05,125.08333333333331, Public,10587 x 148feet,Hard,,,,,,,https://www.getmetar.com/RPMR
+88,PH,RPMW,Tandag Airport,N9.3.92',E126.10.08',9.05,126.16666666666669, Public,4765 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPMW
+89,PH,RPUT,Tuguegarao Airport,N17.38.61',E121.43.99',17.633333333333333,121.71666666666668, Public,6455 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPUT
+90,PH,RPSN,Ubay Community Airport Airport,N10.2.93',E124.28.08',10.033333333333333,124.46666666666668, Public,,,,,,,,,https://www.getmetar.com/RPSN
+91,PH,RPUQ,Vigan Community Airport,N17.33.23',E120.21.08',17.55,120.35, Public,3429 x 98feet,Hard,,,,,,,https://www.getmetar.com/RPUQ
+92,PH,RPUV,Virac Airport,N13.34.62',E124.12.30',13.566666666666665,124.2, Public,,,,,,,,,https://www.getmetar.com/RPUV
+93,PH,RPLG,Wasig Community Airport Airport,N12.32.08',E121.28.97',12.533333333333333,121.46666666666668, Public,,,,,,,,,https://www.getmetar.com/RPLG
+94,PH,RPMZ,Zamboanga Principal Airport,N6.55.35',E122.3.58',6.916666666666668,122.05, Public,8560 x 148feet,Hard,,,,,,,https://www.getmetar.com/RPMZ

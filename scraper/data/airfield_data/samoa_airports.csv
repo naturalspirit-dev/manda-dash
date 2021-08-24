@@ -1,5 +1,5 @@
 ,country,icaoCodes,airFieldName,latitude,longitude,ddLatitude,ddLongitude,airportUse,runwayOneDimensions,runwayOneSurface,runwayTwoDimensions,runwayTwoSurface,runwayThreeDimensions,runwayThreeSurface,runwayFourDimensions,runwayFourSurface,weatherLink
-0,WS,NSFA,Faleolo International Airport,S13.49.91',W171.59.88',-13.816666666666666,-171.98333333333332, Public,9843 x 148feet,Hard,,,,,,,https://www.getmetar.com/NSFA
-1,WS,NSMA,Maota Airport,S13.44.57',W172.15.53',-13.733333333333333,-172.25, Public,,,,,,,,,https://www.getmetar.com/NSMA
-2,WS,NSFI,FagaliI Airport,S13.50.90',W171.44.47',-13.833333333333334,-171.73333333333332,Private,,,,,,,,,https://www.getmetar.com/NSFI
-3,WS,NSAU,Asau Airport,S13.30.35',W172.37.68',-13.5,-172.61666666666667, Public,,,,,,,,,https://www.getmetar.com/NSAU
+0,WS,NSAU,Asau Airport,S13.30.35',W172.37.68',-13.5,-172.61666666666667, Public,,,,,,,,,https://www.getmetar.com/NSAU
+1,WS,NSFI,FagaliI Airport,S13.50.90',W171.44.47',-13.833333333333336,-171.73333333333332,Private,,,,,,,,,https://www.getmetar.com/NSFI
+2,WS,NSFA,Faleolo International Airport,S13.49.91',W171.59.88',-13.816666666666665,-171.98333333333332, Public,9843 x 148feet,Hard,,,,,,,https://www.getmetar.com/NSFA
+3,WS,NSMA,Maota Airport,S13.44.57',W172.15.53',-13.733333333333333,-172.25, Public,,,,,,,,,https://www.getmetar.com/NSMA

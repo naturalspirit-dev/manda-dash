@@ -1,8 +1,0 @@
-,Unnamed: 0,country,portName,portAuthority,address,phone,fax,email,latitude,longitude,ddLatitude,ddLongitude,portType,portSize,firstPortofEntry,publication,chart,usaRep,medicalFacilities,harborSize,shelter,maxVesselSize,harborType,turningArea,holdingGround,tide,overheadLimit,swell,channel,cargoPier,meanTide,anchorage,oilTerminal,compulsory,available,tugAssistance,tugSalvage,pratique,rail,wharves,medMoor,hundredTonLifts,fiftyTonLifts,twentyTonLifts,zeroTonLifts,fixedCranes,mobileCranes,floatingCranes,longshore,provisions,fuelOil,deck,water,dieselOil,shipRepairs,marineRailroadSize,drydockSize
-0,0,KI,BANABA,,,,,,- 0 51 0 S ,169 34 0 E,-0.85,169.56666666666666,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,,,,,,,,,,,,,,,,,,
-1,1,KI,BETIO,,,,,, 1 25 0 N ,172 54 0 E,1.4166666666666667,172.9,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,,,,,,,,,,,,,,,,,,
-2,5,KI,CANTON ISLAND,,,,,,-2 50 S,-171 43 W,-2.833333333333333,-171.71666666666667,,,Yes,126.0,83105.0,No,Yes,Very Small,Fair,,Open Roadstead,Yes,Yes,No,No,Yes,26 - 30 ft,26 - 30 ft,3.0,21 - 25 ft,,,,No,No,,,,,,,,Yes,Yes,,,,Yes,,,Yes,Yes,Limited,,
-3,2,KI,ENGLISH HARBOUR,,,,,, 3 51 0 N ,-159 22 0 W,3.85,-159.36666666666667,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,,,,,,,,,,,,,,,,,,
-4,6,KI,TARAWA ATOLL,,,,,,1 20 N,172 56 E,1.3333333333333333,172.93333333333337,,,Yes,126.0,83059.0,No,Yes,Very Small,Fair,less than 500 feet,Open Roadstead,,,No,,No,26 - 30 ft,21 - 25 ft,3.0,26 - 30 ft,,,Yes,Yes,,Yes,,,,,,Yes,Yes,Yes,Yes,,Yes,No,Yes,Yes,Yes,No,Limited,,
-5,3,KI,TARAWA ISLAND,,,,,, 1 24 23 N ,172 50 52 E,1.4,172.83333333333337,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,,,,,,,,,,,,,,,,,,
-6,4,KI,TERAINA HARBOUR,,,,,, 3 51 0 N ,-159 22 0 W,3.85,-159.36666666666667,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,,,,,,,,,,,,,,,,,,

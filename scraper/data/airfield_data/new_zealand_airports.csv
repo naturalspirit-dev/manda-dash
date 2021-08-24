@@ -1,61 +1,61 @@
 ,country,icaoCodes,airFieldName,latitude,longitude,ddLatitude,ddLongitude,airportUse,runwayOneDimensions,runwayOneSurface,runwayTwoDimensions,runwayTwoSurface,runwayThreeDimensions,runwayThreeSurface,runwayFourDimensions,runwayFourSurface,weatherLink
-0,NZ,NZWP,Whenuapai Airport,S36.47.27',E174.37.82',-36.78333333333333,174.61666666666667,Military,6664 x 148feet,Hard,5188 x 148feet,Unknown,2789 x 148feet,Unknown,,,https://www.getmetar.com/NZWP
-1,NZ,NZSL,Springhill Airport,S36.19.50',E174.33.33',-36.31666666666667,174.55, Public,,,,,,,,,https://www.getmetar.com/NZSL
-2,NZ,NZOX,Okiwi Station Airport,S36.8.78',E175.25.12',-36.13333333333333,175.41666666666666, Public,,,,,,,,,https://www.getmetar.com/NZOX
-3,NZ,NZNE,North Shore Airport,S36.39.40',E174.39.32',-36.65,174.65, Public,,,,,,,,,https://www.getmetar.com/NZNE
-4,NZ,NZGB,Great Barrier Airport,S36.14.48',E175.28.32',-36.233333333333334,175.46666666666667, Public,,,,,,,,,https://www.getmetar.com/NZGB
-5,NZ,NZAR,Ardmore Airport,S37.1.78',E174.58.40',-37.016666666666666,174.96666666666667, Public,4630 x 98feet,Hard,,,,,,,https://www.getmetar.com/NZAR
-6,NZ,NZAA,Auckland Airport,S37.0.48',E174.47.50',-37.0,174.78333333333333, Public,11598 x 148feet,Hard,9056 x 148feet,Unknown,,,,,https://www.getmetar.com/NZAA
-7,NZ,NZWK,Whakatane Airport,S37.55.21',E176.54.79',-37.916666666666664,176.9,Military,4199 x 102feet,Hard,2461 x 98feet,Unknown,,,,,https://www.getmetar.com/NZWK
-8,NZ,NZTG,Tauranga Airport,S37.40.32',E176.11.77',-37.666666666666664,176.18333333333334,Military,5987 x 148feet,Hard,2543 x 180feet,Unknown,2297 x 148feet,Unknown,2100 x 197feet,Unknown,https://www.getmetar.com/NZTG
-9,NZ,NZRO,Rotorua Airport,S38.6.55',E176.19.03',-38.1,176.31666666666666, Public,5807 x 98feet,Hard,2536 x 164feet,Unknown,,,,,https://www.getmetar.com/NZRO
-10,NZ,NZTU,Timaru Airport,S44.18.17',E171.13.52',-44.3,171.21666666666667, Public,4199 x 148feet,Hard,3898 x 197feet,Unknown,3652 x 295feet,Unknown,,,https://www.getmetar.com/NZTU
-11,NZ,NZOA,Omarama Airport,S44.29.20',E169.59.17',-44.483333333333334,169.98333333333332,Private,,,,,,,,,https://www.getmetar.com/NZOA
-12,NZ,NZMC,Mount Cook Airport,S43.45.90',E170.8.00',-43.75,170.13333333333333, Public,5157 x 98feet,Hard,,,,,,,https://www.getmetar.com/NZMC
-13,NZ,NZKI,Kaikoura Airport,S42.25.50',E173.36.32',-42.416666666666664,173.6, Public,,,,,,,,,https://www.getmetar.com/NZKI
-14,NZ,NZGT,Glentanner Airport,S43.54.46',E170.7.74',-43.9,170.11666666666667, Public,3166 x 98feet,Hard,,,,,,,https://www.getmetar.com/NZGT
-15,NZ,NZCH,Christchurch Airport,S43.29.37',E172.32.07',-43.483333333333334,172.53333333333333, Public,10787 x 148feet,Hard,5712 x 148feet,Unknown,,,,,https://www.getmetar.com/NZCH
-16,NZ,NZAS,Ashburton Airport,S43.54.20',E171.47.80',-43.9,171.78333333333333, Public,,,,,,,,,https://www.getmetar.com/NZAS
-17,NZ,NZCI,Chatham Is Tuuta Airport,S43.48.83',W176.28.41',-43.8,-176.46666666666667, Public,4462 x 148feet,Hard,,,,,,,https://www.getmetar.com/NZCI
-18,NZ,NZRR,Ruatoria Airport,S37.53.04',E178.17.40',-37.88333333333333,178.28333333333333,Private,,,,,,,,,https://www.getmetar.com/NZRR
-19,NZ,NZGS,Gisborne Airport,S38.39.80',E177.58.70',-38.65,177.96666666666667, Public,4298 x 148feet,Hard,3839 x 197feet,Unknown,3773 x 197feet,Unknown,2503 x 197feet,Unknown,https://www.getmetar.com/NZGS
-20,NZ,NZWO,Wairoa Airport,S39.0.92',E177.24.25',-39.0,177.4, Public,3000 x 98feet,Hard,,,,,,,https://www.getmetar.com/NZWO
-21,NZ,NZNR,Napier Airport,S39.27.95',E176.52.20',-39.45,176.86666666666667, Public,4298 x 148feet,Hard,4000 x 98feet,Unknown,2513 x 197feet,Unknown,,,https://www.getmetar.com/NZNR
-22,NZ,NZHS,Hastings Airport,S39.38.80',E176.46.02',-39.63333333333333,176.76666666666668, Public,3527 x 46feet,Hard,,,,,,,https://www.getmetar.com/NZHS
-23,NZ,NZWU,Whanganui Airport,S39.57.73',E175.1.52',-39.95,175.01666666666668, Public,4501 x 98feet,Hard,2992 x 98feet,Unknown,2589 x 98feet,Unknown,1804 x 66feet,Unknown,https://www.getmetar.com/NZWU
-24,NZ,NZRU,Waiouru Airport,S39.26.78',E175.39.50',-39.43333333333333,175.65,Military,,,,,,,,,https://www.getmetar.com/NZRU
-25,NZ,NZPM,Palmerston North Airport,S40.19.23',E175.37.02',-40.31666666666667,175.61666666666667, Public,6240 x 148feet,Hard,1995 x 197feet,Unknown,,,,,https://www.getmetar.com/NZPM
-26,NZ,NZOH,Ohakea Airport,S40.12.40',E175.23.22',-40.2,175.38333333333333,Military,8021 x 148feet,Hard,6853 x 148feet,Unknown,,,,,https://www.getmetar.com/NZOH
-27,NZ,NZFI,Feilding Airport,S40.15.36',E175.36.36',-40.25,175.6, Public,3376 x 46feet,Hard,,,,,,,https://www.getmetar.com/NZFI
-28,NZ,NZWB,Woodbourne Airport,S41.31.10',E173.52.22',-41.516666666666666,173.86666666666667, Public,4675 x 197feet,Hard,4675 x 148feet,Unknown,3878 x 295feet,Unknown,,,https://www.getmetar.com/NZWB
-29,NZ,NZPN,Picton Airport,S41.20.90',E173.57.32',-41.333333333333336,173.95, Public,,,,,,,,,https://www.getmetar.com/NZPN
-30,NZ,NZTK,Takaka Airport,S40.48.80',E172.46.57',-40.8,172.76666666666668,Private,,,,,,,,,https://www.getmetar.com/NZTK
-31,NZ,NZNS,Nelson Airport,S41.17.90',E173.13.27',-41.28333333333333,173.21666666666667, Public,4419 x 150feet,Hard,,,,,,,https://www.getmetar.com/NZNS
-32,NZ,NZWR,Whangarei Airport,S35.46.10',E174.21.90',-35.766666666666666,174.35, Public,3599 x 98feet,Hard,1558 x 197feet,Unknown,,,,,https://www.getmetar.com/NZWR
-33,NZ,NZKT,Kaitaia Airport,S35.4.20',E173.17.12',-35.06666666666667,173.28333333333333, Public,4600 x 98feet,Hard,4190 x 98feet,Unknown,,,,,https://www.getmetar.com/NZKT
-34,NZ,NZKK,Kerikeri Bay of Islands Airport,S35.15.77',E173.54.72',-35.25,173.9, Public,3904 x 98feet,Hard,2247 x 66feet,Unknown,1608 x 121feet,Unknown,,,https://www.getmetar.com/NZKK
-35,NZ,NZWF,Wanaka Airport,S44.43.33',E169.14.73',-44.71666666666667,169.23333333333332, Public,3937 x 98feet,Hard,2953 x 131feet,Unknown,,,,,https://www.getmetar.com/NZWF
-36,NZ,NZTI,Taieri Airport,S45.51.60',E170.21.50',-45.85,170.35, Public,,,,,,,,,https://www.getmetar.com/NZTI
-37,NZ,NZQN,Queenstown Airport,S45.1.27',E168.44.35',-45.016666666666666,168.73333333333332, Public,6198 x 98feet,Hard,2789 x 49feet,Unknown,,,,,https://www.getmetar.com/NZQN
-38,NZ,NZOU,Oamaru Airport,S44.58.20',E171.4.90',-44.96666666666667,171.06666666666666, Public,4210 x 98feet,Hard,3107 x 164feet,Unknown,2775 x 164feet,Unknown,,,https://www.getmetar.com/NZOU
-39,NZ,NZLX,Alexandra Airport,S45.12.70',E169.22.40',-45.2,169.36666666666667, Public,3937 x 197feet,Hard,3937 x 98feet,Unknown,2375 x 197feet,Unknown,,,https://www.getmetar.com/NZLX
-40,NZ,NZDN,Dunedin Airport,S45.55.68',E170.11.90',-45.916666666666664,170.18333333333334, Public,6234 x 150feet,Hard,,,,,,,https://www.getmetar.com/NZDN
-41,NZ,NZRC,Ryans Creek Airport,S46.53.98',E168.6.12',-46.88333333333333,168.1, Public,,,,,,,,,https://www.getmetar.com/NZRC
-42,NZ,NZNV,Invercargill Airport,S46.24.90',E168.19.20',-46.4,168.31666666666666, Public,7251 x 148feet,Hard,,,,,,,https://www.getmetar.com/NZNV
-43,NZ,NZMO,Te Anau Regional Airport,S45.31.98',E167.39.00',-45.516666666666666,167.65, Public,3547 x 47feet,Hard,,,,,,,https://www.getmetar.com/NZMO
-44,NZ,NZMF,Milford Sound Airport,S44.40.40',E167.55.40',-44.666666666666664,167.91666666666666, Public,,,,,,,,,https://www.getmetar.com/NZMF
-45,NZ,NZNP,New Plymouth Airport,S39.0.52',E174.10.75',-39.0,174.16666666666666, Public,4298 x 148feet,Hard,3937 x 131feet,Unknown,3281 x 98feet,Unknown,,,https://www.getmetar.com/NZNP
-46,NZ,NZHA,Hawera Airport,S39.33.20',E174.16.02',-39.55,174.26666666666668,Private,,,,,,,,,https://www.getmetar.com/NZHA
-47,NZ,NZWT,Whitianga Airport,S36.49.90',E175.40.72',-36.81666666666667,175.66666666666666, Public,,,,,,,,,https://www.getmetar.com/NZWT
-48,NZ,NZTT,Te Kuiti Airport,S38.18.20',E175.8.82',-38.3,175.13333333333333, Public,,,,,,,,,https://www.getmetar.com/NZTT
-49,NZ,NZTO,Tokoroa Airport,S38.14.20',E175.53.57',-38.233333333333334,175.88333333333333, Public,3674 x 59feet,Soft,,,,,,,https://www.getmetar.com/NZTO
-50,NZ,NZTH,Thames Airport,S37.9.40',E175.33.02',-37.15,175.55,Private,,,,,,,,,https://www.getmetar.com/NZTH
-51,NZ,NZTE,Te Kowhai Airport,S37.44.70',E175.9.52',-37.733333333333334,175.15,Private,,,,,,,,,https://www.getmetar.com/NZTE
-52,NZ,NZHN,Hamilton Airport,S37.51.98',E175.20.12',-37.85,175.33333333333334, Public,6755 x 148feet,Hard,2871 x 148feet,Unknown,2362 x 148feet,Unknown,2346 x 148feet,Unknown,https://www.getmetar.com/NZHN
-53,NZ,NZAP,Taupo Airport,S38.44.38',E176.5.07',-38.733333333333334,176.08333333333334, Public,4547 x 98feet,Hard,2398 x 197feet,Unknown,,,,,https://www.getmetar.com/NZAP
-54,NZ,NZWN,Wellington Airport,S41.19.63',E174.48.32',-41.31666666666667,174.8, Public,5951 x 148feet,Hard,,,,,,,https://www.getmetar.com/NZWN
-55,NZ,NZPP,Paraparaumu Airport,S40.54.28',E174.59.35',-40.9,174.98333333333332, Public,3894 x 148feet,Hard,1762 x 295feet,Unknown,1345 x 230feet,Unknown,,,https://www.getmetar.com/NZPP
-56,NZ,NZMS,Masterton Airport,S40.58.40',E175.38.02',-40.96666666666667,175.63333333333333, Public,3953 x 75feet,Hard,3478 x 98feet,Unknown,3419 x 98feet,Unknown,1476 x 66feet,Unknown,https://www.getmetar.com/NZMS
-57,NZ,NZWS,Westport Airport,S41.44.28',E171.34.85',-41.733333333333334,171.56666666666666, Public,4200 x 98feet,Hard,,,,,,,https://www.getmetar.com/NZWS
-58,NZ,NZHK,Hokitika Airport,S42.42.82',E170.59.12',-42.7,170.98333333333332, Public,4311 x 98feet,Hard,3858 x 59feet,Unknown,,,,,https://www.getmetar.com/NZHK
-59,NZ,NZGM,Greymouth Airport,S42.27.70',E171.11.40',-42.45,171.18333333333334, Public,3579 x 105feet,Hard,,,,,,,https://www.getmetar.com/NZGM
+0,NZ,NZLX,Alexandra Airport,S45.12.70',E169.22.40',-45.2,169.36666666666667, Public,3937 x 197feet,Hard,3937 x 98feet,Unknown,2375 x 197feet,Unknown,,,https://www.getmetar.com/NZLX
+1,NZ,NZAR,Ardmore Airport,S37.1.78',E174.58.40',-37.016666666666666,174.96666666666667, Public,4630 x 98feet,Hard,,,,,,,https://www.getmetar.com/NZAR
+2,NZ,NZAS,Ashburton Airport,S43.54.20',E171.47.80',-43.9,171.78333333333333, Public,,,,,,,,,https://www.getmetar.com/NZAS
+3,NZ,NZAA,Auckland Airport,S37.0.48',E174.47.50',-37.0,174.78333333333333, Public,11598 x 148feet,Hard,9056 x 148feet,Unknown,,,,,https://www.getmetar.com/NZAA
+4,NZ,NZCI,Chatham Is Tuuta Airport,S43.48.83',W176.28.41',-43.8,-176.46666666666667, Public,4462 x 148feet,Hard,,,,,,,https://www.getmetar.com/NZCI
+5,NZ,NZCH,Christchurch Airport,S43.29.37',E172.32.07',-43.48333333333333,172.53333333333333, Public,10787 x 148feet,Hard,5712 x 148feet,Unknown,,,,,https://www.getmetar.com/NZCH
+6,NZ,NZDN,Dunedin Airport,S45.55.68',E170.11.90',-45.91666666666666,170.18333333333334, Public,6234 x 150feet,Hard,,,,,,,https://www.getmetar.com/NZDN
+7,NZ,NZFI,Feilding Airport,S40.15.36',E175.36.36',-40.25,175.6, Public,3376 x 46feet,Hard,,,,,,,https://www.getmetar.com/NZFI
+8,NZ,NZGS,Gisborne Airport,S38.39.80',E177.58.70',-38.65,177.96666666666667, Public,4298 x 148feet,Hard,3839 x 197feet,Unknown,3773 x 197feet,Unknown,2503 x 197feet,Unknown,https://www.getmetar.com/NZGS
+9,NZ,NZGT,Glentanner Airport,S43.54.46',E170.7.74',-43.9,170.11666666666667, Public,3166 x 98feet,Hard,,,,,,,https://www.getmetar.com/NZGT
+10,NZ,NZGB,Great Barrier Airport,S36.14.48',E175.28.32',-36.23333333333333,175.46666666666667, Public,,,,,,,,,https://www.getmetar.com/NZGB
+11,NZ,NZGM,Greymouth Airport,S42.27.70',E171.11.40',-42.45,171.18333333333334, Public,3579 x 105feet,Hard,,,,,,,https://www.getmetar.com/NZGM
+12,NZ,NZHN,Hamilton Airport,S37.51.98',E175.20.12',-37.85,175.33333333333337, Public,6755 x 148feet,Hard,2871 x 148feet,Unknown,2362 x 148feet,Unknown,2346 x 148feet,Unknown,https://www.getmetar.com/NZHN
+13,NZ,NZHS,Hastings Airport,S39.38.80',E176.46.02',-39.63333333333333,176.76666666666668, Public,3527 x 46feet,Hard,,,,,,,https://www.getmetar.com/NZHS
+14,NZ,NZHA,Hawera Airport,S39.33.20',E174.16.02',-39.55,174.26666666666668,Private,,,,,,,,,https://www.getmetar.com/NZHA
+15,NZ,NZHK,Hokitika Airport,S42.42.82',E170.59.12',-42.7,170.98333333333332, Public,4311 x 98feet,Hard,3858 x 59feet,Unknown,,,,,https://www.getmetar.com/NZHK
+16,NZ,NZNV,Invercargill Airport,S46.24.90',E168.19.20',-46.4,168.31666666666666, Public,7251 x 148feet,Hard,,,,,,,https://www.getmetar.com/NZNV
+17,NZ,NZKI,Kaikoura Airport,S42.25.50',E173.36.32',-42.41666666666666,173.6, Public,,,,,,,,,https://www.getmetar.com/NZKI
+18,NZ,NZKT,Kaitaia Airport,S35.4.20',E173.17.12',-35.06666666666667,173.28333333333333, Public,4600 x 98feet,Hard,4190 x 98feet,Unknown,,,,,https://www.getmetar.com/NZKT
+19,NZ,NZKK,Kerikeri Bay of Islands Airport,S35.15.77',E173.54.72',-35.25,173.9, Public,3904 x 98feet,Hard,2247 x 66feet,Unknown,1608 x 121feet,Unknown,,,https://www.getmetar.com/NZKK
+20,NZ,NZMS,Masterton Airport,S40.58.40',E175.38.02',-40.96666666666667,175.63333333333333, Public,3953 x 75feet,Hard,3478 x 98feet,Unknown,3419 x 98feet,Unknown,1476 x 66feet,Unknown,https://www.getmetar.com/NZMS
+21,NZ,NZMF,Milford Sound Airport,S44.40.40',E167.55.40',-44.66666666666666,167.91666666666666, Public,,,,,,,,,https://www.getmetar.com/NZMF
+22,NZ,NZMC,Mount Cook Airport,S43.45.90',E170.8.00',-43.75,170.13333333333333, Public,5157 x 98feet,Hard,,,,,,,https://www.getmetar.com/NZMC
+23,NZ,NZNR,Napier Airport,S39.27.95',E176.52.20',-39.45,176.86666666666667, Public,4298 x 148feet,Hard,4000 x 98feet,Unknown,2513 x 197feet,Unknown,,,https://www.getmetar.com/NZNR
+24,NZ,NZNS,Nelson Airport,S41.17.90',E173.13.27',-41.28333333333333,173.21666666666667, Public,4419 x 150feet,Hard,,,,,,,https://www.getmetar.com/NZNS
+25,NZ,NZNP,New Plymouth Airport,S39.0.52',E174.10.75',-39.0,174.16666666666663, Public,4298 x 148feet,Hard,3937 x 131feet,Unknown,3281 x 98feet,Unknown,,,https://www.getmetar.com/NZNP
+26,NZ,NZNE,North Shore Airport,S36.39.40',E174.39.32',-36.65,174.65, Public,,,,,,,,,https://www.getmetar.com/NZNE
+27,NZ,NZOU,Oamaru Airport,S44.58.20',E171.4.90',-44.96666666666667,171.06666666666666, Public,4210 x 98feet,Hard,3107 x 164feet,Unknown,2775 x 164feet,Unknown,,,https://www.getmetar.com/NZOU
+28,NZ,NZOH,Ohakea Airport,S40.12.40',E175.23.22',-40.2,175.38333333333333,Military,8021 x 148feet,Hard,6853 x 148feet,Unknown,,,,,https://www.getmetar.com/NZOH
+29,NZ,NZOX,Okiwi Station Airport,S36.8.78',E175.25.12',-36.13333333333333,175.41666666666663, Public,,,,,,,,,https://www.getmetar.com/NZOX
+30,NZ,NZOA,Omarama Airport,S44.29.20',E169.59.17',-44.48333333333333,169.98333333333332,Private,,,,,,,,,https://www.getmetar.com/NZOA
+31,NZ,NZPM,Palmerston North Airport,S40.19.23',E175.37.02',-40.31666666666667,175.61666666666667, Public,6240 x 148feet,Hard,1995 x 197feet,Unknown,,,,,https://www.getmetar.com/NZPM
+32,NZ,NZPP,Paraparaumu Airport,S40.54.28',E174.59.35',-40.9,174.98333333333332, Public,3894 x 148feet,Hard,1762 x 295feet,Unknown,1345 x 230feet,Unknown,,,https://www.getmetar.com/NZPP
+33,NZ,NZPN,Picton Airport,S41.20.90',E173.57.32',-41.333333333333336,173.95, Public,,,,,,,,,https://www.getmetar.com/NZPN
+34,NZ,NZQN,Queenstown Airport,S45.1.27',E168.44.35',-45.01666666666666,168.73333333333332, Public,6198 x 98feet,Hard,2789 x 49feet,Unknown,,,,,https://www.getmetar.com/NZQN
+35,NZ,NZRO,Rotorua Airport,S38.6.55',E176.19.03',-38.1,176.31666666666663, Public,5807 x 98feet,Hard,2536 x 164feet,Unknown,,,,,https://www.getmetar.com/NZRO
+36,NZ,NZRR,Ruatoria Airport,S37.53.04',E178.17.40',-37.88333333333333,178.28333333333333,Private,,,,,,,,,https://www.getmetar.com/NZRR
+37,NZ,NZRC,Ryans Creek Airport,S46.53.98',E168.6.12',-46.88333333333333,168.1, Public,,,,,,,,,https://www.getmetar.com/NZRC
+38,NZ,NZSL,Springhill Airport,S36.19.50',E174.33.33',-36.31666666666667,174.55, Public,,,,,,,,,https://www.getmetar.com/NZSL
+39,NZ,NZTI,Taieri Airport,S45.51.60',E170.21.50',-45.85,170.35, Public,,,,,,,,,https://www.getmetar.com/NZTI
+40,NZ,NZTK,Takaka Airport,S40.48.80',E172.46.57',-40.8,172.76666666666668,Private,,,,,,,,,https://www.getmetar.com/NZTK
+41,NZ,NZAP,Taupo Airport,S38.44.38',E176.5.07',-38.73333333333333,176.08333333333337, Public,4547 x 98feet,Hard,2398 x 197feet,Unknown,,,,,https://www.getmetar.com/NZAP
+42,NZ,NZTG,Tauranga Airport,S37.40.32',E176.11.77',-37.66666666666666,176.18333333333337,Military,5987 x 148feet,Hard,2543 x 180feet,Unknown,2297 x 148feet,Unknown,2100 x 197feet,Unknown,https://www.getmetar.com/NZTG
+43,NZ,NZMO,Te Anau Regional Airport,S45.31.98',E167.39.00',-45.51666666666666,167.65, Public,3547 x 47feet,Hard,,,,,,,https://www.getmetar.com/NZMO
+44,NZ,NZTE,Te Kowhai Airport,S37.44.70',E175.9.52',-37.73333333333333,175.15,Private,,,,,,,,,https://www.getmetar.com/NZTE
+45,NZ,NZTT,Te Kuiti Airport,S38.18.20',E175.8.82',-38.3,175.13333333333333, Public,,,,,,,,,https://www.getmetar.com/NZTT
+46,NZ,NZTH,Thames Airport,S37.9.40',E175.33.02',-37.15,175.55,Private,,,,,,,,,https://www.getmetar.com/NZTH
+47,NZ,NZTU,Timaru Airport,S44.18.17',E171.13.52',-44.3,171.21666666666667, Public,4199 x 148feet,Hard,3898 x 197feet,Unknown,3652 x 295feet,Unknown,,,https://www.getmetar.com/NZTU
+48,NZ,NZTO,Tokoroa Airport,S38.14.20',E175.53.57',-38.23333333333333,175.88333333333333, Public,3674 x 59feet,Soft,,,,,,,https://www.getmetar.com/NZTO
+49,NZ,NZRU,Waiouru Airport,S39.26.78',E175.39.50',-39.43333333333333,175.65,Military,,,,,,,,,https://www.getmetar.com/NZRU
+50,NZ,NZWO,Wairoa Airport,S39.0.92',E177.24.25',-39.0,177.4, Public,3000 x 98feet,Hard,,,,,,,https://www.getmetar.com/NZWO
+51,NZ,NZWF,Wanaka Airport,S44.43.33',E169.14.73',-44.71666666666667,169.23333333333332, Public,3937 x 98feet,Hard,2953 x 131feet,Unknown,,,,,https://www.getmetar.com/NZWF
+52,NZ,NZWN,Wellington Airport,S41.19.63',E174.48.32',-41.31666666666667,174.8, Public,5951 x 148feet,Hard,,,,,,,https://www.getmetar.com/NZWN
+53,NZ,NZWS,Westport Airport,S41.44.28',E171.34.85',-41.73333333333333,171.56666666666666, Public,4200 x 98feet,Hard,,,,,,,https://www.getmetar.com/NZWS
+54,NZ,NZWK,Whakatane Airport,S37.55.21',E176.54.79',-37.91666666666666,176.9,Military,4199 x 102feet,Hard,2461 x 98feet,Unknown,,,,,https://www.getmetar.com/NZWK
+55,NZ,NZWU,Whanganui Airport,S39.57.73',E175.1.52',-39.95,175.01666666666668, Public,4501 x 98feet,Hard,2992 x 98feet,Unknown,2589 x 98feet,Unknown,1804 x 66feet,Unknown,https://www.getmetar.com/NZWU
+56,NZ,NZWR,Whangarei Airport,S35.46.10',E174.21.90',-35.766666666666666,174.35, Public,3599 x 98feet,Hard,1558 x 197feet,Unknown,,,,,https://www.getmetar.com/NZWR
+57,NZ,NZWP,Whenuapai Airport,S36.47.27',E174.37.82',-36.78333333333333,174.61666666666667,Military,6664 x 148feet,Hard,5188 x 148feet,Unknown,2789 x 148feet,Unknown,,,https://www.getmetar.com/NZWP
+58,NZ,NZWT,Whitianga Airport,S36.49.90',E175.40.72',-36.81666666666667,175.66666666666663, Public,,,,,,,,,https://www.getmetar.com/NZWT
+59,NZ,NZWB,Woodbourne Airport,S41.31.10',E173.52.22',-41.516666666666666,173.86666666666667, Public,4675 x 197feet,Hard,4675 x 148feet,Unknown,3878 x 295feet,Unknown,,,https://www.getmetar.com/NZWB

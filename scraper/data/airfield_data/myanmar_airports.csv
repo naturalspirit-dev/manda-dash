@@ -1,43 +1,43 @@
 ,country,icaoCodes,airFieldName,latitude,longitude,ddLatitude,ddLongitude,airportUse,runwayOneDimensions,runwayOneSurface,runwayTwoDimensions,runwayTwoSurface,runwayThreeDimensions,runwayThreeSurface,runwayFourDimensions,runwayFourSurface,weatherLink
-0,MM,VYPN,Pathein Airport,N16.48.73',E94.46.43',16.8,94.76666666666667, Public,9301 x 200feet,Hard,,,,,,,https://www.getmetar.com/VYPN
-1,MM,VYTO,Taungoo Airport,N19.1.97',E96.23.82',19.016666666666666,96.38333333333334,Military,11958 x 200feet,Hard,,,,,,,https://www.getmetar.com/VYTO
-2,MM,VYPY,Pyay Airport,N18.49.47',E95.15.96',18.816666666666666,95.25, Public,4502 x 131feet,Hard,,,,,,,https://www.getmetar.com/VYPY
-3,MM,VYFS,Surbung Airport,N22.56.35',E93.36.92',22.933333333333334,93.6, Public,,,,,,,,,https://www.getmetar.com/VYFS
-4,MM,VYPT,Putao Airport,N27.19.80',E97.25.57',27.316666666666666,97.41666666666667, Public,6998 x 98feet,Hard,,,,,,,https://www.getmetar.com/VYPT
-5,MM,VYNP,Nampong Airport,N25.21.26',E97.17.71',25.35,97.28333333333333, Public,11025 x 190feet,Hard,,,,,,,https://www.getmetar.com/VYNP
-6,MM,VYMK,Myitkyina Airport,N25.22.97',E97.21.16',25.366666666666667,97.35, Public,6998 x 151feet,Hard,,,,,,,https://www.getmetar.com/VYMK
-7,MM,VYBM,Banmaw Airport,N24.16.25',E97.14.84',24.266666666666666,97.23333333333333, Public,7500 x 98feet,Hard,,,,,,,https://www.getmetar.com/VYBM
-8,MM,VYLK,Loikaw Airport,N19.41.51',E97.12.89',19.683333333333334,97.2, Public,5200 x 75feet,Hard,,,,,,,https://www.getmetar.com/VYLK
-9,MM,VYPA,Hpa An Airport,N16.53.64',E97.40.50',16.883333333333333,97.66666666666667, Public,4498 x 98feet,Hard,,,,,,,https://www.getmetar.com/VYPA
-10,MM,VYPU,Pakhokku Airport,N21.24.32',E95.6.68',21.4,95.1, Public,8501 x 98feet,Hard,,,,,,,https://www.getmetar.com/VYPU
-11,MM,VYMW,Magway Airport,N20.9.21',E94.58.12',20.15,94.96666666666667, Public,8501 x 98feet,Hard,,,,,,,https://www.getmetar.com/VYMW
-12,MM,VYLY,Lanywa Airport,N20.56.42',E94.49.36',20.933333333333334,94.81666666666666, Public,3821 x 61feet,Hard,,,,,,,https://www.getmetar.com/VYLY
-13,MM,VYKU,Kyauktu Airport,N21.24.00',E94.8.00',21.4,94.13333333333334,Private,,,,,,,,,https://www.getmetar.com/VYKU
-14,MM,VYST,Shante Airport,N20.56.50',E95.54.87',20.933333333333334,95.9, Public,8501 x 150feet,Hard,,,,,,,https://www.getmetar.com/VYST
-15,MM,VYNT,Naypyitaw Airport,N19.37.41',E96.12.06',19.616666666666667,96.2, Public,12403 x 200feet,Hard,,,,,,,https://www.getmetar.com/VYNT
-16,MM,VYMD,Mandalay Airport,N21.42.06',E95.58.65',21.7,95.96666666666667, Public,14397 x 196feet,Hard,,,,,,,https://www.getmetar.com/VYMD
-17,MM,VYCZ,Chanmyathazi Airport,N21.56.41',E96.5.37',21.933333333333334,96.08333333333333, Public,6500 x 100feet,Hard,,,,,,,https://www.getmetar.com/VYCZ
-18,MM,VYBG,Nyaung U Airport,N21.10.74',E94.55.82',21.166666666666668,94.91666666666667, Public,8500 x 98feet,Hard,,,,,,,https://www.getmetar.com/VYBG
-19,MM,VYAS,Anisakan Airport,N21.57.36',E96.24.38',21.95,96.4, Public,10000 x 200feet,Hard,,,,,,,https://www.getmetar.com/VYAS
-20,MM,VYMM,Mawlamyine Airport,N16.26.69',E97.39.65',16.433333333333334,97.65, Public,5400 x 150feet,Hard,,,,,,,https://www.getmetar.com/VYMM
-21,MM,VYTD,Thandwe Airport,N18.27.64',E94.17.98',18.45,94.28333333333333, Public,7999 x 98feet,Hard,,,,,,,https://www.getmetar.com/VYTD
-22,MM,VYSW,Sittwe Airport,N20.7.97',E92.52.36',20.116666666666667,92.86666666666666, Public,6001 x 151feet,Hard,,,,,,,https://www.getmetar.com/VYSW
-23,MM,VYMN,Manaung Airport,N18.50.66',E93.41.06',18.833333333333332,93.68333333333334, Public,,,,,,,,,https://www.getmetar.com/VYMN
-24,MM,VYKP,Kyaukpyu Airport,N19.25.59',E93.32.08',19.416666666666668,93.53333333333333, Public,4619 x 102feet,Hard,,,,,,,https://www.getmetar.com/VYKP
-25,MM,VYAN,Ann Airport,N19.46.16',E94.1.57',19.766666666666666,94.01666666666667, Public,8020 x 98feet,Hard,,,,,,,https://www.getmetar.com/VYAN
-26,MM,VYMY,Monywar Airport,N22.13.46',E95.5.61',22.216666666666665,95.08333333333333, Public,8500 x 98feet,Hard,,,,,,,https://www.getmetar.com/VYMY
-27,MM,VYKL,Kalay Airport,N23.11.33',E94.3.07',23.183333333333334,94.05, Public,4943 x 102feet,Hard,,,,,,,https://www.getmetar.com/VYKL
-28,MM,VYKI,Kanti Airport,N25.59.32',E95.40.48',25.983333333333334,95.66666666666667, Public,5400 x 98feet,Hard,,,,,,,https://www.getmetar.com/VYKI
-29,MM,VYHL,Hommalinn Airport,N24.53.93',E94.54.85',24.883333333333333,94.9, Public,11998 x 200feet,Hard,,,,,,,https://www.getmetar.com/VYHL
-30,MM,VYTL,Tachilek Airport,N20.29.09',E99.56.09',20.483333333333334,99.93333333333334, Public,7002 x 98feet,Hard,,,,,,,https://www.getmetar.com/VYTL
-31,MM,VYNS,Namsang Airport,N20.53.41',E97.44.18',20.883333333333333,97.73333333333333, Public,12005 x 200feet,Hard,,,,,,,https://www.getmetar.com/VYNS
-32,MM,VYMS,Mong Hsat Airport,N20.31.09',E99.15.50',20.516666666666666,99.25, Public,5000 x 98feet,Hard,,,,,,,https://www.getmetar.com/VYMS
-33,MM,VYMO,Momeik Airport,N23.5.52',E96.39.18',23.083333333333332,96.65, Public,4498 x 102feet,Hard,,,,,,,https://www.getmetar.com/VYMO
-34,MM,VYLS,Lashio Airport,N22.58.66',E97.45.14',22.966666666666665,97.75, Public,5249 x 98feet,Hard,,,,,,,https://www.getmetar.com/VYLS
-35,MM,VYKG,Kengtung Airport,N21.18.10',E99.38.15',21.3,99.63333333333334, Public,7999 x 75feet,Hard,,,,,,,https://www.getmetar.com/VYKG
-36,MM,VYHH,Heho Airport,N20.44.82',E96.47.52',20.733333333333334,96.78333333333333, Public,8500 x 98feet,Hard,,,,,,,https://www.getmetar.com/VYHH
-37,MM,VYME,Myeik Airport,N12.26.41',E98.37.27',12.433333333333334,98.61666666666666, Public,8999 x 200feet,Hard,,,,,,,https://www.getmetar.com/VYME
-38,MM,VYKT,Kawthoung Airport,N10.2.98',E98.32.29',10.033333333333333,98.53333333333333, Public,6177 x 150feet,Hard,,,,,,,https://www.getmetar.com/VYKT
-39,MM,VYDW,Dawei Airport,N14.5.84',E98.12.40',14.083333333333334,98.2, Public,12403 x 98feet,Hard,,,,,,,https://www.getmetar.com/VYDW
-40,MM,VYBP,Bokpyinn Airport,N11.8.96',E98.44.17',11.133333333333333,98.73333333333333, Public,10400 x 98feet,Hard,,,,,,,https://www.getmetar.com/VYBP
+0,MM,VYAS,Anisakan Airport,N21.57.36',E96.24.38',21.95,96.4, Public,10000 x 200feet,Hard,,,,,,,https://www.getmetar.com/VYAS
+1,MM,VYAN,Ann Airport,N19.46.16',E94.1.57',19.766666666666666,94.01666666666668, Public,8020 x 98feet,Hard,,,,,,,https://www.getmetar.com/VYAN
+2,MM,VYBM,Banmaw Airport,N24.16.25',E97.14.84',24.266666666666666,97.23333333333332, Public,7500 x 98feet,Hard,,,,,,,https://www.getmetar.com/VYBM
+3,MM,VYBP,Bokpyinn Airport,N11.8.96',E98.44.17',11.133333333333333,98.73333333333332, Public,10400 x 98feet,Hard,,,,,,,https://www.getmetar.com/VYBP
+4,MM,VYCZ,Chanmyathazi Airport,N21.56.41',E96.5.37',21.93333333333333,96.08333333333331, Public,6500 x 100feet,Hard,,,,,,,https://www.getmetar.com/VYCZ
+5,MM,VYDW,Dawei Airport,N14.5.84',E98.12.40',14.083333333333336,98.2, Public,12403 x 98feet,Hard,,,,,,,https://www.getmetar.com/VYDW
+6,MM,VYHH,Heho Airport,N20.44.82',E96.47.52',20.733333333333334,96.78333333333332, Public,8500 x 98feet,Hard,,,,,,,https://www.getmetar.com/VYHH
+7,MM,VYHL,Hommalinn Airport,N24.53.93',E94.54.85',24.88333333333333,94.9, Public,11998 x 200feet,Hard,,,,,,,https://www.getmetar.com/VYHL
+8,MM,VYPA,Hpa An Airport,N16.53.64',E97.40.50',16.883333333333333,97.66666666666669, Public,4498 x 98feet,Hard,,,,,,,https://www.getmetar.com/VYPA
+9,MM,VYKL,Kalay Airport,N23.11.33',E94.3.07',23.18333333333333,94.05, Public,4943 x 102feet,Hard,,,,,,,https://www.getmetar.com/VYKL
+10,MM,VYKI,Kanti Airport,N25.59.32',E95.40.48',25.98333333333333,95.66666666666669, Public,5400 x 98feet,Hard,,,,,,,https://www.getmetar.com/VYKI
+11,MM,VYKT,Kawthoung Airport,N10.2.98',E98.32.29',10.033333333333333,98.53333333333332, Public,6177 x 150feet,Hard,,,,,,,https://www.getmetar.com/VYKT
+12,MM,VYKG,Kengtung Airport,N21.18.10',E99.38.15',21.3,99.63333333333334, Public,7999 x 75feet,Hard,,,,,,,https://www.getmetar.com/VYKG
+13,MM,VYKP,Kyaukpyu Airport,N19.25.59',E93.32.08',19.416666666666668,93.53333333333332, Public,4619 x 102feet,Hard,,,,,,,https://www.getmetar.com/VYKP
+14,MM,VYKU,Kyauktu Airport,N21.24.00',E94.8.00',21.4,94.13333333333334,Private,,,,,,,,,https://www.getmetar.com/VYKU
+15,MM,VYLY,Lanywa Airport,N20.56.42',E94.49.36',20.933333333333334,94.81666666666666, Public,3821 x 61feet,Hard,,,,,,,https://www.getmetar.com/VYLY
+16,MM,VYLS,Lashio Airport,N22.58.66',E97.45.14',22.966666666666665,97.75, Public,5249 x 98feet,Hard,,,,,,,https://www.getmetar.com/VYLS
+17,MM,VYLK,Loikaw Airport,N19.41.51',E97.12.89',19.683333333333334,97.2, Public,5200 x 75feet,Hard,,,,,,,https://www.getmetar.com/VYLK
+18,MM,VYMW,Magway Airport,N20.9.21',E94.58.12',20.15,94.96666666666668, Public,8501 x 98feet,Hard,,,,,,,https://www.getmetar.com/VYMW
+19,MM,VYMN,Manaung Airport,N18.50.66',E93.41.06',18.83333333333333,93.68333333333334, Public,,,,,,,,,https://www.getmetar.com/VYMN
+20,MM,VYMD,Mandalay Airport,N21.42.06',E95.58.65',21.7,95.96666666666668, Public,14397 x 196feet,Hard,,,,,,,https://www.getmetar.com/VYMD
+21,MM,VYMM,Mawlamyine Airport,N16.26.69',E97.39.65',16.433333333333334,97.65, Public,5400 x 150feet,Hard,,,,,,,https://www.getmetar.com/VYMM
+22,MM,VYMO,Momeik Airport,N23.5.52',E96.39.18',23.08333333333333,96.65, Public,4498 x 102feet,Hard,,,,,,,https://www.getmetar.com/VYMO
+23,MM,VYMS,Mong Hsat Airport,N20.31.09',E99.15.50',20.516666666666666,99.25, Public,5000 x 98feet,Hard,,,,,,,https://www.getmetar.com/VYMS
+24,MM,VYMY,Monywar Airport,N22.13.46',E95.5.61',22.216666666666665,95.08333333333331, Public,8500 x 98feet,Hard,,,,,,,https://www.getmetar.com/VYMY
+25,MM,VYME,Myeik Airport,N12.26.41',E98.37.27',12.433333333333335,98.61666666666666, Public,8999 x 200feet,Hard,,,,,,,https://www.getmetar.com/VYME
+26,MM,VYMK,Myitkyina Airport,N25.22.97',E97.21.16',25.36666666666667,97.35, Public,6998 x 151feet,Hard,,,,,,,https://www.getmetar.com/VYMK
+27,MM,VYNP,Nampong Airport,N25.21.26',E97.17.71',25.35,97.28333333333332, Public,11025 x 190feet,Hard,,,,,,,https://www.getmetar.com/VYNP
+28,MM,VYNS,Namsang Airport,N20.53.41',E97.44.18',20.883333333333333,97.73333333333332, Public,12005 x 200feet,Hard,,,,,,,https://www.getmetar.com/VYNS
+29,MM,VYNT,Naypyitaw Airport,N19.37.41',E96.12.06',19.616666666666667,96.2, Public,12403 x 200feet,Hard,,,,,,,https://www.getmetar.com/VYNT
+30,MM,VYBG,Nyaung U Airport,N21.10.74',E94.55.82',21.166666666666668,94.91666666666669, Public,8500 x 98feet,Hard,,,,,,,https://www.getmetar.com/VYBG
+31,MM,VYPU,Pakhokku Airport,N21.24.32',E95.6.68',21.4,95.1, Public,8501 x 98feet,Hard,,,,,,,https://www.getmetar.com/VYPU
+32,MM,VYPN,Pathein Airport,N16.48.73',E94.46.43',16.8,94.76666666666668, Public,9301 x 200feet,Hard,,,,,,,https://www.getmetar.com/VYPN
+33,MM,VYPT,Putao Airport,N27.19.80',E97.25.57',27.316666666666666,97.41666666666669, Public,6998 x 98feet,Hard,,,,,,,https://www.getmetar.com/VYPT
+34,MM,VYPY,Pyay Airport,N18.49.47',E95.15.96',18.816666666666666,95.25, Public,4502 x 131feet,Hard,,,,,,,https://www.getmetar.com/VYPY
+35,MM,VYST,Shante Airport,N20.56.50',E95.54.87',20.933333333333334,95.9, Public,8501 x 150feet,Hard,,,,,,,https://www.getmetar.com/VYST
+36,MM,VYSW,Sittwe Airport,N20.7.97',E92.52.36',20.116666666666667,92.86666666666666, Public,6001 x 151feet,Hard,,,,,,,https://www.getmetar.com/VYSW
+37,MM,VYFS,Surbung Airport,N22.56.35',E93.36.92',22.93333333333333,93.6, Public,,,,,,,,,https://www.getmetar.com/VYFS
+38,MM,VYTL,Tachilek Airport,N20.29.09',E99.56.09',20.483333333333334,99.93333333333334, Public,7002 x 98feet,Hard,,,,,,,https://www.getmetar.com/VYTL
+39,MM,VYTO,Taungoo Airport,N19.1.97',E96.23.82',19.016666666666666,96.38333333333334,Military,11958 x 200feet,Hard,,,,,,,https://www.getmetar.com/VYTO
+40,MM,VYTD,Thandwe Airport,N18.27.64',E94.17.98',18.45,94.28333333333332, Public,7999 x 98feet,Hard,,,,,,,https://www.getmetar.com/VYTD
 41,MM,VYYY,Yangon International Airport,N16.54.44',E96.7.99',16.9,96.11666666666666, Public,11200 x 200feet,Hard,,,,,,,https://www.getmetar.com/VYYY
